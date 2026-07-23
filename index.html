@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title>Catálogo Cards Copa 2026</title>
+
+    <link rel="stylesheet" href="style.css" />
+  </head>
+
+  <body>
+    <header class="topo">
+      <div class="topo-conteudo">
+        <div class="marca">
+          <span class="marca-icone" aria-hidden="true">🏆</span>
+
+          <div>
+            <p class="marca-subtitulo">Panini Adrenalyn XL</p>
+            <h1>Catálogo Copa 2026</h1>
+          </div>
+        </div>
+
+        <button
+          id="abrir-pedido"
+          class="botao-pedido"
+          type="button"
+          aria-label="Abrir meu pedido"
+        >
+          Meu pedido
+          <span class="contador-pedido">0</span>
+        </button>
+      </div>
+    </header>
+
+    <main>
+      <section class="hero">
+        <div class="hero-conteudo">
+          <p class="destaque">Cards originais Panini</p>
+
+          <h2>Encontre os cards que faltam na sua coleção</h2>
+
+          <p class="hero-texto">
+            Pesquise por jogador, seleção, número ou categoria. Consulte a
+            disponibilidade e monte seu pedido.
+          </p>
+
+          <div class="hero-informacoes">
+            <span>Pagamento via PIX</span>
+            <span>Frete calculado separadamente</span>
+          </div>
+        </div>
+      </section>
+
+      <section id="catalogo" class="catalogo">
+        <div class="catalogo-cabecalho">
+          <div>
+            <p class="secao-subtitulo">FIFA World Cup 2026</p>
+            <h2>Cards disponíveis</h2>
+          </div>
+
+          <p id="resultado-contagem">0 cards encontrados</p>
+        </div>
+
+        <div class="barra-pesquisa">
+          <input
+            id="campo-pesquisa"
+            type="search"
+            placeholder="Pesquisar jogador, seleção ou número..."
+            aria-label="Pesquisar cards"
+          />
+        </div>
+
+        <div class="filtros" aria-label="Filtros do catálogo">
+          <button class="filtro ativo" type="button">Todos</button>
+          <button class="filtro" type="button">Bases</button>
+          <button class="filtro" type="button">Especiais</button>
+          <button class="filtro" type="button">Brasil</button>
+          <button class="filtro" type="button">Portugal</button>
+          <button class="filtro" type="button">Argentina</button>
+        </div>
+
+        <div id="lista-cards" class="grade-cards">
+          <div class="estado-vazio">
+            <span aria-hidden="true">⚽</span>
+            <h3>O catálogo está sendo preparado</h3>
+            <p>Os cards serão carregados automaticamente.</p>
+          </div>
+        </div>
+
+        <nav
+          id="paginacao"
+          class="paginacao"
+          aria-label="Paginação do catálogo"
+        ></nav>
+      </section>
+    </main>
+
+    <footer>
+      <p>Catálogo independente de cards Panini Adrenalyn XL.</p>
+    </footer>
+
+    <aside
+      id="painel-pedido"
+      class="painel-pedido"
+      aria-label="Meu pedido"
+      aria-hidden="true"
+    >
+      <div class="painel-cabecalho">
+        <div>
+          <p class="secao-subtitulo">Seu pedido</p>
+          <h2>Cards selecionados</h2>
+        </div>
+
+        <button
+          id="fechar-pedido"
+          class="fechar-pedido"
+          type="button"
+          aria-label="Fechar pedido"
+        >
+          ×
+        </button>
+      </div>
+
+      <div id="itens-pedido" class="itens-pedido">
+        <div class="pedido-vazio">
+          <p>Nenhum card adicionado.</p>
+        </div>
+      </div>
+
+      <div class="pedido-resumo">
+        <div>
+          <span>Total</span>
+          <strong id="total-pedido">R$ 0,00</strong>
+        </div>
+
+        <button
+          id="finalizar-pedido"
+          class="finalizar-pedido"
+          type="button"
+        >
+          Finalizar pedido
+        </button>
+      </div>
+    </aside>
+
+    <div id="fundo-pedido" class="fundo-pedido"></div>
+
+    <script src="app.js"></script>
+  </body>
+</html>

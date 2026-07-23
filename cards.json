@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "colecao": "worldcup2026",
+    "numero": "GB-02",
+    "nome": "Vinícius Júnior",
+    "pais": "Brasil",
+    "categoria": "Golden Ballers",
+    "raridade": "Especial",
+    "tipo": "Jogador",
+    "preco": 35.00,
+    "estoque": 1,
+    "imagem": "assets/cards/gb-002-vinicius-junior.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 2,
+    "colecao": "worldcup2026",
+    "numero": "GB-04",
+    "nome": "Harry Kane",
+    "pais": "Inglaterra",
+    "categoria": "Golden Ballers",
+    "raridade": "Especial",
+    "tipo": "Jogador",
+    "preco": 45.00,
+    "estoque": 1,
+    "imagem": "assets/cards/gb-004-harry-kane.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 3,
+    "colecao": "worldcup2026",
+    "numero": "GB-08",
+    "nome": "Cristiano Ronaldo",
+    "pais": "Portugal",
+    "categoria": "Golden Ballers",
+    "raridade": "Especial",
+    "tipo": "Jogador",
+    "preco": 50.00,
+    "estoque": 1,
+    "imagem": "assets/cards/gb-008-cristiano-ronaldo.jpg",
+    "status": "Disponível"
+  }
+]

@@ -1,4 +1,4 @@
-const listaCards = document.querySelector("#lista-cards");
+listaCards = document.querySelector("#lista-cards");
 const campoPesquisa = document.querySelector("#campo-pesquisa");
 const resultadoContagem = document.querySelector("#resultado-contagem");
 const botoesFiltro = document.querySelectorAll(".filtro");
@@ -22,7 +22,7 @@ const finalizarPedido = document.querySelector("#finalizar-pedido");
 
   Sem espaços, parênteses, traços ou sinal de mais.
 */
-const numeroWhatsApp = "5511999999999";
+const numeroWhatsApp = "5511915275121";
 
 const cardsPorPagina = 12;
 
@@ -92,11 +92,15 @@ function criarCard(card) {
 
           <h3>${card.nome}</h3>
 
-          <p class="card-detalhes">
-            ${card.categoria} • ${card.pais}
-          </p>
+<p class="card-categoria">
+  ${card.categoria}
+</p>
 
-          <p class="card-status">
+<p class="card-pais">
+  ${card.pais}
+</p>
+
+<p class="card-status">
             ${disponivel ? "Disponível" : card.status}
           </p>
         </div>

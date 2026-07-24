@@ -867,3 +867,16 @@ footer {
     justify-self: start;
   }
 }
+
+.card-categoria,
+.card-pais {
+  display: block;
+  margin: 0;
+  color: #b8b8b8;
+  font-size: 1rem;
+  line-height: 1.35;
+}
+
+.card-pais {
+  margin-top: 4px;
+}

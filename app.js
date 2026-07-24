@@ -522,8 +522,6 @@ function criarMensagemWhatsApp() {
     "",
     "*Nome:*",
     "",
-    "*Cidade e Estado:*",
-    "",
     "*CEP:*"
   ].join("\n");
 }

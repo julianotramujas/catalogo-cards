@@ -661,7 +661,7 @@ button:disabled {
   color: #ff5f5f;
 }
 
-.pedido-resumo {
+.pedido-resumo .pedido-resumo {
   flex-shrink: 0;
   padding: 22px;
   border-top: 1px solid var(--cor-borda);

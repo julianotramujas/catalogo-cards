@@ -633,14 +633,14 @@
     "id": 46,
     "colecao": "worldcup2026",
     "numero": "HR-159",
-    "nome": "Mohamed El Abdelmonem",
+    "nome": "Mohamed Abdelmonem",
     "pais": "Egito",
     "categoria": "Heros",
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 1.00,
     "estoque": 1,
-    "imagem": "assets/cards/hr-159-mohamed-el-abdelmonem.jpg",
+    "imagem": "assets/cards/hr-159-mohamed-abdelmonem.jpg",
     "status": "Disponível"
   },
   {
@@ -703,14 +703,14 @@
     "id": 51,
     "colecao": "worldcup2026",
     "numero": "HR-169",
-    "nome": "Jordam Pickford",
+    "nome": "Jordan Pickford",
     "pais": "Inglaterra",
     "categoria": "Heros",
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 1.00,
     "estoque": 2,
-    "imagem": "assets/cards/hr-169-jordam-pickford.jpg",
+    "imagem": "assets/cards/hr-169-jordan-pickford.jpg",
     "status": "Disponível"
   },
   {

@@ -297,14 +297,14 @@
     "id": 22,
     "colecao": "worldcup2026",
     "numero": "HR-085",
-    "nome": "Dayne St. Clair",
+    "nome": "Dayne St Clair",
     "pais": "Canadá",
     "categoria": "Heros",
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 1.00,
     "estoque": 2,
-    "imagem": "assets/cards/hr-085-dayne-st.clair.jpg",
+    "imagem": "assets/cards/hr-085-dayne-st-clair.jpg",
     "status": "Disponível"
   },
   {
@@ -339,14 +339,14 @@
     "id": 25,
     "colecao": "worldcup2026",
     "numero": "HR-088",
-    "nome": "Stephen Eustáquio",
+    "nome": "Stephen Eustaquio",
     "pais": "Canadá",
     "categoria": "Heros",
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 1.00,
     "estoque": 2,
-    "imagem": "assets/cards/hr-088-stephen-eustáquio.jpg",
+    "imagem": "assets/cards/hr-088-stephen-eustaquio.jpg",
     "status": "Disponível"
   },
   {

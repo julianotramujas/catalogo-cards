@@ -2646,7 +2646,7 @@
     "status": "Disponível"
   },
   {
-    "id": 189,
+    "id": 190,
     "colecao": "worldcup2026",
     "numero": "MT-591",
     "nome": "Andrej Kramaric",
@@ -2660,7 +2660,7 @@
     "status": "Disponível"
   },
   {
-    "id": 190,
+    "id": 191,
     "colecao": "worldcup2026",
     "numero": "MT-592",
     "nome": "Enner Valencia",
@@ -2674,7 +2674,7 @@
     "status": "Disponível"
   },
   {
-    "id": 191,
+    "id": 192,
     "colecao": "worldcup2026",
     "numero": "MT-595",
     "nome": "Randal Kolo Muani",
@@ -2685,6 +2685,48 @@
     "preco": 1.50,
     "estoque": 2,
     "imagem": "assets/cards/mt-595-randal-kolo-muani.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 193,
+    "colecao": "roadtoworldcup2018",
+    "numero": "TM-Por14",
+    "nome": "Cristiano Ronaldo",
+    "pais": "Portugal",
+    "categoria": "Outras Coleções",
+    "raridade": "Raro",
+    "tipo": "Jogador",
+    "preco": 89.90,
+    "estoque": 1,
+    "imagem": "assets/cards/tm-por17-cristiano-ronaldo.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 194,
+    "colecao": "roadtoworldcup2018",
+    "numero": "TP-Arg14",
+    "nome": "Lionel Messi",
+    "pais": "Argentina",
+    "categoria": "Outras Coleções",
+    "raridade": "Raro",
+    "tipo": "Jogador",
+    "preco": 129.90,
+    "estoque": 1,
+    "imagem": "assets/cards/tp-arg14-lionel-messi.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 195,
+    "colecao": "roadtoworldcup2018",
+    "numero": "TP-Pol14",
+    "nome": "Robert Lewandowski",
+    "pais": "Polônia",
+    "categoria": "Outras Coleções",
+    "raridade": "Raro",
+    "tipo": "Jogador",
+    "preco": 99.90,
+    "estoque": 1,
+    "imagem": "assets/cards/tp-pol14-robert-lewandowski.jpg",
     "status": "Disponível"
   }
 ]

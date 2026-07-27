@@ -182,20 +182,6 @@
     "status": "Disponível"
   },
   {
-    "id": 14,
-    "colecao": "worldcup2026",
-    "numero": "HR-042",
-    "nome": "Riley McGree",
-    "pais": "Austrália",
-    "categoria": "Heros",
-    "raridade": "Normal",
-    "tipo": "Jogador",
-    "preco": 1.00,
-    "estoque": 1,
-    "imagem": "assets/cards/hr-042-riley-mcgree.jpg",
-    "status": "Disponível"
-  },
-  {
     "id": 15,
     "colecao": "worldcup2026",
     "numero": "HR-052",
@@ -1089,20 +1075,6 @@
     "preco": 1.00,
     "estoque": 3,
     "imagem": "assets/cards/hr-247-nicolas-pepe.jpg",
-    "status": "Disponível"
-  },
-  {
-    "id": 79,
-    "colecao": "worldcup2026",
-    "numero": "HR-248",
-    "nome": "Simon Adingra",
-    "pais": "Costa do Marfim",
-    "categoria": "Heros",
-    "raridade": "Normal",
-    "tipo": "Jogador",
-    "preco": 1.00,
-    "estoque": 1,
-    "imagem": "assets/cards/hr-248-simon-adingra.jpg",
     "status": "Disponível"
   },
   {
@@ -2559,20 +2531,6 @@
     "preco": 1.50,
     "estoque": 1,
     "imagem": "assets/cards/mt-154-omar-marmoush.jpg",
-    "status": "Disponível"
-  },
-  {
-    "id": 184,
-    "colecao": "worldcup2026",
-    "numero": "MT-204",
-    "nome": "Mohammed Kudus",
-    "pais": "Gana",
-    "categoria": "Metalizados",
-    "raridade": "Normal",
-    "tipo": "Jogador",
-    "preco": 1.50,
-    "estoque": 1,
-    "imagem": "assets/cards/mt-204-mohammed-kudus.jpg",
     "status": "Disponível"
   },
   {

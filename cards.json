@@ -2926,7 +2926,301 @@
     "status": "Disponível"
   },
   {
-    "id": 212,
+    "id": 249,
+    "colecao": "Copa2018",
+    "numero": "BS-302",
+    "nome": "Idrissa Gueye",
+    "pais": "Senegal",
+    "categoria": "Copa 2018",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 5.00,
+    "estoque": 1,
+    "imagem": "assets/cards/bs-302-idrissa-gueye.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 250,
+    "colecao": "Copa2018",
+    "numero": "BS-303",
+    "nome": "Cheikhou Kouyate",
+    "pais": "Senegal",
+    "categoria": "Copa 2018",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 5.00,
+    "estoque": 1,
+    "imagem": "assets/cards/bs-303-cheikhou-kouyate.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 251,
+    "colecao": "Copa2018",
+    "numero": "BS-304",
+    "nome": "Cheikh Ndoye",
+    "pais": "Senegal",
+    "categoria": "Copa 2018",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 5.00,
+    "estoque": 2,
+    "imagem": "assets/cards/bs-304-cheikh-ndoye.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 252,
+    "colecao": "Copa2018",
+    "numero": "BS-308",
+    "nome": "Branislav Ivanovic",
+    "pais": "Sérvia",
+    "categoria": "Copa 2018",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 5.00,
+    "estoque": 1,
+    "imagem": "assets/cards/bs-308-branislav-ivanovic.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 253,
+    "colecao": "Copa2018",
+    "numero": "BS-312",
+    "nome": "Luka Milivojevic",
+    "pais": "Sérvia",
+    "categoria": "Copa 2018",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 5.00,
+    "estoque": 1,
+    "imagem": "assets/cards/bs-312-luka-milivojevic.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 254,
+    "colecao": "Copa2018",
+    "numero": "BS-314",
+    "nome": "Filip Kostic",
+    "pais": "Sérvia",
+    "categoria": "Copa 2018",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 5.00,
+    "estoque": 1,
+    "imagem": "assets/cards/bs-314-filip-kostic.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 255,
+    "colecao": "Copa2018",
+    "numero": "BS-318",
+    "nome": "Fabian Schar",
+    "pais": "Suiça",
+    "categoria": "Copa 2018",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 5.00,
+    "estoque": 1,
+    "imagem": "assets/cards/bs-318-fabin-schar.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 256,
+    "colecao": "Copa2018",
+    "numero": "BS-320",
+    "nome": "Granit Xhaka",
+    "pais": "Suiça",
+    "categoria": "Copa 2018",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 5.00,
+    "estoque": 1,
+    "imagem": "assets/cards/bs-320-granit-xhaka.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 257,
+    "colecao": "Copa2018",
+    "numero": "BS-322",
+    "nome": "Blerim Dzemaili",
+    "pais": "Suiça",
+    "categoria": "Copa 2018",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 5.00,
+    "estoque": 1,
+    "imagem": "assets/cards/bs-322-blerim-dzemaili.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 258,
+    "colecao": "Copa2018",
+    "numero": "BS-328",
+    "nome": "Mikael Lustig",
+    "pais": "Suécia",
+    "categoria": "Copa 2018",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 5.00,
+    "estoque": 1,
+    "imagem": "assets/cards/bs-328-mikael-lustig.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 259,
+    "colecao": "Copa2018",
+    "numero": "BS-330",
+    "nome": "Albin Ekdal",
+    "pais": "Suécia",
+    "categoria": "Copa 2018",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 5.00,
+    "estoque": 1,
+    "imagem": "assets/cards/bs-330-albin-ekdal.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 260,
+    "colecao": "Copa2018",
+    "numero": "BS-334",
+    "nome": "Aymen Mathlouthi",
+    "pais": "Tunísia",
+    "categoria": "Copa 2018",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 5.00,
+    "estoque": 1,
+    "imagem": "assets/cards/bs-334-aymen-mathlouthi.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 261,
+    "colecao": "Copa2018",
+    "numero": "BS-344",
+    "nome": "Diego Godin",
+    "pais": "Uruguai",
+    "categoria": "Copa 2018",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 5.00,
+    "estoque": 1,
+    "imagem": "assets/cards/bs-344-diego-godin.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 262,
+    "colecao": "Copa2018",
+    "numero": "BS-348",
+    "nome": "Martin Caceres",
+    "pais": "Uruguai",
+    "categoria": "Copa 2018",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 5.00,
+    "estoque": 2,
+    "imagem": "assets/cards/bs-348-martin-caceres.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 263,
+    "colecao": "Copa2018",
+    "numero": "BS-352",
+    "nome": "Matias Vecino",
+    "pais": "Uruguai",
+    "categoria": "Copa 2018",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 5.00,
+    "estoque": 1,
+    "imagem": "assets/cards/bs-352-matias-vecino.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 264,
+    "colecao": "Copa2018",
+    "numero": "BS-354",
+    "nome": "Cristian Rodriguez",
+    "pais": "Uruguai",
+    "categoria": "Copa 2018",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 5.00,
+    "estoque": 2,
+    "imagem": "assets/cards/bs-354-cristian-rodriguez.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 265,
+    "colecao": "Copa2018",
+    "numero": "BS-355",
+    "nome": "Álvaro Gonzalez",
+    "pais": "Uruguai",
+    "categoria": "Copa 2018",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 5.00,
+    "estoque": 2,
+    "imagem": "assets/cards/bs-355-alvaro-gonzalez.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 266,
+    "colecao": "Copa2018",
+    "numero": "BS-356",
+    "nome": "Federico Valverde",
+    "pais": "Uruguai",
+    "categoria": "Copa 2018",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 5.00,
+    "estoque": 3,
+    "imagem": "assets/cards/bs-356-federico-valverde.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 267,
+    "colecao": "Copa2018",
+    "numero": "BS-357",
+    "nome": "Nahitan Nandez",
+    "pais": "Uruguai",
+    "categoria": "Copa 2018",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 5.00,
+    "estoque": 1,
+    "imagem": "assets/cards/bs-357-nahitan-nandez.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 268,
+    "colecao": "Copa2018",
+    "numero": "BS-358",
+    "nome": "Edinson Cavani",
+    "pais": "Uruguai",
+    "categoria": "Copa 2018",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 5.00,
+    "estoque": 2,
+    "imagem": "assets/cards/bs-358-edinson-cavani.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 269,
+    "colecao": "Copa2018",
+    "numero": "BS-360",
+    "nome": "Cristhian Stuani",
+    "pais": "Uruguai",
+    "categoria": "Copa 2018",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 5.00,
+    "estoque": 2,
+    "imagem": "assets/cards/bs-360-cristhian-stuani.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 270,
     "colecao": "Copa2018",
     "numero": "FF-361",
     "nome": "Angel Di Maria",
@@ -2940,7 +3234,7 @@
     "status": "Disponível"
   },
   {
-    "id": 213,
+    "id": 271,
     "colecao": "Copa2018",
     "numero": "FF-362",
     "nome": "Mile Jedinak",
@@ -2954,7 +3248,7 @@
     "status": "Disponível"
   },
   {
-    "id": 198,
+    "id": 272,
     "colecao": "Copa2018",
     "numero": "FF-364",
     "nome": "Marouane Fellaini",
@@ -2968,7 +3262,7 @@
     "status": "Disponível"
   },
   {
-    "id": 199,
+    "id": 273,
     "colecao": "Copa2018",
     "numero": "FF-371",
     "nome": "Gary Cahill",
@@ -2982,7 +3276,7 @@
     "status": "Disponível"
   },
   {
-    "id": 200,
+    "id": 274,
     "colecao": "Copa2018",
     "numero": "FF-372",
     "nome": "Adam Lallana",
@@ -2996,7 +3290,7 @@
     "status": "Disponível"
   },
   {
-    "id": 201,
+    "id": 275,
     "colecao": "Copa2018",
     "numero": "FF-374",
     "nome": "Blaise Matuidi",
@@ -3010,7 +3304,7 @@
     "status": "Disponível"
   },
   {
-    "id": 202,
+    "id": 276,
     "colecao": "Copa2018",
     "numero": "FF-379",
     "nome": "Alfred Finnbogason",
@@ -3024,7 +3318,7 @@
     "status": "Disponível"
   },
   {
-    "id": 203,
+    "id": 277,
     "colecao": "Copa2018",
     "numero": "FF-381",
     "nome": "Ki Sungyueng",
@@ -3038,7 +3332,7 @@
     "status": "Disponível"
   },
   {
-    "id": 204,
+    "id": 278,
     "colecao": "Copa2018",
     "numero": "FF-382",
     "nome": "Mohammad Al Sahlawi",
@@ -3052,7 +3346,7 @@
     "status": "Disponível"
   },
   {
-    "id": 205,
+    "id": 279,
     "colecao": "Copa2018",
     "numero": "FF-389",
     "nome": "Kamil Glik",
@@ -3066,7 +3360,7 @@
     "status": "Disponível"
   },
   {
-    "id": 206,
+    "id": 280,
     "colecao": "Copa2018",
     "numero": "FF-381",
     "nome": "Ki Sungyueng",
@@ -3080,7 +3374,7 @@
     "status": "Disponível"
   },
   {
-    "id": 207,
+    "id": 281,
     "colecao": "Copa2018",
     "numero": "FF-390",
     "nome": "Piotr Zielinski",
@@ -3094,7 +3388,7 @@
     "status": "Disponível"
   },
   {
-    "id": 208,
+    "id": 282,
     "colecao": "Copa2018",
     "numero": "FF-391",
     "nome": "João Moutinho",
@@ -3108,7 +3402,7 @@
     "status": "Disponível"
   },
   {
-    "id": 209,
+    "id": 283,
     "colecao": "Copa2018",
     "numero": "FF-392",
     "nome": "Igor Akinfeev",
@@ -3122,7 +3416,7 @@
     "status": "Disponível"
   },
   {
-    "id": 210,
+    "id": 284,
     "colecao": "Copa2018",
     "numero": "FF-400",
     "nome": "Diego Godin",
@@ -3136,7 +3430,7 @@
     "status": "Disponível"
   },
   {
-    "id": 211,
+    "id": 285,
     "colecao": "Copa2018",
     "numero": "P4-403",
     "nome": "Carvajal - Sergio Ramos - Pique - Jordi Alba",
@@ -3150,7 +3444,7 @@
     "status": "Disponível"
   },
   {
-    "id": 212,
+    "id": 286,
     "colecao": "Copa2018",
     "numero": "GS-406",
     "nome": "Sergio Romero",

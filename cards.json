@@ -2142,6 +2142,20 @@
     "status": "Disponível"
   },
   {
+    "id": 185,
+    "colecao": "worldcup2026",
+    "numero": "GM-591",
+    "nome": "Andrej Kramaric",
+    "pais": "Croácia",
+    "categoria": "Brilhantes",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 1.50,
+    "estoque": 1,
+    "imagem": "assets/cards/mt-591-andrej-kramaric.jpg",
+    "status": "Disponível"
+  },
+  {
     "id": 192,
     "colecao": "worldcup2026",
     "numero": "GM-595",

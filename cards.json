@@ -234,7 +234,7 @@
     "tipo": "Jogador",
     "preco": 1.00,
     "estoque": 1,
-    "imagem": "assets/cards/hr-043-aiden-oneill.jpg",
+    "imagem": "assets/cards/hr-043-aiden-o'neill.jpg",
     "status": "Disponível"
   },
   {
@@ -498,7 +498,7 @@
     "tipo": "Jogador",
     "preco": 1.00,
     "estoque": 1,
-    "imagem": "assets/cards/hr-079-rodrigo.jpg",
+    "imagem": "assets/cards/hr-079-rodrygo.jpg",
     "status": "Disponível"
   },
   {

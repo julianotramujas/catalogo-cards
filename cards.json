@@ -135,7 +135,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 1.00,
-    "estoque": 2,
+    "estoque": 1,
     "imagem": "assets/cards/hr-028-nicolas-otamendi.jpg",
     "status": "Disponível"
   },
@@ -595,7 +595,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 1.00,
-    "estoque": 1,
+    "estoque": 0,
     "imagem": "assets/cards/hr-091-jacob-shaffelburg.jpg",
     "status": "Disponível"
   },
@@ -749,7 +749,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 1.00,
-    "estoque": 1,
+    "estoque": 0,
     "imagem": "assets/cards/hr-112-daniel-munoz.jpg",
     "status": "Disponível"
   },
@@ -763,7 +763,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 1.00,
-    "estoque": 1,
+    "estoque": 0,
     "imagem": "assets/cards/hr-113-jefferson-lerma.jpg",
     "status": "Disponível"
   },
@@ -847,7 +847,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 1.00,
-    "estoque": 3,
+    "estoque": 2,
     "imagem": "assets/cards/hr-126-lovro-majer.jpg",
     "status": "Disponível"
   },
@@ -1351,7 +1351,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 1.00,
-    "estoque": 4,
+    "estoque": 3,
     "imagem": "assets/cards/hr-182-william-saliba.jpg",
     "status": "Disponível"
   },
@@ -1547,7 +1547,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 1.00,
-    "estoque": 1,
+    "estoque": 0,
     "imagem": "assets/cards/hr-206-alidu-seidu.jpg",
     "status": "Disponível"
   },
@@ -1925,7 +1925,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 1.00,
-    "estoque": 3,
+    "estoque": 2,
     "imagem": "assets/cards/hr-258-ritsu-doan.jpg",
     "status": "Disponível"
   },
@@ -2051,7 +2051,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 1.00,
-    "estoque": 2,
+    "estoque": 1,
     "imagem": "assets/cards/hr-278-youngwoo-seol.jpg",
     "status": "Disponível"
   },
@@ -2121,7 +2121,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 1.00,
-    "estoque": 1,
+    "estoque": 0,
     "imagem": "assets/cards/hr-284-hyeongyu-oh.jpg",
     "status": "Disponível"
   },
@@ -3213,7 +3213,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 1.00,
-    "estoque": 5,
+    "estoque": 4,
     "imagem": "assets/cards/hr-441-iqraam-rayners.jpg",
     "status": "Disponível"
   },
@@ -3857,7 +3857,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 1.00,
-    "estoque": 3,
+    "estoque": 2,
     "imagem": "assets/cards/ctd-530-andre-blake.jpg",
     "status": "Disponível"
   },
@@ -3997,7 +3997,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 1.00,
-    "estoque": 1,
+    "estoque": 0,
     "imagem": "assets/cards/ctd-545-çaglar-soyuncu.jpg",
     "status": "Disponível"
   },
@@ -4053,7 +4053,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 1.50,
-    "estoque": 1,
+    "estoque": 0,
     "imagem": "assets/cards/mt-36-mathew-ryan.jpg",
     "status": "Disponível"
   },
@@ -4193,7 +4193,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 1.50,
-    "estoque": 2,
+    "estoque": 1,
     "imagem": "assets/cards/mt-252-takefusa-kubo.jpg",
     "status": "Disponível"
   },
@@ -4333,7 +4333,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 1.50,
-    "estoque": 1,
+    "estoque": 0,
     "imagem": "assets/cards/mt-559-eder-militao.jpg",
     "status": "Disponível"
   },
@@ -4459,7 +4459,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 1.50,
-    "estoque": 1,
+    "estoque": 0,
     "imagem": "assets/cards/mt-596-kai-havertz.jpg",
     "status": "Disponível"
   },
@@ -4515,7 +4515,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 1.50,
-    "estoque": 3,
+    "estoque": 2,
     "imagem": "assets/cards/mt-611-wesley.jpg",
     "status": "Disponível"
   },
@@ -4529,7 +4529,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 1.50,
-    "estoque": 1,
+    "estoque": 0,
     "imagem": "assets/cards/mt-619-xavi-simons.jpg",
     "status": "Disponível"
   },

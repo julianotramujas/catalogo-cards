@@ -4067,7 +4067,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 1.50,
-    "estoque": 1,
+    "estoque": 0,
     "imagem": "assets/cards/mt-48-david-alaba.jpg",
     "status": "Disponível"
   },
@@ -4095,7 +4095,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 1.50,
-    "estoque": 1,
+    "estoque": 0,
     "imagem": "assets/cards/mt-96-ryan-mendes.jpg",
     "status": "Disponível"
   },
@@ -4123,7 +4123,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 1.50,
-    "estoque": 1,
+    "estoque": 0,
     "imagem": "assets/cards/mt-118-ivan-perisic.jpg",
     "status": "Disponível"
   },
@@ -4137,7 +4137,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 1.50,
-    "estoque": 1,
+    "estoque": 0,
     "imagem": "assets/cards/mt-154-omar-marmoush.jpg",
     "status": "Disponível"
   },
@@ -4151,7 +4151,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 1.50,
-    "estoque": 1,
+    "estoque": 0,
     "imagem": "assets/cards/mt-167-logo.jpg",
     "status": "Disponível"
   },
@@ -4165,7 +4165,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 1.50,
-    "estoque": 1,
+    "estoque": 0,
     "imagem": "assets/cards/mt-190-jamal-musiala.jpg",
     "status": "Disponível"
   },
@@ -4207,7 +4207,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 1.50,
-    "estoque": 1,
+    "estoque": 0,
     "imagem": "assets/cards/mt-274-minjae-kim.jpg",
     "status": "Disponível"
   },
@@ -4221,7 +4221,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 1.50,
-    "estoque": 1,
+    "estoque": 0,
     "imagem": "assets/cards/mt-324-chris-wood.jpg",
     "status": "Disponível"
   },
@@ -4249,7 +4249,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 1.50,
-    "estoque": 1,
+    "estoque": 0,
     "imagem": "assets/cards/mt-382-almoez-ali.jpg",
     "status": "Disponível"
   },
@@ -4263,7 +4263,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 1.50,
-    "estoque": 2,
+    "estoque": 1,
     "imagem": "assets/cards/mt-395-logo.jpg",
     "status": "Disponível"
   },
@@ -4305,7 +4305,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 1.50,
-    "estoque": 1,
+    "estoque": 0,
     "imagem": "assets/cards/mt-554-zion-suzuki.jpg",
     "status": "Disponível"
   },
@@ -4319,7 +4319,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 1.50,
-    "estoque": 1,
+    "estoque": 0,
     "imagem": "assets/cards/mt-557-unai-simon.jpg",
     "status": "Disponível"
   },
@@ -4333,7 +4333,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 1.50,
-    "estoque": 3,
+    "estoque": 2,
     "imagem": "assets/cards/mt-559-eder-militao.jpg",
     "status": "Disponível"
   },
@@ -4389,7 +4389,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 1.50,
-    "estoque": 1,
+    "estoque": 0,
     "imagem": "assets/cards/mt-579-vitinha.jpg",
     "status": "Disponível"
   },
@@ -4431,7 +4431,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 1.50,
-    "estoque": 2,
+    "estoque": 1,
     "imagem": "assets/cards/mt-591-andrej-kramaric.jpg",
     "status": "Disponível"
   },
@@ -4459,7 +4459,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 1.50,
-    "estoque": 3,
+    "estoque": 2,
     "imagem": "assets/cards/mt-596-kai-havertz.jpg",
     "status": "Disponível"
   },
@@ -4473,7 +4473,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 1.50,
-    "estoque": 1,
+    "estoque": 0,
     "imagem": "assets/cards/mt-598-raul-jimenez.jpg",
     "status": "Disponível"
   },
@@ -4487,7 +4487,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 1.50,
-    "estoque": 1,
+    "estoque": 0,
     "imagem": "assets/cards/mt-602-alexander-sorloth.jpg",
     "status": "Disponível"
   },
@@ -4557,7 +4557,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 1.50,
-    "estoque": 1,
+    "estoque": 0,
     "imagem": "assets/cards/mt-627-zayu.jpg",
     "status": "Disponível"
   },

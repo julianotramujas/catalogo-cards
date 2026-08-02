@@ -24,15 +24,6 @@ const finalizarPedido = document.querySelector("#finalizar-pedido");
 */
 const numeroWhatsApp = "5511915275121";
 
-/*
-  Limite conservador para evitar que pedidos grandes
-  sejam cortados ao serem enviados pela URL do WhatsApp.
-
-  Se a URL ultrapassar este tamanho, o pedido será
-  copiado automaticamente para a área de transferência.
-*/
-const limiteUrlWhatsApp = 1800;
-
 const cardsPorPagina = 12;
 
 let cards = [];
@@ -41,7 +32,7 @@ let paginaAtual = 1;
 let pedido = [];
 
 /* =========================================================
-   CARREGAMENTO DOS CARDS
+   CARREGAR CARDS
 ========================================================= */
 
 async function carregarCards() {
@@ -74,7 +65,7 @@ async function carregarCards() {
 }
 
 /* =========================================================
-   FORMATAÇÃO
+   PREÇO
 ========================================================= */
 
 function formatarPreco(valor) {
@@ -86,6 +77,10 @@ function formatarPreco(valor) {
   });
 }
 
+/* =========================================================
+   DISPONIBILIDADE
+========================================================= */
+
 function cardEstaDisponivel(card) {
   return (
     card.status === "Disponível" &&
@@ -94,7 +89,7 @@ function cardEstaDisponivel(card) {
 }
 
 /* =========================================================
-   CRIAÇÃO DOS CARDS
+   CRIAR CARD
 ========================================================= */
 
 function criarCard(card) {
@@ -103,17 +98,23 @@ function criarCard(card) {
   return `
     <article class="card-produto">
       <div class="card-imagem">
+
         <img
           src="${card.imagem}"
           alt="Card ${card.numero} de ${card.nome}"
           loading="lazy"
         />
 
-        <span class="card-tipo">${card.raridade}</span>
+        <span class="card-tipo">
+          ${card.raridade}
+        </span>
+
       </div>
 
       <div class="card-conteudo">
+
         <div class="card-dados">
+
           <p class="card-numero">
             ${card.numero}
           </p>
@@ -131,11 +132,13 @@ function criarCard(card) {
           </p>
 
           <p class="card-status">
-            ${disponivel ? "Disponível" : card.status}
+            ${disponivel ? "Disponível" : "Indisponível"}
           </p>
+
         </div>
 
         <div class="card-rodape">
+
           <strong>
             ${formatarPreco(card.preco)}
           </strong>
@@ -148,14 +151,16 @@ function criarCard(card) {
           >
             ${disponivel ? "Adicionar" : "Indisponível"}
           </button>
+
         </div>
+
       </div>
     </article>
   `;
 }
 
 /* =========================================================
-   PESQUISA E FILTROS
+   FILTROS E PESQUISA
 ========================================================= */
 
 function filtrarCards() {
@@ -164,29 +169,12 @@ function filtrarCards() {
     .toLowerCase();
 
   return cards.filter((card) => {
-    const nome = String(
-      card.nome || ""
-    ).toLowerCase();
-
-    const pais = String(
-      card.pais || ""
-    ).toLowerCase();
-
-    const categoria = String(
-      card.categoria || ""
-    ).toLowerCase();
-
-    const raridade = String(
-      card.raridade || ""
-    ).toLowerCase();
-
-    const tipo = String(
-      card.tipo || ""
-    ).toLowerCase();
-
-    const numero = String(
-      card.numero || ""
-    ).toLowerCase();
+    const nome = String(card.nome || "").toLowerCase();
+    const pais = String(card.pais || "").toLowerCase();
+    const categoria = String(card.categoria || "").toLowerCase();
+    const raridade = String(card.raridade || "").toLowerCase();
+    const tipo = String(card.tipo || "").toLowerCase();
+    const numero = String(card.numero || "").toLowerCase();
 
     const correspondePesquisa =
       nome.includes(pesquisa) ||
@@ -351,14 +339,16 @@ function atualizarPaginacao(totalCards) {
 }
 
 /* =========================================================
-   ATUALIZAÇÃO DO CATÁLOGO
+   ATUALIZAR CATÁLOGO
 ========================================================= */
 
 function atualizarCatalogo() {
-  const cardsFiltrados = filtrarCards();
+  const cardsFiltrados =
+    filtrarCards();
 
   const totalPaginas = Math.ceil(
-    cardsFiltrados.length / cardsPorPagina
+    cardsFiltrados.length /
+      cardsPorPagina
   );
 
   if (
@@ -382,7 +372,11 @@ function atualizarCatalogo() {
     listaCards.innerHTML = `
       <div class="estado-vazio">
         <span>🔍</span>
-        <h3>Nenhum card encontrado</h3>
+
+        <h3>
+          Nenhum card encontrado
+        </h3>
+
         <p>
           Tente pesquisar outro jogador,
           país, número ou categoria.
@@ -391,6 +385,7 @@ function atualizarCatalogo() {
     `;
 
     paginacao.innerHTML = "";
+
     return;
   }
 
@@ -403,6 +398,10 @@ function atualizarCatalogo() {
     cardsFiltrados.length
   );
 }
+
+/* =========================================================
+   MUDAR PÁGINA
+========================================================= */
 
 function mudarPagina(novaPagina) {
   const cardsFiltrados =
@@ -421,7 +420,8 @@ function mudarPagina(novaPagina) {
     return;
   }
 
-  paginaAtual = novaPagina;
+  paginaAtual =
+    novaPagina;
 
   atualizarCatalogo();
 
@@ -436,8 +436,13 @@ function mudarPagina(novaPagina) {
 ========================================================= */
 
 function abrirPainelPedido() {
-  painelPedido.classList.add("aberto");
-  fundoPedido.classList.add("ativo");
+  painelPedido.classList.add(
+    "aberto"
+  );
+
+  fundoPedido.classList.add(
+    "ativo"
+  );
 
   painelPedido.setAttribute(
     "aria-hidden",
@@ -462,7 +467,8 @@ function fecharPainelPedido() {
     "true"
   );
 
-  document.body.style.overflow = "";
+  document.body.style.overflow =
+    "";
 }
 
 /* =========================================================
@@ -507,17 +513,18 @@ function adicionarAoPedido(idCard) {
 }
 
 /* =========================================================
-   QUANTIDADE
+   ALTERAR QUANTIDADE
 ========================================================= */
 
 function alterarQuantidade(
   idCard,
   alteracao
 ) {
-  const item = pedido.find(
-    (produto) =>
-      Number(produto.id) === idCard
-  );
+  const item =
+    pedido.find(
+      (produto) =>
+        Number(produto.id) === idCard
+    );
 
   if (!item) {
     return;
@@ -542,6 +549,10 @@ function alterarQuantidade(
   atualizarPedido();
 }
 
+/* =========================================================
+   REMOVER DO PEDIDO
+========================================================= */
+
 function removerDoPedido(idCard) {
   pedido = pedido.filter(
     (item) =>
@@ -558,12 +569,14 @@ function removerDoPedido(idCard) {
 function criarItemPedido(item) {
   return `
     <article class="item-pedido">
+
       <img
         src="${item.imagem}"
         alt="Card ${item.numero} de ${item.nome}"
       />
 
       <div>
+
         <h3>
           ${item.nome}
         </h3>
@@ -577,6 +590,7 @@ function criarItemPedido(item) {
         </p>
 
         <div class="item-quantidade">
+
           <button
             type="button"
             data-acao="diminuir"
@@ -604,7 +618,9 @@ function criarItemPedido(item) {
           >
             +
           </button>
+
         </div>
+
       </div>
 
       <button
@@ -615,12 +631,13 @@ function criarItemPedido(item) {
       >
         Remover
       </button>
+
     </article>
   `;
 }
 
 /* =========================================================
-   TOTAIS
+   TOTAL DE CARDS
 ========================================================= */
 
 function calcularQuantidadeTotal() {
@@ -630,6 +647,10 @@ function calcularQuantidadeTotal() {
     0
   );
 }
+
+/* =========================================================
+   VALOR TOTAL
+========================================================= */
 
 function calcularValorTotal() {
   return pedido.reduce(
@@ -642,7 +663,7 @@ function calcularValorTotal() {
 }
 
 /* =========================================================
-   ATUALIZAÇÃO DO PEDIDO
+   ATUALIZAR PEDIDO
 ========================================================= */
 
 function atualizarPedido() {
@@ -687,32 +708,24 @@ function criarMensagemWhatsApp() {
   const valorTotal =
     calcularValorTotal();
 
-  /*
-    Formato compacto para evitar mensagens
-    desnecessariamente grandes.
+  const linhasCards =
+    pedido
+      .map((item) => {
+        const subtotal =
+          Number(item.preco) *
+          item.quantidade;
 
-    Exemplo:
-
-    GB-08 | Cristiano Ronaldo | Portugal
-    1x R$ 50,00 = R$ 50,00
-  */
-  const linhasCards = pedido
-    .map((item) => {
-      const subtotal =
-        Number(item.preco) *
-        item.quantidade;
-
-      return [
-        `*${item.numero} | ${item.nome} | ${item.pais}*`,
-        `${item.quantidade}x ${formatarPreco(item.preco)} = ${formatarPreco(subtotal)}`
-      ].join("\n");
-    })
-    .join("\n\n");
+        return [
+          `${item.numero} | ${item.nome} | ${item.pais}`,
+          `${item.quantidade}x ${formatarPreco(item.preco)} = ${formatarPreco(subtotal)}`
+        ].join("\n");
+      })
+      .join("\n\n");
 
   return [
-    "*PEDIDO DE CARDS*",
+    "PEDIDO DE CARDS",
     "",
-    "*Coleção:*",
+    "Coleção:",
     "Panini Adrenalyn XL - FIFA World Cup 2026",
     "",
     "--------------------",
@@ -721,103 +734,24 @@ function criarMensagemWhatsApp() {
     "",
     "--------------------",
     "",
-    `*Total de cards:* ${quantidadeTotal}`,
-    `*Valor do pedido:* ${formatarPreco(valorTotal)}`,
+    `Total de cards: ${quantidadeTotal}`,
+    `Valor do pedido: ${formatarPreco(valorTotal)}`,
     "",
     "O frete será calculado separadamente.",
     "",
     "--------------------",
     "",
-    "*Nome:*",
+    "Nome:",
     "",
-    "*CEP:*"
+    "CEP:"
   ].join("\n");
 }
 
 /* =========================================================
-   COPIAR PEDIDO
+   FINALIZAR PELO WHATSAPP
 ========================================================= */
 
-async function copiarTexto(texto) {
-  /*
-    Método moderno.
-    Funciona normalmente em HTTPS,
-    como no GitHub Pages.
-  */
-  if (
-    navigator.clipboard &&
-    window.isSecureContext
-  ) {
-    try {
-      await navigator.clipboard.writeText(
-        texto
-      );
-
-      return true;
-    } catch (erro) {
-      console.warn(
-        "Não foi possível usar navigator.clipboard.",
-        erro
-      );
-    }
-  }
-
-  /*
-    Método alternativo para navegadores
-    que não permitirem Clipboard API.
-  */
-  try {
-    const areaTexto =
-      document.createElement(
-        "textarea"
-      );
-
-    areaTexto.value = texto;
-
-    areaTexto.style.position =
-      "fixed";
-
-    areaTexto.style.left =
-      "-999999px";
-
-    areaTexto.style.top =
-      "-999999px";
-
-    areaTexto.setAttribute(
-      "readonly",
-      ""
-    );
-
-    document.body.appendChild(
-      areaTexto
-    );
-
-    areaTexto.focus();
-    areaTexto.select();
-
-    const copiado =
-      document.execCommand("copy");
-
-    document.body.removeChild(
-      areaTexto
-    );
-
-    return copiado;
-  } catch (erro) {
-    console.error(
-      "Não foi possível copiar o pedido.",
-      erro
-    );
-
-    return false;
-  }
-}
-
-/* =========================================================
-   FINALIZAR PEDIDO PELO WHATSAPP
-========================================================= */
-
-async function finalizarPedidoPeloWhatsApp() {
+function finalizarPedidoPeloWhatsApp() {
   if (pedido.length === 0) {
     alert(
       "Adicione pelo menos um card ao pedido."
@@ -832,7 +766,7 @@ async function finalizarPedidoPeloWhatsApp() {
       "5511999999999"
   ) {
     alert(
-      "Coloque o seu número de WhatsApp na constante numeroWhatsApp do arquivo app.js."
+      "Coloque o número de WhatsApp correto no app.js."
     );
 
     return;
@@ -852,74 +786,39 @@ async function finalizarPedidoPeloWhatsApp() {
       mensagem
     );
 
-  const urlWhatsAppComMensagem =
+  const urlWhatsApp =
     `https://wa.me/${numeroLimpo}?text=${mensagemCodificada}`;
 
   /*
-    PEDIDO PEQUENO
+    O WhatsApp abre diretamente com
+    o pedido completo preenchido.
 
-    Se a URL estiver dentro do limite,
-    abre normalmente com o pedido
-    já preenchido no WhatsApp.
+    Não usa área de transferência.
+    Não pede para o cliente copiar
+    ou colar nenhuma mensagem.
   */
-  if (
-    urlWhatsAppComMensagem.length <=
-    limiteUrlWhatsApp
-  ) {
-    window.open(
-      urlWhatsAppComMensagem,
-      "_blank",
-      "noopener,noreferrer"
-    );
-
-    return;
-  }
-
-  /*
-    PEDIDO GRANDE
-
-    O pedido completo será copiado
-    para evitar que a URL seja cortada.
-  */
-  const copiado =
-    await copiarTexto(mensagem);
-
-  if (!copiado) {
-    alert(
-      "O pedido é muito grande e não foi possível copiá-lo automaticamente. Tente novamente ou reduza a quantidade de cards."
-    );
-
-    return;
-  }
-
-  alert(
-    "Pedido grande detectado!\n\nO pedido completo foi copiado.\n\nO WhatsApp será aberto agora. Cole a mensagem no campo de conversa e envie."
-  );
-
-  const urlWhatsApp =
-    `https://wa.me/${numeroLimpo}`;
 
   window.open(
     urlWhatsApp,
-    "_blank",
-    "noopener,noreferrer"
+    "_blank"
   );
 }
 
 /* =========================================================
-   EVENTOS DA PESQUISA
+   PESQUISA
 ========================================================= */
 
 campoPesquisa.addEventListener(
   "input",
   () => {
     paginaAtual = 1;
+
     atualizarCatalogo();
   }
 );
 
 /* =========================================================
-   EVENTOS DOS FILTROS
+   FILTROS
 ========================================================= */
 
 botoesFiltro.forEach((botao) => {
@@ -944,10 +843,10 @@ botoesFiltro.forEach((botao) => {
       if (
         textoFiltro === "Bases"
       ) {
-        filtroAtual = "Base";
+        filtroAtual =
+          "Base";
       } else if (
-        textoFiltro ===
-        "Especiais"
+        textoFiltro === "Especiais"
       ) {
         filtroAtual =
           "Especial";
@@ -964,7 +863,7 @@ botoesFiltro.forEach((botao) => {
 });
 
 /* =========================================================
-   EVENTOS DA PAGINAÇÃO
+   PAGINAÇÃO
 ========================================================= */
 
 paginacao.addEventListener(
@@ -994,7 +893,7 @@ paginacao.addEventListener(
 );
 
 /* =========================================================
-   EVENTOS DOS CARDS
+   ADICIONAR CARD
 ========================================================= */
 
 listaCards.addEventListener(
@@ -1024,7 +923,7 @@ listaCards.addEventListener(
 );
 
 /* =========================================================
-   EVENTOS DO PEDIDO
+   BOTÕES DO PEDIDO
 ========================================================= */
 
 itensPedido.addEventListener(
@@ -1079,7 +978,7 @@ itensPedido.addEventListener(
 );
 
 /* =========================================================
-   ABRIR E FECHAR PEDIDO
+   ABRIR / FECHAR PEDIDO
 ========================================================= */
 
 abrirPedido.addEventListener(
@@ -1118,7 +1017,7 @@ finalizarPedido.addEventListener(
 );
 
 /* =========================================================
-   INICIALIZAÇÃO
+   INICIAR
 ========================================================= */
 
 carregarCards();

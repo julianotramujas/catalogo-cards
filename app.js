@@ -15,7 +15,7 @@ const contadorPedido = document.querySelector(".contador-pedido");
 const finalizarPedido = document.querySelector("#finalizar-pedido");
 
 /*
-  Número que receberá os pedidos.
+  Mantenha aqui o número que receberá os pedidos.
 
   Formato:
   55 + DDD + número
@@ -24,25 +24,19 @@ const finalizarPedido = document.querySelector("#finalizar-pedido");
 */
 const numeroWhatsApp = "5511915275121";
 
-const cardsPorPagina = 12;
+const cardsPorPagina = 50;
 
 let cards = [];
 let filtroAtual = "Todos";
 let paginaAtual = 1;
 let pedido = [];
 
-/* =========================================================
-   CARREGAR CARDS
-========================================================= */
-
 async function carregarCards() {
   try {
     const resposta = await fetch("cards.json");
 
     if (!resposta.ok) {
-      throw new Error(
-        "Não foi possível carregar o arquivo cards.json."
-      );
+      throw new Error("Não foi possível carregar o arquivo cards.json.");
     }
 
     cards = await resposta.json();
@@ -64,10 +58,6 @@ async function carregarCards() {
   }
 }
 
-/* =========================================================
-   PREÇO
-========================================================= */
-
 function formatarPreco(valor) {
   const preco = Number(valor) || 0;
 
@@ -77,20 +67,9 @@ function formatarPreco(valor) {
   });
 }
 
-/* =========================================================
-   DISPONIBILIDADE
-========================================================= */
-
 function cardEstaDisponivel(card) {
-  return (
-    card.status === "Disponível" &&
-    Number(card.estoque) > 0
-  );
+  return card.status === "Disponível" && Number(card.estoque) > 0;
 }
-
-/* =========================================================
-   CRIAR CARD
-========================================================= */
 
 function criarCard(card) {
   const disponivel = cardEstaDisponivel(card);
@@ -98,30 +77,20 @@ function criarCard(card) {
   return `
     <article class="card-produto">
       <div class="card-imagem">
-
         <img
           src="${card.imagem}"
           alt="Card ${card.numero} de ${card.nome}"
           loading="lazy"
         />
 
-        <span class="card-tipo">
-          ${card.raridade}
-        </span>
-
+        <span class="card-tipo">${card.raridade}</span>
       </div>
 
       <div class="card-conteudo">
-
         <div class="card-dados">
+          <p class="card-numero">${card.numero}</p>
 
-          <p class="card-numero">
-            ${card.numero}
-          </p>
-
-          <h3>
-            ${card.nome}
-          </h3>
+          <h3>${card.nome}</h3>
 
           <p class="card-categoria">
             ${card.categoria}
@@ -132,16 +101,12 @@ function criarCard(card) {
           </p>
 
           <p class="card-status">
-            ${disponivel ? "Disponível" : "Indisponível"}
+            ${disponivel ? "Disponível" : card.status}
           </p>
-
         </div>
 
         <div class="card-rodape">
-
-          <strong>
-            ${formatarPreco(card.preco)}
-          </strong>
+          <strong>${formatarPreco(card.preco)}</strong>
 
           <button
             class="botao-adicionar"
@@ -151,22 +116,14 @@ function criarCard(card) {
           >
             ${disponivel ? "Adicionar" : "Indisponível"}
           </button>
-
         </div>
-
       </div>
     </article>
   `;
 }
 
-/* =========================================================
-   FILTROS E PESQUISA
-========================================================= */
-
 function filtrarCards() {
-  const pesquisa = campoPesquisa.value
-    .trim()
-    .toLowerCase();
+  const pesquisa = campoPesquisa.value.trim().toLowerCase();
 
   return cards.filter((card) => {
     const nome = String(card.nome || "").toLowerCase();
@@ -190,33 +147,19 @@ function filtrarCards() {
       card.pais === filtroAtual ||
       card.categoria === filtroAtual;
 
-    return (
-      correspondePesquisa &&
-      correspondeFiltro
-    );
+    return correspondePesquisa && correspondeFiltro;
   });
 }
 
-/* =========================================================
-   PAGINAÇÃO
-========================================================= */
-
 function obterCardsDaPagina(cardsFiltrados) {
-  const indiceInicial =
-    (paginaAtual - 1) * cardsPorPagina;
+  const indiceInicial = (paginaAtual - 1) * cardsPorPagina;
+  const indiceFinal = indiceInicial + cardsPorPagina;
 
-  const indiceFinal =
-    indiceInicial + cardsPorPagina;
-
-  return cardsFiltrados.slice(
-    indiceInicial,
-    indiceFinal
-  );
+  return cardsFiltrados.slice(indiceInicial, indiceFinal);
 }
 
 function criarBotaoPagina(numeroPagina) {
-  const ativo =
-    numeroPagina === paginaAtual;
+  const ativo = numeroPagina === paginaAtual;
 
   return `
     <button
@@ -233,10 +176,7 @@ function criarBotaoPagina(numeroPagina) {
 
 function criarReticencias() {
   return `
-    <span
-      class="paginacao-reticencias"
-      aria-hidden="true"
-    >
+    <span class="paginacao-reticencias" aria-hidden="true">
       ...
     </span>
   `;
@@ -251,15 +191,7 @@ function obterPaginasVisiveis(totalPaginas) {
   }
 
   if (paginaAtual <= 4) {
-    return [
-      1,
-      2,
-      3,
-      4,
-      5,
-      "...",
-      totalPaginas
-    ];
+    return [1, 2, 3, 4, 5, "...", totalPaginas];
   }
 
   if (paginaAtual >= totalPaginas - 3) {
@@ -286,28 +218,24 @@ function obterPaginasVisiveis(totalPaginas) {
 }
 
 function atualizarPaginacao(totalCards) {
-  const totalPaginas = Math.ceil(
-    totalCards / cardsPorPagina
-  );
+  const totalPaginas = Math.ceil(totalCards / cardsPorPagina);
 
   if (totalPaginas <= 1) {
     paginacao.innerHTML = "";
     return;
   }
 
-  const paginasVisiveis =
-    obterPaginasVisiveis(totalPaginas);
+  const paginasVisiveis = obterPaginasVisiveis(totalPaginas);
 
-  const botoesNumerados =
-    paginasVisiveis
-      .map((pagina) => {
-        if (pagina === "...") {
-          return criarReticencias();
-        }
+  const botoesNumerados = paginasVisiveis
+    .map((pagina) => {
+      if (pagina === "...") {
+        return criarReticencias();
+      }
 
-        return criarBotaoPagina(pagina);
-      })
-      .join("");
+      return criarBotaoPagina(pagina);
+    })
+    .join("");
 
   paginacao.innerHTML = `
     <button
@@ -327,89 +255,55 @@ function atualizarPaginacao(totalCards) {
       type="button"
       data-pagina="${paginaAtual + 1}"
       aria-label="Ir para a próxima página"
-      ${
-        paginaAtual === totalPaginas
-          ? "disabled"
-          : ""
-      }
+      ${paginaAtual === totalPaginas ? "disabled" : ""}
     >
       Próxima
     </button>
   `;
 }
 
-/* =========================================================
-   ATUALIZAR CATÁLOGO
-========================================================= */
-
 function atualizarCatalogo() {
-  const cardsFiltrados =
-    filtrarCards();
+  const cardsFiltrados = filtrarCards();
 
   const totalPaginas = Math.ceil(
-    cardsFiltrados.length /
-      cardsPorPagina
+    cardsFiltrados.length / cardsPorPagina
   );
 
-  if (
-    paginaAtual > totalPaginas &&
-    totalPaginas > 0
-  ) {
+  if (paginaAtual > totalPaginas && totalPaginas > 0) {
     paginaAtual = totalPaginas;
   }
 
-  const cardsDaPagina =
-    obterCardsDaPagina(cardsFiltrados);
+  const cardsDaPagina = obterCardsDaPagina(cardsFiltrados);
 
-  resultadoContagem.textContent =
-    `${cardsFiltrados.length} ${
-      cardsFiltrados.length === 1
-        ? "card encontrado"
-        : "cards encontrados"
-    }`;
+  resultadoContagem.textContent = `${cardsFiltrados.length} ${
+    cardsFiltrados.length === 1
+      ? "card encontrado"
+      : "cards encontrados"
+  }`;
 
   if (cardsFiltrados.length === 0) {
     listaCards.innerHTML = `
       <div class="estado-vazio">
         <span>🔍</span>
-
-        <h3>
-          Nenhum card encontrado
-        </h3>
-
-        <p>
-          Tente pesquisar outro jogador,
-          país, número ou categoria.
-        </p>
+        <h3>Nenhum card encontrado</h3>
+        <p>Tente pesquisar outro jogador, país, número ou categoria.</p>
       </div>
     `;
 
     paginacao.innerHTML = "";
-
     return;
   }
 
-  listaCards.innerHTML =
-    cardsDaPagina
-      .map(criarCard)
-      .join("");
+  listaCards.innerHTML = cardsDaPagina.map(criarCard).join("");
 
-  atualizarPaginacao(
-    cardsFiltrados.length
-  );
+  atualizarPaginacao(cardsFiltrados.length);
 }
 
-/* =========================================================
-   MUDAR PÁGINA
-========================================================= */
-
 function mudarPagina(novaPagina) {
-  const cardsFiltrados =
-    filtrarCards();
+  const cardsFiltrados = filtrarCards();
 
   const totalPaginas = Math.ceil(
-    cardsFiltrados.length /
-      cardsPorPagina
+    cardsFiltrados.length / cardsPorPagina
   );
 
   if (
@@ -420,9 +314,7 @@ function mudarPagina(novaPagina) {
     return;
   }
 
-  paginaAtual =
-    novaPagina;
-
+  paginaAtual = novaPagina;
   atualizarCatalogo();
 
   catalogo.scrollIntoView({
@@ -431,74 +323,39 @@ function mudarPagina(novaPagina) {
   });
 }
 
-/* =========================================================
-   PAINEL DO PEDIDO
-========================================================= */
-
 function abrirPainelPedido() {
-  painelPedido.classList.add(
-    "aberto"
-  );
+  painelPedido.classList.add("aberto");
+  fundoPedido.classList.add("ativo");
 
-  fundoPedido.classList.add(
-    "ativo"
-  );
+  painelPedido.setAttribute("aria-hidden", "false");
 
-  painelPedido.setAttribute(
-    "aria-hidden",
-    "false"
-  );
-
-  document.body.style.overflow =
-    "hidden";
+  document.body.style.overflow = "hidden";
 }
 
 function fecharPainelPedido() {
-  painelPedido.classList.remove(
-    "aberto"
-  );
+  painelPedido.classList.remove("aberto");
+  fundoPedido.classList.remove("ativo");
 
-  fundoPedido.classList.remove(
-    "ativo"
-  );
+  painelPedido.setAttribute("aria-hidden", "true");
 
-  painelPedido.setAttribute(
-    "aria-hidden",
-    "true"
-  );
-
-  document.body.style.overflow =
-    "";
+  document.body.style.overflow = "";
 }
-
-/* =========================================================
-   ADICIONAR AO PEDIDO
-========================================================= */
 
 function adicionarAoPedido(idCard) {
   const card = cards.find(
-    (item) =>
-      Number(item.id) === idCard
+    (item) => Number(item.id) === idCard
   );
 
-  if (
-    !card ||
-    !cardEstaDisponivel(card)
-  ) {
+  if (!card || !cardEstaDisponivel(card)) {
     return;
   }
 
-  const itemExistente =
-    pedido.find(
-      (item) =>
-        Number(item.id) === idCard
-    );
+  const itemExistente = pedido.find(
+    (item) => Number(item.id) === idCard
+  );
 
   if (itemExistente) {
-    if (
-      itemExistente.quantidade <
-      Number(card.estoque)
-    ) {
+    if (itemExistente.quantidade < Number(card.estoque)) {
       itemExistente.quantidade += 1;
     }
   } else {
@@ -512,19 +369,10 @@ function adicionarAoPedido(idCard) {
   abrirPainelPedido();
 }
 
-/* =========================================================
-   ALTERAR QUANTIDADE
-========================================================= */
-
-function alterarQuantidade(
-  idCard,
-  alteracao
-) {
-  const item =
-    pedido.find(
-      (produto) =>
-        Number(produto.id) === idCard
-    );
+function alterarQuantidade(idCard, alteracao) {
+  const item = pedido.find(
+    (produto) => Number(produto.id) === idCard
+  );
 
   if (!item) {
     return;
@@ -538,59 +386,37 @@ function alterarQuantidade(
     return;
   }
 
-  if (
-    novaQuantidade <=
-    Number(item.estoque)
-  ) {
-    item.quantidade =
-      novaQuantidade;
+  if (novaQuantidade <= Number(item.estoque)) {
+    item.quantidade = novaQuantidade;
   }
 
   atualizarPedido();
 }
 
-/* =========================================================
-   REMOVER DO PEDIDO
-========================================================= */
-
 function removerDoPedido(idCard) {
   pedido = pedido.filter(
-    (item) =>
-      Number(item.id) !== idCard
+    (item) => Number(item.id) !== idCard
   );
 
   atualizarPedido();
 }
 
-/* =========================================================
-   ITEM DO PEDIDO
-========================================================= */
-
 function criarItemPedido(item) {
   return `
     <article class="item-pedido">
-
       <img
         src="${item.imagem}"
         alt="Card ${item.numero} de ${item.nome}"
       />
 
       <div>
+        <h3>${item.nome}</h3>
 
-        <h3>
-          ${item.nome}
-        </h3>
+        <p>${item.numero} • ${item.pais}</p>
 
-        <p>
-          ${item.numero} • ${item.pais}
-        </p>
-
-        <p>
-          ${formatarPreco(item.preco)}
-        </p>
+        <p>${formatarPreco(item.preco)}</p>
 
         <div class="item-quantidade">
-
           <button
             type="button"
             data-acao="diminuir"
@@ -600,9 +426,7 @@ function criarItemPedido(item) {
             −
           </button>
 
-          <span>
-            ${item.quantidade}
-          </span>
+          <span>${item.quantidade}</span>
 
           <button
             type="button"
@@ -610,17 +434,14 @@ function criarItemPedido(item) {
             data-id="${item.id}"
             aria-label="Aumentar quantidade"
             ${
-              item.quantidade >=
-              Number(item.estoque)
+              item.quantidade >= Number(item.estoque)
                 ? "disabled"
                 : ""
             }
           >
             +
           </button>
-
         </div>
-
       </div>
 
       <button
@@ -631,26 +452,16 @@ function criarItemPedido(item) {
       >
         Remover
       </button>
-
     </article>
   `;
 }
 
-/* =========================================================
-   TOTAL DE CARDS
-========================================================= */
-
 function calcularQuantidadeTotal() {
   return pedido.reduce(
-    (total, item) =>
-      total + item.quantidade,
+    (total, item) => total + item.quantidade,
     0
   );
 }
-
-/* =========================================================
-   VALOR TOTAL
-========================================================= */
 
 function calcularValorTotal() {
   return pedido.reduce(
@@ -661,10 +472,6 @@ function calcularValorTotal() {
     0
   );
 }
-
-/* =========================================================
-   ATUALIZAR PEDIDO
-========================================================= */
 
 function atualizarPedido() {
   const quantidadeTotal =
@@ -682,9 +489,7 @@ function atualizarPedido() {
   if (pedido.length === 0) {
     itensPedido.innerHTML = `
       <div class="pedido-vazio">
-        <p>
-          Nenhum card adicionado.
-        </p>
+        <p>Nenhum card adicionado.</p>
       </div>
     `;
 
@@ -692,13 +497,11 @@ function atualizarPedido() {
   }
 
   itensPedido.innerHTML =
-    pedido
-      .map(criarItemPedido)
-      .join("");
+    pedido.map(criarItemPedido).join("");
 }
 
 /* =========================================================
-   MENSAGEM DO WHATSAPP
+   MENSAGEM CURTA DO WHATSAPP
 ========================================================= */
 
 function criarMensagemWhatsApp() {
@@ -708,19 +511,18 @@ function criarMensagemWhatsApp() {
   const valorTotal =
     calcularValorTotal();
 
-  const linhasCards =
-    pedido
-      .map((item) => {
-        const subtotal =
-          Number(item.preco) *
-          item.quantidade;
+  const linhasCards = pedido
+    .map((item) => {
+      const subtotal =
+        Number(item.preco) *
+        item.quantidade;
 
-        return [
-          `${item.numero} | ${item.nome} | ${item.pais}`,
-          `${item.quantidade}x ${formatarPreco(item.preco)} = ${formatarPreco(subtotal)}`
-        ].join("\n");
-      })
-      .join("\n\n");
+      return (
+        `${item.numero} | ${item.nome} | ${item.pais}\n` +
+        `${item.quantidade}x ${formatarPreco(item.preco)} = ${formatarPreco(subtotal)}`
+      );
+    })
+    .join("\n\n");
 
   return [
     "PEDIDO DE CARDS",
@@ -748,7 +550,7 @@ function criarMensagemWhatsApp() {
 }
 
 /* =========================================================
-   FINALIZAR PELO WHATSAPP
+   WHATSAPP — AUTOMÁTICO COMO ERA ANTES
 ========================================================= */
 
 function finalizarPedidoPeloWhatsApp() {
@@ -756,115 +558,75 @@ function finalizarPedidoPeloWhatsApp() {
     alert(
       "Adicione pelo menos um card ao pedido."
     );
-
     return;
   }
 
   if (
     !numeroWhatsApp ||
-    numeroWhatsApp ===
-      "5511999999999"
+    numeroWhatsApp === "5511999999999"
   ) {
     alert(
-      "Coloque o número de WhatsApp correto no app.js."
+      "Coloque o seu número de WhatsApp na constante numeroWhatsApp do arquivo app.js."
     );
 
     return;
   }
 
   const numeroLimpo =
-    numeroWhatsApp.replace(
-      /\D/g,
-      ""
-    );
+    numeroWhatsApp.replace(/\D/g, "");
 
   const mensagem =
     criarMensagemWhatsApp();
 
   const mensagemCodificada =
-    encodeURIComponent(
-      mensagem
-    );
+    encodeURIComponent(mensagem);
 
   const urlWhatsApp =
     `https://wa.me/${numeroLimpo}?text=${mensagemCodificada}`;
 
-  /*
-    O WhatsApp abre diretamente com
-    o pedido completo preenchido.
-
-    Não usa área de transferência.
-    Não pede para o cliente copiar
-    ou colar nenhuma mensagem.
-  */
-
   window.open(
     urlWhatsApp,
-    "_blank"
+    "_blank",
+    "noopener,noreferrer"
   );
 }
-
-/* =========================================================
-   PESQUISA
-========================================================= */
 
 campoPesquisa.addEventListener(
   "input",
   () => {
     paginaAtual = 1;
-
     atualizarCatalogo();
   }
 );
-
-/* =========================================================
-   FILTROS
-========================================================= */
 
 botoesFiltro.forEach((botao) => {
   botao.addEventListener(
     "click",
     () => {
-      botoesFiltro.forEach(
-        (item) => {
-          item.classList.remove(
-            "ativo"
-          );
-        }
-      );
+      botoesFiltro.forEach((item) => {
+        item.classList.remove("ativo");
+      });
 
-      botao.classList.add(
-        "ativo"
-      );
+      botao.classList.add("ativo");
 
       const textoFiltro =
         botao.textContent.trim();
 
-      if (
-        textoFiltro === "Bases"
-      ) {
-        filtroAtual =
-          "Base";
+      if (textoFiltro === "Bases") {
+        filtroAtual = "Base";
       } else if (
         textoFiltro === "Especiais"
       ) {
-        filtroAtual =
-          "Especial";
+        filtroAtual = "Especial";
       } else {
-        filtroAtual =
-          textoFiltro;
+        filtroAtual = textoFiltro;
       }
 
       paginaAtual = 1;
-
       atualizarCatalogo();
     }
   );
 });
-
-/* =========================================================
-   PAGINAÇÃO
-========================================================= */
 
 paginacao.addEventListener(
   "click",
@@ -874,27 +636,16 @@ paginacao.addEventListener(
         "button[data-pagina]"
       );
 
-    if (
-      !botao ||
-      botao.disabled
-    ) {
+    if (!botao || botao.disabled) {
       return;
     }
 
     const novaPagina =
-      Number(
-        botao.dataset.pagina
-      );
+      Number(botao.dataset.pagina);
 
-    mudarPagina(
-      novaPagina
-    );
+    mudarPagina(novaPagina);
   }
 );
-
-/* =========================================================
-   ADICIONAR CARD
-========================================================= */
 
 listaCards.addEventListener(
   "click",
@@ -904,27 +655,16 @@ listaCards.addEventListener(
         ".botao-adicionar"
       );
 
-    if (
-      !botao ||
-      botao.disabled
-    ) {
+    if (!botao || botao.disabled) {
       return;
     }
 
     const idCard =
-      Number(
-        botao.dataset.id
-      );
+      Number(botao.dataset.id);
 
-    adicionarAoPedido(
-      idCard
-    );
+    adicionarAoPedido(idCard);
   }
 );
-
-/* =========================================================
-   BOTÕES DO PEDIDO
-========================================================= */
 
 itensPedido.addEventListener(
   "click",
@@ -934,52 +674,29 @@ itensPedido.addEventListener(
         "button[data-acao]"
       );
 
-    if (
-      !botao ||
-      botao.disabled
-    ) {
+    if (!botao || botao.disabled) {
       return;
     }
 
     const idCard =
-      Number(
-        botao.dataset.id
-      );
+      Number(botao.dataset.id);
 
     const acao =
       botao.dataset.acao;
 
-    if (
-      acao === "aumentar"
-    ) {
-      alterarQuantidade(
-        idCard,
-        1
-      );
+    if (acao === "aumentar") {
+      alterarQuantidade(idCard, 1);
     }
 
-    if (
-      acao === "diminuir"
-    ) {
-      alterarQuantidade(
-        idCard,
-        -1
-      );
+    if (acao === "diminuir") {
+      alterarQuantidade(idCard, -1);
     }
 
-    if (
-      acao === "remover"
-    ) {
-      removerDoPedido(
-        idCard
-      );
+    if (acao === "remover") {
+      removerDoPedido(idCard);
     }
   }
 );
-
-/* =========================================================
-   ABRIR / FECHAR PEDIDO
-========================================================= */
 
 abrirPedido.addEventListener(
   "click",
@@ -999,25 +716,15 @@ fundoPedido.addEventListener(
 document.addEventListener(
   "keydown",
   (evento) => {
-    if (
-      evento.key === "Escape"
-    ) {
+    if (evento.key === "Escape") {
       fecharPainelPedido();
     }
   }
 );
 
-/* =========================================================
-   FINALIZAR PEDIDO
-========================================================= */
-
 finalizarPedido.addEventListener(
   "click",
   finalizarPedidoPeloWhatsApp
 );
-
-/* =========================================================
-   INICIAR
-========================================================= */
 
 carregarCards();

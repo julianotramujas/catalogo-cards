@@ -3022,20 +3022,6 @@
     "status": "Disponível"
   },
   {
-    "id": 217,
-    "colecao": "worldcup2026",
-    "numero": "HR-426",
-    "nome": "Iliman Ndiaye",
-    "pais": "Senegal",
-    "categoria": "Base",
-    "raridade": "Normal",
-    "tipo": "Jogador",
-    "preco": 1.00,
-    "estoque": 1,
-    "imagem": "assets/cards/hr-426-iliman-ndiaye.jpg",
-    "status": "Disponível"
-  },
-  {
     "id": 218,
     "colecao": "worldcup2026",
     "numero": "HR-424",

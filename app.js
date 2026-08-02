@@ -24,7 +24,7 @@ const finalizarPedido = document.querySelector("#finalizar-pedido");
 */
 const numeroWhatsApp = "5511915275121";
 
-const cardsPorPagina = 50;
+const cardsPorPagina = 12;
 
 let cards = [];
 let filtroAtual = "Todos";

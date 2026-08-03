@@ -431,6 +431,24 @@ button:disabled {
   transform: none;
 }
 
+/* BOTÃO QUANDO O CARD JÁ FOI ADICIONADO */
+
+.botao-adicionar.adicionado {
+  transform: translateY(3px);
+  background: #173228;
+  border-color: var(--cor-dourada);
+  color: var(--cor-dourada);
+
+  box-shadow:
+    inset 0 4px 8px rgba(0, 0, 0, 0.45),
+    0 1px 2px rgba(0, 0, 0, 0.25);
+}
+
+.botao-adicionar.adicionado:hover {
+  transform: translateY(3px);
+  background: #173228;
+}
+
 /* PAGINAÇÃO */
 
 .paginacao {

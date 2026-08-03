@@ -95,6 +95,10 @@ function cardEstaDisponivel(card) {
 function criarCard(card) {
   const disponivel = cardEstaDisponivel(card);
 
+  const estaNoPedido = pedido.some(
+    (item) => Number(item.id) === Number(card.id)
+  );
+
   return `
     <article class="card-produto">
 
@@ -145,12 +149,18 @@ function criarCard(card) {
           </strong>
 
           <button
-            class="botao-adicionar"
+            class="botao-adicionar ${estaNoPedido ? "adicionado" : ""}"
             type="button"
             data-id="${card.id}"
             ${disponivel ? "" : "disabled"}
           >
-            ${disponivel ? "Adicionar" : "Indisponível"}
+            ${
+              disponivel
+                ? estaNoPedido
+                  ? "✓ Adicionado"
+                  : "Adicionar"
+                : "Indisponível"
+            }
           </button>
 
         </div>
@@ -539,6 +549,7 @@ function adicionarAoPedido(idCard) {
     mas NÃO abre o painel.
   */
   atualizarPedido();
+  atualizarCatalogo();
 }
 
 /* =========================================================
@@ -589,8 +600,8 @@ function removerDoPedido(idCard) {
   );
 
   atualizarPedido();
+  atualizarCatalogo();
 }
-
 /* =========================================================
    CRIAR ITEM DO PEDIDO
 ========================================================= */

@@ -4683,7 +4683,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 5.00,
-    "estoque": 0,
+    "estoque": 1,
     "imagem": "assets/cards/bs-037-alisson.jpg",
     "status": "Disponível"
   },
@@ -4837,7 +4837,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 5.00,
-    "estoque": 0,
+    "estoque": 1,
     "imagem": "assets/cards/bs-100-joe-hart.jpg",
     "status": "Disponível"
   },
@@ -5159,7 +5159,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 5.00,
-    "estoque": 0,
+    "estoque": 1,
     "imagem": "assets/cards/bs-262-lukasz-fabianski.jpg",
     "status": "Disponível"
   },
@@ -5313,7 +5313,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 5.00,
-    "estoque": 0,
+    "estoque": 1,
     "imagem": "assets/cards/bs-298-khadim-n'diaye.jpg",
     "status": "Disponível"
   },
@@ -5495,7 +5495,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 5.00,
-    "estoque": 0,
+    "estoque": 1,
     "imagem": "assets/cards/bs-334-aymen-mathlouthi.jpg",
     "status": "Disponível"
   },
@@ -5817,7 +5817,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 15.00,
-    "estoque": 1,
+    "estoque": 2,
     "imagem": "assets/cards/ff-392-igor-akinfeev.jpg",
     "status": "Disponível"
   },
@@ -5859,7 +5859,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 15.00,
-    "estoque": 0,
+    "estoque": 1,
     "imagem": "assets/cards/gs-406-sergio-romero.jpg",
     "status": "Disponível"
   },
@@ -5873,7 +5873,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 7.00,
-    "estoque": 1,
+    "estoque": 2,
     "imagem": "assets/cards/tm-arg01-sergio-romero.jpg",
     "status": "Disponível"
   },
@@ -6125,7 +6125,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 14.00,
-    "estoque": 0,
+    "estoque": 1,
     "imagem": "assets/cards/tm-ger01-manuel-neuer.jpg",
     "status": "Disponível"
   },
@@ -6279,7 +6279,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 7.00,
-    "estoque": 2,
+    "estoque": 3,
     "imagem": "assets/cards/tm-rou01-ciprian-tatarusanu.jpg",
     "status": "Disponível"
   },
@@ -6335,7 +6335,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 7.00,
-    "estoque": 0,
+    "estoque": 1,
     "imagem": "assets/cards/tm-sui01-yann-sommer.jpg",
     "status": "Disponível"
   },

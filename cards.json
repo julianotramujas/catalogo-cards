@@ -1,5 +1,19 @@
 [
   {
+    "id": 469,
+    "colecao": "worldcup2026",
+    "numero": "HR-013",
+    "nome": "Alexis Guendouz",
+    "pais": "Argélia",
+    "categoria": "Base",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 1.25,
+    "estoque": 0,
+    "imagem": "assets/cards/hr-013-alexis-guendouz.jpg",
+    "status": "Disponível"
+  },
+  {
     "id": 1,
     "colecao": "worldcup2026",
     "numero": "HR-014",
@@ -8,7 +22,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 0,
     "imagem": "assets/cards/hr-014-ramy-bensebaini.jpg",
     "status": "Disponível"
@@ -22,7 +36,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 2,
     "imagem": "assets/cards/hr-015-youcef-atal.jpg",
     "status": "Disponível"
@@ -36,7 +50,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 2,
     "imagem": "assets/cards/hr-016-aissa-mandi.jpg",
     "status": "Disponível"
@@ -50,9 +64,23 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 3,
     "imagem": "assets/cards/hr-017-nabil-bentaleb.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 470,
+    "colecao": "worldcup2026",
+    "numero": "HR-018",
+    "nome": "Said Benrahma",
+    "pais": "Argélia",
+    "categoria": "Base",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 1.25,
+    "estoque": 0,
+    "imagem": "assets/cards/hr-018-said-benrahma.jpg",
     "status": "Disponível"
   },
   {
@@ -64,9 +92,23 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 2,
     "imagem": "assets/cards/hr-019-amine-gouiri.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 471,
+    "colecao": "worldcup2026",
+    "numero": "HR-020",
+    "nome": "Mohamend Amoura",
+    "pais": "Argélia",
+    "categoria": "Base",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 1.25,
+    "estoque": 0,
+    "imagem": "assets/cards/hr-020-mohamend-amoura.jpg",
     "status": "Disponível"
   },
   {
@@ -78,7 +120,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 4,
     "imagem": "assets/cards/hr-021-baghdad-bounedjah.jpg",
     "status": "Disponível"
@@ -92,7 +134,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 0,
     "imagem": "assets/cards/hr-025-emiliano-martinez.jpg",
     "status": "Disponível"
@@ -106,7 +148,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 1,
     "imagem": "assets/cards/hr-026-nahuel-molina.jpg",
     "status": "Disponível"
@@ -120,7 +162,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 0,
     "imagem": "assets/cards/hr-027-cristian-romero.jpg",
     "status": "Disponível"
@@ -134,7 +176,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 1,
     "imagem": "assets/cards/hr-028-nicolas-otamendi.jpg",
     "status": "Disponível"
@@ -148,9 +190,23 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 0,
     "imagem": "assets/cards/hr-029-enzo-fernandez.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 472,
+    "colecao": "worldcup2026",
+    "numero": "HR-030",
+    "nome": "Alexis Mac Allister",
+    "pais": "Argentina",
+    "categoria": "Base",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 1.25,
+    "estoque": 0,
+    "imagem": "assets/cards/hr-030-alexis-mac-allister.jpg",
     "status": "Disponível"
   },
   {
@@ -162,7 +218,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 1,
     "imagem": "assets/cards/hr-031-rodrigo-de-paul.jpg",
     "status": "Disponível"
@@ -176,8 +232,22 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 1,
+    "imagem": "assets/cards/hr-032-giuliano-simeone.jpg",
+    "status": "Disponível"
+  },
+   {
+    "id": 13,
+    "colecao": "worldcup2026",
+    "numero": "HR-033",
+    "nome": "Lautaro Martinez",
+    "pais": "Argentina",
+    "categoria": "Base",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 1.25,
+    "estoque": 0,
     "imagem": "assets/cards/hr-032-giuliano-simeone.jpg",
     "status": "Disponível"
   },
@@ -190,9 +260,23 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 2,
     "imagem": "assets/cards/hr-037-alessandro-circati.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 473,
+    "colecao": "worldcup2026",
+    "numero": "HR-038",
+    "nome": "Jordan Bos",
+    "pais": "Austrália",
+    "categoria": "Base",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 1.25,
+    "estoque": 0,
+    "imagem": "assets/cards/hr-038-jordan-bos.jpg",
     "status": "Disponível"
   },
   {
@@ -204,9 +288,23 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 0,
     "imagem": "assets/cards/hr-039-lewis-miller.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 474,
+    "colecao": "worldcup2026",
+    "numero": "HR-040",
+    "nome": "Milos Degenek",
+    "pais": "Austrália",
+    "categoria": "Base",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 1.25,
+    "estoque": 0,
+    "imagem": "assets/cards/hr-040-milos-degenek.jpg",
     "status": "Disponível"
   },
   {
@@ -218,9 +316,23 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 1,
     "imagem": "assets/cards/hr-041-jackson-irvine.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 475,
+    "colecao": "worldcup2026",
+    "numero": "HR-042",
+    "nome": "Riley McGree",
+    "pais": "Austrália",
+    "categoria": "Base",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 1.25,
+    "estoque": 0,
+    "imagem": "assets/cards/hr-042-riley-mcgree.jpg",
     "status": "Disponível"
   },
   {
@@ -232,7 +344,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 0,
     "imagem": "assets/cards/hr-043-aiden-o'neill.jpg",
     "status": "Disponível"
@@ -246,8 +358,22 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 1,
+    "imagem": "assets/cards/hr-044-connor-metcalfe.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 476,
+    "colecao": "worldcup2026",
+    "numero": "HR-045",
+    "nome": "Craig Goodwin",
+    "pais": "Austrália",
+    "categoria": "Base",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 1.25,
+    "estoque": 0,
     "imagem": "assets/cards/hr-044-connor-metcalfe.jpg",
     "status": "Disponível"
   },
@@ -260,7 +386,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 0,
     "imagem": "assets/cards/hr-049-alexander-schlager.jpg",
     "status": "Disponível"
@@ -273,7 +399,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 1,
     "imagem": "assets/cards/hr-050-kevin-danso.jpg",
     "status": "Disponível"
@@ -286,7 +412,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 0,
     "imagem": "assets/cards/hr-051-philipp-lienhart.jpg",
     "status": "Disponível"
@@ -300,9 +426,51 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 4,
     "imagem": "assets/cards/hr-052-konrad-laimer.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 477,
+    "colecao": "worldcup2026",
+    "numero": "HR-053",
+    "nome": "Nicolas Seiwald",
+    "pais": "Austria",
+    "categoria": "Base",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 1.25,
+    "estoque": 0,
+    "imagem": "assets/cards/hr-053-nicolas-seiwald.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 478,
+    "colecao": "worldcup2026",
+    "numero": "HR-054",
+    "nome": "Marcel Sabitzer",
+    "pais": "Austria",
+    "categoria": "Base",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 1.25,
+    "estoque": 0,
+    "imagem": "assets/cards/hr-054-marcel-sabitzer.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 479,
+    "colecao": "worldcup2026",
+    "numero": "HR-055",
+    "nome": "Florian Grillitsch",
+    "pais": "Austria",
+    "categoria": "Base",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 1.25,
+    "estoque": 0,
+    "imagem": "assets/cards/hr-055-florian-grillitsch.jpg",
     "status": "Disponível"
   },
   {
@@ -314,7 +482,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 1,
     "imagem": "assets/cards/hr-056-christoph-baumgartner.jpg",
     "status": "Disponível"
@@ -328,7 +496,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 1,
     "imagem": "assets/cards/hr-057-michael-gregoritsch.jpg",
     "status": "Disponível"
@@ -342,7 +510,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 0,
     "imagem": "assets/cards/hr-061-thibaut-courtois.jpg",
     "status": "Disponível"
@@ -356,7 +524,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 1,
     "imagem": "assets/cards/hr-062-arthur-theate.jpg",
     "status": "Disponível"
@@ -370,7 +538,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 0,
     "imagem": "assets/cards/hr-063-timothy-castagne.jpg",
     "status": "Disponível"
@@ -384,7 +552,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 0,
     "imagem": "assets/cards/hr-064-maxim-de-cuyper.jpg",
     "status": "Disponível"
@@ -398,9 +566,23 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 4,
     "imagem": "assets/cards/hr-065-amadou-onana.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 480,
+    "colecao": "worldcup2026",
+    "numero": "HR-066",
+    "nome": "Jeremy Doku",
+    "pais": "Belgica",
+    "categoria": "Base",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 1.25,
+    "estoque": 0,
+    "imagem": "assets/cards/hr-066-jeremy-doku.jpg",
     "status": "Disponível"
   },
   {
@@ -412,9 +594,23 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 0,
     "imagem": "assets/cards/hr-067-charles-de-ketelaere.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 481,
+    "colecao": "worldcup2026",
+    "numero": "HR-068",
+    "nome": "Leandro Trossard",
+    "pais": "Belgica",
+    "categoria": "Base",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 1.25,
+    "estoque": 0,
+    "imagem": "assets/cards/hr-068-leandro-trossard.jpg",
     "status": "Disponível"
   },
   {
@@ -426,7 +622,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 1,
     "imagem": "assets/cards/hr-069-romelu-lukaku.jpg",
     "status": "Disponível"
@@ -440,7 +636,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 0,
     "imagem": "assets/cards/hr-073-alisson.jpg",
     "status": "Disponível"
@@ -454,9 +650,23 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 0,
     "imagem": "assets/cards/hr-074-danilo.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 482,
+    "colecao": "worldcup2026",
+    "numero": "HR-075",
+    "nome": "Éder Militão",
+    "pais": "Brasil",
+    "categoria": "Base",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 1.25,
+    "estoque": 0,
+    "imagem": "assets/cards/hr-075-eder-militão.jpg",
     "status": "Disponível"
   },
   {
@@ -468,7 +678,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 0,
     "imagem": "assets/cards/hr-076-gabriel-magalhaes.jpg",
     "status": "Disponível"
@@ -482,9 +692,23 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 0,
     "imagem": "assets/cards/hr-077-casemiro.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 483,
+    "colecao": "worldcup2026",
+    "numero": "HR-078",
+    "nome": "Bruno Guimarães",
+    "pais": "Brasil",
+    "categoria": "Base",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 1.25,
+    "estoque": 0,
+    "imagem": "assets/cards/hr-078-bruno-guimarães.jpg",
     "status": "Disponível"
   },
   {
@@ -496,7 +720,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 0,
     "imagem": "assets/cards/hr-079-rodrygo.jpg",
     "status": "Disponível"
@@ -510,7 +734,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 2,
     "imagem": "assets/cards/hr-080-matheus-cunha.jpg",
     "status": "Disponível"
@@ -524,7 +748,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 0,
     "imagem": "assets/cards/hr-085-dayne-st-clair.jpg",
     "status": "Disponível"
@@ -538,7 +762,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 3,
     "imagem": "assets/cards/hr-086-richie-laryea.jpg",
     "status": "Disponível"
@@ -552,7 +776,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 6,
     "imagem": "assets/cards/hr-087-derek-cornelius.jpg",
     "status": "Disponível"
@@ -566,7 +790,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 3,
     "imagem": "assets/cards/hr-088-stephen-eustaquio.jpg",
     "status": "Disponível"
@@ -580,9 +804,23 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 0,
     "imagem": "assets/cards/hr-089-ismael-kone.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 484,
+    "colecao": "worldcup2026",
+    "numero": "HR-090",
+    "nome": "Jonathan Osorio",
+    "pais": "Canadá",
+    "categoria": "Base",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 1.25,
+    "estoque": 0,
+    "imagem": "assets/cards/hr-090-jonathan-osorio.jpg",
     "status": "Disponível"
   },
   {
@@ -594,9 +832,37 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 0,
     "imagem": "assets/cards/hr-091-jacob-shaffelburg.jpg",
+    "status": "Disponível"
+  },
+   {
+    "id": 485,
+    "colecao": "worldcup2026",
+    "numero": "HR-092",
+    "nome": "Tajon Buchanan",
+    "pais": "Canadá",
+    "categoria": "Base",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 1.25,
+    "estoque": 0,
+    "imagem": "assets/cards/hr-092-tajon-buchanan.jpg",
+    "status": "Disponível"
+  },
+   {
+    "id": 486,
+    "colecao": "worldcup2026",
+    "numero": "HR-093",
+    "nome": "Cyle Larin",
+    "pais": "Canadá",
+    "categoria": "Base",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 1.25,
+    "estoque": 0,
+    "imagem": "assets/cards/hr-093-cyle-larin.jpg",
     "status": "Disponível"
   },
   {
@@ -608,9 +874,23 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 2,
     "imagem": "assets/cards/hr-097-logan-costa.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 487,
+    "colecao": "worldcup2026",
+    "numero": "HR-098",
+    "nome": "Pico",
+    "pais": "Cabo Verde",
+    "categoria": "Base",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 1.25,
+    "estoque": 0,
+    "imagem": "assets/cards/hr-098-pico.jpg",
     "status": "Disponível"
   },
   {
@@ -622,7 +902,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 1,
     "imagem": "assets/cards/hr-099-steven-moreira.jpg",
     "status": "Disponível"
@@ -636,7 +916,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 1,
     "imagem": "assets/cards/hr-100-joao-paulo.jpg",
     "status": "Disponível"
@@ -650,7 +930,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 1,
     "imagem": "assets/cards/hr-101-kevin-pina.jpg",
     "status": "Disponível"
@@ -664,7 +944,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 0,
     "imagem": "assets/cards/hr-102-jamiro-monteiro.jpg",
     "status": "Disponível"
@@ -678,7 +958,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 1,
     "imagem": "assets/cards/hr-103-yannick-semedo.jpg",
     "status": "Disponível"
@@ -692,7 +972,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 1,
     "imagem": "assets/cards/hr-104-jovane-cabral.jpg",
     "status": "Disponível"
@@ -706,9 +986,23 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 0,
     "imagem": "assets/cards/hr-105-dailon-livramento.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 488,
+    "colecao": "worldcup2026",
+    "numero": "HR-109",
+    "nome": "Camilo Vargas",
+    "pais": "Colômbia",
+    "categoria": "Base",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 1.25,
+    "estoque": 0,
+    "imagem": "assets/cards/hr-109-camilo-vargas.jpg",
     "status": "Disponível"
   },
   {
@@ -720,7 +1014,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 1,
     "imagem": "assets/cards/hr-110-davinson-sanchez.jpg",
     "status": "Disponível"
@@ -734,7 +1028,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 0,
     "imagem": "assets/cards/hr-111-yerry-mina.jpg",
     "status": "Disponível"
@@ -748,7 +1042,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 0,
     "imagem": "assets/cards/hr-112-daniel-munoz.jpg",
     "status": "Disponível"
@@ -762,9 +1056,37 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 0,
     "imagem": "assets/cards/hr-113-jefferson-lerma.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 489,
+    "colecao": "worldcup2026",
+    "numero": "HR-114",
+    "nome": "Richard Rios",
+    "pais": "Colômbia",
+    "categoria": "Base",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 1.25,
+    "estoque": 0,
+    "imagem": "assets/cards/hr-114-richard-rios.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 490,
+    "colecao": "worldcup2026",
+    "numero": "HR-116",
+    "nome": "Jhon Arias",
+    "pais": "Colômbia",
+    "categoria": "Base",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 1.25,
+    "estoque": 0,
+    "imagem": "assets/cards/hr-116-jhon-arias.jpg",
     "status": "Disponível"
   },
   {
@@ -776,7 +1098,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 2,
     "imagem": "assets/cards/hr-117-luis-suarez.jpg",
     "status": "Disponível"
@@ -790,9 +1112,23 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 1,
     "imagem": "assets/cards/hr-121-dominik-livakovic.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 491,
+    "colecao": "worldcup2026",
+    "numero": "HR-122",
+    "nome": "Duje Caleta-Car",
+    "pais": "Croácia",
+    "categoria": "Base",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 1.25,
+    "estoque": 0,
+    "imagem": "assets/cards/hr-122-duje-caleta-car.jpg",
     "status": "Disponível"
   },
   {
@@ -804,7 +1140,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 1,
     "imagem": "assets/cards/hr-123-josko-gvardiol.jpg",
     "status": "Disponível"
@@ -818,7 +1154,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 4,
     "imagem": "assets/cards/hr-124-josip-stanisic.jpg",
     "status": "Disponível"
@@ -832,7 +1168,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 3,
     "imagem": "assets/cards/hr-125-mateo-kovacic.jpg",
     "status": "Disponível"
@@ -846,7 +1182,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 2,
     "imagem": "assets/cards/hr-126-lovro-majer.jpg",
     "status": "Disponível"
@@ -860,7 +1196,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 3,
     "imagem": "assets/cards/hr-127-mario-palasic.jpg",
     "status": "Disponível"
@@ -874,7 +1210,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.28,
     "estoque": 0,
     "imagem": "assets/cards/hr-128-ante-budimir.jpg",
     "status": "Disponível"
@@ -888,9 +1224,23 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 3,
     "imagem": "assets/cards/hr-129-andrej-kramaric.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 492,
+    "colecao": "worldcup2026",
+    "numero": "HR-133",
+    "nome": "Eloy Room",
+    "pais": "Curaçao",
+    "categoria": "Base",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 1.25,
+    "estoque": 0,
+    "imagem": "assets/cards/hr-133-eloy-room.jpg",
     "status": "Disponível"
   },
   {
@@ -902,7 +1252,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 1,
     "imagem": "assets/cards/hr-134-sherel-floranus.jpg",
     "status": "Disponível"
@@ -916,9 +1266,23 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 0,
     "imagem": "assets/cards/hr-135-roshon-van-eijma.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 493,
+    "colecao": "worldcup2026",
+    "numero": "HR-136",
+    "nome": "Armando Obispo",
+    "pais": "Curaçao",
+    "categoria": "Base",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 1.25,
+    "estoque": 0,
+    "imagem": "assets/cards/hr-136-armando-obispo.jpg",
     "status": "Disponível"
   },
   {
@@ -930,7 +1294,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 0,
     "imagem": "assets/cards/hr-137-livano-comenencia.jpg",
     "status": "Disponível"
@@ -944,7 +1308,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 3,
     "imagem": "assets/cards/hr-138-juninho-bacuna.jpg",
     "status": "Disponível"
@@ -958,7 +1322,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 4,
     "imagem": "assets/cards/hr-139-kenji-gorre.jpg",
     "status": "Disponível"
@@ -972,7 +1336,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 3,
     "imagem": "assets/cards/hr-140-sontje-hansen.jpg",
     "status": "Disponível"
@@ -986,9 +1350,23 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 1,
     "imagem": "assets/cards/hr-141-jearl-margaritha.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 494,
+    "colecao": "worldcup2026",
+    "numero": "HR-145",
+    "nome": "Hernan Galindez",
+    "pais": "Equador",
+    "categoria": "Base",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 1.25,
+    "estoque": 0,
+    "imagem": "assets/cards/hr-145-hernan-galindez.jpg",
     "status": "Disponível"
   },
   {
@@ -1000,7 +1378,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 0,
     "imagem": "assets/cards/hr-146-piero-hincapie.jpg",
     "status": "Disponível"
@@ -1014,7 +1392,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 0,
     "imagem": "assets/cards/hr-147-pervis-estupinan.jpg",
     "status": "Disponível"
@@ -1028,7 +1406,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 0,
     "imagem": "assets/cards/hr-148-willian-pacho.jpg",
     "status": "Disponível"
@@ -1042,7 +1420,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 2,
     "imagem": "assets/cards/hr-149-angelo-preciado.jpg",
     "status": "Disponível"
@@ -1056,7 +1434,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 1,
     "imagem": "assets/cards/hr-150-joel-ordonez.jpg",
     "status": "Disponível"
@@ -1070,9 +1448,37 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 2,
     "imagem": "assets/cards/hr-151-alan-franco.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 495,
+    "colecao": "worldcup2026",
+    "numero": "HR-152",
+    "nome": "Gonzalo Plata",
+    "pais": "Equador",
+    "categoria": "Base",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 1.25,
+    "estoque": 0,
+    "imagem": "assets/cards/hr-152-gonzalo-plata.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 496,
+    "colecao": "worldcup2026",
+    "numero": "HR-153",
+    "nome": "Kevin Rodriguez",
+    "pais": "Equador",
+    "categoria": "Base",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 1.25,
+    "estoque": 0,
+    "imagem": "assets/cards/hr-153-kevin-rodriguez.jpg",
     "status": "Disponível"
   },
   {
@@ -1084,7 +1490,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 1,
     "imagem": "assets/cards/hr-157-mohamed-el-shenawy.jpg",
     "status": "Disponível"
@@ -1098,7 +1504,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 1,
     "imagem": "assets/cards/hr-158-mohamed-hany.jpg",
     "status": "Disponível"
@@ -1112,7 +1518,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 2,
     "imagem": "assets/cards/hr-159-mohamed-abdelmonem.jpg",
     "status": "Disponível"
@@ -1126,7 +1532,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 2,
     "imagem": "assets/cards/hr-160-ramy-rabia.jpg",
     "status": "Disponível"
@@ -1140,7 +1546,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 1,
     "imagem": "assets/cards/hr-161-marwan-attia.jpg",
     "status": "Disponível"
@@ -1154,7 +1560,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 0,
     "imagem": "assets/cards/hr-162-zizo.jpg",
     "status": "Disponível"
@@ -1168,7 +1574,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 3,
     "imagem": "assets/cards/hr-163-hamdy-fathy.jpg",
     "status": "Disponível"
@@ -1182,7 +1588,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 5,
     "imagem": "assets/cards/hr-164-mostafa-mohamed.jpg",
     "status": "Disponível"
@@ -1196,7 +1602,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 3,
     "imagem": "assets/cards/hr-165-trezeguet.jpg",
     "status": "Disponível"
@@ -1210,7 +1616,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 2,
     "imagem": "assets/cards/hr-169-jordan-pickford.jpg",
     "status": "Disponível"
@@ -1224,7 +1630,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 1,
     "imagem": "assets/cards/hr-170-reece-james.jpg",
     "status": "Disponível"
@@ -1238,7 +1644,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 2,
     "imagem": "assets/cards/hr-171-john-stones.jpg",
     "status": "Disponível"
@@ -1252,7 +1658,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 0,
     "imagem": "assets/cards/hr-172-declain-rice.jpg",
     "status": "Disponível"
@@ -1266,7 +1672,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 1,
     "imagem": "assets/cards/hr-173-jordan-henderson.jpg",
     "status": "Disponível"
@@ -1280,7 +1686,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 0,
     "imagem": "assets/cards/hr-174-phil-foden.jpg",
     "status": "Disponível"
@@ -1294,7 +1700,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 0,
     "imagem": "assets/cards/hr-175-bukayo-saka.jpg",
     "status": "Disponível"
@@ -1308,7 +1714,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 0,
     "imagem": "assets/cards/hr-176-cole-palmer.jpg",
     "status": "Disponível"
@@ -1322,7 +1728,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 0,
     "imagem": "assets/cards/hr-177-marcus-rashford.jpg",
     "status": "Disponível"
@@ -1336,7 +1742,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 0,
     "imagem": "assets/cards/hr-181-mike-maignan.jpg",
     "status": "Disponível"
@@ -1350,7 +1756,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 3,
     "imagem": "assets/cards/hr-182-william-saliba.jpg",
     "status": "Disponível"
@@ -1364,7 +1770,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 2,
     "imagem": "assets/cards/hr-183-jules-kounde.jpg",
     "status": "Disponível"
@@ -1378,7 +1784,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 0,
     "imagem": "assets/cards/hr-184-theo-hernandez.jpg",
     "status": "Disponível"
@@ -1392,9 +1798,37 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 2,
     "imagem": "assets/cards/hr-185-aurelien-tchouameni.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 497,
+    "colecao": "worldcup2026",
+    "numero": "HR-186",
+    "nome": "Eduardo Camavinga",
+    "pais": "França",
+    "categoria": "Base",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 1.25,
+    "estoque": 0,
+    "imagem": "assets/cards/hr-186-eduardo-camavinga.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 498,
+    "colecao": "worldcup2026",
+    "numero": "HR-187",
+    "nome": "Bradley Barcola",
+    "pais": "França",
+    "categoria": "Base",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 1.25,
+    "estoque": 0,
+    "imagem": "assets/cards/hr-187-bradley-barcola.jpg",
     "status": "Disponível"
   },
   {
@@ -1406,7 +1840,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 5,
     "imagem": "assets/cards/hr-188-marcus-thuram.jpg",
     "status": "Disponível"
@@ -1420,7 +1854,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 4,
     "imagem": "assets/cards/hr-189-randal-kolo-muani.jpg",
     "status": "Disponível"
@@ -1434,7 +1868,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 0,
     "imagem": "assets/cards/hr-193-marc-andre-ter-stegen.jpg",
     "status": "Disponível"
@@ -1448,7 +1882,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 3,
     "imagem": "assets/cards/hr-194-antonio-rudiger.jpg",
     "status": "Disponível"
@@ -1462,7 +1896,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 0,
     "imagem": "assets/cards/hr-195-jonathan-tah.jpg",
     "status": "Disponível"
@@ -1476,9 +1910,37 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 3,
     "imagem": "assets/cards/hr-196-felix-nmecha.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 499,
+    "colecao": "worldcup2026",
+    "numero": "HR-197",
+    "nome": "Leo Goretzka",
+    "pais": "Alemanha",
+    "categoria": "Base",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 1.25,
+    "estoque": 0,
+    "imagem": "assets/cards/hr-197-leon-goretzka.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 500,
+    "colecao": "worldcup2026",
+    "numero": "HR-198",
+    "nome": "Florian Wirtz",
+    "pais": "Alemanha",
+    "categoria": "Base",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 1.25,
+    "estoque": 0,
+    "imagem": "assets/cards/hr-198-florian-wirtz.jpg",
     "status": "Disponível"
   },
   {
@@ -1490,7 +1952,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 1,
     "imagem": "assets/cards/hr-199-serge-gnabry.jpg",
     "status": "Disponível"
@@ -1504,7 +1966,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 1,
     "imagem": "assets/cards/hr-200-kai-havertz.jpg",
     "status": "Disponível"
@@ -1518,7 +1980,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 0,
     "imagem": "assets/cards/hr-201-leroy-sane.jpg",
     "status": "Disponível"
@@ -1532,7 +1994,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 0,
     "imagem": "assets/cards/hr-205-lawrence-ati-zigi.jpg",
     "status": "Disponível"
@@ -1546,9 +2008,23 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 0,
     "imagem": "assets/cards/hr-206-alidu-seidu.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 501,
+    "colecao": "worldcup2026",
+    "numero": "HR-207",
+    "nome": "Alexander Djiku",
+    "pais": "Gana",
+    "categoria": "Base",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 1.25,
+    "estoque": 0,
+    "imagem": "assets/cards/hr-207-alexander-djiku.jpg",
     "status": "Disponível"
   },
   {
@@ -1560,9 +2036,23 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 1,
     "imagem": "assets/cards/hr-208-gideon-mensah.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 502,
+    "colecao": "worldcup2026",
+    "numero": "HR-209",
+    "nome": "Caleb Yirenkyi",
+    "pais": "Gana",
+    "categoria": "Base",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 1.25,
+    "estoque": 0,
+    "imagem": "assets/cards/hr-209-caleb-yirenkyi.jpg",
     "status": "Disponível"
   },
   {
@@ -1574,9 +2064,23 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 1,
     "imagem": "assets/cards/hr-210-abdul-issahaku-fatawu.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 503,
+    "colecao": "worldcup2026",
+    "numero": "HR-211",
+    "nome": "Kamaldeen Sulemana",
+    "pais": "Gana",
+    "categoria": "Base",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 1.25,
+    "estoque": 0,
+    "imagem": "assets/cards/hr-211-kamaldeen-sulemana.jpg",
     "status": "Disponível"
   },
   {
@@ -1588,7 +2092,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 1,
     "imagem": "assets/cards/hr-212-jordan-ayew.jpg",
     "status": "Disponível"
@@ -1602,9 +2106,23 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 0,
     "imagem": "assets/cards/hr-213-antoine-semenyo.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 504,
+    "colecao": "worldcup2026",
+    "numero": "HR-217",
+    "nome": "Johny Placide",
+    "pais": "Haiti",
+    "categoria": "Base",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 1.25,
+    "estoque": 0,
+    "imagem": "assets/cards/hr-217-johny-placide.jpg",
     "status": "Disponível"
   },
   {
@@ -1616,7 +2134,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 4,
     "imagem": "assets/cards/hr-218-ricardo-ade.jpg",
     "status": "Disponível"
@@ -1630,7 +2148,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 2,
     "imagem": "assets/cards/hr-219-carlens-arcus.jpg",
     "status": "Disponível"
@@ -1644,7 +2162,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 2,
     "imagem": "assets/cards/hr-220-hannes-delcroix.jpg",
     "status": "Disponível"
@@ -1658,7 +2176,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 2,
     "imagem": "assets/cards/hr-221-leverton-pierre.jpg",
     "status": "Disponível"
@@ -1672,7 +2190,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 1,
     "imagem": "assets/cards/hr-222-danley-jean-jacques.jpg",
     "status": "Disponível"
@@ -1686,9 +2204,37 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 1,
     "imagem": "assets/cards/hr-223-jean-ricner-bellegarde.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 505,
+    "colecao": "worldcup2026",
+    "numero": "HR-224",
+    "nome": "Ruben Providence",
+    "pais": "Haiti",
+    "categoria": "Base",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 1.25,
+    "estoque": 0,
+    "imagem": "assets/cards/hr-224-ruben-providence.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 506,
+    "colecao": "worldcup2026",
+    "numero": "HR-225",
+    "nome": "Don Deedson Louicius",
+    "pais": "Haiti",
+    "categoria": "Base",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 1.25,
+    "estoque": 0,
+    "imagem": "assets/cards/hr-225-don-deedson-louicius.jpg",
     "status": "Disponível"
   },
   {
@@ -1700,7 +2246,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 3,
     "imagem": "assets/cards/hr-229-alireza-beiranvand.jpg",
     "status": "Disponível"
@@ -1714,7 +2260,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 3,
     "imagem": "assets/cards/hr-230-shoja-khalilzadeh.jpg",
     "status": "Disponível"
@@ -1728,7 +2274,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 0,
     "imagem": "assets/cards/hr-231-milad-mohammadi.jpg",
     "status": "Disponível"
@@ -1742,9 +2288,51 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 3,
     "imagem": "assets/cards/hr-232-ramin-rezaeian.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 507,
+    "colecao": "worldcup2026",
+    "numero": "HR-233",
+    "nome": "Hossein Kanaani",
+    "pais": "Iran",
+    "categoria": "Base",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 1.25,
+    "estoque": 0,
+    "imagem": "assets/cards/hr-233-hossein-kanaani.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 508,
+    "colecao": "worldcup2026",
+    "numero": "HR-234",
+    "nome": "Saeid Ezatolahi",
+    "pais": "Iran",
+    "categoria": "Base",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 1.25,
+    "estoque": 0,
+    "imagem": "assets/cards/hr-234-saeid-ezatolahi.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 509,
+    "colecao": "worldcup2026",
+    "numero": "HR-235",
+    "nome": "Saman Ghoddos",
+    "pais": "Iran",
+    "categoria": "Base",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 1.25,
+    "estoque": 0,
+    "imagem": "assets/cards/hr-235-saman-ghoddos.jpg",
     "status": "Disponível"
   },
   {
@@ -1756,7 +2344,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 0,
     "imagem": "assets/cards/hr-236-mohammad-mohebi.jpg",
     "status": "Disponível"
@@ -1770,9 +2358,23 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 2,
     "imagem": "assets/cards/hr-237-alireza-jahanbakhsh.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 510,
+    "colecao": "worldcup2026",
+    "numero": "HR-241",
+    "nome": "Yahia Fofana",
+    "pais": "Costa do Marfim",
+    "categoria": "Base",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 1.25,
+    "estoque": 0,
+    "imagem": "assets/cards/hr-241-yahia-fofana.jpg",
     "status": "Disponível"
   },
   {
@@ -1784,9 +2386,23 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 0,
     "imagem": "assets/cards/hr-242-ghislain-konan.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 511,
+    "colecao": "worldcup2026",
+    "numero": "HR-243",
+    "nome": "Odilon Kossounou",
+    "pais": "Costa do Marfim",
+    "categoria": "Base",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 1.25,
+    "estoque": 0,
+    "imagem": "assets/cards/hr-243-odilon-kossounou.jpg",
     "status": "Disponível"
   },
   {
@@ -1798,7 +2414,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 1,
     "imagem": "assets/cards/hr-244-evan-n'dicka.jpg",
     "status": "Disponível"
@@ -1812,9 +2428,23 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 0,
     "imagem": "assets/cards/hr-245-wilfried-singo.jpg",
+    "status": "Disponível"
+  },
+   {
+    "id": 512,
+    "colecao": "worldcup2026",
+    "numero": "HR-246",
+    "nome": "Ibrahim Sangaré",
+    "pais": "Costa do Marfim",
+    "categoria": "Base",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 1.25,
+    "estoque": 0,
+    "imagem": "assets/cards/hr-246-ibrahim-sangaré.jpg",
     "status": "Disponível"
   },
   {
@@ -1826,9 +2456,23 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 3,
     "imagem": "assets/cards/hr-247-nicolas-pepe.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 513,
+    "colecao": "worldcup2026",
+    "numero": "HR-248",
+    "nome": "Simon Adingra",
+    "pais": "Costa do Marfim",
+    "categoria": "Base",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 1.25,
+    "estoque": 0,
+    "imagem": "assets/cards/hr-248-simon-adingra.jpg",
     "status": "Disponível"
   },
   {
@@ -1840,7 +2484,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 1,
     "imagem": "assets/cards/hr-249-oumar-diakite.jpg",
     "status": "Disponível"
@@ -1854,7 +2498,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 1,
     "imagem": "assets/cards/hr-253-zion-suzuki.jpg",
     "status": "Disponível"
@@ -1868,7 +2512,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 2,
     "imagem": "assets/cards/hr-254-tsuyoshi-watanabe.jpg",
     "status": "Disponível"
@@ -1882,7 +2526,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 1,
     "imagem": "assets/cards/hr-255-kaishu-sano.jpg",
     "status": "Disponível"
@@ -1896,7 +2540,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 1,
     "imagem": "assets/cards/hr-256-ao-tanaka.jpg",
     "status": "Disponível"
@@ -1910,7 +2554,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 0,
     "imagem": "assets/cards/hr-257-daichi-kamada.jpg",
     "status": "Disponível"
@@ -1924,7 +2568,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 2,
     "imagem": "assets/cards/hr-258-ritsu-doan.jpg",
     "status": "Disponível"
@@ -1938,9 +2582,23 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 1,
     "imagem": "assets/cards/hr-259-keito-nakamura.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 514,
+    "colecao": "worldcup2026",
+    "numero": "HR-260",
+    "nome": "Shuto Machino",
+    "pais": "Japão",
+    "categoria": "Base",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 1.25,
+    "estoque": 0,
+    "imagem": "assets/cards/hr-260-shuto-machino.jpg",
     "status": "Disponível"
   },
   {
@@ -1952,7 +2610,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 6,
     "imagem": "assets/cards/hr-261-ayase-ueda.jpg",
     "status": "Disponível"
@@ -1966,9 +2624,37 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 0,
     "imagem": "assets/cards/hr-265-yazeed-abulaila.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 515,
+    "colecao": "worldcup2026",
+    "numero": "HR-266",
+    "nome": "Mohammad Abu Hashish",
+    "pais": "Jordânia",
+    "categoria": "Base",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 1.25,
+    "estoque": 0,
+    "imagem": "assets/cards/hr-266-mohammad-abu-hashish.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 516,
+    "colecao": "worldcup2026",
+    "numero": "HR-267",
+    "nome": "Yazan Al Arab",
+    "pais": "Jordânia",
+    "categoria": "Base",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 1.25,
+    "estoque": 0,
+    "imagem": "assets/cards/hr-267-yazan-al-arab.jpg",
     "status": "Disponível"
   },
   {
@@ -1980,7 +2666,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 0,
     "imagem": "assets/cards/hr-268-abdallah-nasib.jpg",
     "status": "Disponível"
@@ -1994,9 +2680,37 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 2,
     "imagem": "assets/cards/hr-269-ibrahim-saadeh.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 517,
+    "colecao": "worldcup2026",
+    "numero": "HR-270",
+    "nome": "Nizar Al Rashdan",
+    "pais": "Jordânia",
+    "categoria": "Base",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 1.25,
+    "estoque": 0,
+    "imagem": "assets/cards/hr-270-nizar-al-rashdan.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 518,
+    "colecao": "worldcup2026",
+    "numero": "HR-271",
+    "nome": "Noor Al Rawabdeh",
+    "pais": "Jordânia",
+    "categoria": "Base",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 1.25,
+    "estoque": 0,
+    "imagem": "assets/cards/hr-271-noor-al-rawabdeh.jpg",
     "status": "Disponível"
   },
   {
@@ -2008,7 +2722,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 1,
     "imagem": "assets/cards/hr-272-mahmoud-al-mardi.jpg",
     "status": "Disponível"
@@ -2022,7 +2736,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 1,
     "imagem": "assets/cards/hr-273-ali-olwan.jpg",
     "status": "Disponível"
@@ -2036,7 +2750,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 0,
     "imagem": "assets/cards/hr-277-hyeonwoo-jo.jpg",
     "status": "Disponível"
@@ -2050,7 +2764,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 1,
     "imagem": "assets/cards/hr-278-youngwoo-seol.jpg",
     "status": "Disponível"
@@ -2064,7 +2778,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 2,
     "imagem": "assets/cards/hr-279-yumin-cho.jpg",
     "status": "Disponível"
@@ -2078,9 +2792,23 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 2,
     "imagem": "assets/cards/hr-280-taeseok-lee.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 519,
+    "colecao": "worldcup2026",
+    "numero": "HR-281",
+    "nome": "Inbeom Hwang",
+    "pais": "Coréia do Sul",
+    "categoria": "Base",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 1.25,
+    "estoque": 0,
+    "imagem": "assets/cards/hr-281-inbeom-hwang.jpg",
     "status": "Disponível"
   },
   {
@@ -2092,7 +2820,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 0,
     "imagem": "assets/cards/hr-282-jaesung-lee.jpg",
     "status": "Disponível"
@@ -2106,7 +2834,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 2,
     "imagem": "assets/cards/hr-283-kangin-lee.jpg",
     "status": "Disponível"
@@ -2120,7 +2848,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 0,
     "imagem": "assets/cards/hr-284-hyeongyu-oh.jpg",
     "status": "Disponível"
@@ -2134,7 +2862,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 2,
     "imagem": "assets/cards/hr-285-heechan-hwang.jpg",
     "status": "Disponível"
@@ -2148,7 +2876,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 3,
     "imagem": "assets/cards/hr-289-luis-malagon.jpg",
     "status": "Disponível"
@@ -2162,9 +2890,51 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 1,
     "imagem": "assets/cards/hr-290-israel-reyes.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 520,
+    "colecao": "worldcup2026",
+    "numero": "HR-291",
+    "nome": "Johan Vasquez",
+    "pais": "México",
+    "categoria": "Base",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 1.25,
+    "estoque": 0,
+    "imagem": "assets/cards/hr-291-johan-vasquez.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 521,
+    "colecao": "worldcup2026",
+    "numero": "HR-292",
+    "nome": "César Montes",
+    "pais": "México",
+    "categoria": "Base",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 1.25,
+    "estoque": 0,
+    "imagem": "assets/cards/hr-292-cesar-montes.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 522,
+    "colecao": "worldcup2026",
+    "numero": "HR-293",
+    "nome": "Jesus Gallardo",
+    "pais": "México",
+    "categoria": "Base",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 1.25,
+    "estoque": 0,
+    "imagem": "assets/cards/hr-293-jesus-gallardo.jpg",
     "status": "Disponível"
   },
   {
@@ -2176,7 +2946,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 1,
     "imagem": "assets/cards/hr-294-carlos-rodriguez.jpg",
     "status": "Disponível"
@@ -2190,9 +2960,37 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 2,
     "imagem": "assets/cards/hr-295-orbelin-pineda.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 523,
+    "colecao": "worldcup2026",
+    "numero": "HR-296",
+    "nome": "Hirving Lozano",
+    "pais": "México",
+    "categoria": "Base",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 1.25,
+    "estoque": 0,
+    "imagem": "assets/cards/hr-296-hirving-lozano.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 524,
+    "colecao": "worldcup2026",
+    "numero": "HR-297",
+    "nome": "Santiago Gimenez",
+    "pais": "México",
+    "categoria": "Base",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 1.25,
+    "estoque": 0,
+    "imagem": "assets/cards/hr-297-santiago-gimenez.jpg",
     "status": "Disponível"
   },
   {
@@ -2204,9 +3002,23 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 3,
     "imagem": "assets/cards/hr-301-yassine-bounou.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 525,
+    "colecao": "worldcup2026",
+    "numero": "HR-302",
+    "nome": "Noussair Mazraoui",
+    "pais": "Marrocos",
+    "categoria": "Base",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 1.25,
+    "estoque": 0,
+    "imagem": "assets/cards/hr-302-noussair-mazraoui.jpg",
     "status": "Disponível"
   },
   {
@@ -2218,7 +3030,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 1,
     "imagem": "assets/cards/hr-303-nayef-aguerd.jpg",
     "status": "Disponível"
@@ -2232,7 +3044,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 2,
     "imagem": "assets/cards/hr-304-sofyan-amrabat.jpg",
     "status": "Disponível"
@@ -2246,9 +3058,37 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 2,
     "imagem": "assets/cards/hr-305-eliesse-ben-seghir.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 526,
+    "colecao": "worldcup2026",
+    "numero": "HR-306",
+    "nome": "Ismael Saibari",
+    "pais": "Marrocos",
+    "categoria": "Base",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 1.25,
+    "estoque": 0,
+    "imagem": "assets/cards/hr-306-ismael-saibari.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 527,
+    "colecao": "worldcup2026",
+    "numero": "HR-307",
+    "nome": "Brahim Diaz",
+    "pais": "Marrocos",
+    "categoria": "Base",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 1.25,
+    "estoque": 0,
+    "imagem": "assets/cards/hr-307-brahim-diaz.jpg",
     "status": "Disponível"
   },
   {
@@ -2260,7 +3100,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 1,
     "imagem": "assets/cards/hr-308-abde-ezzalzouli.jpg",
     "status": "Disponível"
@@ -2274,7 +3114,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 3,
     "imagem": "assets/cards/hr-309-ayoub-el-kaabi.jpg",
     "status": "Disponível"
@@ -2288,7 +3128,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 0,
     "imagem": "assets/cards/hr-313-bart-verbruggen.jpg",
     "status": "Disponível"
@@ -2302,7 +3142,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 3,
     "imagem": "assets/cards/hr-314-nathan-ake.jpg",
     "status": "Disponível"
@@ -2316,7 +3156,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 4,
     "imagem": "assets/cards/hr-315-jeremie-frimpong.jpg",
     "status": "Disponível"
@@ -2330,9 +3170,23 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 0,
     "imagem": "assets/cards/hr-316-denzel-dumfries.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 528,
+    "colecao": "worldcup2026",
+    "numero": "HR-317",
+    "nome": "Tijjani Reijnders",
+    "pais": "Holanda",
+    "categoria": "Base",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 1.25,
+    "estoque": 0,
+    "imagem": "assets/cards/hr-317-tijjani-reijnders.jpg",
     "status": "Disponível"
   },
   {
@@ -2344,7 +3198,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 1,
     "imagem": "assets/cards/hr-318-ryan-gravenberch.jpg",
     "status": "Disponível"
@@ -2358,7 +3212,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 0,
     "imagem": "assets/cards/hr-319-cody-gakpo.jpg",
     "status": "Disponível"
@@ -2372,9 +3226,23 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 1,
     "imagem": "assets/cards/hr-320-donyell-malen.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 529,
+    "colecao": "worldcup2026",
+    "numero": "HR-321",
+    "nome": "Wout Weghorst",
+    "pais": "Holanda",
+    "categoria": "Base",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 1.25,
+    "estoque": 0,
+    "imagem": "assets/cards/hr-321-wout-weghorst.jpg",
     "status": "Disponível"
   },
   {
@@ -2386,7 +3254,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 0,
     "imagem": "assets/cards/hr-325-max-crocombe.jpg",
     "status": "Disponível"
@@ -2400,9 +3268,23 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 0,
     "imagem": "assets/cards/hr-326-michael-boxall.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 530,
+    "colecao": "worldcup2026",
+    "numero": "HR-327",
+    "nome": "Liberato Cacace",
+    "pais": "Nova Zelândia",
+    "categoria": "Base",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 1.25,
+    "estoque": 0,
+    "imagem": "assets/cards/hr-327-liberato-cacace.jpg",
     "status": "Disponível"
   },
   {
@@ -2414,9 +3296,51 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 1,
     "imagem": "assets/cards/hr-328-tim-payne.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 531,
+    "colecao": "worldcup2026",
+    "numero": "HR-329",
+    "nome": "Finn Surman",
+    "pais": "Nova Zelândia",
+    "categoria": "Base",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 1.25,
+    "estoque": 0,
+    "imagem": "assets/cards/hr-329-finn-surman.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 532,
+    "colecao": "worldcup2026",
+    "numero": "HR-330",
+    "nome": "Joe Bell",
+    "pais": "Nova Zelândia",
+    "categoria": "Base",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 1.25,
+    "estoque": 0,
+    "imagem": "assets/cards/hr-330-joe-bell.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 533,
+    "colecao": "worldcup2026",
+    "numero": "HR-331",
+    "nome": "Sarpreet Singh",
+    "pais": "Nova Zelândia",
+    "categoria": "Base",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 1.25,
+    "estoque": 0,
+    "imagem": "assets/cards/hr-331-sarpreet-singh.jpg",
     "status": "Disponível"
   },
   {
@@ -2428,7 +3352,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 1,
     "imagem": "assets/cards/hr-332-matt-garbett.jpg",
     "status": "Disponível"
@@ -2442,9 +3366,37 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 2,
     "imagem": "assets/cards/hr-333-elijah-just.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 534,
+    "colecao": "worldcup2026",
+    "numero": "HR-337",
+    "nome": "Orjan Nyland",
+    "pais": "Noruega",
+    "categoria": "Base",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 1.25,
+    "estoque": 0,
+    "imagem": "assets/cards/hr-337-orjan-nyland.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 535,
+    "colecao": "worldcup2026",
+    "numero": "HR-338",
+    "nome": "Julian Ryerson",
+    "pais": "Noruega",
+    "categoria": "Base",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 1.25,
+    "estoque": 0,
+    "imagem": "assets/cards/hr-338-julian-ryerson.jpg",
     "status": "Disponível"
   },
   {
@@ -2456,9 +3408,51 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 0,
     "imagem": "assets/cards/hr-339-kristoffer-vassbakk-ajer.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 536,
+    "colecao": "worldcup2026",
+    "numero": "HR-340",
+    "nome": "David Moller Wolfe",
+    "pais": "Noruega",
+    "categoria": "Base",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 1.25,
+    "estoque": 0,
+    "imagem": "assets/cards/hr-340-david-moller-wolfe.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 537,
+    "colecao": "worldcup2026",
+    "numero": "HR-341",
+    "nome": "Sander Berge",
+    "pais": "Noruega",
+    "categoria": "Base",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 1.25,
+    "estoque": 0,
+    "imagem": "assets/cards/hr-341-sander-berge.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 538,
+    "colecao": "worldcup2026",
+    "numero": "HR-342",
+    "nome": "Patrick Berg",
+    "pais": "Noruega",
+    "categoria": "Base",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 1.25,
+    "estoque": 0,
+    "imagem": "assets/cards/hr-342-patrick-berg.jpg",
     "status": "Disponível"
   },
   {
@@ -2470,7 +3464,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 1,
     "imagem": "assets/cards/hr-343-antonio-nusa.jpg",
     "status": "Disponível"
@@ -2484,7 +3478,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 1,
     "imagem": "assets/cards/hr-344-oscar-bobb.jpg",
     "status": "Disponível"
@@ -2498,7 +3492,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 0,
     "imagem": "assets/cards/hr-345-alexander-sorloth.jpg",
     "status": "Disponível"
@@ -2512,7 +3506,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 1,
     "imagem": "assets/cards/hr-349-orlando-mosquera.jpg",
     "status": "Disponível"
@@ -2526,7 +3520,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 0,
     "imagem": "assets/cards/hr-350-andres-andrade.jpg",
     "status": "Disponível"
@@ -2540,7 +3534,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 0,
     "imagem": "assets/cards/hr-351-fidel-escobar.jpg",
     "status": "Disponível"
@@ -2554,9 +3548,23 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 0,
     "imagem": "assets/cards/hr-352-cristian-martinez.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 539,
+    "colecao": "worldcup2026",
+    "numero": "HR-353",
+    "nome": "Adalberto Carraquilla",
+    "pais": "Panamá",
+    "categoria": "Base",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 1.25,
+    "estoque": 0,
+    "imagem": "assets/cards/hr-353-adalberto-carrasquilla.jpg",
     "status": "Disponível"
   },
   {
@@ -2568,7 +3576,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 6,
     "imagem": "assets/cards/hr-354-edgar-barcenas.jpg",
     "status": "Disponível"
@@ -2582,9 +3590,23 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 2,
     "imagem": "assets/cards/hr-355-jose-fajardo.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 540,
+    "colecao": "worldcup2026",
+    "numero": "HR-356",
+    "nome": "Ismael Diaz",
+    "pais": "Panamá",
+    "categoria": "Base",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 1.25,
+    "estoque": 0,
+    "imagem": "assets/cards/hr-356-ismael-diaz.jpg",
     "status": "Disponível"
   },
   {
@@ -2596,7 +3618,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 0,
     "imagem": "assets/cards/hr-357-jose-luis-rodriguez.jpg",
     "status": "Disponível"
@@ -2610,9 +3632,37 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 4,
     "imagem": "assets/cards/hr-361-roberto-fernandez.jpg",
+    "status": "Disponível"
+  },
+   {
+    "id": 541,
+    "colecao": "worldcup2026",
+    "numero": "HR-362",
+    "nome": "Juan José Cáceres",
+    "pais": "Paraguai",
+    "categoria": "Base",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 1.25,
+    "estoque": 0,
+    "imagem": "assets/cards/hr-362-juan-jose-caceres.jpg",
+    "status": "Disponível"
+  },
+   {
+    "id": 542,
+    "colecao": "worldcup2026",
+    "numero": "HR-363",
+    "nome": "Omar Alderete",
+    "pais": "Paraguai",
+    "categoria": "Base",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 1.25,
+    "estoque": 0,
+    "imagem": "assets/cards/hr-363-omar-alderete.jpg",
     "status": "Disponível"
   },
   {
@@ -2624,7 +3674,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 3,
     "imagem": "assets/cards/hr-364-junior-alonso.jpg",
     "status": "Disponível"
@@ -2638,7 +3688,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 3,
     "imagem": "assets/cards/hr-365-andres-cubas.jpg",
     "status": "Disponível"
@@ -2652,7 +3702,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 3,
     "imagem": "assets/cards/hr-366-mathias-villasanti.jpg",
     "status": "Disponível"
@@ -2666,7 +3716,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 0,
     "imagem": "assets/cards/hr-367-julio-enciso.jpg",
     "status": "Disponível"
@@ -2680,9 +3730,93 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 1,
     "imagem": "assets/cards/hr-368-ramon-sosa.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 543,
+    "colecao": "worldcup2026",
+    "numero": "HR-373",
+    "nome": "Antonio Sanabria",
+    "pais": "Paraguai",
+    "categoria": "Base",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 1.25,
+    "estoque": 1,
+    "imagem": "assets/cards/hr-369-antonio-sanabria.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 544,
+    "colecao": "worldcup2026",
+    "numero": "HR-373",
+    "nome": "Diogo Costa",
+    "pais": "Portugal",
+    "categoria": "Base",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 1.25,
+    "estoque": 0,
+    "imagem": "assets/cards/hr-373-diogo-costa.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 545,
+    "colecao": "worldcup2026",
+    "numero": "HR-374",
+    "nome": "Ruben Dias",
+    "pais": "Portugal",
+    "categoria": "Base",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 1.25,
+    "estoque": 0,
+    "imagem": "assets/cards/hr-374-ruben-dias.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 546,
+    "colecao": "worldcup2026",
+    "numero": "HR-375",
+    "nome": "Nuno Mendes",
+    "pais": "Portugal",
+    "categoria": "Base",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 1.25,
+    "estoque": 0,
+    "imagem": "assets/cards/hr-375-nuno-mendes.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 547,
+    "colecao": "worldcup2026",
+    "numero": "HR-376",
+    "nome": "Bernardo Silva",
+    "pais": "Portugal",
+    "categoria": "Base",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 1.25,
+    "estoque": 0,
+    "imagem": "assets/cards/hr-376-bernardo-silva.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 548,
+    "colecao": "worldcup2026",
+    "numero": "HR-377",
+    "nome": "Bruno Fernandes",
+    "pais": "Portugal",
+    "categoria": "Base",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 1.25,
+    "estoque": 0,
+    "imagem": "assets/cards/hr-377-bruno-fernandes.jpg",
     "status": "Disponível"
   },
   {
@@ -2694,9 +3828,23 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 1,
     "imagem": "assets/cards/hr-378-ruben-neves.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 549,
+    "colecao": "worldcup2026",
+    "numero": "HR-379",
+    "nome": "Francisco Conceição",
+    "pais": "Portugal",
+    "categoria": "Base",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 1.25,
+    "estoque": 0,
+    "imagem": "assets/cards/hr-379-francisco-conceição.jpg",
     "status": "Disponível"
   },
   {
@@ -2708,9 +3856,23 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 0,
     "imagem": "assets/cards/hr-380-pedro-neto.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 550,
+    "colecao": "worldcup2026",
+    "numero": "HR-385",
+    "nome": "Meshaal Barsham",
+    "pais": "Qatar",
+    "categoria": "Base",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 1.25,
+    "estoque": 0,
+    "imagem": "assets/cards/hr-385-meshaal-barsham.jpg",
     "status": "Disponível"
   },
   {
@@ -2722,9 +3884,23 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 1,
     "imagem": "assets/cards/hr-386-boualem-khoukhi.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 551,
+    "colecao": "worldcup2026",
+    "numero": "HR-387",
+    "nome": "Lucas Mendes",
+    "pais": "Qatar",
+    "categoria": "Base",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 1.25,
+    "estoque": 0,
+    "imagem": "assets/cards/hr-387-lucas-mendes.jpg",
     "status": "Disponível"
   },
   {
@@ -2736,7 +3912,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 0,
     "imagem": "assets/cards/hr-388-pedro-miguel.jpg",
     "status": "Disponível"
@@ -2750,7 +3926,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 4,
     "imagem": "assets/cards/hr-389-homam-al-amin.jpg",
     "status": "Disponível"
@@ -2764,7 +3940,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 0,
     "imagem": "assets/cards/hr-390-ahmed-fathi.jpg",
     "status": "Disponível"
@@ -2778,7 +3954,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 2,
     "imagem": "assets/cards/hr-391-edmilson-junior.jpg",
     "status": "Disponível"
@@ -2792,7 +3968,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 1,
     "imagem": "assets/cards/hr-392-ahmed-al-ganehi.jpg",
     "status": "Disponível"
@@ -2806,9 +3982,23 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 0,
     "imagem": "assets/cards/hr-393-akram-hassan-afif.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 552,
+    "colecao": "worldcup2026",
+    "numero": "HR-397",
+    "nome": "Nawaf Alaqidi",
+    "pais": "Arábia Saudita",
+    "categoria": "Base",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 1.25,
+    "estoque": 0,
+    "imagem": "assets/cards/hr-397-nawaf-alaqidi.jpg",
     "status": "Disponível"
   },
   {
@@ -2820,9 +4010,23 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 0,
     "imagem": "assets/cards/hr-398-hassan-altambakti.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 553,
+    "colecao": "worldcup2026",
+    "numero": "HR-399",
+    "nome": "Jehad Thikri",
+    "pais": "Arábia Saudita",
+    "categoria": "Base",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 1.25,
+    "estoque": 0,
+    "imagem": "assets/cards/hr-399-jehad-thikri.jpg",
     "status": "Disponível"
   },
   {
@@ -2834,7 +4038,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 0,
     "imagem": "assets/cards/hr-400-saud-abdulhamid.jpg",
     "status": "Disponível"
@@ -2848,7 +4052,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 2,
     "imagem": "assets/cards/hr-401-nasser-aldawsari.jpg",
     "status": "Disponível"
@@ -2862,7 +4066,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 0,
     "imagem": "assets/cards/hr-402-abdullah-alkhaibari.jpg",
     "status": "Disponível"
@@ -2876,7 +4080,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 0,
     "imagem": "assets/cards/hr-403-musab-aljuwayr.jpg",
     "status": "Disponível"
@@ -2890,7 +4094,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 1,
     "imagem": "assets/cards/hr-404-saleh-abu-alshamat.jpg",
     "status": "Disponível"
@@ -2904,7 +4108,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 2,
     "imagem": "assets/cards/hr-405-saleh-alshehri.jpg",
     "status": "Disponível"
@@ -2918,7 +4122,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 0,
     "imagem": "assets/cards/hr-409-angus-gunn.jpg",
     "status": "Disponível"
@@ -2932,7 +4136,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 0,
     "imagem": "assets/cards/hr-410-kieran-tierney.jpg",
     "status": "Disponível"
@@ -2946,7 +4150,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 1,
     "imagem": "assets/cards/hr-411-grant-hanley.jpg",
     "status": "Disponível"
@@ -2960,7 +4164,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 1,
     "imagem": "assets/cards/hr-412-billy-gilmour.jpg",
     "status": "Disponível"
@@ -2974,7 +4178,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 1,
     "imagem": "assets/cards/hr-413-lewis-ferguson.jpg",
     "status": "Disponível"
@@ -2988,7 +4192,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 1,
     "imagem": "assets/cards/hr-414-ryan-christie.jpg",
     "status": "Disponível"
@@ -3002,7 +4206,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 3,
     "imagem": "assets/cards/hr-416-ben-gannon-doak.jpg",
     "status": "Disponível"
@@ -3016,9 +4220,51 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 0,
     "imagem": "assets/cards/hr-417-che-adams.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 554,
+    "colecao": "worldcup2026",
+    "numero": "HR-421",
+    "nome": "Edouard Mendy",
+    "pais": "Senegal",
+    "categoria": "Base",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 1.25,
+    "estoque": 0,
+    "imagem": "assets/cards/hr-421-edouard-mendy.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 555,
+    "colecao": "worldcup2026",
+    "numero": "HR-422",
+    "nome": "Moussa Niakhate",
+    "pais": "Senegal",
+    "categoria": "Base",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 1.25,
+    "estoque": 0,
+    "imagem": "assets/cards/hr-422-moussa-niakhate.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 556,
+    "colecao": "worldcup2026",
+    "numero": "HR-423",
+    "nome": "El Hadji Malick Diouf",
+    "pais": "Senegal",
+    "categoria": "Base",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 1.25,
+    "estoque": 0,
+    "imagem": "assets/cards/hr-423-el-hadji-malick-diouf.jpg",
     "status": "Disponível"
   },
   {
@@ -3030,7 +4276,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 1,
     "imagem": "assets/cards/hr-424-idrissa-gana-gueye.jpg",
     "status": "Disponível"
@@ -3044,7 +4290,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 1,
     "imagem": "assets/cards/hr-425-pape-matar-sarr.jpg",
     "status": "Disponível"
@@ -3058,9 +4304,23 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 3,
     "imagem": "assets/cards/hr-426-iliman-ndiaye.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 557,
+    "colecao": "worldcup2026",
+    "numero": "HR-427",
+    "nome": "Krepin Diatta",
+    "pais": "Senegal",
+    "categoria": "Base",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 1.25,
+    "estoque": 0,
+    "imagem": "assets/cards/hr-427-krepin-diatta.jpg",
     "status": "Disponível"
   },
   {
@@ -3072,7 +4332,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 0,
     "imagem": "assets/cards/hr-428-ismaila-sarr.jpg",
     "status": "Disponível"
@@ -3086,7 +4346,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 1,
     "imagem": "assets/cards/hr-429-nicolas-jackson.jpg",
     "status": "Disponível"
@@ -3100,7 +4360,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 2,
     "imagem": "assets/cards/hr-433-siyabonga-ngezana.jpg",
     "status": "Disponível"
@@ -3114,7 +4374,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 2,
     "imagem": "assets/cards/hr-434-aubrey-modiba.jpg",
     "status": "Disponível"
@@ -3128,7 +4388,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 1,
     "imagem": "assets/cards/hr-435-mbekezeli-mbokazi.jpg",
     "status": "Disponível"
@@ -3142,7 +4402,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 3,
     "imagem": "assets/cards/hr-436-khuliso-mudau.jpg",
     "status": "Disponível"
@@ -3156,7 +4416,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 4,
     "imagem": "assets/cards/hr-437-teboho-mokoena.jpg",
     "status": "Disponível"
@@ -3170,9 +4430,23 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 1,
     "imagem": "assets/cards/hr-438-yaya-sithole.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 558,
+    "colecao": "worldcup2026",
+    "numero": "HR-439",
+    "nome": "Themba Zwane",
+    "pais": "África do Sul",
+    "categoria": "Base",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 1.25,
+    "estoque": 0,
+    "imagem": "assets/cards/hr-439-themba-zwane.jpg",
     "status": "Disponível"
   },
   {
@@ -3184,7 +4458,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 1,
     "imagem": "assets/cards/hr-440-oswin-appollis.jpg",
     "status": "Disponível"
@@ -3198,7 +4472,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 4,
     "imagem": "assets/cards/hr-441-iqraam-rayners.jpg",
     "status": "Disponível"
@@ -3212,7 +4486,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 0,
     "imagem": "assets/cards/hr-445-unai-simon.jpg",
     "status": "Disponível"
@@ -3226,9 +4500,37 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 0,
     "imagem": "assets/cards/hr-446-robin-le-normand.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 559,
+    "colecao": "worldcup2026",
+    "numero": "HR-447",
+    "nome": "Dean Huijsen",
+    "pais": "Espanha",
+    "categoria": "Base",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 1.25,
+    "estoque": 0,
+    "imagem": "assets/cards/hr-447-dean-huijsen.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 560,
+    "colecao": "worldcup2026",
+    "numero": "HR-448",
+    "nome": "Marc Cucurella",
+    "pais": "Espanha",
+    "categoria": "Base",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 1.25,
+    "estoque": 0,
+    "imagem": "assets/cards/hr-448-marc-cucurella.jpg",
     "status": "Disponível"
   },
   {
@@ -3240,9 +4542,37 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 2,
     "imagem": "assets/cards/hr-449-martin-zubimendi.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 561,
+    "colecao": "worldcup2026",
+    "numero": "HR-450",
+    "nome": "Pedri",
+    "pais": "Espanha",
+    "categoria": "Base",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 1.25,
+    "estoque": 0,
+    "imagem": "assets/cards/hr-450-pedri.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 562,
+    "colecao": "worldcup2026",
+    "numero": "HR-451",
+    "nome": "Fabian Ruiz",
+    "pais": "Espanha",
+    "categoria": "Base",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 1.25,
+    "estoque": 0,
+    "imagem": "assets/cards/hr-451-fabian-ruiz.jpg",
     "status": "Disponível"
   },
   {
@@ -3254,7 +4584,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 3,
     "imagem": "assets/cards/hr-452-nico-williams.jpg",
     "status": "Disponível"
@@ -3268,7 +4598,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 1,
     "imagem": "assets/cards/hr-453-mikel-oyarzabal.jpg",
     "status": "Disponível"
@@ -3282,9 +4612,23 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 0,
     "imagem": "assets/cards/hr-457-gregor-kobel.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 563,
+    "colecao": "worldcup2026",
+    "numero": "HR-458",
+    "nome": "Nico Elvedi",
+    "pais": "Suiça",
+    "categoria": "Base",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 1.25,
+    "estoque": 0,
+    "imagem": "assets/cards/hr-458-nico-elvedi.jpg",
     "status": "Disponível"
   },
   {
@@ -3296,9 +4640,23 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 0,
     "imagem": "assets/cards/hr-459-ricardo-rodriguez.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 564,
+    "colecao": "worldcup2026",
+    "numero": "HR-460",
+    "nome": "Silvan Widmer",
+    "pais": "Suiça",
+    "categoria": "Base",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 1.25,
+    "estoque": 0,
+    "imagem": "assets/cards/hr-460-silvan-widmer.jpg",
     "status": "Disponível"
   },
   {
@@ -3310,7 +4668,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 0,
     "imagem": "assets/cards/hr-461-denis-zakaria.jpg",
     "status": "Disponível"
@@ -3324,9 +4682,23 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 2,
     "imagem": "assets/cards/hr-462-remo-freuler.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 565,
+    "colecao": "worldcup2026",
+    "numero": "HR-463",
+    "nome": "Breel Embolo",
+    "pais": "Suiça",
+    "categoria": "Base",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 1.25,
+    "estoque": 0,
+    "imagem": "assets/cards/hr-463-breel-embolo.jpg",
     "status": "Disponível"
   },
   {
@@ -3338,7 +4710,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 1,
     "imagem": "assets/cards/hr-464-ruben-vargas.jpg",
     "status": "Disponível"
@@ -3352,7 +4724,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 2,
     "imagem": "assets/cards/hr-465-dan-ndoye.jpg",
     "status": "Disponível"
@@ -3360,15 +4732,85 @@
   {
     "id": 242,
     "colecao": "worldcup2026",
+    "numero": "HR-469",
+    "nome": "Ali Abdi",
+    "pais": "Tunísia",
+    "categoria": "Base",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 1.25,
+    "estoque": 0,
+    "imagem": "assets/cards/hr-472-ali-abdi.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 566,
+    "colecao": "worldcup2026",
+    "numero": "HR-470",
+    "nome": "Montassar Talbi",
+    "pais": "Tunísia",
+    "categoria": "Base",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 1.25,
+    "estoque": 0,
+    "imagem": "assets/cards/hr-470-montassar-talbi.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 567,
+    "colecao": "worldcup2026",
+    "numero": "HR-471",
+    "nome": "Yassine Meriah",
+    "pais": "Tunísia",
+    "categoria": "Base",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 1.25,
+    "estoque": 0,
+    "imagem": "assets/cards/hr-471-yassine-meriah.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 568,
+    "colecao": "worldcup2026",
     "numero": "HR-472",
     "nome": "Ali Abdi",
     "pais": "Tunísia",
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 0,
     "imagem": "assets/cards/hr-472-ali-abdi.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 569,
+    "colecao": "worldcup2026",
+    "numero": "HR-473",
+    "nome": "Aissa Laidouni",
+    "pais": "Tunísia",
+    "categoria": "Base",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 1.25,
+    "estoque": 0,
+    "imagem": "assets/cards/hr-473-aissa-laidouni.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 570,
+    "colecao": "worldcup2026",
+    "numero": "HR-474",
+    "nome": "Hannibal Mejbri",
+    "pais": "Tunísia",
+    "categoria": "Base",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 1.25,
+    "estoque": 0,
+    "imagem": "assets/cards/hr-474-hannibal-mejbri.jpg",
     "status": "Disponível"
   },
   {
@@ -3380,7 +4822,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 3,
     "imagem": "assets/cards/hr-475-naim-sliti.jpg",
     "status": "Disponível"
@@ -3394,7 +4836,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 1,
     "imagem": "assets/cards/hr-476-elias-achouri.jpg",
     "status": "Disponível"
@@ -3408,7 +4850,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 0,
     "imagem": "assets/cards/hr-477-hazem-mastouri.jpg",
     "status": "Disponível"
@@ -3422,9 +4864,23 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 2,
     "imagem": "assets/cards/hr-481-matt-freese.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 571,
+    "colecao": "worldcup2026",
+    "numero": "HR-482",
+    "nome": "Chris Richards",
+    "pais": "EUA",
+    "categoria": "Base",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 1.25,
+    "estoque": 0,
+    "imagem": "assets/cards/hr-482-chris-richards.jpg",
     "status": "Disponível"
   },
   {
@@ -3436,7 +4892,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 0,
     "imagem": "assets/cards/hr-483-tim-ream.jpg",
     "status": "Disponível"
@@ -3450,7 +4906,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 0,
     "imagem": "assets/cards/hr-484-antonee-robinson.jpg",
     "status": "Disponível"
@@ -3464,9 +4920,37 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 3,
     "imagem": "assets/cards/hr-485-tanner-tessmann.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 571,
+    "colecao": "worldcup2026",
+    "numero": "HR-486",
+    "nome": "Tyler Adams",
+    "pais": "EUA",
+    "categoria": "Base",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 1.25,
+    "estoque": 0,
+    "imagem": "assets/cards/hr-486-tyler-adams.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 572,
+    "colecao": "worldcup2026",
+    "numero": "HR-487",
+    "nome": "Timothy Weah",
+    "pais": "EUA",
+    "categoria": "Base",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 1.25,
+    "estoque": 0,
+    "imagem": "assets/cards/hr-487-timothy-weah.jpg",
     "status": "Disponível"
   },
   {
@@ -3478,9 +4962,23 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 0,
     "imagem": "assets/cards/hr-488-malik-tillman.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 573,
+    "colecao": "worldcup2026",
+    "numero": "HR-489",
+    "nome": "Folarin Balogun",
+    "pais": "EUA",
+    "categoria": "Base",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 1.25,
+    "estoque": 0,
+    "imagem": "assets/cards/hr-489-folarin-balogun.jpg",
     "status": "Disponível"
   },
   {
@@ -3492,7 +4990,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 1,
     "imagem": "assets/cards/hr-493-sergio-rochet.jpg",
     "status": "Disponível"
@@ -3506,7 +5004,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 2,
     "imagem": "assets/cards/hr-494-ronald-araujo.jpg",
     "status": "Disponível"
@@ -3520,7 +5018,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 3,
     "imagem": "assets/cards/hr-495-sebastian-caceres.jpg",
     "status": "Disponível"
@@ -3534,7 +5032,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 0,
     "imagem": "assets/cards/hr-496-mathias-oliveira.jpg",
     "status": "Disponível"
@@ -3548,7 +5046,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 2,
     "imagem": "assets/cards/hr-497-nahitan-nandez.jpg",
     "status": "Disponível"
@@ -3562,7 +5060,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 1,
     "imagem": "assets/cards/hr-498-rodrigo-bentancur.jpg",
     "status": "Disponível"
@@ -3576,7 +5074,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 1,
     "imagem": "assets/cards/hr-499-manuel-ugarte.jpg",
     "status": "Disponível"
@@ -3590,7 +5088,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 0,
     "imagem": "assets/cards/hr-500-facundo-pellistri.jpg",
     "status": "Disponível"
@@ -3604,9 +5102,23 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 2,
     "imagem": "assets/cards/hr-501-darwin-nunez.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 574,
+    "colecao": "worldcup2026",
+    "numero": "HR-505",
+    "nome": "Utkir Yusupov",
+    "pais": "Uzbequistão",
+    "categoria": "Base",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 1.25,
+    "estoque": 0,
+    "imagem": "assets/cards/hr-505-utkir-yusupov.jpg",
     "status": "Disponível"
   },
   {
@@ -3618,7 +5130,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 1,
     "imagem": "assets/cards/hr-506-farrukh-sayfiev.jpg",
     "status": "Disponível"
@@ -3632,9 +5144,37 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 1,
     "imagem": "assets/cards/hr-507-sherzod-nasrullaev.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 575,
+    "colecao": "worldcup2026",
+    "numero": "HR-508",
+    "nome": "Husniddin Aliqulov",
+    "pais": "Uzbequistão",
+    "categoria": "Base",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 1.25,
+    "estoque": 0,
+    "imagem": "assets/cards/hr-508-husniddin-aliqulov.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 576,
+    "colecao": "worldcup2026",
+    "numero": "HR-509",
+    "nome": "Rustam Ashurmatov",
+    "pais": "Uzbequistão",
+    "categoria": "Base",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 1.25,
+    "estoque": 0,
+    "imagem": "assets/cards/hr-509-rustam-ashurmatov.jpg",
     "status": "Disponível"
   },
   {
@@ -3646,9 +5186,37 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 1,
     "imagem": "assets/cards/hr-510-khojiakbar-alijonov.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 577,
+    "colecao": "worldcup2026",
+    "numero": "HR-511",
+    "nome": "Odiljon Hamrobekov",
+    "pais": "Uzbequistão",
+    "categoria": "Base",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 1.25,
+    "estoque": 0,
+    "imagem": "assets/cards/hr-511-odiljon-hamrobekov.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 578,
+    "colecao": "worldcup2026",
+    "numero": "HR-512",
+    "nome": "Otabek Shukurov",
+    "pais": "Uzbequistão",
+    "categoria": "Base",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 1.25,
+    "estoque": 0,
+    "imagem": "assets/cards/hr-512-otabek-shukurov.jpg",
     "status": "Disponível"
   },
   {
@@ -3660,7 +5228,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 0,
     "imagem": "assets/cards/hr-513-abbosbek-fayzullaev.jpg",
     "status": "Disponível"
@@ -3674,7 +5242,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Repescagem",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 0,
     "imagem": "assets/cards/ctd-514.jpg",
     "status": "Disponível"
@@ -3688,7 +5256,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Repescagem",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 0,
     "imagem": "assets/cards/ctd-515.jpg",
     "status": "Disponível"
@@ -3702,7 +5270,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Repescagem",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 0,
     "imagem": "assets/cards/ctd-516.jpg",
     "status": "Disponível"
@@ -3716,7 +5284,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Repescagem",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 3,
     "imagem": "assets/cards/ctd-517.jpg",
     "status": "Disponível"
@@ -3730,7 +5298,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Repescagem",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 3,
     "imagem": "assets/cards/ctd-519.jpg",
     "status": "Disponível"
@@ -3744,7 +5312,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 2,
     "imagem": "assets/cards/ctd-521-pierre-emile-hojbjerg.jpg",
     "status": "Disponível"
@@ -3758,7 +5326,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 0,
     "imagem": "assets/cards/ctd-522-christian-eriksen.jpg",
     "status": "Disponível"
@@ -3772,7 +5340,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 0,
     "imagem": "assets/cards/ctd-523-mikkel-damsgaard.jpg",
     "status": "Disponível"
@@ -3786,7 +5354,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 1,
     "imagem": "assets/cards/ctd-526-alessandro-bastoni.jpg",
     "status": "Disponível"
@@ -3800,7 +5368,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 0,
     "imagem": "assets/cards/ctd-527-sandro-tonali.jpg",
     "status": "Disponível"
@@ -3814,7 +5382,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 0,
     "imagem": "assets/cards/ctd-528-nicolo-barella.jpg",
     "status": "Disponível"
@@ -3828,7 +5396,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 4,
     "imagem": "assets/cards/ctd-529-moise-kean.jpg",
     "status": "Disponível"
@@ -3842,7 +5410,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 1,
     "imagem": "assets/cards/ctd-530-andre-blake.jpg",
     "status": "Disponível"
@@ -3856,7 +5424,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 2,
     "imagem": "assets/cards/ctd-532-demarai-gray.jpg",
     "status": "Disponível"
@@ -3870,7 +5438,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 1,
     "imagem": "assets/cards/ctd-533-leon-bailey.jpg",
     "status": "Disponível"
@@ -3884,7 +5452,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 6,
     "imagem": "assets/cards/ctd-534-shamar-nicholson.jpg",
     "status": "Disponível"
@@ -3898,7 +5466,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 1,
     "imagem": "assets/cards/ctd-535-matty-cash.jpg",
     "status": "Disponível"
@@ -3912,7 +5480,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 2,
     "imagem": "assets/cards/ctd-536-jakub-kiwior.jpg",
     "status": "Disponível"
@@ -3926,7 +5494,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 3,
     "imagem": "assets/cards/ctd-538-sebastian-szymanski.jpg",
     "status": "Disponível"
@@ -3940,7 +5508,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 1,
     "imagem": "assets/cards/ctd-539-robert-lewandowski.jpg",
     "status": "Disponível"
@@ -3954,7 +5522,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 0,
     "imagem": "assets/cards/ctd-541-dejan-kulusevski.jpg",
     "status": "Disponível"
@@ -3968,7 +5536,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 1,
     "imagem": "assets/cards/ctd-544-alexander-isak.jpg",
     "status": "Disponível"
@@ -3982,7 +5550,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 0,
     "imagem": "assets/cards/ctd-545-çaglar-soyuncu.jpg",
     "status": "Disponível"
@@ -3996,7 +5564,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 0,
     "imagem": "assets/cards/ctd-546-hakan-çalhanoglu.jpg",
     "status": "Disponível"
@@ -4010,7 +5578,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 1,
     "imagem": "assets/cards/ctd-547-arda-guler.jpg",
     "status": "Disponível"
@@ -4024,7 +5592,7 @@
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.00,
+    "preco": 1.25,
     "estoque": 0,
     "imagem": "assets/cards/ctd-548-kenan-yildiz.jpg",
     "status": "Disponível"
@@ -4038,7 +5606,7 @@
     "categoria": "Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.50,
+    "preco": 1.75,
     "estoque": 0,
     "imagem": "assets/cards/mt-36-mathew-ryan.jpg",
     "status": "Disponível"
@@ -4052,7 +5620,7 @@
     "categoria": "Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.50,
+    "preco": 1.75,
     "estoque": 0,
     "imagem": "assets/cards/mt-48-david-alaba.jpg",
     "status": "Disponível"
@@ -4066,7 +5634,7 @@
     "categoria": "Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.50,
+    "preco": 1.75,
     "estoque": 0,
     "imagem": "assets/cards/mt-58-youri-tielemans.jpg",
     "status": "Disponível"
@@ -4080,7 +5648,7 @@
     "categoria": "Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.50,
+    "preco": 1.75,
     "estoque": 0,
     "imagem": "assets/cards/mt-96-ryan-mendes.jpg",
     "status": "Disponível"
@@ -4094,7 +5662,7 @@
     "categoria": "Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.50,
+    "preco": 1.75,
     "estoque": 0,
     "imagem": "assets/cards/mt-106-luis-diaz.jpg",
     "status": "Disponível"
@@ -4108,7 +5676,7 @@
     "categoria": "Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.50,
+    "preco": 1.75,
     "estoque": 0,
     "imagem": "assets/cards/mt-118-ivan-perisic.jpg",
     "status": "Disponível"
@@ -4122,7 +5690,7 @@
     "categoria": "Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.50,
+    "preco": 1.75,
     "estoque": 0,
     "imagem": "assets/cards/mt-154-omar-marmoush.jpg",
     "status": "Disponível"
@@ -4136,7 +5704,7 @@
     "categoria": "Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.50,
+    "preco": 1.75,
     "estoque": 0,
     "imagem": "assets/cards/mt-167-logo.jpg",
     "status": "Disponível"
@@ -4150,7 +5718,7 @@
     "categoria": "Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.50,
+    "preco": 1.75,
     "estoque": 0,
     "imagem": "assets/cards/mt-190-jamal-musiala.jpg",
     "status": "Disponível"
@@ -4164,7 +5732,7 @@
     "categoria": "Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.50,
+    "preco": 1.75,
     "estoque": 0,
     "imagem": "assets/cards/mt-191-logo.jpg",
     "status": "Disponível"
@@ -4178,7 +5746,7 @@
     "categoria": "Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.50,
+    "preco": 1.75,
     "estoque": 1,
     "imagem": "assets/cards/mt-252-takefusa-kubo.jpg",
     "status": "Disponível"
@@ -4192,7 +5760,7 @@
     "categoria": "Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.50,
+    "preco": 1.75,
     "estoque": 0,
     "imagem": "assets/cards/mt-274-minjae-kim.jpg",
     "status": "Disponível"
@@ -4206,7 +5774,7 @@
     "categoria": "Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.50,
+    "preco": 1.75,
     "estoque": 0,
     "imagem": "assets/cards/mt-324-chris-wood.jpg",
     "status": "Disponível"
@@ -4220,7 +5788,7 @@
     "categoria": "Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.50,
+    "preco": 1.75,
     "estoque": 0,
     "imagem": "assets/cards/mt-346-michael-amir-murillo.jpg",
     "status": "Disponível"
@@ -4234,7 +5802,7 @@
     "categoria": "Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.50,
+    "preco": 1.75,
     "estoque": 0,
     "imagem": "assets/cards/mt-382-almoez-ali.jpg",
     "status": "Disponível"
@@ -4248,7 +5816,7 @@
     "categoria": "Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.50,
+    "preco": 1.75,
     "estoque": 0,
     "imagem": "assets/cards/mt-395-logo.jpg",
     "status": "Disponível"
@@ -4262,7 +5830,7 @@
     "categoria": "Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.50,
+    "preco": 1.75,
     "estoque": 0,
     "imagem": "assets/cards/mt-491-logo.jpg",
     "status": "Disponível"
@@ -4276,7 +5844,7 @@
     "categoria": "Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.50,
+    "preco": 1.75,
     "estoque": 0,
     "imagem": "assets/cards/mt-550-emiliano-martinez.jpg",
     "status": "Disponível"
@@ -4290,7 +5858,7 @@
     "categoria": "Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.50,
+    "preco": 1.75,
     "estoque": 0,
     "imagem": "assets/cards/mt-554-zion-suzuki.jpg",
     "status": "Disponível"
@@ -4304,7 +5872,7 @@
     "categoria": "Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.50,
+    "preco": 1.75,
     "estoque": 0,
     "imagem": "assets/cards/mt-557-unai-simon.jpg",
     "status": "Disponível"
@@ -4318,7 +5886,7 @@
     "categoria": "Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.50,
+    "preco": 1.75,
     "estoque": 0,
     "imagem": "assets/cards/mt-559-eder-militao.jpg",
     "status": "Disponível"
@@ -4332,7 +5900,7 @@
     "categoria": "Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.50,
+    "preco": 1.75,
     "estoque": 0,
     "imagem": "assets/cards/mt-563-minjae-kim.jpg",
     "status": "Disponível"
@@ -4346,7 +5914,7 @@
     "categoria": "Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.50,
+    "preco": 1.75,
     "estoque": 0,
     "imagem": "assets/cards/mt-566-nuno-mendes.jpg",
     "status": "Disponível"
@@ -4360,7 +5928,7 @@
     "categoria": "Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.50,
+    "preco": 1.75,
     "estoque": 0,
     "imagem": "assets/cards/mt-574-aurelien-tchouameni.jpg",
     "status": "Disponível"
@@ -4374,7 +5942,7 @@
     "categoria": "Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.50,
+    "preco": 1.75,
     "estoque": 0,
     "imagem": "assets/cards/mt-579-vitinha.jpg",
     "status": "Disponível"
@@ -4388,7 +5956,7 @@
     "categoria": "Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.50,
+    "preco": 1.75,
     "estoque": 1,
     "imagem": "assets/cards/mt-589-jonathan-david.jpg",
     "status": "Disponível"
@@ -4402,7 +5970,7 @@
     "categoria": "Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.50,
+    "preco": 1.75,
     "estoque": 0,
     "imagem": "assets/cards/mt-590-luis-diaz.jpg",
     "status": "Disponível"
@@ -4416,7 +5984,7 @@
     "categoria": "Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.50,
+    "preco": 1.75,
     "estoque": 0,
     "imagem": "assets/cards/mt-591-andrej-kramaric.jpg",
     "status": "Disponível"
@@ -4430,7 +5998,7 @@
     "categoria": "Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.50,
+    "preco": 1.75,
     "estoque": 0,
     "imagem": "assets/cards/mt-595-randal-kolo-muani.jpg",
     "status": "Disponível"
@@ -4444,7 +6012,7 @@
     "categoria": "Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.50,
+    "preco": 1.75,
     "estoque": 0,
     "imagem": "assets/cards/mt-596-kai-havertz.jpg",
     "status": "Disponível"
@@ -4458,7 +6026,7 @@
     "categoria": "Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.50,
+    "preco": 1.75,
     "estoque": 0,
     "imagem": "assets/cards/mt-598-raul-jimenez.jpg",
     "status": "Disponível"
@@ -4472,7 +6040,7 @@
     "categoria": "Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.50,
+    "preco": 1.75,
     "estoque": 0,
     "imagem": "assets/cards/mt-602-alexander-sorloth.jpg",
     "status": "Disponível"
@@ -4486,7 +6054,7 @@
     "categoria": "Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.50,
+    "preco": 1.75,
     "estoque": 0,
     "imagem": "assets/cards/mt-605-breel-embolo.jpg",
     "status": "Disponível"
@@ -4500,7 +6068,7 @@
     "categoria": "Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.50,
+    "preco": 1.75,
     "estoque": 0,
     "imagem": "assets/cards/mt-611-wesley.jpg",
     "status": "Disponível"
@@ -4514,7 +6082,7 @@
     "categoria": "Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.50,
+    "preco": 1.75,
     "estoque": 0,
     "imagem": "assets/cards/mt-619-xavi-simons.jpg",
     "status": "Disponível"
@@ -4528,7 +6096,7 @@
     "categoria": "Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.50,
+    "preco": 1.75,
     "estoque": 0,
     "imagem": "assets/cards/mt-623-pau-cubarsi.jpg",
     "status": "Disponível"
@@ -4542,7 +6110,7 @@
     "categoria": "Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.50,
+    "preco": 1.75,
     "estoque": 0,
     "imagem": "assets/cards/mt-627-zayu.jpg",
     "status": "Disponível"

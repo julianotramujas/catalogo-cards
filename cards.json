@@ -3738,7 +3738,7 @@
   {
     "id": 543,
     "colecao": "worldcup2026",
-    "numero": "HR-373",
+    "numero": "HR-369",
     "nome": "Antonio Sanabria",
     "pais": "Paraguai",
     "categoria": "Base",
@@ -4733,14 +4733,14 @@
     "id": 242,
     "colecao": "worldcup2026",
     "numero": "HR-469",
-    "nome": "Ali Abdi",
+    "nome": "Aymen Dahmen",
     "pais": "Tunísia",
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 1.25,
     "estoque": 0,
-    "imagem": "assets/cards/hr-472-ali-abdi.jpg",
+    "imagem": "assets/cards/hr-469-aymen-dahmen.jpg",
     "status": "Disponível"
   },
   {

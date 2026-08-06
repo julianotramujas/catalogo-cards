@@ -136,10 +136,6 @@ function criarCard(card) {
             ${card.pais}
           </p>
 
-          <p class="card-status">
-            ${disponivel ? "Disponível" : card.status}
-          </p>
-
         </div>
 
         <div class="card-rodape">

@@ -5294,7 +5294,7 @@
     "colecao": "worldcup2026",
     "numero": "CTD-514",
     "nome": "Contenders",
-    "pais": "Indefenido",
+    "pais": "Repescagem",
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Repescagem",
@@ -5308,7 +5308,7 @@
     "colecao": "worldcup2026",
     "numero": "CTD-515",
     "nome": "Contenders",
-    "pais": "Indefenido",
+    "pais": "Repescagem",
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Repescagem",
@@ -5322,7 +5322,7 @@
     "colecao": "worldcup2026",
     "numero": "CTD-516",
     "nome": "Contenders",
-    "pais": "Indefenido",
+    "pais": "Repescagem",
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Repescagem",
@@ -5336,7 +5336,7 @@
     "colecao": "worldcup2026",
     "numero": "CTD-517",
     "nome": "Contenders",
-    "pais": "Indefenido",
+    "pais": "Repescagem",
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Repescagem",
@@ -5346,17 +5346,45 @@
     "status": "Disponível"
   },
   {
+    "id": 584,
+    "colecao": "worldcup2026",
+    "numero": "CTD-518",
+    "nome": "Contenders",
+    "pais": "Repescagem",
+    "categoria": "Base",
+    "raridade": "Normal",
+    "tipo": "Repescagem",
+    "preco": 1.25,
+    "estoque": 0,
+    "imagem": "assets/cards/ctd-518.jpg",
+    "status": "Disponível"
+  },
+  {
     "id": 268,
     "colecao": "worldcup2026",
     "numero": "CTD-519",
     "nome": "Contenders",
-    "pais": "Indefenido",
+    "pais": "Repescagem",
     "categoria": "Base",
     "raridade": "Normal",
     "tipo": "Repescagem",
     "preco": 1.25,
     "estoque": 3,
     "imagem": "assets/cards/ctd-519.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 585,
+    "colecao": "worldcup2026",
+    "numero": "CTD-520",
+    "nome": "Morten Hjulmand",
+    "pais": "Dinamarca",
+    "categoria": "Base",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 1.25,
+    "estoque": 0,
+    "imagem": "assets/cards/ctd-520-morten-hjulmand.jpg",
     "status": "Disponível"
   },
   {
@@ -5399,6 +5427,34 @@
     "preco": 1.25,
     "estoque": 0,
     "imagem": "assets/cards/ctd-523-mikkel-damsgaard.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 586,
+    "colecao": "worldcup2026",
+    "numero": "CTD-524",
+    "nome": "Rasmus Hojlund",
+    "pais": "Dinamarca",
+    "categoria": "Base",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 1.25,
+    "estoque": 0,
+    "imagem": "assets/cards/ctd-524-rasmus-hojlund.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 587,
+    "colecao": "worldcup2026",
+    "numero": "CTD-525",
+    "nome": "Gianluigi Donnarumma",
+    "pais": "Itália",
+    "categoria": "Base",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 1.25,
+    "estoque": 0,
+    "imagem": "assets/cards/ctd-525-gianluigi-donnarumma.jpg",
     "status": "Disponível"
   },
   {
@@ -5472,6 +5528,20 @@
     "status": "Disponível"
   },
   {
+    "id": 588,
+    "colecao": "worldcup2026",
+    "numero": "CTD-531",
+    "nome": "Ethan Pinnock",
+    "pais": "Jamaica",
+    "categoria": "Base",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 1.25,
+    "estoque": 0,
+    "imagem": "assets/cards/ctd-531-ethan-pinnock.jpg",
+    "status": "Disponível"
+  },
+  {
     "id": 277,
     "colecao": "worldcup2026",
     "numero": "CTD-532",
@@ -5542,6 +5612,20 @@
     "status": "Disponível"
   },
   {
+    "id": 589,
+    "colecao": "worldcup2026",
+    "numero": "CTD-537",
+    "nome": "Piotr Zielinski",
+    "pais": "Polônia",
+    "categoria": "Base",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 1.25,
+    "estoque": 0,
+    "imagem": "assets/cards/ctd-537-piotr-zielinski.jpg",
+    "status": "Disponível"
+  },
+  {
     "id": 282,
     "colecao": "worldcup2026",
     "numero": "CTD-538",
@@ -5570,6 +5654,20 @@
     "status": "Disponível"
   },
   {
+    "id": 590,
+    "colecao": "worldcup2026",
+    "numero": "CTD-540",
+    "nome": "Isak Hien",
+    "pais": "Suécia",
+    "categoria": "Base",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 1.25,
+    "estoque": 0,
+    "imagem": "assets/cards/ctd-540-isak-hien.jpg",
+    "status": "Disponível"
+  },
+  {
     "id": 284,
     "colecao": "worldcup2026",
     "numero": "CTD-541",
@@ -5581,6 +5679,34 @@
     "preco": 1.25,
     "estoque": 0,
     "imagem": "assets/cards/ctd-541-dejan-kulusevski.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 591,
+    "colecao": "worldcup2026",
+    "numero": "CTD-542",
+    "nome": "Antony Elanga",
+    "pais": "Suécia",
+    "categoria": "Base",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 1.25,
+    "estoque": 0,
+    "imagem": "assets/cards/ctd-542-antony-elanga.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 592,
+    "colecao": "worldcup2026",
+    "numero": "CTD-543",
+    "nome": "Viktor Gyokeres",
+    "pais": "Suécia",
+    "categoria": "Base",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 1.25,
+    "estoque": 0,
+    "imagem": "assets/cards/ctd-543-viktor-gyokeres.jpg",
     "status": "Disponível"
   },
   {
@@ -5651,6 +5777,20 @@
     "preco": 1.25,
     "estoque": 0,
     "imagem": "assets/cards/ctd-548-kenan-yildiz.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 593,
+    "colecao": "worldcup2026",
+    "numero": "CTD-549",
+    "nome": "Kerem Akturkoglu",
+    "pais": "Turquia",
+    "categoria": "Base",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 1.25,
+    "estoque": 0,
+    "imagem": "assets/cards/ctd-549-kerem-akturkoglu.jpg",
     "status": "Disponível"
   },
   {

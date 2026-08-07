@@ -248,7 +248,7 @@
     "tipo": "Jogador",
     "preco": 1.25,
     "estoque": 0,
-    "imagem": "assets/cards/hr-032-giuliano-simeone.jpg",
+    "imagem": "assets/cards/hr-033-lautaro-martinez.jpg",
     "status": "Disponível"
   },
   {
@@ -374,7 +374,7 @@
     "tipo": "Jogador",
     "preco": 1.25,
     "estoque": 0,
-    "imagem": "assets/cards/hr-044-connor-metcalfe.jpg",
+    "imagem": "assets/cards/hr-045-craig-goodwin.jpg",
     "status": "Disponível"
   },
   {
@@ -737,6 +737,20 @@
     "preco": 1.25,
     "estoque": 2,
     "imagem": "assets/cards/hr-080-matheus-cunha.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 582,
+    "colecao": "worldcup2026",
+    "numero": "HR-081",
+    "nome": "Raphinha",
+    "pais": "Brasil",
+    "categoria": "Base",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 1.25,
+    "estoque": 0,
+    "imagem": "assets/cards/hr-081-raphinha.jpg",
     "status": "Disponível"
   },
   {
@@ -3873,6 +3887,20 @@
     "preco": 1.25,
     "estoque": 0,
     "imagem": "assets/cards/hr-380-pedro-neto.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 583,
+    "colecao": "worldcup2026",
+    "numero": "HR-381",
+    "nome": "Pedro Neto",
+    "pais": "Portugal",
+    "categoria": "Base",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 1.25,
+    "estoque": 0,
+    "imagem": "assets/cards/hr-381-rafael-leão.jpg",
     "status": "Disponível"
   },
   {

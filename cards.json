@@ -6160,15 +6160,15 @@
   {
     "id": 615,
     "colecao": "worldcup2026",
-    "numero": "FF-106",
-    "nome": "Luis Diaz",
+    "numero": "IC-108",
+    "nome": "James Rodriguez",
     "pais": "Colômbia",
     "categoria": "Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 1.75,
     "estoque": 0,
-    "imagem": "assets/cards/mt-106-luis-diaz.jpg",
+    "imagem": "assets/cards/mt-108-james-rodriguez.jpg",
     "status": "Disponível"
   },
   {

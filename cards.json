@@ -1076,6 +1076,20 @@
     "status": "Disponível"
   },
   {
+    "id": 580,
+    "colecao": "worldcup2026",
+    "numero": "HR-115",
+    "nome": "Juan Fernando Quintero",
+    "pais": "Colômbia",
+    "categoria": "Base",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 1.25,
+    "estoque": 1,
+    "imagem": "assets/cards/hr-115-juan-fernando-quintero.jpg",
+    "status": "Disponível"
+  },
+  {
     "id": 490,
     "colecao": "worldcup2026",
     "numero": "HR-116",
@@ -4195,6 +4209,20 @@
     "preco": 1.25,
     "estoque": 1,
     "imagem": "assets/cards/hr-414-ryan-christie.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 581,
+    "colecao": "worldcup2026",
+    "numero": "HR-415",
+    "nome": "John McGinn",
+    "pais": "Escócia",
+    "categoria": "Base",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 1.25,
+    "estoque": 1,
+    "imagem": "assets/cards/hr-415-john-mcginn.jpg",
     "status": "Disponível"
   },
   {

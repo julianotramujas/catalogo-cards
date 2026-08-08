@@ -8594,20 +8594,6 @@
     "status": "Disponível"
   },
   {
-    "id": 770,
-    "colecao": "worldcup2026",
-    "numero": "TÇ-624",
-    "nome": "Taça",
-    "pais": "FIFA",
-    "categoria": "Momentum",
-    "raridade": "Raro",
-    "tipo": "Jogador",
-    "preco": 150.00,
-    "estoque": 3,
-    "imagem": "assets/cards/mt-624-taça.jpg",
-    "status": "Disponível"
-  },
-  {
     "id": 759,
     "colecao": "worldcup2026",
     "numero": "MR-625",
@@ -8731,6 +8717,20 @@
     "preco": 180.00,
     "estoque": 0,
     "imagem": "assets/cards/mtm-ousmane-dembele.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 770,
+    "colecao": "worldcup2026",
+    "numero": "TÇ-624",
+    "nome": "Taça",
+    "pais": "FIFA",
+    "categoria": "Momentum",
+    "raridade": "Raro",
+    "tipo": "Jogador",
+    "preco": 150.00,
+    "estoque": 3,
+    "imagem": "assets/cards/mt-624-taça.jpg",
     "status": "Disponível"
   },
   {

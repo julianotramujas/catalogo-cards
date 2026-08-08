@@ -8594,6 +8594,20 @@
     "status": "Disponível"
   },
   {
+    "id": 770,
+    "colecao": "worldcup2026",
+    "numero": "TÇ-624",
+    "nome": "Taça",
+    "pais": "FIFA",
+    "categoria": "Momentum",
+    "raridade": "Raro",
+    "tipo": "Jogador",
+    "preco": 150.00,
+    "estoque": 3,
+    "imagem": "assets/cards/mt-624-taça.jpg",
+    "status": "Disponível"
+  },
+  {
     "id": 759,
     "colecao": "worldcup2026",
     "numero": "MR-625",
@@ -8675,6 +8689,48 @@
     "preco": 100.00,
     "estoque": 3,
     "imagem": "assets/cards/mtm-630-eternos.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 771,
+    "colecao": "worldcup2026",
+    "numero": "MTM-001",
+    "nome": "Christian Pulisic",
+    "pais": "EUA",
+    "categoria": "Momentum",
+    "raridade": "Raro",
+    "tipo": "Jogador",
+    "preco": 180.00,
+    "estoque": 0,
+    "imagem": "assets/cards/mtm-christian-pulisic.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 772,
+    "colecao": "worldcup2026",
+    "numero": "MTM-002",
+    "nome": "Jude Bellingham",
+    "pais": "Inglaterra",
+    "categoria": "Momentum",
+    "raridade": "Raro",
+    "tipo": "Jogador",
+    "preco": 180.00,
+    "estoque": 0,
+    "imagem": "assets/cards/mtm-jude-bellingham.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 773,
+    "colecao": "worldcup2026",
+    "numero": "MTM-003",
+    "nome": "Ousmane Dembele",
+    "pais": "França",
+    "categoria": "Momentum",
+    "raridade": "Raro",
+    "tipo": "Jogador",
+    "preco": 180.00,
+    "estoque": 0,
+    "imagem": "assets/cards/mtm-ousmane-dembele.jpg",
     "status": "Disponível"
   },
   {

@@ -8645,7 +8645,7 @@
     "raridade": "Especial",
     "tipo": "Jogador",
     "preco": 55.00,
-    "estoque": 0,
+    "estoque": 3,
     "imagem": "assets/cards/gb-001-lionel-messi.jpg",
     "status": "Disponível"
   },
@@ -8659,7 +8659,7 @@
     "raridade": "Especial",
     "tipo": "Jogador",
     "preco": 35.00,
-    "estoque": 1,
+    "estoque": 3,
     "imagem": "assets/cards/gb-002-vinicius-junior.jpg",
     "status": "Disponível"
   },
@@ -8673,7 +8673,7 @@
     "raridade": "Especial",
     "tipo": "Jogador",
     "preco": 35.00,
-    "estoque": 0,
+    "estoque": 3,
     "imagem": "assets/cards/gb-003-mohamed-salah.jpg",
     "status": "Disponível"
   },
@@ -8687,7 +8687,7 @@
     "raridade": "Especial",
     "tipo": "Jogador",
     "preco": 40.00,
-    "estoque": 1,
+    "estoque": 3,
     "imagem": "assets/cards/gb-004-harry-kane.jpg",
     "status": "Disponível"
   },
@@ -8701,7 +8701,7 @@
     "raridade": "Especial",
     "tipo": "Jogador",
     "preco": 50.00,
-    "estoque": 0,
+    "estoque": 3,
     "imagem": "assets/cards/gb-005-kylian-mbappe.jpg",
     "status": "Disponível"
   },
@@ -8715,7 +8715,7 @@
     "raridade": "Especial",
     "tipo": "Jogador",
     "preco": 40.00,
-    "estoque": 0,
+    "estoque": 3,
     "imagem": "assets/cards/gb-006-heungmin-son.jpg",
     "status": "Disponível"
   },
@@ -8729,7 +8729,7 @@
     "raridade": "Especial",
     "tipo": "Jogador",
     "preco": 40.00,
-    "estoque": 0,
+    "estoque": 3,
     "imagem": "assets/cards/gb-004-harry-kane.jpg",
     "status": "Disponível"
   },
@@ -8743,7 +8743,7 @@
     "raridade": "Especial",
     "tipo": "Jogador",
     "preco": 45.00,
-    "estoque": 2,
+    "estoque": 4,
     "imagem": "assets/cards/gb-008-cristiano-ronaldo.jpg",
     "status": "Disponível"
   },
@@ -8757,7 +8757,7 @@
     "raridade": "Especial",
     "tipo": "Jogador",
     "preco": 55.00,
-    "estoque": 2,
+    "estoque": 3,
     "imagem": "assets/cards/gb-009-lamine-yamal.jpg",
     "status": "Disponível"
   },

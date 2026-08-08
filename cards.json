@@ -8636,6 +8636,20 @@
     "status": "Disponível"
   },
   {
+    "id": 761,
+    "colecao": "worldcup2026",
+    "numero": "GB-01",
+    "nome": "Lionel Messi",
+    "pais": "Argentina",
+    "categoria": "Golden Ballers",
+    "raridade": "Especial",
+    "tipo": "Jogador",
+    "preco": 55.00,
+    "estoque": 0,
+    "imagem": "assets/cards/gb-001-lionel-messi.jpg",
+    "status": "Disponível"
+  },
+  {
     "id": 327,
     "colecao": "worldcup2026",
     "numero": "GB-02",
@@ -8647,6 +8661,20 @@
     "preco": 35.00,
     "estoque": 1,
     "imagem": "assets/cards/gb-002-vinicius-junior.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 762,
+    "colecao": "worldcup2026",
+    "numero": "GB-03",
+    "nome": "Mohamed Salah",
+    "pais": "Egito",
+    "categoria": "Golden Ballers",
+    "raridade": "Especial",
+    "tipo": "Jogador",
+    "preco": 35.00,
+    "estoque": 0,
+    "imagem": "assets/cards/gb-003-mohamed-salah.jpg",
     "status": "Disponível"
   },
   {
@@ -8664,6 +8692,48 @@
     "status": "Disponível"
   },
   {
+    "id": 763,
+    "colecao": "worldcup2026",
+    "numero": "GB-05",
+    "nome": "Kylian Mbappe",
+    "pais": "França",
+    "categoria": "Golden Ballers",
+    "raridade": "Especial",
+    "tipo": "Jogador",
+    "preco": 50.00,
+    "estoque": 0,
+    "imagem": "assets/cards/gb-005-kylian-mbappe.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 764,
+    "colecao": "worldcup2026",
+    "numero": "GB-06",
+    "nome": "Heungmin Son",
+    "pais": "Coréia do Sul",
+    "categoria": "Golden Ballers",
+    "raridade": "Especial",
+    "tipo": "Jogador",
+    "preco": 40.00,
+    "estoque": 0,
+    "imagem": "assets/cards/gb-006-heungmin-son.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 765,
+    "colecao": "worldcup2026",
+    "numero": "GB-07",
+    "nome": "Erling Haaland",
+    "pais": "Noruega",
+    "categoria": "Golden Ballers",
+    "raridade": "Especial",
+    "tipo": "Jogador",
+    "preco": 40.00,
+    "estoque": 0,
+    "imagem": "assets/cards/gb-004-harry-kane.jpg",
+    "status": "Disponível"
+  },
+  {
     "id": 329,
     "colecao": "worldcup2026",
     "numero": "GB-08",
@@ -8675,6 +8745,20 @@
     "preco": 45.00,
     "estoque": 2,
     "imagem": "assets/cards/gb-008-cristiano-ronaldo.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 766,
+    "colecao": "worldcup2026",
+    "numero": "GB-09",
+    "nome": "Lamine Yamal",
+    "pais": "Espanha",
+    "categoria": "Golden Ballers",
+    "raridade": "Especial",
+    "tipo": "Jogador",
+    "preco": 55.00,
+    "estoque": 2,
+    "imagem": "assets/cards/gb-009-lamine-yamal.jpg",
     "status": "Disponível"
   },
   {

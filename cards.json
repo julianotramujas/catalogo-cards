@@ -8002,7 +8002,7 @@
     "tipo": "Jogador",
     "preco": 2.00,
     "estoque": 0,
-    "imagem": "assets/cards/mt-579-vitinha.jpg",
+    "imagem": "assets/cards/mt-581-rodri.jpg",
     "status": "Disponível"
   },
   {
@@ -8062,6 +8062,48 @@
     "status": "Disponível"
   },
   {
+    "id": 732,
+    "colecao": "worldcup2026",
+    "numero": "GM-586",
+    "nome": "Julian Alvarez",
+    "pais": "Argentina",
+    "categoria": "Brilhantes",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 2.00,
+    "estoque": 0,
+    "imagem": "assets/cards/mt-586-julian-alvarez.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 733,
+    "colecao": "worldcup2026",
+    "numero": "GM-587",
+    "nome": "Romelo Lukaku",
+    "pais": "Belgica",
+    "categoria": "Brilhantes",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 1.75,
+    "estoque": 0,
+    "imagem": "assets/cards/mt-587-romelu-lukaku.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 734,
+    "colecao": "worldcup2026",
+    "numero": "GM-588",
+    "nome": "Raphinha",
+    "pais": "Brasil",
+    "categoria": "Brilhantes",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 1.75,
+    "estoque": 0,
+    "imagem": "assets/cards/mt-588-raphinha.jpg",
+    "status": "Disponível"
+  },
+  {
     "id": 315,
     "colecao": "worldcup2026",
     "numero": "GM-589",
@@ -8101,6 +8143,48 @@
     "preco": 1.75,
     "estoque": 0,
     "imagem": "assets/cards/mt-591-andrej-kramaric.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 735,
+    "colecao": "worldcup2026",
+    "numero": "GM-592",
+    "nome": "Enner Valencia",
+    "pais": "Equador",
+    "categoria": "Brilhantes",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 1.75,
+    "estoque": 0,
+    "imagem": "assets/cards/mt-592-enner-valencia.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 736,
+    "colecao": "worldcup2026",
+    "numero": "GM-593",
+    "nome": "Omar Marmoush",
+    "pais": "Croácia",
+    "categoria": "Brilhantes",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 1.75,
+    "estoque": 0,
+    "imagem": "assets/cards/mt-593-omar-marmoush.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 737,
+    "colecao": "worldcup2026",
+    "numero": "GM-594",
+    "nome": "Marcus Rashford",
+    "pais": "Croácia",
+    "categoria": "Brilhantes",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 1.75,
+    "estoque": 0,
+    "imagem": "assets/cards/mt-594-marcus-rashford.jpg",
     "status": "Disponível"
   },
   {

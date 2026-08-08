@@ -763,8 +763,8 @@ function criarMensagemWhatsApp() {
   return [
     "PEDIDO DE CARDS",
     "",
-    "Coleção:",
-    "Panini Adrenalyn XL - FIFA World Cup 2026",
+    "Catálogo:",
+    "Tramujas Cards",
     "",
     "--------------------",
     "",

@@ -8636,6 +8636,48 @@
     "status": "Disponível"
   },
   {
+    "id": 767,
+    "colecao": "worldcup2026",
+    "numero": "MTM-628",
+    "nome": "Eternos 22",
+    "pais": "Argentina",
+    "categoria": "Eternos",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 100.00,
+    "estoque": 3,
+    "imagem": "assets/cards/mtm-628-eternos.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 768,
+    "colecao": "worldcup2026",
+    "numero": "MTM-629",
+    "nome": "Eternos 22",
+    "pais": "Argentina",
+    "categoria": "Eternos",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 100.00,
+    "estoque": 3,
+    "imagem": "assets/cards/mtm-629-eternos.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 769,
+    "colecao": "worldcup2026",
+    "numero": "MTM-630",
+    "nome": "Eternos 22",
+    "pais": "Argentina",
+    "categoria": "Eternos",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 100.00,
+    "estoque": 3,
+    "imagem": "assets/cards/mtm-630-eternos.jpg",
+    "status": "Disponível"
+  },
+  {
     "id": 761,
     "colecao": "worldcup2026",
     "numero": "GB-01",

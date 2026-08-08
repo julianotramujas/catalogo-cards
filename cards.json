@@ -6882,7 +6882,7 @@
     "tipo": "Jogador",
     "preco": 1.75,
     "estoque": 0,
-    "imagem": "assets/cards/mt-310-memphis-depay.jpg",
+    "imagem": "assets/cards/mt-312-virgil-van-dijk.jpg",
     "status": "Disponível"
   },
   {
@@ -8602,7 +8602,7 @@
     "categoria": "Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 2.00,
+    "preco": 2.25,
     "estoque": 0,
     "imagem": "assets/cards/mt-625-maple.jpg",
     "status": "Disponível"
@@ -8616,7 +8616,7 @@
     "categoria": "Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 2.00,
+    "preco": 2.25,
     "estoque": 2,
     "imagem": "assets/cards/mt-626-clutch.jpg",
     "status": "Disponível"
@@ -8630,7 +8630,7 @@
     "categoria": "Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 2.00,
+    "preco": 2.25,
     "estoque": 3,
     "imagem": "assets/cards/mt-627-zayu.jpg",
     "status": "Disponível"
@@ -8642,7 +8642,7 @@
     "nome": "Eternos 22",
     "pais": "Argentina",
     "categoria": "Eternos",
-    "raridade": "Normal",
+    "raridade": "Raro",
     "tipo": "Jogador",
     "preco": 100.00,
     "estoque": 3,
@@ -8656,7 +8656,7 @@
     "nome": "Eternos 22",
     "pais": "Argentina",
     "categoria": "Eternos",
-    "raridade": "Normal",
+    "raridade": "Raro",
     "tipo": "Jogador",
     "preco": 100.00,
     "estoque": 3,
@@ -8670,7 +8670,7 @@
     "nome": "Eternos 22",
     "pais": "Argentina",
     "categoria": "Eternos",
-    "raridade": "Normal",
+    "raridade": "Raro",
     "tipo": "Jogador",
     "preco": 100.00,
     "estoque": 3,

@@ -5859,7 +5859,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 2.00,
-    "estoque": 1,
+    "estoque": 0,
     "imagem": "assets/cards/mt-023-logo.jpg",
     "status": "Disponível"
   },
@@ -8743,7 +8743,7 @@
     "raridade": "Especial",
     "tipo": "Jogador",
     "preco": 55.00,
-    "estoque": 3,
+    "estoque": 2,
     "imagem": "assets/cards/gb-001-lionel-messi.jpg",
     "status": "Disponível"
   },
@@ -10775,20 +10775,6 @@
     "preco": 20.00,
     "estoque": 2,
     "imagem": "assets/cards/kp-tur05-hakan-çalhanoglu.jpg",
-    "status": "Disponível"
-  },
-  {
-    "id": 467,
-    "colecao": "Roadto2018russia",
-    "numero": "TP-ARG14",
-    "nome": "Lionel Messi",
-    "pais": "Argentina",
-    "categoria": "Road to 2018 Russia",
-    "raridade": "Normal",
-    "tipo": "Jogador",
-    "preco": 70.00,
-    "estoque": 1,
-    "imagem": "assets/cards/tp-arg14-lionel-messi.jpg",
     "status": "Disponível"
   },
   {

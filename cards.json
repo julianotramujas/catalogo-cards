@@ -3893,7 +3893,7 @@
     "id": 583,
     "colecao": "worldcup2026",
     "numero": "HR-381",
-    "nome": "Pedro Neto",
+    "nome": "Rafael Leão",
     "pais": "Portugal",
     "categoria": "Base",
     "raridade": "Normal",
@@ -5998,7 +5998,7 @@
     "categoria": "Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.75,
+    "preco": 2.25,
     "estoque": 0,
     "imagem": "assets/cards/mt-060-kevin-de-bruyne.jpg",
     "status": "Disponível"
@@ -6202,7 +6202,7 @@
   {
     "id": 617,
     "colecao": "worldcup2026",
-    "numero": "IC-119",
+    "numero": "IC-120",
     "nome": "Luka Modric",
     "pais": "Croácia",
     "categoria": "Brilhantes",
@@ -7580,7 +7580,7 @@
     "categoria": "Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.75,
+    "preco": 2.00,
     "estoque": 2,
     "imagem": "assets/cards/mt-551-Thibaut-courtois.jpg",
     "status": "Disponível"
@@ -7832,7 +7832,7 @@
     "categoria": "Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.75,
+    "preco": 2.00,
     "estoque": 1,
     "imagem": "assets/cards/mt-569-kevin-de-bruyne.jpg",
     "status": "Disponível"
@@ -8084,7 +8084,7 @@
     "categoria": "Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.75,
+    "preco": 2.00,
     "estoque": 0,
     "imagem": "assets/cards/mt-587-romelu-lukaku.jpg",
     "status": "Disponível"
@@ -8350,7 +8350,7 @@
     "categoria": "Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.75,
+    "preco": 2.00,
     "estoque": 1,
     "imagem": "assets/cards/mt-606-christian-pulisic.jpg",
     "status": "Disponível"
@@ -8420,7 +8420,7 @@
     "categoria": "Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.75,
+    "preco": 2.00,
     "estoque": 2,
     "imagem": "assets/cards/mt-611-wesley.jpg",
     "status": "Disponível"
@@ -8434,7 +8434,7 @@
     "categoria": "Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.75,
+    "preco": 2.00,
     "estoque": 2,
     "imagem": "assets/cards/mt-612-estevão.jpg",
     "status": "Disponível"
@@ -8490,7 +8490,7 @@
     "categoria": "Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.75,
+    "preco": 2.00,
     "estoque": 0,
     "imagem": "assets/cards/mt-616-desire-doue.jpg",
     "status": "Disponível"
@@ -8588,7 +8588,7 @@
     "categoria": "Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.75,
+    "preco": 2.00,
     "estoque": 1,
     "imagem": "assets/cards/mt-623-pau-cubarsi.jpg",
     "status": "Disponível"

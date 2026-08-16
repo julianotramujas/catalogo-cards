@@ -2975,7 +2975,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 1.25,
-    "estoque": 4,
+    "estoque": 3,
     "imagem": "assets/cards/hr-294-carlos-rodriguez.jpg",
     "status": "Disponível"
   },
@@ -3465,7 +3465,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 1.25,
-    "estoque": 2,
+    "estoque": 1,
     "imagem": "assets/cards/hr-341-sander-berge.jpg",
     "status": "Disponível"
   },
@@ -8533,7 +8533,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 1.75,
-    "estoque": 1,
+    "estoque": 0,
     "imagem": "assets/cards/mt-619-xavi-simons.jpg",
     "status": "Disponível"
   },

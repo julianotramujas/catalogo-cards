@@ -5817,7 +5817,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 2.00,
-    "estoque": 0,
+    "estoque": 2,
     "imagem": "assets/cards/mt-011-logo.jpg",
     "status": "Disponível"
   },

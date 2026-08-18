@@ -10832,5 +10832,48 @@
     "estoque": 1,
     "imagem": "assets/cards/xxl-virgil-van-dijk.jpg",
     "status": "Disponível"
+  },
+  {
+    "id": 777,
+    "colecao": "brasileirao2026",
+    "numero": "BR26-001",
+    "nome": "Atlético-PR",
+    "pais": "Brasil",
+    "categoria": "Brasileirão 26",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 2.00,
+    "estoque": 0,
+    "imagem": "assets/cards/br26-Atlético-PR.png",
+    "status": "Disponível"
+  },
+  {
+    "id": 778,
+    "colecao": "brasileirao2026",
+    "numero": "BR26-002",
+    "nome": "Atlético-PR",
+    "pais": "Brasil",
+    "categoria": "Brasileirão 26",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 2.00,
+    "estoque": 0,
+    "imagem": "assets/cards/br26-Atlético-PR.png",
+    "status": "Disponível"
+  },
+  {
+    "id": 779,
+    "colecao": "brasileirao2026",
+    "numero": "BR26-003",
+    "nome": "Atlético-PR",
+    "pais": "Brasil",
+    "categoria": "Brasileirão 26",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 2.00,
+    "estoque": 0,
+    "imagem": "assets/cards/br26-Atlético-PR.png",
+    "status": "Disponível"
   }
+  
 ]

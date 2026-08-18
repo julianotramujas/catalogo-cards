@@ -250,8 +250,9 @@ button:disabled {
   margin-top: 18px;
   padding-bottom: 6px;
   display: flex;
+  flex-wrap: wrap;
   gap: 10px;
-  overflow-x: auto;
+  overflow-x: visible;
 }
 
 .filtro {

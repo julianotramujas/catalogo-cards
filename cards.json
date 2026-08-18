@@ -10844,7 +10844,7 @@
     "tipo": "Jogador",
     "preco": 2.00,
     "estoque": 0,
-    "imagem": "assets/cards/br26-Atlético-PR.png",
+    "imagem": "assets/cards/br26-atletico-pr.png",
     "status": "Disponível"
   },
   {
@@ -10858,7 +10858,7 @@
     "tipo": "Jogador",
     "preco": 2.00,
     "estoque": 0,
-    "imagem": "assets/cards/br26-Atlético-PR.png",
+    "imagem": "assets/cards/br26-atletico-pr.png",
     "status": "Disponível"
   },
   {
@@ -10872,7 +10872,7 @@
     "tipo": "Jogador",
     "preco": 2.00,
     "estoque": 0,
-    "imagem": "assets/cards/br26-Atlético-PR.png",
+    "imagem": "assets/cards/br26-atletico-pr.png",
     "status": "Disponível"
   },
   {
@@ -10886,7 +10886,7 @@
     "tipo": "Jogador",
     "preco": 2.00,
     "estoque": 0,
-    "imagem": "assets/cards/br26-Atlético-PR.png",
+    "imagem": "assets/cards/br26-atletico-pr.png",
     "status": "Disponível"
   },
   {
@@ -10900,7 +10900,7 @@
     "tipo": "Jogador",
     "preco": 2.00,
     "estoque": 0,
-    "imagem": "assets/cards/br26-Atlético-PR.png",
+    "imagem": "assets/cards/br26-atletico-pr.png",
     "status": "Disponível"
   },
   {
@@ -10914,7 +10914,7 @@
     "tipo": "Jogador",
     "preco": 2.00,
     "estoque": 0,
-    "imagem": "assets/cards/br26-Atlético-PR.png",
+    "imagem": "assets/cards/br26-atletico-pr.png",
     "status": "Disponível"
   },
   {
@@ -10928,7 +10928,7 @@
     "tipo": "Jogador",
     "preco": 2.00,
     "estoque": 0,
-    "imagem": "assets/cards/br26-Atlético-PR.png",
+    "imagem": "assets/cards/br26-atletico-pr.png",
     "status": "Disponível"
   },
   {
@@ -10942,7 +10942,7 @@
     "tipo": "Jogador",
     "preco": 2.00,
     "estoque": 0,
-    "imagem": "assets/cards/br26-Atlético-PR.png",
+    "imagem": "assets/cards/br26-atletico-pr.png",
     "status": "Disponível"
   },
   {
@@ -10956,7 +10956,7 @@
     "tipo": "Jogador",
     "preco": 2.00,
     "estoque": 0,
-    "imagem": "assets/cards/br26-Atlético-PR.png",
+    "imagem": "assets/cards/br26-atletico-pr.png",
     "status": "Disponível"
   },
   {
@@ -10970,7 +10970,7 @@
     "tipo": "Jogador",
     "preco": 2.00,
     "estoque": 0,
-    "imagem": "assets/cards/br26-Atlético-PR.png",
+    "imagem": "assets/cards/br26-atletico-pr.png",
     "status": "Disponível"
   },
   {
@@ -10984,7 +10984,7 @@
     "tipo": "Jogador",
     "preco": 2.00,
     "estoque": 0,
-    "imagem": "assets/cards/br26-Atlético-PR.png",
+    "imagem": "assets/cards/br26-atletico-pr.png",
     "status": "Disponível"
   },
   {
@@ -10998,7 +10998,7 @@
     "tipo": "Jogador",
     "preco": 2.00,
     "estoque": 0,
-    "imagem": "assets/cards/br26-Atlético-PR.png",
+    "imagem": "assets/cards/br26-atletico-pr.png",
     "status": "Disponível"
   },
   {
@@ -11012,7 +11012,7 @@
     "tipo": "Jogador",
     "preco": 2.00,
     "estoque": 0,
-    "imagem": "assets/cards/br26-Atlético-PR.png",
+    "imagem": "assets/cards/br26-atletico-pr.png",
     "status": "Disponível"
   },
   {
@@ -11026,7 +11026,7 @@
     "tipo": "Jogador",
     "preco": 2.00,
     "estoque": 0,
-    "imagem": "assets/cards/br26-Atlético-PR.png",
+    "imagem": "assets/cards/br26-atletico-pr.png",
     "status": "Disponível"
   },
   {
@@ -11040,7 +11040,7 @@
     "tipo": "Jogador",
     "preco": 2.00,
     "estoque": 0,
-    "imagem": "assets/cards/br26-Atlético-PR.png",
+    "imagem": "assets/cards/br26-atletico-pr.png",
     "status": "Disponível"
   },
   {
@@ -11054,7 +11054,7 @@
     "tipo": "Jogador",
     "preco": 2.00,
     "estoque": 0,
-    "imagem": "assets/cards/br26-Atlético-PR.png",
+    "imagem": "assets/cards/br26-atletico-pr.png",
     "status": "Disponível"
   },
   {
@@ -11069,6 +11069,20 @@
     "preco": 2.00,
     "estoque": 0,
     "imagem": "assets/cards/br26-Atlético-PR.png",
+    "status": "Disponível"
+  },
+  {
+    "id": 794,
+    "colecao": "brasileirao2026",
+    "numero": "BR26-018",
+    "nome": "Atlético-MG",
+    "pais": "Brasil",
+    "categoria": "Brasileirão 26",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 2.00,
+    "estoque": 0,
+    "imagem": "assets/cards/br26-atletico-mg.png",
     "status": "Disponível"
   }
   

@@ -8504,7 +8504,7 @@
     "categoria": "Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.75,
+    "preco": 2.00,
     "estoque": 0,
     "imagem": "assets/cards/mt-617-bradley-barcola.jpg",
     "status": "Disponível"
@@ -10789,6 +10789,48 @@
     "preco": 40.00,
     "estoque": 1,
     "imagem": "assets/cards/tp-pol14-robert-lewandowski.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 774,
+    "colecao": "worldcup2026",
+    "numero": "EL-001",
+    "nome": "Ousmane Dembele",
+    "pais": "França",
+    "categoria": "EL & XXL",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 60.00,
+    "estoque": 1,
+    "imagem": "assets/cards/le-ousmane-dembele.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 775,
+    "colecao": "worldcup2026",
+    "numero": "XXL-001",
+    "nome": "Kevin de Bruyne",
+    "pais": "Belgica",
+    "categoria": "EL & XXL",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 70.00,
+    "estoque": 1,
+    "imagem": "assets/cards/xxl-kevin-de-bruyne.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 776,
+    "colecao": "worldcup2026",
+    "numero": "EL-002-Pequeno Dano",
+    "nome": "Virgil Van Dijk",
+    "pais": "Holanda",
+    "categoria": "EL & XXL",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 60.00,
+    "estoque": 1,
+    "imagem": "assets/cards/xxl-virgil-van-dijk.jpg",
     "status": "Disponível"
   }
 ]

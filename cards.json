@@ -15174,6 +15174,20 @@
     "status": "Disponível"
   },
   {
+    "id": 1178,
+    "colecao": "brasileirao2026",
+    "numero": "BR26-311",
+    "nome": "Vasco",
+    "pais": "Vasco",
+    "categoria": "Brasileirão 26",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 2.00,
+    "estoque": 0,
+    "imagem": "assets/cards/br26-vasco.png",
+    "status": "Disponível"
+  },
+  {
     "id": 1087,
     "colecao": "brasileirao2026",
     "numero": "BR26-312",

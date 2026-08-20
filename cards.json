@@ -6069,7 +6069,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 2.00,
-    "estoque": 1,
+    "estoque": 0,
     "imagem": "assets/cards/mt-083-logo.jpg",
     "status": "Disponível"
   },
@@ -7049,7 +7049,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 1.75,
-    "estoque": 2,
+    "estoque": 1,
     "imagem": "assets/cards/mt-360-miguel-almiron.jpg",
     "status": "Disponível"
   },
@@ -7217,7 +7217,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 1.75,
-    "estoque": 1,
+    "estoque": 0,
     "imagem": "assets/cards/mt-408-andrew-robertson.jpg",
     "status": "Disponível"
   },
@@ -7539,7 +7539,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 2.00,
-    "estoque": 1,
+    "estoque": 0,
     "imagem": "assets/cards/mt-503-logo.jpg",
     "status": "Disponível"
   },
@@ -7735,7 +7735,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 1.75,
-    "estoque": 3,
+    "estoque": 2,
     "imagem": "assets/cards/mt-562-antonio-rudiger.jpg",
     "status": "Disponível"
   },
@@ -7875,7 +7875,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 1.75,
-    "estoque": 1,
+    "estoque": 0,
     "imagem": "assets/cards/mt-572-moises-caicedo.jpg",
     "status": "Disponível"
   },
@@ -10801,7 +10801,7 @@
     "raridade": "LE",
     "tipo": "Jogador",
     "preco": 60.00,
-    "estoque": 1,
+    "estoque": 0,
     "imagem": "assets/cards/le-ousmane-dembele.jpg",
     "status": "Disponível"
   },
@@ -10815,7 +10815,7 @@
     "raridade": "XXL",
     "tipo": "Jogador",
     "preco": 70.00,
-    "estoque": 1,
+    "estoque": 0,
     "imagem": "assets/cards/xxl-kevin-de-bruyne.jpg",
     "status": "Disponível"
   },

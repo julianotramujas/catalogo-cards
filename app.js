@@ -800,10 +800,9 @@ function criarMensagemWhatsApp() {
 
 
   return [
-    "PEDIDO DE CARDS",
+    "TRAMUJAS CARDS",
     "",
-    "Catálogo:",
-    "Tramujas Cards",
+    "PEDIDO",
     "",
     "--------------------",
     "",
@@ -811,7 +810,7 @@ function criarMensagemWhatsApp() {
     "",
     "--------------------",
     "",
-    "RESUMO PARA NOTA FISCAL",
+    "RESUMO DO PEDIDO",
     "",
     linhasResumo,
     "",

@@ -760,6 +760,45 @@ function criarMensagemWhatsApp() {
       })
       .join("\n\n");
 
+
+  /* =========================================================
+     RESUMO AGRUPADO POR PREÇO
+  ========================================================= */
+
+  const resumoPorPreco = {};
+
+  pedido.forEach((item) => {
+    const preco = Number(item.preco);
+    const chave = preco.toFixed(2);
+
+    if (!resumoPorPreco[chave]) {
+      resumoPorPreco[chave] = {
+        preco: preco,
+        quantidade: 0,
+        subtotal: 0
+      };
+    }
+
+    resumoPorPreco[chave].quantidade += item.quantidade;
+
+    resumoPorPreco[chave].subtotal +=
+      preco * item.quantidade;
+  });
+
+
+  const linhasResumo =
+    Object.values(resumoPorPreco)
+      .sort((a, b) => a.preco - b.preco)
+      .map((grupo) => {
+        return (
+          `Cards ${formatarPreco(grupo.preco)} - ` +
+          `${grupo.quantidade} un. - ` +
+          `${formatarPreco(grupo.subtotal)}`
+        );
+      })
+      .join("\n");
+
+
   return [
     "PEDIDO DE CARDS",
     "",
@@ -771,6 +810,10 @@ function criarMensagemWhatsApp() {
     linhasCards,
     "",
     "--------------------",
+    "",
+    "RESUMO PARA NOTA FISCAL",
+    "",
+    linhasResumo,
     "",
     `Total de cards: ${quantidadeTotal}`,
     `Valor do pedido: ${formatarPreco(valorTotal)}`,

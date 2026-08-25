@@ -8827,7 +8827,7 @@
     "raridade": "Especial",
     "tipo": "Jogador",
     "preco": 40.00,
-    "estoque": 2,
+    "estoque": 1,
     "imagem": "assets/cards/gb-007-erling-haaland.jpg",
     "status": "Disponível"
   },
@@ -8855,7 +8855,7 @@
     "raridade": "Especial",
     "tipo": "Jogador",
     "preco": 55.00,
-    "estoque": 4,
+    "estoque": 3,
     "imagem": "assets/cards/gb-009-lamine-yamal.jpg",
     "status": "Disponível"
   },

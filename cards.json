@@ -6852,7 +6852,7 @@
     "categoria": "Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.75,
+    "preco": 2.25,
     "estoque": 3,
     "imagem": "assets/cards/mt-310-memphis-depay.jpg",
     "status": "Disponível"
@@ -7020,7 +7020,7 @@
     "categoria": "Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.75,
+    "preco": 2.25,
     "estoque": 0,
     "imagem": "assets/cards/mt-358-gustavo-gomez.jpg",
     "status": "Disponível"
@@ -7566,7 +7566,7 @@
     "categoria": "Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 2.00,
+    "preco": 2.25,
     "estoque": 0,
     "imagem": "assets/cards/mt-550-emiliano-martinez.jpg",
     "status": "Disponível"
@@ -7580,7 +7580,7 @@
     "categoria": "Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 2.00,
+    "preco": 2.25,
     "estoque": 0,
     "imagem": "assets/cards/mt-551-Thibaut-courtois.jpg",
     "status": "Disponível"
@@ -7664,7 +7664,7 @@
     "categoria": "Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 2.00,
+    "preco": 2.25,
     "estoque": 0,
     "imagem": "assets/cards/mt-557-unai-simon.jpg",
     "status": "Disponível"
@@ -7762,7 +7762,7 @@
     "categoria": "Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.75,
+    "preco": 2.25,
     "estoque": 0,
     "imagem": "assets/cards/mt-564-achraf-hakimi.jpg",
     "status": "Disponível"
@@ -7804,7 +7804,7 @@
     "categoria": "Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 2.00,
+    "preco": 2.25,
     "estoque": 0,
     "imagem": "assets/cards/mt-567-dean-huijsen.jpg",
     "status": "Disponível"
@@ -7818,7 +7818,7 @@
     "categoria": "Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 2.00,
+    "preco": 2.25,
     "estoque": 0,
     "imagem": "assets/cards/mt-568-enzo-fernandez.jpg",
     "status": "Disponível"
@@ -7832,7 +7832,7 @@
     "categoria": "Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 2.00,
+    "preco": 2.25,
     "estoque": 0,
     "imagem": "assets/cards/mt-569-kevin-de-bruyne.jpg",
     "status": "Disponível"
@@ -7860,7 +7860,7 @@
     "categoria": "Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 2.00,
+    "preco": 2.25,
     "estoque": 0,
     "imagem": "assets/cards/mt-571-luka-modric.jpg",
     "status": "Disponível"
@@ -7888,7 +7888,7 @@
     "categoria": "Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 2.00,
+    "preco": 2.25,
     "estoque": 0,
     "imagem": "assets/cards/mt-573-jude-bellingham.jpg",
     "status": "Disponível"
@@ -8000,7 +8000,7 @@
     "categoria": "Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 2.00,
+    "preco": 2.25,
     "estoque": 0,
     "imagem": "assets/cards/mt-581-rodri.jpg",
     "status": "Disponível"
@@ -8014,7 +8014,7 @@
     "categoria": "Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 2.00,
+    "preco": 2.25,
     "estoque": 0,
     "imagem": "assets/cards/mt-582-pedri.jpg",
     "status": "Disponível"
@@ -8070,7 +8070,7 @@
     "categoria": "Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 2.00,
+    "preco": 2.25,
     "estoque": 1,
     "imagem": "assets/cards/mt-586-julian-alvarez.jpg",
     "status": "Disponível"
@@ -8084,7 +8084,7 @@
     "categoria": "Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 2.00,
+    "preco": 2.25,
     "estoque": 0,
     "imagem": "assets/cards/mt-587-romelu-lukaku.jpg",
     "status": "Disponível"
@@ -8098,7 +8098,7 @@
     "categoria": "Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.75,
+    "preco": 2.25,
     "estoque": 0,
     "imagem": "assets/cards/mt-588-raphinha.jpg",
     "status": "Disponível"
@@ -8322,7 +8322,7 @@
     "categoria": "Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 2.00,
+    "preco": 2.25,
     "estoque": 0,
     "imagem": "assets/cards/mt-604-mikel-oyarzabal.jpg",
     "status": "Disponível"
@@ -8350,7 +8350,7 @@
     "categoria": "Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 2.00,
+    "preco": 2.25,
     "estoque": 0,
     "imagem": "assets/cards/mt-606-christian-pulisic.jpg",
     "status": "Disponível"
@@ -8378,7 +8378,7 @@
     "categoria": "Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 2.00,
+    "preco": 2.25,
     "estoque": 0,
     "imagem": "assets/cards/mt-608-nico-paz.jpg",
     "status": "Disponível"
@@ -8392,7 +8392,7 @@
     "categoria": "Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 2.00,
+    "preco": 2.25,
     "estoque": 0,
     "imagem": "assets/cards/mt-609-franco-mastantuono.jpg",
     "status": "Disponível"
@@ -8420,7 +8420,7 @@
     "categoria": "Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 2.00,
+    "preco": 225,
     "estoque": 4,
     "imagem": "assets/cards/mt-611-wesley.jpg",
     "status": "Disponível"
@@ -8434,7 +8434,7 @@
     "categoria": "Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 2.00,
+    "preco": 2.25,
     "estoque": 1,
     "imagem": "assets/cards/mt-612-estevão.jpg",
     "status": "Disponível"
@@ -8490,7 +8490,7 @@
     "categoria": "Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 2.00,
+    "preco": 2.25,
     "estoque": 0,
     "imagem": "assets/cards/mt-616-desire-doue.jpg",
     "status": "Disponível"
@@ -8504,7 +8504,7 @@
     "categoria": "Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 2.00,
+    "preco": 2.25,
     "estoque": 2,
     "imagem": "assets/cards/mt-617-bradley-barcola.jpg",
     "status": "Disponível"
@@ -8588,7 +8588,7 @@
     "categoria": "Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 2.00,
+    "preco": 2.25,
     "estoque": 4,
     "imagem": "assets/cards/mt-623-pau-cubarsi.jpg",
     "status": "Disponível"

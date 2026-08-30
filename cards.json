@@ -5803,7 +5803,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 1.75,
-    "estoque": 2,
+    "estoque": 1,
     "imagem": "assets/cards/mt-010-rayan-ait-nouri.jpg",
     "status": "Disponível"
   },
@@ -6181,7 +6181,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 1.75,
-    "estoque": 4,
+    "estoque": 3,
     "imagem": "assets/cards/mt-118-ivan-perisic.jpg",
     "status": "Disponível"
   },
@@ -6209,7 +6209,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 2.25,
-    "estoque": 2,
+    "estoque": 1,
     "imagem": "assets/cards/mt-120-luka-modric.jpg",
     "status": "Disponível"
   },
@@ -6223,7 +6223,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 1.75,
-    "estoque": 2,
+    "estoque": 1,
     "imagem": "assets/cards/mt-130-jurien-gaari.jpg",
     "status": "Disponível"
   },
@@ -6251,7 +6251,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 1.75,
-    "estoque": 1,
+    "estoque": 0,
     "imagem": "assets/cards/mt-132-leandro-bacuna.jpg",
     "status": "Disponível"
   },
@@ -6601,7 +6601,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 1.75,
-    "estoque": 3,
+    "estoque": 2,
     "imagem": "assets/cards/mt-238-Franck-kessie.jpg",
     "status": "Disponível"
   },
@@ -6839,7 +6839,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 2.25,
-    "estoque": 2,
+    "estoque": 1,
     "imagem": "assets/cards/mt-300-achraf-hakimi.jpg",
     "status": "Disponível"
   },
@@ -6853,7 +6853,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 2.25,
-    "estoque": 3,
+    "estoque": 2,
     "imagem": "assets/cards/mt-310-memphis-depay.jpg",
     "status": "Disponível"
   },
@@ -6881,7 +6881,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 1.75,
-    "estoque": 1,
+    "estoque": 0,
     "imagem": "assets/cards/mt-312-virgil-van-dijk.jpg",
     "status": "Disponível"
   },
@@ -7259,7 +7259,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 1.75,
-    "estoque": 1,
+    "estoque": 0,
     "imagem": "assets/cards/mt-420-sadio-mane.jpg",
     "status": "Disponível"
   },

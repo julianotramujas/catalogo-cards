@@ -9000,20 +9000,6 @@
     "status": "Disponível"
   },
   {
-    "id": 644,
-    "colecao": "Copa2018",
-    "numero": "BS-052",
-    "nome": "Gabriel Jesus",
-    "pais": "Brasil",
-    "categoria": "Copa 2018",
-    "raridade": "Normal",
-    "tipo": "Jogador",
-    "preco": 5.00,
-    "estoque": 0,
-    "imagem": "assets/cards/bs-052-gabriel-jesus.jpg",
-    "status": "Disponível"
-  },
-  {
     "id": 645,
     "colecao": "Copa2018",
     "numero": "BS-067",
@@ -17106,7 +17092,7 @@
     "status": "Disponível"
   },
   {
-    "id": 1223,
+    "id": 644,
     "colecao": "FIFA 365 2027",
     "numero": "FF-450",
     "nome": "Fan Favourite",
@@ -17120,7 +17106,7 @@
     "status": "Disponível"
   },
   {
-    "id": 1224,
+    "id": 1223,
     "colecao": "FIFA 365 2027",
     "numero": "FF-451",
     "nome": "Fan Favourite",

@@ -8617,7 +8617,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 2.50,
-    "estoque": 0,
+    "estoque": 1,
     "imagem": "assets/cards/mt-625-maple.jpg",
     "status": "Disponível"
   },
@@ -8631,7 +8631,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 2.50,
-    "estoque": 0,
+    "estoque": 3,
     "imagem": "assets/cards/mt-626-clutch.jpg",
     "status": "Disponível"
   },
@@ -8659,7 +8659,7 @@
     "raridade": "Raro",
     "tipo": "Jogador",
     "preco": 100.00,
-    "estoque": 5,
+    "estoque": 6,
     "imagem": "assets/cards/mtm-628-eternos.jpg",
     "status": "Disponível"
   },
@@ -8687,7 +8687,7 @@
     "raridade": "Raro",
     "tipo": "Jogador",
     "preco": 100.00,
-    "estoque": 3,
+    "estoque": 5,
     "imagem": "assets/cards/mtm-630-eternos.jpg",
     "status": "Disponível"
   },
@@ -8743,7 +8743,7 @@
     "raridade": "Especial",
     "tipo": "Jogador",
     "preco": 55.00,
-    "estoque": 2,
+    "estoque": 3,
     "imagem": "assets/cards/gb-001-lionel-messi.jpg",
     "status": "Disponível"
   },
@@ -8756,7 +8756,7 @@
     "categoria": "Golden Ballers",
     "raridade": "Especial",
     "tipo": "Jogador",
-    "preco": 35.00,
+    "preco": 40.00,
     "estoque": 4,
     "imagem": "assets/cards/gb-002-vinicius-junior.jpg",
     "status": "Disponível"
@@ -8770,7 +8770,7 @@
     "categoria": "Golden Ballers",
     "raridade": "Especial",
     "tipo": "Jogador",
-    "preco": 35.00,
+    "preco": 40.00,
     "estoque": 4,
     "imagem": "assets/cards/gb-003-mohamed-salah.jpg",
     "status": "Disponível"
@@ -8785,7 +8785,7 @@
     "raridade": "Especial",
     "tipo": "Jogador",
     "preco": 40.00,
-    "estoque": 6,
+    "estoque": 7,
     "imagem": "assets/cards/gb-004-harry-kane.jpg",
     "status": "Disponível"
   },
@@ -8799,7 +8799,7 @@
     "raridade": "Especial",
     "tipo": "Jogador",
     "preco": 50.00,
-    "estoque": 2,
+    "estoque": 3,
     "imagem": "assets/cards/gb-005-kylian-mbappe.jpg",
     "status": "Disponível"
   },
@@ -8813,7 +8813,7 @@
     "raridade": "Especial",
     "tipo": "Jogador",
     "preco": 40.00,
-    "estoque": 4,
+    "estoque": 5,
     "imagem": "assets/cards/gb-006-heungmin-son.jpg",
     "status": "Disponível"
   },
@@ -8840,7 +8840,7 @@
     "categoria": "Golden Ballers",
     "raridade": "Especial",
     "tipo": "Jogador",
-    "preco": 45.00,
+    "preco": 50.00,
     "estoque": 6,
     "imagem": "assets/cards/gb-008-cristiano-ronaldo.jpg",
     "status": "Disponível"

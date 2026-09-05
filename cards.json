@@ -3311,7 +3311,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 1.25,
-    "estoque": 2,
+    "estoque": 1,
     "imagem": "assets/cards/hr-327-liberato-cacace.jpg",
     "status": "Disponível"
   },
@@ -4291,7 +4291,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 1.25,
-    "estoque": 2,
+    "estoque": 1,
     "imagem": "assets/cards/hr-421-edouard-mendy.jpg",
     "status": "Disponível"
   },
@@ -5789,7 +5789,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 1.25,
-    "estoque": 6,
+    "estoque": 5,
     "imagem": "assets/cards/ctd-549-kerem-akturkoglu.jpg",
     "status": "Disponível"
   },

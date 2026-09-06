@@ -17437,7 +17437,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 2.50,
-    "estoque": 3,
+    "estoque": 2,
     "imagem": "assets/cards/bra26-es09-breno-bidon.jpg",
     "status": "Disponível"
   },
@@ -17829,7 +17829,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 2.50,
-    "estoque": 1,
+    "estoque": 0,
     "imagem": "assets/cards/bra26-es37-rodrigo-garro.jpg",
     "status": "Disponível"
   },

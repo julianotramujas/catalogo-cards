@@ -17311,7 +17311,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 3.50,
-    "estoque": 3,
+    "estoque": 2,
     "imagem": "assets/cards/bra26-14-weverton.jpg",
     "status": "Disponível"
   },
@@ -17717,7 +17717,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 2.50,
-    "estoque": 1,
+    "estoque": 0,
     "imagem": "assets/cards/bra26-es29-marlon-freitas.jpg",
     "status": "Disponível"
   },
@@ -18137,7 +18137,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 2.50,
-    "estoque": 3,
+    "estoque": 2,
     "imagem": "assets/cards/bra26-pc01-allan.jpg",
     "status": "Disponível"
   },
@@ -18277,7 +18277,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 5.00,
-    "estoque": 3,
+    "estoque": 2,
     "imagem": "assets/cards/bra26-tp05-jhon-arias.jpg",
     "status": "Disponível"
   },
@@ -18375,7 +18375,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 5.00,
-    "estoque": 3,
+    "estoque": 2,
     "imagem": "assets/cards/bra26-tp12-vitor-roque.jpg",
     "status": "Disponível"
   }

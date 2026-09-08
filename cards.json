@@ -17269,7 +17269,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 3.50,
-    "estoque": 3,
+    "estoque": 2,
     "imagem": "assets/cards/bra26-11-rossi.jpg",
     "status": "Disponível"
   },
@@ -17325,7 +17325,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 2.50,
-    "estoque": 2,
+    "estoque": 1,
     "imagem": "assets/cards/bra26-es01-alex-sandro.jpg",
     "status": "Disponível"
   },
@@ -17465,7 +17465,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 2.50,
-    "estoque": 3,
+    "estoque": 2,
     "imagem": "assets/cards/bra26-es11-carrascal.jpg",
     "status": "Disponível"
   },
@@ -17493,7 +17493,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 2.50,
-    "estoque": 3,
+    "estoque": 2,
     "imagem": "assets/cards/bra26-es13-danilo.jpg",
     "status": "Disponível"
   },
@@ -17647,7 +17647,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 2.50,
-    "estoque": 2,
+    "estoque": 1,
     "imagem": "assets/cards/bra26-es24-leo-ortiz.jpg",
     "status": "Disponível"
   },
@@ -17661,7 +17661,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 2.50,
-    "estoque": 2,
+    "estoque": 1,
     "imagem": "assets/cards/bra26-es25-leo-pereira.jpg",
     "status": "Disponível"
   },
@@ -18221,7 +18221,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 5.00,
-    "estoque": 3,
+    "estoque": 2,
     "imagem": "assets/cards/bra26-tp01-bruno-henrique.jpg",
     "status": "Disponível"
   },
@@ -18235,7 +18235,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 5.00,
-    "estoque": 1,
+    "estoque": 0,
     "imagem": "assets/cards/bra26-tp02-de-arrascaeta.jpg",
     "status": "Disponível"
   },
@@ -18305,7 +18305,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 5.00,
-    "estoque": 3,
+    "estoque": 2,
     "imagem": "assets/cards/bra26-tp07-lucas-paqueta.jpg",
     "status": "Disponível"
   },
@@ -18361,7 +18361,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 5.00,
-    "estoque": 3,
+    "estoque": 2,
     "imagem": "assets/cards/bra26-tp11-pedro.jpg",
     "status": "Disponível"
   },

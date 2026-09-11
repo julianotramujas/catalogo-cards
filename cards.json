@@ -18033,14 +18033,14 @@
     "id": 1289,
     "colecao": "Brasileirão 2026",
     "numero": "ID-08",
-    "nome": "Indefinido",
-    "pais": "Indefinido",
+    "nome": "Gustavo Gomez",
+    "pais": "Palmeiras",
     "categoria": "Brasileirão 2026",
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 7.50,
     "estoque": 0,
-    "imagem": "assets/cards/bra26-id08-indefinido.png",
+    "imagem": "assets/cards/bra26-id08-gustavo-gomez.jpg",
     "status": "Disponível"
   },
   {
@@ -18418,7 +18418,7 @@
     "tipo": "Jogador",
     "preco": 20.00,
     "estoque": 0,
-    "imagem": "assets/cards/bra26-lg-indefinido.png",
+    "imagem": "assets/cards/bra26-lg03-kaka.jpg",
     "status": "Disponível"
   },
   {
@@ -18432,7 +18432,7 @@
     "tipo": "Jogador",
     "preco": 20.00,
     "estoque": 0,
-    "imagem": "assets/cards/bra26-lg-indefinido.png",
+    "imagem": "assets/cards/bra26-lg04-mascherano.jpg",
     "status": "Disponível"
   },
   {
@@ -18446,7 +18446,7 @@
     "tipo": "Jogador",
     "preco": 20.00,
     "estoque": 0,
-    "imagem": "assets/cards/bra26-lg-indefinido.png",
+    "imagem": "assets/cards/bra26-lg05-rivaldo.jpg",
     "status": "Disponível"
   },
   {
@@ -18460,7 +18460,7 @@
     "tipo": "Jogador",
     "preco": 20.00,
     "estoque": 0,
-    "imagem": "assets/cards/bra26-lg-indefinido.png",
+    "imagem": "assets/cards/bra26-lg06-tevez.jpg",
     "status": "Disponível"
   },
   {
@@ -18473,8 +18473,8 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 20.00,
-    "estoque": 0,
-    "imagem": "assets/cards/bra26-lg-indefinido.png",
+    "estoque": 1,
+    "imagem": "assets/cards/bra26-lg07-ze-roberto.jpg",
     "status": "Disponível"
   },
   {

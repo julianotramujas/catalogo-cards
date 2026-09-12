@@ -17129,7 +17129,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 5.00,
-    "estoque": 2,
+    "estoque": 4,
     "imagem": "assets/cards/bra26-01-cássio.jpg",
     "status": "Disponível"
   },
@@ -17143,7 +17143,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 5.00,
-    "estoque": 3,
+    "estoque": 5,
     "imagem": "assets/cards/bra26-02-everson.jpg",
     "status": "Disponível"
   },
@@ -17157,7 +17157,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 5.00,
-    "estoque": 5,
+    "estoque": 6,
     "imagem": "assets/cards/bra26-03-fábio.jpg",
     "status": "Disponível"
   },
@@ -17171,7 +17171,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 5.00,
-    "estoque": 4,
+    "estoque": 5,
     "imagem": "assets/cards/bra26-04-brazão.jpg",
     "status": "Disponível"
   },
@@ -17185,7 +17185,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 5.00,
-    "estoque": 5,
+    "estoque": 6,
     "imagem": "assets/cards/bra26-05-hugo-souza.jpg",
     "status": "Disponível"
   },
@@ -17199,7 +17199,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 5.00,
-    "estoque": 4,
+    "estoque": 5,
     "imagem": "assets/cards/bra26-06-léo-jardim.jpg",
     "status": "Disponível"
   },
@@ -17213,7 +17213,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 5.00,
-    "estoque": 5,
+    "estoque": 6,
     "imagem": "assets/cards/bra26-07-lucas-arcanjo.jpg",
     "status": "Disponível"
   },
@@ -17227,7 +17227,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 5.00,
-    "estoque": 4,
+    "estoque": 5,
     "imagem": "assets/cards/bra26-08-marcelo-rangel.jpg",
     "status": "Disponível"
   },
@@ -17255,7 +17255,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 5.00,
-    "estoque": 4,
+    "estoque": 5,
     "imagem": "assets/cards/bra26-10-rafael.jpg",
     "status": "Disponível"
   },
@@ -17283,7 +17283,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 5.00,
-    "estoque": 3,
+    "estoque": 5,
     "imagem": "assets/cards/bra26-12-santos.jpg",
     "status": "Disponível"
   },
@@ -17311,7 +17311,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 5.00,
-    "estoque": 2,
+    "estoque": 3,
     "imagem": "assets/cards/bra26-14-weverton.jpg",
     "status": "Disponível"
   },
@@ -17339,7 +17339,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 3.50,
-    "estoque": 3,
+    "estoque": 5,
     "imagem": "assets/cards/bra26-es02-allan.jpg",
     "status": "Disponível"
   },
@@ -17367,7 +17367,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 3.50,
-    "estoque": 3,
+    "estoque": 5,
     "imagem": "assets/cards/bra26-es04-arthur-cabral.jpg",
     "status": "Disponível"
   },
@@ -17395,7 +17395,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 3.50,
-    "estoque": 3,
+    "estoque": 5,
     "imagem": "assets/cards/bra26-es06-bernard.jpg",
     "status": "Disponível"
   },
@@ -17423,7 +17423,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 3.50,
-    "estoque": 3,
+    "estoque": 5,
     "imagem": "assets/cards/bra26-es08-bolasie.jpg",
     "status": "Disponível"
   },
@@ -17437,7 +17437,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 3.50,
-    "estoque": 2,
+    "estoque": 4,
     "imagem": "assets/cards/bra26-es09-breno-bidon.jpg",
     "status": "Disponível"
   },
@@ -17465,7 +17465,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 3.50,
-    "estoque": 2,
+    "estoque": 3,
     "imagem": "assets/cards/bra26-es11-carrascal.jpg",
     "status": "Disponível"
   },
@@ -17479,7 +17479,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 3.50,
-    "estoque": 2,
+    "estoque": 4,
     "imagem": "assets/cards/bra26-es12-cassierra.jpg",
     "status": "Disponível"
   },
@@ -17493,7 +17493,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 3.50,
-    "estoque": 2,
+    "estoque": 3,
     "imagem": "assets/cards/bra26-es13-danilo.jpg",
     "status": "Disponível"
   },
@@ -17507,7 +17507,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 3.50,
-    "estoque": 2,
+    "estoque": 3,
     "imagem": "assets/cards/bra26-es14-danilo.jpg",
     "status": "Disponível"
   },
@@ -17521,7 +17521,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 3.50,
-    "estoque": 2,
+    "estoque": 3,
     "imagem": "assets/cards/bra26-es15-dudu.jpg",
     "status": "Disponível"
   },
@@ -17535,7 +17535,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 3.50,
-    "estoque": 1,
+    "estoque": 2,
     "imagem": "assets/cards/bra26-es16-fabricio-bruno.jpg",
     "status": "Disponível"
   },
@@ -17549,7 +17549,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 3.50,
-    "estoque": 3,
+    "estoque": 5,
     "imagem": "assets/cards/bra26-es17-german-cano.jpg",
     "status": "Disponível"
   },
@@ -17563,7 +17563,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 3.50,
-    "estoque": 2,
+    "estoque": 3,
     "imagem": "assets/cards/bra26-es18-hulk.jpg",
     "status": "Disponível"
   },
@@ -17591,7 +17591,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 3.50,
-    "estoque": 2,
+    "estoque": 3,
     "imagem": "assets/cards/bra26-es20-jesse-lingard.jpg",
     "status": "Disponível"
   },
@@ -17619,7 +17619,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 3.50,
-    "estoque": 2,
+    "estoque": 4,
     "imagem": "assets/cards/bra26-es22-juninho-capixaba.jpg",
     "status": "Disponível"
   },
@@ -17647,7 +17647,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 3.50,
-    "estoque": 1,
+    "estoque": 3,
     "imagem": "assets/cards/bra26-es24-leo-ortiz.jpg",
     "status": "Disponível"
   },
@@ -17675,7 +17675,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 3.50,
-    "estoque": 2,
+    "estoque": 4,
     "imagem": "assets/cards/bra26-es26-lucas-romero.jpg",
     "status": "Disponível"
   },
@@ -17703,7 +17703,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 3.50,
-    "estoque": 2,
+    "estoque": 4,
     "imagem": "assets/cards/bra26-es28-marcos-antonio.jpg",
     "status": "Disponível"
   },
@@ -17731,7 +17731,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 3.50,
-    "estoque": 1,
+    "estoque": 3,
     "imagem": "assets/cards/bra26-es30-montoro.jpg",
     "status": "Disponível"
   },
@@ -17745,7 +17745,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 3.50,
-    "estoque": 1,
+    "estoque": 2,
     "imagem": "assets/cards/bra26-es31-paulinho.jpg",
     "status": "Disponível"
   },
@@ -17759,7 +17759,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 3.50,
-    "estoque": 1,
+    "estoque": 2,
     "imagem": "assets/cards/bra26-es32-paulo-henrique.jpg",
     "status": "Disponível"
   },
@@ -17773,7 +17773,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 3.50,
-    "estoque": 1,
+    "estoque": 2,
     "imagem": "assets/cards/bra26-es33-ph-ganso.jpg",
     "status": "Disponível"
   },
@@ -17787,7 +17787,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 3.50,
-    "estoque": 0,
+    "estoque": 1,
     "imagem": "assets/cards/bra26-es34-reinaldo.jpg",
     "status": "Disponível"
   },
@@ -17801,7 +17801,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 3.50,
-    "estoque": 1,
+    "estoque": 2,
     "imagem": "assets/cards/bra26-es35-renan-lodi.jpg",
     "status": "Disponível"
   },
@@ -17815,7 +17815,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 3.50,
-    "estoque": 1,
+    "estoque": 2,
     "imagem": "assets/cards/bra26-es36-renato-kayzer.jpg",
     "status": "Disponível"
   },
@@ -17829,7 +17829,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 3.50,
-    "estoque": 0,
+    "estoque": 2,
     "imagem": "assets/cards/bra26-es37-rodrigo-garro.jpg",
     "status": "Disponível"
   },
@@ -17955,7 +17955,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 7.50,
-    "estoque": 3,
+    "estoque": 4,
     "imagem": "assets/cards/bra26-id02-alex-telles.jpg",
     "status": "Disponível"
   },
@@ -17983,7 +17983,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 7.50,
-    "estoque": 3,
+    "estoque": 4,
     "imagem": "assets/cards/bra26-id04-calleri.jpg",
     "status": "Disponível"
   },
@@ -18011,7 +18011,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 7.50,
-    "estoque": 3,
+    "estoque": 4,
     "imagem": "assets/cards/bra26-id06-everton-ribeiro.jpg",
     "status": "Disponível"
   },
@@ -18025,7 +18025,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 7.50,
-    "estoque": 3,
+    "estoque": 4,
     "imagem": "assets/cards/bra26-id07-flaco-lopez.jpg",
     "status": "Disponível"
   },
@@ -18053,7 +18053,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 7.50,
-    "estoque": 4,
+    "estoque": 5,
     "imagem": "assets/cards/bra26-id09-joaquin-piquerez.jpg",
     "status": "Disponível"
   },
@@ -18081,7 +18081,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 7.50,
-    "estoque": 4,
+    "estoque": 5,
     "imagem": "assets/cards/bra26-id11-lucas.jpg",
     "status": "Disponível"
   },
@@ -18095,7 +18095,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 7.50,
-    "estoque": 0,
+    "estoque": 1,
     "imagem": "assets/cards/bra26-id12-luciano-juba.jpg",
     "status": "Disponível"
   },
@@ -18109,7 +18109,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 7.50,
-    "estoque": 4,
+    "estoque": 5,
     "imagem": "assets/cards/bra26-id13-matheus-pereira.jpg",
     "status": "Disponível"
   },
@@ -18123,7 +18123,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 7.50,
-    "estoque": 1,
+    "estoque": 2,
     "imagem": "assets/cards/bra26-id14-yuri-alberto.jpg",
     "status": "Disponível"
   },
@@ -18151,7 +18151,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 3.50,
-    "estoque": 3,
+    "estoque": 4,
     "imagem": "assets/cards/bra26-pc02-andre.jpg",
     "status": "Disponível"
   },
@@ -18179,7 +18179,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 3.50,
-    "estoque": 3,
+    "estoque": 4,
     "imagem": "assets/cards/bra26-pc04-lucas-silva.jpg",
     "status": "Disponível"
   },
@@ -18207,7 +18207,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 3.50,
-    "estoque": 3,
+    "estoque": 5,
     "imagem": "assets/cards/bra26-pc06-otavio-costa.jpg",
     "status": "Disponível"
   },
@@ -18221,7 +18221,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 10.00,
-    "estoque": 2,
+    "estoque": 4,
     "imagem": "assets/cards/bra26-tp01-bruno-henrique.jpg",
     "status": "Disponível"
   },
@@ -18249,7 +18249,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 10.00,
-    "estoque": 3,
+    "estoque": 4,
     "imagem": "assets/cards/bra26-tp03-gabriel-b.jpg",
     "status": "Disponível"
   },
@@ -18277,7 +18277,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 10.00,
-    "estoque": 2,
+    "estoque": 3,
     "imagem": "assets/cards/bra26-tp05-jhon-arias.jpg",
     "status": "Disponível"
   },
@@ -18305,7 +18305,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 10.00,
-    "estoque": 2,
+    "estoque": 3,
     "imagem": "assets/cards/bra26-tp07-lucas-paqueta.jpg",
     "status": "Disponível"
   },
@@ -18333,7 +18333,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 10.00,
-    "estoque": 3,
+    "estoque": 4,
     "imagem": "assets/cards/bra26-tp09-memphis.jpg",
     "status": "Disponível"
   },
@@ -18361,7 +18361,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 10.00,
-    "estoque": 2,
+    "estoque": 3,
     "imagem": "assets/cards/bra26-tp11-pedro.jpg",
     "status": "Disponível"
   },

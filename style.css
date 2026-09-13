@@ -168,7 +168,7 @@ button:disabled {
 }
 
 .hero h2 {
-  max-width: 760px;
+  max-width: 900px;
   margin: 0;
   font-size: clamp(42px, 7vw, 78px);
   line-height: 1;

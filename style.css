@@ -227,7 +227,7 @@ button:disabled {
 }
 
 .barra-pesquisa input {
-  width: 100%;
+  width: 33.33%;
   min-height: 56px;
   padding: 0 18px;
   border: 1px solid var(--cor-borda);

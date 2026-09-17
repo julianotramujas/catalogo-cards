@@ -1771,7 +1771,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 1.25,
-    "estoque": 5,
+    "estoque": 6,
     "imagem": "assets/cards/hr-181-mike-maignan.jpg",
     "status": "Disponível"
   },
@@ -8602,7 +8602,7 @@
     "categoria": "Brilhantes",
     "raridade": "Raro",
     "tipo": "Jogador",
-    "preco": 100.00,
+    "preco": 80.00,
     "estoque": 5,
     "imagem": "assets/cards/mt-624-taça.jpg",
     "status": "Disponível"
@@ -8658,7 +8658,7 @@
     "categoria": "Eternos",
     "raridade": "Raro",
     "tipo": "Jogador",
-    "preco": 100.00,
+    "preco": 80.00,
     "estoque": 7,
     "imagem": "assets/cards/mtm-628-eternos.jpg",
     "status": "Disponível"
@@ -8672,7 +8672,7 @@
     "categoria": "Eternos",
     "raridade": "Raro",
     "tipo": "Jogador",
-    "preco": 100.00,
+    "preco": 80.00,
     "estoque": 5,
     "imagem": "assets/cards/mtm-629-eternos.jpg",
     "status": "Disponível"
@@ -8686,7 +8686,7 @@
     "categoria": "Eternos",
     "raridade": "Raro",
     "tipo": "Jogador",
-    "preco": 100.00,
+    "preco": 80.00,
     "estoque": 6,
     "imagem": "assets/cards/mtm-630-eternos.jpg",
     "status": "Disponível"
@@ -8742,7 +8742,7 @@
     "categoria": "Golden Ballers",
     "raridade": "Especial",
     "tipo": "Jogador",
-    "preco": 55.00,
+    "preco": 50.00,
     "estoque": 4,
     "imagem": "assets/cards/gb-001-lionel-messi.jpg",
     "status": "Disponível"
@@ -8756,7 +8756,7 @@
     "categoria": "Golden Ballers",
     "raridade": "Especial",
     "tipo": "Jogador",
-    "preco": 40.00,
+    "preco": 35.00,
     "estoque": 5,
     "imagem": "assets/cards/gb-002-vinicius-junior.jpg",
     "status": "Disponível"
@@ -8770,7 +8770,7 @@
     "categoria": "Golden Ballers",
     "raridade": "Especial",
     "tipo": "Jogador",
-    "preco": 40.00,
+    "preco": 35.00,
     "estoque": 5,
     "imagem": "assets/cards/gb-003-mohamed-salah.jpg",
     "status": "Disponível"
@@ -8784,7 +8784,7 @@
     "categoria": "Golden Ballers",
     "raridade": "Especial",
     "tipo": "Jogador",
-    "preco": 40.00,
+    "preco": 35.00,
     "estoque": 8,
     "imagem": "assets/cards/gb-004-harry-kane.jpg",
     "status": "Disponível"
@@ -8798,7 +8798,7 @@
     "categoria": "Golden Ballers",
     "raridade": "Especial",
     "tipo": "Jogador",
-    "preco": 50.00,
+    "preco": 45.00,
     "estoque": 4,
     "imagem": "assets/cards/gb-005-kylian-mbappe.jpg",
     "status": "Disponível"
@@ -8812,7 +8812,7 @@
     "categoria": "Golden Ballers",
     "raridade": "Especial",
     "tipo": "Jogador",
-    "preco": 40.00,
+    "preco": 35.00,
     "estoque": 6,
     "imagem": "assets/cards/gb-006-heungmin-son.jpg",
     "status": "Disponível"
@@ -8826,7 +8826,7 @@
     "categoria": "Golden Ballers",
     "raridade": "Especial",
     "tipo": "Jogador",
-    "preco": 40.00,
+    "preco": 35.00,
     "estoque": 2,
     "imagem": "assets/cards/gb-007-erling-haaland.jpg",
     "status": "Disponível"
@@ -8840,7 +8840,7 @@
     "categoria": "Golden Ballers",
     "raridade": "Especial",
     "tipo": "Jogador",
-    "preco": 50.00,
+    "preco": 45.00,
     "estoque": 7,
     "imagem": "assets/cards/gb-008-cristiano-ronaldo.jpg",
     "status": "Disponível"
@@ -8854,7 +8854,7 @@
     "categoria": "Golden Ballers",
     "raridade": "Especial",
     "tipo": "Jogador",
-    "preco": 55.00,
+    "preco": 50.00,
     "estoque": 5,
     "imagem": "assets/cards/gb-009-lamine-yamal.jpg",
     "status": "Disponível"

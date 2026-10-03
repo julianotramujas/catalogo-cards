@@ -22648,6 +22648,20 @@
     "estoque": 0,
     "imagem": "assets/cards/ma27-bayer-leverkusen.png",
     "status": "Disponível"
+  },
+  {
+    "id": 1619,
+    "colecao": "Match Attax 26/27",
+    "numero": "BS-298",
+    "nome": "Nehuén Pérez",
+    "pais": "FC Porto",
+    "categoria": "Match Attax 26/27",
+    "raridade": "Normal",
+    "tipo": "Jogador",
+    "preco": 3.00,
+    "estoque": 0,
+    "imagem": "assets/cards/ma27-porto.png",
+    "status": "Disponível"
   }
  
 

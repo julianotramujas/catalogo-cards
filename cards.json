@@ -17171,7 +17171,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 3.50,
-    "estoque": 4,
+    "estoque": 3,
     "imagem": "assets/cards/bra26-05-hugo-souza.jpg",
     "status": "Disponível"
   },
@@ -17395,7 +17395,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 2.50,
-    "estoque": 3,
+    "estoque": 2,
     "imagem": "assets/cards/bra26-es07-bobadilla.jpg",
     "status": "Disponível"
   },
@@ -17423,7 +17423,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 2.50,
-    "estoque": 2,
+    "estoque": 1,
     "imagem": "assets/cards/bra26-es09-breno-bidon.jpg",
     "status": "Disponível"
   },
@@ -17885,7 +17885,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 2.50,
-    "estoque": 2,
+    "estoque": 1,
     "imagem": "assets/cards/bra26-es42-willian.jpg",
     "status": "Disponível"
   },
@@ -17969,7 +17969,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 4.00,
-    "estoque": 4,
+    "estoque": 3,
     "imagem": "assets/cards/bra26-id04-calleri.jpg",
     "status": "Disponível"
   },
@@ -17997,7 +17997,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 4.00,
-    "estoque": 4,
+    "estoque": 3,
     "imagem": "assets/cards/bra26-id06-everton-ribeiro.jpg",
     "status": "Disponível"
   },

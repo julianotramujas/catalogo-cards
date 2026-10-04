@@ -10792,6 +10792,48 @@
     "status": "Disponível"
   },
   {
+    "id": 1691,
+    "colecao": "worldcup2026",
+    "numero": "XXL-003",
+    "nome": "Rafael Leão",
+    "pais": "Portugal",
+    "categoria": "ADR XL LE & XXL",
+    "raridade": "XXL",
+    "tipo": "Jogador",
+    "preco": 60.00,
+    "estoque": 0,
+    "imagem": "assets/cards/xxl-rafael-leão.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 1692,
+    "colecao": "worldcup2026",
+    "numero": "XXL-004",
+    "nome": "Vinícius Júnior",
+    "pais": "Brasil",
+    "categoria": "ADR XL LE & XXL",
+    "raridade": "XXL",
+    "tipo": "Jogador",
+    "preco": 60.00,
+    "estoque": 0,
+    "imagem": "assets/cards/xxl-vinícius-jr.jpg",
+    "status": "Disponível"
+  },
+  {
+    "id": 1693,
+    "colecao": "worldcup2026",
+    "numero": "XXL-005",
+    "nome": "Ousmane Dembélé",
+    "pais": "França",
+    "categoria": "ADR XL LE & XXL",
+    "raridade": "XXL",
+    "tipo": "Jogador",
+    "preco": 60.00,
+    "estoque": 0,
+    "imagem": "assets/cards/xxl-ousmane-dembélé.jpg",
+    "status": "Disponível"
+  },
+  {
     "id": 655,
     "colecao": "FIFA 365 2027",
     "numero": "GB-001",

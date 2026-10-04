@@ -10801,7 +10801,7 @@
     "raridade": "XXL",
     "tipo": "Jogador",
     "preco": 60.00,
-    "estoque": 0,
+    "estoque": 1,
     "imagem": "assets/cards/xxl-rafael-leão.jpg",
     "status": "Disponível"
   },
@@ -10815,7 +10815,7 @@
     "raridade": "XXL",
     "tipo": "Jogador",
     "preco": 60.00,
-    "estoque": 0,
+    "estoque": 1,
     "imagem": "assets/cards/xxl-vinícius-jr.jpg",
     "status": "Disponível"
   },
@@ -10829,7 +10829,7 @@
     "raridade": "XXL",
     "tipo": "Jogador",
     "preco": 60.00,
-    "estoque": 0,
+    "estoque": 1,
     "imagem": "assets/cards/xxl-ousmane-dembélé.jpg",
     "status": "Disponível"
   },

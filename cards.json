@@ -25214,7 +25214,7 @@
   {
     "id": 1802,
     "colecao": "Match Attax 26/27",
-    "numero": "GN-478",
+    "numero": "CB-478",
     "nome": "Manuel Neuer",
     "pais": "FC Bayern München",
     "categoria": "Match Attax 26/27",
@@ -25228,7 +25228,7 @@
   {
     "id": 1803,
     "colecao": "Match Attax 26/27",
-    "numero": "GN-479",
+    "numero": "CB-479",
     "nome": "Paolo Maldini",
     "pais": "AC Milan",
     "categoria": "Match Attax 26/27",
@@ -25242,7 +25242,7 @@
   {
     "id": 1804,
     "colecao": "Match Attax 26/27",
-    "numero": "GN-480",
+    "numero": "CB-480",
     "nome": "Franz Beckenbauer",
     "pais": "FC Bayern München",
     "categoria": "Match Attax 26/27",
@@ -25256,7 +25256,7 @@
   {
     "id": 1805,
     "colecao": "Match Attax 26/27",
-    "numero": "GN-481",
+    "numero": "CB-481",
     "nome": "Andrés Iniesta",
     "pais": "Barcelona",
     "categoria": "Match Attax 26/27",
@@ -25270,7 +25270,7 @@
   {
     "id": 1806,
     "colecao": "Match Attax 26/27",
-    "numero": "GN-482",
+    "numero": "CB-482",
     "nome": "Luka Modric",
     "pais": "Real Madrid",
     "categoria": "Match Attax 26/27",
@@ -25284,7 +25284,7 @@
   {
     "id": 1807,
     "colecao": "Match Attax 26/27",
-    "numero": "GN-483",
+    "numero": "CB-483",
     "nome": "Lionel Messi",
     "pais": "Barcelona",
     "categoria": "Match Attax 26/27",
@@ -25298,7 +25298,7 @@
   {
     "id": 1808,
     "colecao": "Match Attax 26/27",
-    "numero": "GN-484",
+    "numero": "CB-484",
     "nome": "Ronaldo",
     "pais": "Real Madrid",
     "categoria": "Match Attax 26/27",
@@ -25312,7 +25312,7 @@
   {
     "id": 1809,
     "colecao": "Match Attax 26/27",
-    "numero": "GN-485",
+    "numero": "CB-485",
     "nome": "Thierry Henry",
     "pais": "Arsenal",
     "categoria": "Match Attax 26/27",
@@ -25326,7 +25326,7 @@
   {
     "id": 1810,
     "colecao": "Match Attax 26/27",
-    "numero": "GN-486",
+    "numero": "CB-486",
     "nome": "Ronaldinho",
     "pais": "Barcelona",
     "categoria": "Match Attax 26/27",
@@ -25335,6 +25335,76 @@
     "preco": 30.00,
     "estoque": 0,
     "imagem": "assets/cards/ma27-club100.png",
+    "status": "Disponível"
+  },
+  {
+    "id": 1811,
+    "colecao": "Match Attax 26/27",
+    "numero": "CB-487",
+    "nome": "Gabriel Magalhães",
+    "pais": "Arsenal",
+    "categoria": "Match Attax 26/27",
+    "raridade": "Raro",
+    "tipo": "Jogador",
+    "preco": 20.00,
+    "estoque": 0,
+    "imagem": "assets/cards/ma27-supreme.png",
+    "status": "Disponível"
+  },
+  {
+    "id": 1812,
+    "colecao": "Match Attax 26/27",
+    "numero": "CB-488",
+    "nome": "Kylian Mbappe",
+    "pais": "Real Madrid",
+    "categoria": "Match Attax 26/27",
+    "raridade": "Raro",
+    "tipo": "Jogador",
+    "preco": 20.00,
+    "estoque": 0,
+    "imagem": "assets/cards/ma27-supreme.png",
+    "status": "Disponível"
+  },
+  {
+    "id": 1813,
+    "colecao": "Match Attax 26/27",
+    "numero": "CB-489",
+    "nome": "Harry Kane",
+    "pais": "FC Bayern München",
+    "categoria": "Match Attax 26/27",
+    "raridade": "Raro",
+    "tipo": "Jogador",
+    "preco": 20.00,
+    "estoque": 0,
+    "imagem": "assets/cards/ma27-489-harry-kane.png",
+    "status": "Disponível"
+  },
+  {
+    "id": 1814,
+    "colecao": "Match Attax 26/27",
+    "numero": "CB-490",
+    "nome": "Khvicha Kvaratskhelia",
+    "pais": "Paris Saint Germain",
+    "categoria": "Match Attax 26/27",
+    "raridade": "Raro",
+    "tipo": "Jogador",
+    "preco": 20.00,
+    "estoque": 0,
+    "imagem": "assets/cards/ma27-supreme.png",
+    "status": "Disponível"
+  },
+  {
+    "id": 1815,
+    "colecao": "Match Attax 26/27",
+    "numero": "CB-491",
+    "nome": "Kenan Yildiz",
+    "pais": "Juventus",
+    "categoria": "Match Attax 26/27",
+    "raridade": "Raro",
+    "tipo": "Jogador",
+    "preco": 20.00,
+    "estoque": 0,
+    "imagem": "assets/cards/ma27-supreme.png",
     "status": "Disponível"
   }
 ]

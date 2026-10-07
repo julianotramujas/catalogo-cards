@@ -5971,7 +5971,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 1.75,
-    "estoque": 1,
+    "estoque": 0,
     "imagem": "assets/cards/mt-058-youri-tielemans.jpg",
     "status": "Disponível"
   },
@@ -5985,7 +5985,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 2.00,
-    "estoque": 2,
+    "estoque": 1,
     "imagem": "assets/cards/mt-059-logo.jpg",
     "status": "Disponível"
   },
@@ -6041,7 +6041,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 2.25,
-    "estoque": 1,
+    "estoque": 0,
     "imagem": "assets/cards/mt-072-vinicius-junior.jpg",
     "status": "Disponível"
   },
@@ -6853,7 +6853,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 2.25,
-    "estoque": 3,
+    "estoque": 2,
     "imagem": "assets/cards/mt-310-memphis-depay.jpg",
     "status": "Disponível"
   },
@@ -6937,7 +6937,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 1.75,
-    "estoque": 1,
+    "estoque": 0,
     "imagem": "assets/cards/mt-334-martin-odegaard.jpg",
     "status": "Disponível"
   },
@@ -7077,7 +7077,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 2.00,
-    "estoque": 1,
+    "estoque": 0,
     "imagem": "assets/cards/mt-371-logo.jpg",
     "status": "Disponível"
   },
@@ -7091,7 +7091,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 2.25,
-    "estoque": 1,
+    "estoque": 0,
     "imagem": "assets/cards/mt-372-cristiano-ronaldo.jpg",
     "status": "Disponível"
   },
@@ -7315,7 +7315,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 2.25,
-    "estoque": 1,
+    "estoque": 0,
     "imagem": "assets/cards/mt-442-lamine-yamal.jpg",
     "status": "Disponível"
   },
@@ -7329,7 +7329,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 2.00,
-    "estoque": 1,
+    "estoque": 0,
     "imagem": "assets/cards/mt-443-logo.jpg",
     "status": "Disponível"
   },
@@ -7469,7 +7469,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 2.25,
-    "estoque": 3,
+    "estoque": 1,
     "imagem": "assets/cards/mt-480-christian-pulisic.jpg",
     "status": "Disponível"
   },

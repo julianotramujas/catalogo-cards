@@ -10758,7 +10758,7 @@
     "categoria": "ADR XL LE & XXL",
     "raridade": "LE",
     "tipo": "Jogador",
-    "preco": 50.00,
+    "preco": 45.00,
     "estoque": 1,
     "imagem": "assets/cards/le-ousmane-dembele.jpg",
     "status": "Disponível"
@@ -10772,7 +10772,7 @@
     "categoria": "ADR XL LE & XXL",
     "raridade": "XXL",
     "tipo": "Jogador",
-    "preco": 60.00,
+    "preco": 50.00,
     "estoque": 0,
     "imagem": "assets/cards/xxl-kevin-de-bruyne.jpg",
     "status": "Disponível"
@@ -10786,7 +10786,7 @@
     "categoria": "ADR XL LE & XXL",
     "raridade": "XXL",
     "tipo": "Jogador",
-    "preco": 60.00,
+    "preco": 50.00,
     "estoque": 0,
     "imagem": "assets/cards/xxl-virgil-van-dijk.jpg",
     "status": "Disponível"
@@ -10800,7 +10800,7 @@
     "categoria": "ADR XL LE & XXL",
     "raridade": "XXL",
     "tipo": "Jogador",
-    "preco": 60.00,
+    "preco": 50.00,
     "estoque": 1,
     "imagem": "assets/cards/xxl-rafael-leão.jpg",
     "status": "Disponível"
@@ -10814,7 +10814,7 @@
     "categoria": "ADR XL LE & XXL",
     "raridade": "XXL",
     "tipo": "Jogador",
-    "preco": 60.00,
+    "preco": 50.00,
     "estoque": 1,
     "imagem": "assets/cards/xxl-vinícius-jr.jpg",
     "status": "Disponível"
@@ -10828,7 +10828,7 @@
     "categoria": "ADR XL LE & XXL",
     "raridade": "XXL",
     "tipo": "Jogador",
-    "preco": 60.00,
+    "preco": 50.00,
     "estoque": 1,
     "imagem": "assets/cards/xxl-ousmane-dembélé.jpg",
     "status": "Disponível"
@@ -18374,7 +18374,7 @@
     "categoria": "Brasileirão 2026",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 5.00,
+    "preco": 10.00,
     "estoque": 0,
     "imagem": "assets/cards/bra26-tp10-neymar-jr.jpg",
     "status": "Disponível"
@@ -18528,7 +18528,7 @@
     "categoria": "Colecionáveis",
     "raridade": "",
     "tipo": "Acessório",
-    "preco": 40.00,
+    "preco": 35.00,
     "estoque": 1,
     "imagem": "assets/cards/wc26-pasta.png",
     "status": "Disponível"

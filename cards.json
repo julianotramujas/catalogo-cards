@@ -18095,7 +18095,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 4.00,
-    "estoque": 0,
+    "estoque": 1,
     "imagem": "assets/cards/bra26-id10-jorginho.jpg",
     "status": "Disponível"
   },
@@ -18263,7 +18263,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 5.00,
-    "estoque": 0,
+    "estoque": 1,
     "imagem": "assets/cards/bra26-tp02-de-arrascaeta.jpg",
     "status": "Disponível"
   },
@@ -18445,7 +18445,7 @@
     "raridade": "Especial",
     "tipo": "Jogador",
     "preco": 10.00,
-    "estoque": 0,
+    "estoque": 1,
     "imagem": "assets/cards/bra26-lg03-kaka.jpg",
     "status": "Disponível"
   },
@@ -18473,7 +18473,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 10.00,
-    "estoque": 0,
+    "estoque": 1,
     "imagem": "assets/cards/bra26-lg05-rivaldo.jpg",
     "status": "Disponível"
   },
@@ -18515,7 +18515,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 10.00,
-    "estoque": 0,
+    "estoque": 3,
     "imagem": "assets/cards/bra26-lg08-zico.jpg",
     "status": "Disponível"
   },

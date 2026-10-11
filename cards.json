@@ -18814,6 +18814,34 @@
     "status": "Disponível"
   },
   {
+    "id": 1836,
+    "colecao": "Colecionáveis",
+    "numero": "KT-21",
+    "nome": "Kit Figurinhas Brasileirão 26",
+    "pais": "20 Escudos e 20 Times",
+    "categoria": "Colecionáveis",
+    "raridade": "60 Figurinhas",
+    "tipo": "Acessório",
+    "preco": 75.00,
+    "estoque": 2,
+    "imagem": "assets/cards/bra26-kit-serie-b.png",
+    "status": "Disponível"
+  },
+   {
+    "id": 1837,
+    "colecao": "Colecionáveis",
+    "numero": "KT-22",
+    "nome": "Kit Figurinhas Brasileirão 26",
+    "pais": "Escudo CBF, Taça e 18 jogadoras",
+    "categoria": "Colecionáveis",
+    "raridade": "",
+    "tipo": "Acessório",
+    "preco": 25.00,
+    "estoque": 2,
+    "imagem": "assets/cards/bra26-kit-feminino.png",
+    "status": "Disponível"
+  },
+  {
     "id": 1323,
     "colecao": "Match Attax 26/27",
     "numero": "IN-001",

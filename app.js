@@ -740,64 +740,81 @@ function atualizarPedido() {
 ========================================================= */
 
 function criarMensagemWhatsApp() {
-  const quantidadeTotal =
-    calcularQuantidadeTotal();
+  const valorTotal = calcularValorTotal();
 
-  const valorTotal =
-    calcularValorTotal();
+  // Lista individual dos produtos
+  const linhasCards = pedido
+    .map((item) => {
+      const quantidade = Number(item.quantidade);
+      const subtotal = Number(item.preco) * quantidade;
 
-  const linhasCards =
-    pedido
-      .map((item) => {
-        const subtotal =
-          Number(item.preco) *
-          item.quantidade;
-
-        return [
-          `${item.numero} | ${item.nome} | ${item.pais}`,
-          `${item.quantidade}x ${formatarPreco(item.preco)} = ${formatarPreco(subtotal)}`
-        ].join("\n");
-      })
-      .join("\n\n");
-
+      return [
+        `${item.numero} | ${item.nome} | ${item.pais}`,
+        `${quantidade}x ${formatarPreco(item.preco)} = ${formatarPreco(subtotal)}`
+      ].join("\n");
+    })
+    .join("\n\n");
 
   /* =========================================================
-     RESUMO AGRUPADO POR PREÇO
+     RESUMO AGRUPADO POR PREÇO - CARDS E KITS
   ========================================================= */
 
   const resumoPorPreco = {};
 
+  let totalCards = 0;
+  let totalKits = 0;
+
   pedido.forEach((item) => {
     const preco = Number(item.preco);
-    const chave = preco.toFixed(2);
+    const quantidade = Number(item.quantidade);
+
+    // Kits identificados pelo código KT-
+    const ehKit = String(item.numero)
+      .trim()
+      .toUpperCase()
+      .startsWith("KT-");
+
+    const tipo = ehKit ? "Kits" : "Cards";
+    const chave = `${tipo}-${preco.toFixed(2)}`;
 
     if (!resumoPorPreco[chave]) {
       resumoPorPreco[chave] = {
-        preco: preco,
+        tipo,
+        preco,
         quantidade: 0,
         subtotal: 0
       };
     }
 
-    resumoPorPreco[chave].quantidade += item.quantidade;
+    resumoPorPreco[chave].quantidade += quantidade;
+    resumoPorPreco[chave].subtotal += preco * quantidade;
 
-    resumoPorPreco[chave].subtotal +=
-      preco * item.quantidade;
+    if (ehKit) {
+      totalKits += quantidade;
+    } else {
+      totalCards += quantidade;
+    }
   });
 
+  const linhasResumo = Object.values(resumoPorPreco)
+    .sort((a, b) => {
+      if (a.tipo !== b.tipo) {
+        return a.tipo === "Cards" ? -1 : 1;
+      }
+      return a.preco - b.preco;
+    })
+    .map((grupo) => {
+      return (
+        `${grupo.tipo} ${formatarPreco(grupo.preco)} - ` +
+        `${grupo.quantidade} un. - ` +
+        `${formatarPreco(grupo.subtotal)}`
+      );
+    })
+    .join("\n");
 
-  const linhasResumo =
-    Object.values(resumoPorPreco)
-      .sort((a, b) => a.preco - b.preco)
-      .map((grupo) => {
-        return (
-          `Cards ${formatarPreco(grupo.preco)} - ` +
-          `${grupo.quantidade} un. - ` +
-          `${formatarPreco(grupo.subtotal)}`
-        );
-      })
-      .join("\n");
-
+  /* =========================================================
+     MENSAGEM FINAL
+  ========================================================= */
 
   return [
     "TRAMUJAS CARDS",
@@ -814,7 +831,8 @@ function criarMensagemWhatsApp() {
     "",
     linhasResumo,
     "",
-    `Total de cards: ${quantidadeTotal}`,
+    `Total de cards: ${totalCards}`,
+    `Total de kits: ${totalKits}`,
     `Valor do pedido: ${formatarPreco(valorTotal)}`,
     "",
     "O frete será calculado separadamente.",

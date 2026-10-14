@@ -17185,7 +17185,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 3.50,
-    "estoque": 11,
+    "estoque": 10,
     "imagem": "assets/cards/bra26-03-fábio.jpg",
     "status": "Disponível"
   },
@@ -17577,7 +17577,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 2.50,
-    "estoque": 8,
+    "estoque": 7,
     "imagem": "assets/cards/bra26-es17-german-cano.jpg",
     "status": "Disponível"
   },
@@ -17591,7 +17591,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 2.50,
-    "estoque": 7,
+    "estoque": 6,
     "imagem": "assets/cards/bra26-es18-hulk.jpg",
     "status": "Disponível"
   },
@@ -17717,7 +17717,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 2.50,
-    "estoque": 4,
+    "estoque": 3,
     "imagem": "assets/cards/bra26-es27-lucho-acosta.jpg",
     "status": "Disponível"
   },
@@ -17801,7 +17801,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 2.50,
-    "estoque": 6,
+    "estoque": 5,
     "imagem": "assets/cards/bra26-es33-ph-ganso.jpg",
     "status": "Disponível"
   },
@@ -17871,7 +17871,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 2.50,
-    "estoque": 4,
+    "estoque": 3,
     "imagem": "assets/cards/bra26-es38-samuel-xavier.jpg",
     "status": "Disponível"
   },
@@ -17885,7 +17885,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 2.50,
-    "estoque": 3,
+    "estoque": 2,
     "imagem": "assets/cards/bra26-es39-thiago-silva.jpg",
     "status": "Disponível"
   },
@@ -18193,7 +18193,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 2.50,
-    "estoque": 3,
+    "estoque": 2,
     "imagem": "assets/cards/bra26-pc03-john-kennedy.jpg",
     "status": "Disponível"
   },
@@ -18221,7 +18221,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 2.50,
-    "estoque": 5,
+    "estoque": 4,
     "imagem": "assets/cards/bra26-pc05-martinelli.jpg",
     "status": "Disponível"
   },
@@ -18599,7 +18599,7 @@
     "raridade": "",
     "tipo": "Acessório",
     "preco": 25.00,
-    "estoque": 3,
+    "estoque": 2,
     "imagem": "assets/cards/bra26-kit-fluminense.png",
     "status": "Disponível"
   },

@@ -8944,20 +8944,6 @@
     "status": "Disponível"
   },
   {
-    "id": 640,
-    "colecao": "Copa2018",
-    "numero": "BS-037",
-    "nome": "Alisson",
-    "pais": "Brasil",
-    "categoria": "Copa 2018",
-    "raridade": "Normal",
-    "tipo": "Jogador",
-    "preco": 3.50,
-    "estoque": 1,
-    "imagem": "assets/cards/bs-037-alisson.jpg",
-    "status": "Disponível"
-  },
-  {
     "id": 641,
     "colecao": "Copa2018",
     "numero": "BS-048",
@@ -8967,7 +8953,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 3.50,
-    "estoque": 2,
+    "estoque": 1,
     "imagem": "assets/cards/bs-048-coutinho.jpg",
     "status": "Disponível"
   },
@@ -8981,22 +8967,8 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 3.50,
-    "estoque": 2,
-    "imagem": "assets/cards/bs-050-willian.jpg",
-    "status": "Disponível"
-  },
-  {
-    "id": 643,
-    "colecao": "Copa2018",
-    "numero": "BS-051",
-    "nome": "Douglas Costa",
-    "pais": "Brasil",
-    "categoria": "Copa 2018",
-    "raridade": "Normal",
-    "tipo": "Jogador",
-    "preco": 3.50,
     "estoque": 1,
-    "imagem": "assets/cards/bs-051-douglas-costa.jpg",
+    "imagem": "assets/cards/bs-050-willian.jpg",
     "status": "Disponível"
   },
   {
@@ -10199,7 +10171,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 3.50,
-    "estoque": 4,
+    "estoque": 3,
     "imagem": "assets/cards/tm-bra16-douglas-costa.jpg",
     "status": "Disponível"
   },
@@ -25674,7 +25646,7 @@
     "status": "Disponível"
   },
   {
-    "id": 1813,
+    "id": 640,
     "colecao": "Match Attax 26/27",
     "numero": "SM-489",
     "nome": "Harry Kane",
@@ -25688,7 +25660,7 @@
     "status": "Disponível"
   },
   {
-    "id": 1814,
+    "id": 643,
     "colecao": "Match Attax 26/27",
     "numero": "SM-490",
     "nome": "Khvicha Kvaratskhelia",
@@ -25702,7 +25674,7 @@
     "status": "Disponível"
   },
   {
-    "id": 1815,
+    "id": 1813,
     "colecao": "Match Attax 26/27",
     "numero": "SM-491",
     "nome": "Kenan Yildiz",

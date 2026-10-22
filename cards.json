@@ -2947,7 +2947,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 1.25,
-    "estoque": 6,
+    "estoque": 5,
     "imagem": "assets/cards/hr-292-cesar-montes.jpg",
     "status": "Disponível"
   },
@@ -6811,7 +6811,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 1.75,
-    "estoque": 1,
+    "estoque": 0,
     "imagem": "assets/cards/mt-298-youssef-en-nesyri.jpg",
     "status": "Disponível"
   },
@@ -7469,7 +7469,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 2.25,
-    "estoque": 1,
+    "estoque": 0,
     "imagem": "assets/cards/mt-480-christian-pulisic.jpg",
     "status": "Disponível"
   },
@@ -7497,7 +7497,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 2.00,
-    "estoque": 2,
+    "estoque": 1,
     "imagem": "assets/cards/mt-491-logo.jpg",
     "status": "Disponível"
   },
@@ -17521,7 +17521,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 2.50,
-    "estoque": 7,
+    "estoque": 6,
     "imagem": "assets/cards/bra26-es15-dudu.jpg",
     "status": "Disponível"
   },
@@ -17549,7 +17549,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 2.50,
-    "estoque": 6,
+    "estoque": 5,
     "imagem": "assets/cards/bra26-es17-german-cano.jpg",
     "status": "Disponível"
   },
@@ -17577,7 +17577,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 2.50,
-    "estoque": 6,
+    "estoque": 5,
     "imagem": "assets/cards/bra26-es19-jean-lucas.jpg",
     "status": "Disponível"
   },
@@ -17605,7 +17605,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 2.50,
-    "estoque": 6,
+    "estoque": 5,
     "imagem": "assets/cards/bra26-es21-johan-carbonero.jpg",
     "status": "Disponível"
   },
@@ -17633,7 +17633,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 2.50,
-    "estoque": 6,
+    "estoque": 5,
     "imagem": "assets/cards/bra26-es23-junior-santos.jpg",
     "status": "Disponível"
   },
@@ -17661,7 +17661,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 2.50,
-    "estoque": 5,
+    "estoque": 4,
     "imagem": "assets/cards/bra26-es25-leo-pereira.jpg",
     "status": "Disponível"
   },
@@ -17689,7 +17689,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 2.50,
-    "estoque": 2,
+    "estoque": 1,
     "imagem": "assets/cards/bra26-es27-lucho-acosta.jpg",
     "status": "Disponível"
   },
@@ -17857,7 +17857,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 2.50,
-    "estoque": 1,
+    "estoque": 0,
     "imagem": "assets/cards/bra26-es39-thiago-silva.jpg",
     "status": "Disponível"
   },
@@ -17899,7 +17899,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 2.50,
-    "estoque": 1,
+    "estoque": 0,
     "imagem": "assets/cards/bra26-es42-willian.jpg",
     "status": "Disponível"
   },
@@ -17913,7 +17913,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 2.50,
-    "estoque": 4,
+    "estoque": 3,
     "imagem": "assets/cards/bra26-es43-willian-jose.jpg",
     "status": "Disponível"
   },
@@ -17927,7 +17927,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 2.50,
-    "estoque": 5,
+    "estoque": 4,
     "imagem": "assets/cards/bra26-es44-yago-pikachu.jpg",
     "status": "Disponível"
   },
@@ -17941,7 +17941,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 4.00,
-    "estoque": 5,
+    "estoque": 4,
     "imagem": "assets/cards/bra26-id01-alan-patrick.jpg",
     "status": "Disponível"
   },
@@ -18053,7 +18053,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 4.00,
-    "estoque": 4,
+    "estoque": 3,
     "imagem": "assets/cards/bra26-id09-joaquin-piquerez.jpg",
     "status": "Disponível"
   },
@@ -18081,7 +18081,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 4.00,
-    "estoque": 7,
+    "estoque": 6,
     "imagem": "assets/cards/bra26-id11-lucas.jpg",
     "status": "Disponível"
   },
@@ -18109,7 +18109,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 4.00,
-    "estoque": 6,
+    "estoque": 5,
     "imagem": "assets/cards/bra26-id13-matheus-pereira.jpg",
     "status": "Disponível"
   },

@@ -6783,7 +6783,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 2.00,
-    "estoque": 2,
+    "estoque": 1,
     "imagem": "assets/cards/mt-287-logo.jpg",
     "status": "Disponível"
   },

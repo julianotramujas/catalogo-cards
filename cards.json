@@ -26470,5 +26470,33 @@
     "estoque": 0,
     "imagem": "assets/cards/ma27-mystical.png",
     "status": "Disponível"
+  },
+  {
+    "id": 1892,
+    "colecao": "Match Attax 26/27",
+    "numero": "BN-1",
+    "nome": "Eberechi Eze",
+    "pais": "Black Nitro",
+    "categoria": "Match Attax 26/27",
+    "raridade": "Starter Pack",
+    "tipo": "Jogador",
+    "preco": 25.00,
+    "estoque": 0,
+    "imagem": "assets/cards/ma27-blacknitro-eberechi-eze.png",
+    "status": "Disponível"
+  },
+  {
+    "id": 1893,
+    "colecao": "Match Attax 26/27",
+    "numero": "T1",
+    "nome": "Tactic Card",
+    "pais": "Starter Pack",
+    "categoria": "Match Attax 26/27",
+    "raridade": "Starter Pack",
+    "tipo": "Jogador",
+    "preco": 15.00,
+    "estoque": 0,
+    "imagem": "assets/cards/ma27-tacticcard.png",
+    "status": "Disponível"
   }
 ]

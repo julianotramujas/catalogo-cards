@@ -935,4 +935,23 @@ footer {
     padding: 16px;
     padding-bottom: calc(16px + env(safe-area-inset-bottom));
   }
+
+  /* =========================================
+   LOGOTIPO TRAMUJAS CARDS
+========================================= */
+
+.marca-icone {
+  width: 65px;
+  height: 65px;
+  object-fit: contain;
+  display: block;
+  flex-shrink: 0;
+}
+
+/* Logotipo em dispositivos móveis */
+@media (max-width: 560px) {
+  .marca-icone {
+    width: 48px;
+    height: 48px;
+  }
 }

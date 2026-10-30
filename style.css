@@ -936,6 +936,10 @@ footer {
     padding-bottom: calc(16px + env(safe-area-inset-bottom));
   }
 
+  /* Fecha o @media de 600px */
+
+  }
+
   /* =========================================
    LOGOTIPO TRAMUJAS CARDS
 ========================================= */

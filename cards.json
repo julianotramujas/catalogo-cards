@@ -6307,7 +6307,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 1.75,
-    "estoque": 1,
+    "estoque": 0,
     "imagem": "assets/cards/mt-154-omar-marmoush.jpg",
     "status": "Disponível"
   },
@@ -6349,7 +6349,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 2.25,
-    "estoque": 1,
+    "estoque": 0,
     "imagem": "assets/cards/mt-166-jude-bellingham.jpg",
     "status": "Disponível"
   },
@@ -7483,7 +7483,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 1.75,
-    "estoque": 1,
+    "estoque": 0,
     "imagem": "assets/cards/mt-490-josé-maria-gimenez.jpg",
     "status": "Disponível"
   },
@@ -8407,7 +8407,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 1.75,
-    "estoque": 2,
+    "estoque": 1,
     "imagem": "assets/cards/mt-610-zeno-debast.jpg",
     "status": "Disponível"
   },
@@ -8449,7 +8449,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 1.75,
-    "estoque": 1,
+    "estoque": 0,
     "imagem": "assets/cards/mt-613-petar-sucic.jpg",
     "status": "Disponível"
   },

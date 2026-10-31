@@ -7511,7 +7511,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 2.00,
-    "estoque": 0,
+    "estoque": 1,
     "imagem": "assets/cards/mt-492-federico-valverde.jpg",
     "status": "Disponível"
   },
@@ -7665,7 +7665,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 2.50,
-    "estoque": 0,
+    "estoque": 2,
     "imagem": "assets/cards/mt-557-unai-simon.jpg",
     "status": "Disponível"
   },

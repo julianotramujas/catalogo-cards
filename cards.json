@@ -8,7 +8,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 1,
     "imagem": "assets/cards/hr-013-alexis-guendouz.jpg",
     "status": "Disponível"
@@ -22,7 +22,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 2,
     "imagem": "assets/cards/hr-014-ramy-bensebaini.jpg",
     "status": "Disponível"
@@ -36,7 +36,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 4,
     "imagem": "assets/cards/hr-015-youcef-atal.jpg",
     "status": "Disponível"
@@ -50,7 +50,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 3,
     "imagem": "assets/cards/hr-016-aissa-mandi.jpg",
     "status": "Disponível"
@@ -64,7 +64,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 0,
     "imagem": "assets/cards/hr-017-nabil-bentaleb.jpg",
     "status": "Disponível"
@@ -78,7 +78,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 2,
     "imagem": "assets/cards/hr-018-said-benrahma.jpg",
     "status": "Disponível"
@@ -92,7 +92,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 3,
     "imagem": "assets/cards/hr-019-amine-gouiri.jpg",
     "status": "Disponível"
@@ -106,7 +106,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 9,
     "imagem": "assets/cards/hr-020-mohamend-amoura.jpg",
     "status": "Disponível"
@@ -120,7 +120,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 7,
     "imagem": "assets/cards/hr-021-baghdad-bounedjah.jpg",
     "status": "Disponível"
@@ -134,7 +134,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 0,
     "imagem": "assets/cards/hr-025-emiliano-martinez.jpg",
     "status": "Disponível"
@@ -148,7 +148,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 5,
     "imagem": "assets/cards/hr-026-nahuel-molina.jpg",
     "status": "Disponível"
@@ -162,7 +162,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 4,
     "imagem": "assets/cards/hr-027-cristian-romero.jpg",
     "status": "Disponível"
@@ -176,7 +176,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 9,
     "imagem": "assets/cards/hr-028-nicolas-otamendi.jpg",
     "status": "Disponível"
@@ -190,7 +190,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 1,
     "imagem": "assets/cards/hr-029-enzo-fernandez.jpg",
     "status": "Disponível"
@@ -204,7 +204,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 3,
     "imagem": "assets/cards/hr-030-alexis-mac-allister.jpg",
     "status": "Disponível"
@@ -218,7 +218,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 2,
     "imagem": "assets/cards/hr-031-rodrigo-de-paul.jpg",
     "status": "Disponível"
@@ -232,7 +232,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 5,
     "imagem": "assets/cards/hr-032-giuliano-simeone.jpg",
     "status": "Disponível"
@@ -246,7 +246,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 4,
     "imagem": "assets/cards/hr-033-lautaro-martinez.jpg",
     "status": "Disponível"
@@ -260,7 +260,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 12,
     "imagem": "assets/cards/hr-037-alessandro-circati.jpg",
     "status": "Disponível"
@@ -274,7 +274,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 0,
     "imagem": "assets/cards/hr-038-jordan-bos.jpg",
     "status": "Disponível"
@@ -288,7 +288,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 8,
     "imagem": "assets/cards/hr-039-lewis-miller.jpg",
     "status": "Disponível"
@@ -302,7 +302,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 4,
     "imagem": "assets/cards/hr-040-milos-degenek.jpg",
     "status": "Disponível"
@@ -316,7 +316,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 9,
     "imagem": "assets/cards/hr-041-jackson-irvine.jpg",
     "status": "Disponível"
@@ -330,7 +330,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 7,
     "imagem": "assets/cards/hr-042-riley-mcgree.jpg",
     "status": "Disponível"
@@ -344,7 +344,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 4,
     "imagem": "assets/cards/hr-043-aiden-o'neill.jpg",
     "status": "Disponível"
@@ -358,7 +358,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 8,
     "imagem": "assets/cards/hr-044-connor-metcalfe.jpg",
     "status": "Disponível"
@@ -372,7 +372,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 6,
     "imagem": "assets/cards/hr-045-craig-goodwin.jpg",
     "status": "Disponível"
@@ -386,7 +386,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 3,
     "imagem": "assets/cards/hr-049-alexander-schlager.jpg",
     "status": "Disponível"
@@ -399,7 +399,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 2,
     "imagem": "assets/cards/hr-050-kevin-danso.jpg",
     "status": "Disponível"
@@ -412,7 +412,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 0,
     "imagem": "assets/cards/hr-051-philipp-lienhart.jpg",
     "status": "Disponível"
@@ -426,7 +426,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 6,
     "imagem": "assets/cards/hr-052-konrad-laimer.jpg",
     "status": "Disponível"
@@ -440,7 +440,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 0,
     "imagem": "assets/cards/hr-053-nicolas-seiwald.jpg",
     "status": "Disponível"
@@ -454,7 +454,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 1,
     "imagem": "assets/cards/hr-054-marcel-sabitzer.jpg",
     "status": "Disponível"
@@ -468,7 +468,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 6,
     "imagem": "assets/cards/hr-055-florian-grillitsch.jpg",
     "status": "Disponível"
@@ -482,7 +482,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 5,
     "imagem": "assets/cards/hr-056-christoph-baumgartner.jpg",
     "status": "Disponível"
@@ -496,7 +496,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 3,
     "imagem": "assets/cards/hr-057-michael-gregoritsch.jpg",
     "status": "Disponível"
@@ -510,7 +510,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 4,
     "imagem": "assets/cards/hr-061-thibaut-courtois.jpg",
     "status": "Disponível"
@@ -524,7 +524,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 6,
     "imagem": "assets/cards/hr-062-arthur-theate.jpg",
     "status": "Disponível"
@@ -538,7 +538,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 3,
     "imagem": "assets/cards/hr-063-timothy-castagne.jpg",
     "status": "Disponível"
@@ -552,7 +552,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 4,
     "imagem": "assets/cards/hr-064-maxim-de-cuyper.jpg",
     "status": "Disponível"
@@ -566,7 +566,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 6,
     "imagem": "assets/cards/hr-065-amadou-onana.jpg",
     "status": "Disponível"
@@ -580,7 +580,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 4,
     "imagem": "assets/cards/hr-066-jeremy-doku.jpg",
     "status": "Disponível"
@@ -594,7 +594,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 3,
     "imagem": "assets/cards/hr-067-charles-de-ketelaere.jpg",
     "status": "Disponível"
@@ -608,7 +608,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 1,
     "imagem": "assets/cards/hr-068-leandro-trossard.jpg",
     "status": "Disponível"
@@ -622,7 +622,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 3,
     "imagem": "assets/cards/hr-069-romelu-lukaku.jpg",
     "status": "Disponível"
@@ -636,7 +636,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 5,
     "imagem": "assets/cards/hr-073-alisson.jpg",
     "status": "Disponível"
@@ -650,7 +650,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 4,
     "imagem": "assets/cards/hr-074-danilo.jpg",
     "status": "Disponível"
@@ -664,7 +664,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 0,
     "imagem": "assets/cards/hr-075-eder-militão.jpg",
     "status": "Disponível"
@@ -678,7 +678,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 0,
     "imagem": "assets/cards/hr-076-gabriel-magalhaes.jpg",
     "status": "Disponível"
@@ -692,7 +692,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 0,
     "imagem": "assets/cards/hr-077-casemiro.jpg",
     "status": "Disponível"
@@ -706,7 +706,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 0,
     "imagem": "assets/cards/hr-078-bruno-guimarães.jpg",
     "status": "Disponível"
@@ -720,7 +720,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 1,
     "imagem": "assets/cards/hr-079-rodrygo.jpg",
     "status": "Disponível"
@@ -734,7 +734,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 5,
     "imagem": "assets/cards/hr-080-matheus-cunha.jpg",
     "status": "Disponível"
@@ -748,7 +748,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 0,
     "imagem": "assets/cards/hr-081-raphinha.jpg",
     "status": "Disponível"
@@ -762,7 +762,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 4,
     "imagem": "assets/cards/hr-085-dayne-st-clair.jpg",
     "status": "Disponível"
@@ -776,7 +776,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 13,
     "imagem": "assets/cards/hr-086-richie-laryea.jpg",
     "status": "Disponível"
@@ -790,7 +790,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 13,
     "imagem": "assets/cards/hr-087-derek-cornelius.jpg",
     "status": "Disponível"
@@ -804,7 +804,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 13,
     "imagem": "assets/cards/hr-088-stephen-eustaquio.jpg",
     "status": "Disponível"
@@ -818,7 +818,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 9,
     "imagem": "assets/cards/hr-089-ismael-kone.jpg",
     "status": "Disponível"
@@ -832,7 +832,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 4,
     "imagem": "assets/cards/hr-090-jonathan-osorio.jpg",
     "status": "Disponível"
@@ -846,7 +846,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 6,
     "imagem": "assets/cards/hr-091-jacob-shaffelburg.jpg",
     "status": "Disponível"
@@ -860,7 +860,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 1,
     "imagem": "assets/cards/hr-092-tajon-buchanan.jpg",
     "status": "Disponível"
@@ -874,7 +874,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 3,
     "imagem": "assets/cards/hr-093-cyle-larin.jpg",
     "status": "Disponível"
@@ -888,7 +888,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 6,
     "imagem": "assets/cards/hr-097-logan-costa.jpg",
     "status": "Disponível"
@@ -902,7 +902,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 6,
     "imagem": "assets/cards/hr-098-pico.jpg",
     "status": "Disponível"
@@ -916,7 +916,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 2,
     "imagem": "assets/cards/hr-099-steven-moreira.jpg",
     "status": "Disponível"
@@ -930,7 +930,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 1,
     "imagem": "assets/cards/hr-100-joao-paulo.jpg",
     "status": "Disponível"
@@ -944,7 +944,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 0,
     "imagem": "assets/cards/hr-101-kevin-pina.jpg",
     "status": "Disponível"
@@ -958,7 +958,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 0,
     "imagem": "assets/cards/hr-102-jamiro-monteiro.jpg",
     "status": "Disponível"
@@ -972,7 +972,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 4,
     "imagem": "assets/cards/hr-103-yannick-semedo.jpg",
     "status": "Disponível"
@@ -986,7 +986,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 2,
     "imagem": "assets/cards/hr-104-jovane-cabral.jpg",
     "status": "Disponível"
@@ -1000,7 +1000,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 2,
     "imagem": "assets/cards/hr-105-dailon-livramento.jpg",
     "status": "Disponível"
@@ -1014,7 +1014,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 5,
     "imagem": "assets/cards/hr-109-camilo-vargas.jpg",
     "status": "Disponível"
@@ -1028,7 +1028,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 3,
     "imagem": "assets/cards/hr-110-davinson-sanchez.jpg",
     "status": "Disponível"
@@ -1042,7 +1042,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 4,
     "imagem": "assets/cards/hr-111-yerry-mina.jpg",
     "status": "Disponível"
@@ -1056,7 +1056,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 5,
     "imagem": "assets/cards/hr-112-daniel-munoz.jpg",
     "status": "Disponível"
@@ -1070,7 +1070,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 2,
     "imagem": "assets/cards/hr-113-jefferson-lerma.jpg",
     "status": "Disponível"
@@ -1084,7 +1084,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 4,
     "imagem": "assets/cards/hr-114-richard-rios.jpg",
     "status": "Disponível"
@@ -1098,7 +1098,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 6,
     "imagem": "assets/cards/hr-115-juan-fernando-quintero.jpg",
     "status": "Disponível"
@@ -1112,7 +1112,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 1,
     "imagem": "assets/cards/hr-116-jhon-arias.jpg",
     "status": "Disponível"
@@ -1126,7 +1126,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 2,
     "imagem": "assets/cards/hr-117-luis-suarez.jpg",
     "status": "Disponível"
@@ -1140,7 +1140,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 4,
     "imagem": "assets/cards/hr-121-dominik-livakovic.jpg",
     "status": "Disponível"
@@ -1154,7 +1154,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 0,
     "imagem": "assets/cards/hr-122-duje-caleta-car.jpg",
     "status": "Disponível"
@@ -1168,7 +1168,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 4,
     "imagem": "assets/cards/hr-123-josko-gvardiol.jpg",
     "status": "Disponível"
@@ -1182,7 +1182,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 4,
     "imagem": "assets/cards/hr-124-josip-stanisic.jpg",
     "status": "Disponível"
@@ -1196,7 +1196,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 6,
     "imagem": "assets/cards/hr-125-mateo-kovacic.jpg",
     "status": "Disponível"
@@ -1210,7 +1210,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 4,
     "imagem": "assets/cards/hr-126-lovro-majer.jpg",
     "status": "Disponível"
@@ -1224,7 +1224,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 11,
     "imagem": "assets/cards/hr-127-mario-palasic.jpg",
     "status": "Disponível"
@@ -1238,7 +1238,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 2,
     "imagem": "assets/cards/hr-128-ante-budimir.jpg",
     "status": "Disponível"
@@ -1252,7 +1252,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 8,
     "imagem": "assets/cards/hr-129-andrej-kramaric.jpg",
     "status": "Disponível"
@@ -1266,7 +1266,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 7,
     "imagem": "assets/cards/hr-133-eloy-room.jpg",
     "status": "Disponível"
@@ -1280,7 +1280,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 7,
     "imagem": "assets/cards/hr-134-sherel-floranus.jpg",
     "status": "Disponível"
@@ -1294,7 +1294,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 5,
     "imagem": "assets/cards/hr-135-roshon-van-eijma.jpg",
     "status": "Disponível"
@@ -1308,7 +1308,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 6,
     "imagem": "assets/cards/hr-136-armando-obispo.jpg",
     "status": "Disponível"
@@ -1322,7 +1322,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 5,
     "imagem": "assets/cards/hr-137-livano-comenencia.jpg",
     "status": "Disponível"
@@ -1336,7 +1336,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 9,
     "imagem": "assets/cards/hr-138-juninho-bacuna.jpg",
     "status": "Disponível"
@@ -1350,7 +1350,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 8,
     "imagem": "assets/cards/hr-139-kenji-gorre.jpg",
     "status": "Disponível"
@@ -1364,7 +1364,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 10,
     "imagem": "assets/cards/hr-140-sontje-hansen.jpg",
     "status": "Disponível"
@@ -1378,7 +1378,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 5,
     "imagem": "assets/cards/hr-141-jearl-margaritha.jpg",
     "status": "Disponível"
@@ -1392,7 +1392,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 0,
     "imagem": "assets/cards/hr-145-hernan-galindez.jpg",
     "status": "Disponível"
@@ -1406,7 +1406,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 1,
     "imagem": "assets/cards/hr-146-piero-hincapie.jpg",
     "status": "Disponível"
@@ -1420,7 +1420,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 0,
     "imagem": "assets/cards/hr-147-pervis-estupinan.jpg",
     "status": "Disponível"
@@ -1434,7 +1434,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 3,
     "imagem": "assets/cards/hr-148-willian-pacho.jpg",
     "status": "Disponível"
@@ -1448,7 +1448,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 8,
     "imagem": "assets/cards/hr-149-angelo-preciado.jpg",
     "status": "Disponível"
@@ -1462,7 +1462,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 1,
     "imagem": "assets/cards/hr-150-joel-ordonez.jpg",
     "status": "Disponível"
@@ -1476,7 +1476,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 5,
     "imagem": "assets/cards/hr-151-alan-franco.jpg",
     "status": "Disponível"
@@ -1490,7 +1490,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 5,
     "imagem": "assets/cards/hr-152-gonzalo-plata.jpg",
     "status": "Disponível"
@@ -1504,7 +1504,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 4,
     "imagem": "assets/cards/hr-153-kevin-rodriguez.jpg",
     "status": "Disponível"
@@ -1518,7 +1518,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 0,
     "imagem": "assets/cards/hr-157-mohamed-el-shenawy.jpg",
     "status": "Disponível"
@@ -1532,7 +1532,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 8,
     "imagem": "assets/cards/hr-158-mohamed-hany.jpg",
     "status": "Disponível"
@@ -1546,7 +1546,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 6,
     "imagem": "assets/cards/hr-159-mohamed-abdelmonem.jpg",
     "status": "Disponível"
@@ -1560,7 +1560,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 6,
     "imagem": "assets/cards/hr-160-ramy-rabia.jpg",
     "status": "Disponível"
@@ -1574,7 +1574,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 4,
     "imagem": "assets/cards/hr-161-marwan-attia.jpg",
     "status": "Disponível"
@@ -1588,7 +1588,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 0,
     "imagem": "assets/cards/hr-162-zizo.jpg",
     "status": "Disponível"
@@ -1602,7 +1602,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 5,
     "imagem": "assets/cards/hr-163-hamdy-fathy.jpg",
     "status": "Disponível"
@@ -1616,7 +1616,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 8,
     "imagem": "assets/cards/hr-164-mostafa-mohamed.jpg",
     "status": "Disponível"
@@ -1630,7 +1630,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 13,
     "imagem": "assets/cards/hr-165-trezeguet.jpg",
     "status": "Disponível"
@@ -1644,7 +1644,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 6,
     "imagem": "assets/cards/hr-169-jordan-pickford.jpg",
     "status": "Disponível"
@@ -1658,7 +1658,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque":9,
     "imagem": "assets/cards/hr-170-reece-james.jpg",
     "status": "Disponível"
@@ -1672,7 +1672,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 1,
     "imagem": "assets/cards/hr-171-john-stones.jpg",
     "status": "Disponível"
@@ -1686,7 +1686,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 2,
     "imagem": "assets/cards/hr-172-declain-rice.jpg",
     "status": "Disponível"
@@ -1700,7 +1700,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 4,
     "imagem": "assets/cards/hr-173-jordan-henderson.jpg",
     "status": "Disponível"
@@ -1714,7 +1714,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 4,
     "imagem": "assets/cards/hr-174-phil-foden.jpg",
     "status": "Disponível"
@@ -1728,7 +1728,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 6,
     "imagem": "assets/cards/hr-175-bukayo-saka.jpg",
     "status": "Disponível"
@@ -1742,7 +1742,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 2,
     "imagem": "assets/cards/hr-176-cole-palmer.jpg",
     "status": "Disponível"
@@ -1756,7 +1756,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 3,
     "imagem": "assets/cards/hr-177-marcus-rashford.jpg",
     "status": "Disponível"
@@ -1770,7 +1770,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 4,
     "imagem": "assets/cards/hr-181-mike-maignan.jpg",
     "status": "Disponível"
@@ -1784,7 +1784,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 8,
     "imagem": "assets/cards/hr-182-william-saliba.jpg",
     "status": "Disponível"
@@ -1798,7 +1798,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 6,
     "imagem": "assets/cards/hr-183-jules-kounde.jpg",
     "status": "Disponível"
@@ -1812,7 +1812,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 2,
     "imagem": "assets/cards/hr-184-theo-hernandez.jpg",
     "status": "Disponível"
@@ -1826,7 +1826,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 7,
     "imagem": "assets/cards/hr-185-aurelien-tchouameni.jpg",
     "status": "Disponível"
@@ -1840,7 +1840,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 2,
     "imagem": "assets/cards/hr-186-eduardo-camavinga.jpg",
     "status": "Disponível"
@@ -1854,7 +1854,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 0,
     "imagem": "assets/cards/hr-187-bradley-barcola.jpg",
     "status": "Disponível"
@@ -1868,7 +1868,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 12,
     "imagem": "assets/cards/hr-188-marcus-thuram.jpg",
     "status": "Disponível"
@@ -1882,7 +1882,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 10,
     "imagem": "assets/cards/hr-189-randal-kolo-muani.jpg",
     "status": "Disponível"
@@ -1896,7 +1896,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 9,
     "imagem": "assets/cards/hr-193-marc-andre-ter-stegen.jpg",
     "status": "Disponível"
@@ -1910,7 +1910,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 7,
     "imagem": "assets/cards/hr-194-antonio-rudiger.jpg",
     "status": "Disponível"
@@ -1924,7 +1924,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 5,
     "imagem": "assets/cards/hr-195-jonathan-tah.jpg",
     "status": "Disponível"
@@ -1938,7 +1938,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 5,
     "imagem": "assets/cards/hr-196-felix-nmecha.jpg",
     "status": "Disponível"
@@ -1952,7 +1952,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 7,
     "imagem": "assets/cards/hr-197-leon-goretzka.jpg",
     "status": "Disponível"
@@ -1966,7 +1966,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 3,
     "imagem": "assets/cards/hr-198-florian-wirtz.jpg",
     "status": "Disponível"
@@ -1980,7 +1980,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 10,
     "imagem": "assets/cards/hr-199-serge-gnabry.jpg",
     "status": "Disponível"
@@ -1994,7 +1994,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 4,
     "imagem": "assets/cards/hr-200-kai-havertz.jpg",
     "status": "Disponível"
@@ -2008,7 +2008,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 8,
     "imagem": "assets/cards/hr-201-leroy-sane.jpg",
     "status": "Disponível"
@@ -2022,7 +2022,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 7,
     "imagem": "assets/cards/hr-205-lawrence-ati-zigi.jpg",
     "status": "Disponível"
@@ -2036,7 +2036,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 3,
     "imagem": "assets/cards/hr-206-alidu-seidu.jpg",
     "status": "Disponível"
@@ -2050,7 +2050,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 6,
     "imagem": "assets/cards/hr-207-alexander-djiku.jpg",
     "status": "Disponível"
@@ -2064,7 +2064,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 4,
     "imagem": "assets/cards/hr-208-gideon-mensah.jpg",
     "status": "Disponível"
@@ -2078,7 +2078,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 4,
     "imagem": "assets/cards/hr-209-caleb-yirenkyi.jpg",
     "status": "Disponível"
@@ -2092,7 +2092,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 3,
     "imagem": "assets/cards/hr-210-abdul-issahaku-fatawu.jpg",
     "status": "Disponível"
@@ -2106,7 +2106,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 5,
     "imagem": "assets/cards/hr-211-kamaldeen-sulemana.jpg",
     "status": "Disponível"
@@ -2120,7 +2120,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 8,
     "imagem": "assets/cards/hr-212-jordan-ayew.jpg",
     "status": "Disponível"
@@ -2134,7 +2134,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 6,
     "imagem": "assets/cards/hr-213-antoine-semenyo.jpg",
     "status": "Disponível"
@@ -2148,7 +2148,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 3,
     "imagem": "assets/cards/hr-217-johny-placide.jpg",
     "status": "Disponível"
@@ -2162,7 +2162,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 2,
     "imagem": "assets/cards/hr-218-ricardo-ade.jpg",
     "status": "Disponível"
@@ -2176,7 +2176,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 0,
     "imagem": "assets/cards/hr-219-carlens-arcus.jpg",
     "status": "Disponível"
@@ -2190,7 +2190,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 5,
     "imagem": "assets/cards/hr-220-hannes-delcroix.jpg",
     "status": "Disponível"
@@ -2204,7 +2204,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 6,
     "imagem": "assets/cards/hr-221-leverton-pierre.jpg",
     "status": "Disponível"
@@ -2218,7 +2218,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 6,
     "imagem": "assets/cards/hr-222-danley-jean-jacques.jpg",
     "status": "Disponível"
@@ -2232,7 +2232,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 6,
     "imagem": "assets/cards/hr-223-jean-ricner-bellegarde.jpg",
     "status": "Disponível"
@@ -2246,7 +2246,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 2,
     "imagem": "assets/cards/hr-224-ruben-providence.jpg",
     "status": "Disponível"
@@ -2260,7 +2260,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 8,
     "imagem": "assets/cards/hr-225-don-deedson-louicius.jpg",
     "status": "Disponível"
@@ -2274,7 +2274,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 12,
     "imagem": "assets/cards/hr-229-alireza-beiranvand.jpg",
     "status": "Disponível"
@@ -2288,7 +2288,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 13,
     "imagem": "assets/cards/hr-230-shoja-khalilzadeh.jpg",
     "status": "Disponível"
@@ -2302,7 +2302,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 6,
     "imagem": "assets/cards/hr-231-milad-mohammadi.jpg",
     "status": "Disponível"
@@ -2316,7 +2316,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 5,
     "imagem": "assets/cards/hr-232-ramin-rezaeian.jpg",
     "status": "Disponível"
@@ -2330,7 +2330,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 7,
     "imagem": "assets/cards/hr-233-hossein-kanaani.jpg",
     "status": "Disponível"
@@ -2344,7 +2344,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 0,
     "imagem": "assets/cards/hr-234-saeid-ezatolahi.jpg",
     "status": "Disponível"
@@ -2358,7 +2358,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 4,
     "imagem": "assets/cards/hr-235-saman-ghoddos.jpg",
     "status": "Disponível"
@@ -2372,7 +2372,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 3,
     "imagem": "assets/cards/hr-236-mohammad-mohebi.jpg",
     "status": "Disponível"
@@ -2386,7 +2386,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 8,
     "imagem": "assets/cards/hr-237-alireza-jahanbakhsh.jpg",
     "status": "Disponível"
@@ -2400,7 +2400,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 4,
     "imagem": "assets/cards/hr-241-yahia-fofana.jpg",
     "status": "Disponível"
@@ -2414,7 +2414,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 4,
     "imagem": "assets/cards/hr-242-ghislain-konan.jpg",
     "status": "Disponível"
@@ -2428,7 +2428,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 1,
     "imagem": "assets/cards/hr-243-odilon-kossounou.jpg",
     "status": "Disponível"
@@ -2442,7 +2442,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 1,
     "imagem": "assets/cards/hr-244-evan-n'dicka.jpg",
     "status": "Disponível"
@@ -2456,7 +2456,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 2,
     "imagem": "assets/cards/hr-245-wilfried-singo.jpg",
     "status": "Disponível"
@@ -2470,7 +2470,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 2,
     "imagem": "assets/cards/hr-246-ibrahim-sangaré.jpg",
     "status": "Disponível"
@@ -2484,7 +2484,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 12,
     "imagem": "assets/cards/hr-247-nicolas-pepe.jpg",
     "status": "Disponível"
@@ -2498,7 +2498,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 6,
     "imagem": "assets/cards/hr-248-simon-adingra.jpg",
     "status": "Disponível"
@@ -2512,7 +2512,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 5,
     "imagem": "assets/cards/hr-249-oumar-diakite.jpg",
     "status": "Disponível"
@@ -2526,7 +2526,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 5,
     "imagem": "assets/cards/hr-253-zion-suzuki.jpg",
     "status": "Disponível"
@@ -2540,7 +2540,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 6,
     "imagem": "assets/cards/hr-254-tsuyoshi-watanabe.jpg",
     "status": "Disponível"
@@ -2554,7 +2554,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 5,
     "imagem": "assets/cards/hr-255-kaishu-sano.jpg",
     "status": "Disponível"
@@ -2568,7 +2568,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 1,
     "imagem": "assets/cards/hr-256-ao-tanaka.jpg",
     "status": "Disponível"
@@ -2582,7 +2582,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 1,
     "imagem": "assets/cards/hr-257-daichi-kamada.jpg",
     "status": "Disponível"
@@ -2596,7 +2596,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 8,
     "imagem": "assets/cards/hr-258-ritsu-doan.jpg",
     "status": "Disponível"
@@ -2610,7 +2610,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 6,
     "imagem": "assets/cards/hr-259-keito-nakamura.jpg",
     "status": "Disponível"
@@ -2624,7 +2624,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 1,
     "imagem": "assets/cards/hr-260-shuto-machino.jpg",
     "status": "Disponível"
@@ -2638,7 +2638,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 9,
     "imagem": "assets/cards/hr-261-ayase-ueda.jpg",
     "status": "Disponível"
@@ -2652,7 +2652,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 6,
     "imagem": "assets/cards/hr-265-yazeed-abulaila.jpg",
     "status": "Disponível"
@@ -2666,7 +2666,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 7,
     "imagem": "assets/cards/hr-266-mohammad-abu-hashish.jpg",
     "status": "Disponível"
@@ -2680,7 +2680,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 2,
     "imagem": "assets/cards/hr-267-yazan-al-arab.jpg",
     "status": "Disponível"
@@ -2694,7 +2694,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 9,
     "imagem": "assets/cards/hr-268-abdallah-nasib.jpg",
     "status": "Disponível"
@@ -2708,7 +2708,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 9,
     "imagem": "assets/cards/hr-269-ibrahim-saadeh.jpg",
     "status": "Disponível"
@@ -2722,7 +2722,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 11,
     "imagem": "assets/cards/hr-270-nizar-al-rashdan.jpg",
     "status": "Disponível"
@@ -2736,7 +2736,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 5,
     "imagem": "assets/cards/hr-271-noor-al-rawabdeh.jpg",
     "status": "Disponível"
@@ -2750,7 +2750,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 2,
     "imagem": "assets/cards/hr-272-mahmoud-al-mardi.jpg",
     "status": "Disponível"
@@ -2764,7 +2764,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 4,
     "imagem": "assets/cards/hr-273-ali-olwan.jpg",
     "status": "Disponível"
@@ -2778,7 +2778,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 7,
     "imagem": "assets/cards/hr-277-hyeonwoo-jo.jpg",
     "status": "Disponível"
@@ -2792,7 +2792,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 3,
     "imagem": "assets/cards/hr-278-youngwoo-seol.jpg",
     "status": "Disponível"
@@ -2806,7 +2806,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 5,
     "imagem": "assets/cards/hr-279-yumin-cho.jpg",
     "status": "Disponível"
@@ -2820,7 +2820,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 9,
     "imagem": "assets/cards/hr-280-taeseok-lee.jpg",
     "status": "Disponível"
@@ -2834,7 +2834,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 2,
     "imagem": "assets/cards/hr-281-inbeom-hwang.jpg",
     "status": "Disponível"
@@ -2848,7 +2848,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 7,
     "imagem": "assets/cards/hr-282-jaesung-lee.jpg",
     "status": "Disponível"
@@ -2862,7 +2862,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 2,
     "imagem": "assets/cards/hr-283-kangin-lee.jpg",
     "status": "Disponível"
@@ -2876,7 +2876,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 6,
     "imagem": "assets/cards/hr-284-hyeongyu-oh.jpg",
     "status": "Disponível"
@@ -2890,7 +2890,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 8,
     "imagem": "assets/cards/hr-285-heechan-hwang.jpg",
     "status": "Disponível"
@@ -2904,7 +2904,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 7,
     "imagem": "assets/cards/hr-289-luis-malagon.jpg",
     "status": "Disponível"
@@ -2918,7 +2918,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 5,
     "imagem": "assets/cards/hr-290-israel-reyes.jpg",
     "status": "Disponível"
@@ -2932,7 +2932,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 6,
     "imagem": "assets/cards/hr-291-johan-vasquez.jpg",
     "status": "Disponível"
@@ -2946,7 +2946,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 4,
     "imagem": "assets/cards/hr-292-cesar-montes.jpg",
     "status": "Disponível"
@@ -2960,7 +2960,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 3,
     "imagem": "assets/cards/hr-293-jesus-gallardo.jpg",
     "status": "Disponível"
@@ -2974,7 +2974,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 10,
     "imagem": "assets/cards/hr-294-carlos-rodriguez.jpg",
     "status": "Disponível"
@@ -2988,7 +2988,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 8,
     "imagem": "assets/cards/hr-295-orbelin-pineda.jpg",
     "status": "Disponível"
@@ -3002,7 +3002,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 9,
     "imagem": "assets/cards/hr-296-hirving-lozano.jpg",
     "status": "Disponível"
@@ -3016,7 +3016,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 7,
     "imagem": "assets/cards/hr-297-santiago-gimenez.jpg",
     "status": "Disponível"
@@ -3030,7 +3030,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 7,
     "imagem": "assets/cards/hr-301-yassine-bounou.jpg",
     "status": "Disponível"
@@ -3044,7 +3044,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 8,
     "imagem": "assets/cards/hr-302-noussair-mazraoui.jpg",
     "status": "Disponível"
@@ -3058,7 +3058,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 6,
     "imagem": "assets/cards/hr-303-nayef-aguerd.jpg",
     "status": "Disponível"
@@ -3072,7 +3072,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 6,
     "imagem": "assets/cards/hr-304-sofyan-amrabat.jpg",
     "status": "Disponível"
@@ -3086,7 +3086,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 9,
     "imagem": "assets/cards/hr-305-eliesse-ben-seghir.jpg",
     "status": "Disponível"
@@ -3100,7 +3100,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 0,
     "imagem": "assets/cards/hr-306-ismael-saibari.jpg",
     "status": "Disponível"
@@ -3114,7 +3114,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 0,
     "imagem": "assets/cards/hr-307-brahim-diaz.jpg",
     "status": "Disponível"
@@ -3128,7 +3128,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 4,
     "imagem": "assets/cards/hr-308-abde-ezzalzouli.jpg",
     "status": "Disponível"
@@ -3142,7 +3142,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 9,
     "imagem": "assets/cards/hr-309-ayoub-el-kaabi.jpg",
     "status": "Disponível"
@@ -3156,7 +3156,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 3,
     "imagem": "assets/cards/hr-313-bart-verbruggen.jpg",
     "status": "Disponível"
@@ -3170,7 +3170,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 5,
     "imagem": "assets/cards/hr-314-nathan-ake.jpg",
     "status": "Disponível"
@@ -3184,7 +3184,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 2,
     "imagem": "assets/cards/hr-315-jeremie-frimpong.jpg",
     "status": "Disponível"
@@ -3198,7 +3198,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 8,
     "imagem": "assets/cards/hr-316-denzel-dumfries.jpg",
     "status": "Disponível"
@@ -3212,7 +3212,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 5,
     "imagem": "assets/cards/hr-317-tijjani-reijnders.jpg",
     "status": "Disponível"
@@ -3226,7 +3226,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 4,
     "imagem": "assets/cards/hr-318-ryan-gravenberch.jpg",
     "status": "Disponível"
@@ -3240,7 +3240,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 2,
     "imagem": "assets/cards/hr-319-cody-gakpo.jpg",
     "status": "Disponível"
@@ -3254,7 +3254,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 5,
     "imagem": "assets/cards/hr-320-donyell-malen.jpg",
     "status": "Disponível"
@@ -3268,7 +3268,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 8,
     "imagem": "assets/cards/hr-321-wout-weghorst.jpg",
     "status": "Disponível"
@@ -3282,7 +3282,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 1,
     "imagem": "assets/cards/hr-325-max-crocombe.jpg",
     "status": "Disponível"
@@ -3296,7 +3296,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 0,
     "imagem": "assets/cards/hr-326-michael-boxall.jpg",
     "status": "Disponível"
@@ -3310,7 +3310,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 1,
     "imagem": "assets/cards/hr-327-liberato-cacace.jpg",
     "status": "Disponível"
@@ -3324,7 +3324,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 7,
     "imagem": "assets/cards/hr-328-tim-payne.jpg",
     "status": "Disponível"
@@ -3338,7 +3338,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 7,
     "imagem": "assets/cards/hr-329-finn-surman.jpg",
     "status": "Disponível"
@@ -3352,7 +3352,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 5,
     "imagem": "assets/cards/hr-330-joe-bell.jpg",
     "status": "Disponível"
@@ -3366,7 +3366,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 6,
     "imagem": "assets/cards/hr-331-sarpreet-singh.jpg",
     "status": "Disponível"
@@ -3380,7 +3380,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 4,
     "imagem": "assets/cards/hr-332-matt-garbett.jpg",
     "status": "Disponível"
@@ -3394,7 +3394,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 5,
     "imagem": "assets/cards/hr-333-elijah-just.jpg",
     "status": "Disponível"
@@ -3408,7 +3408,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 1,
     "imagem": "assets/cards/hr-337-orjan-nyland.jpg",
     "status": "Disponível"
@@ -3422,7 +3422,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 3,
     "imagem": "assets/cards/hr-338-julian-ryerson.jpg",
     "status": "Disponível"
@@ -3436,7 +3436,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 4,
     "imagem": "assets/cards/hr-339-kristoffer-vassbakk-ajer.jpg",
     "status": "Disponível"
@@ -3450,7 +3450,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 3,
     "imagem": "assets/cards/hr-340-david-moller-wolfe.jpg",
     "status": "Disponível"
@@ -3464,7 +3464,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 4,
     "imagem": "assets/cards/hr-341-sander-berge.jpg",
     "status": "Disponível"
@@ -3478,7 +3478,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 1,
     "imagem": "assets/cards/hr-342-patrick-berg.jpg",
     "status": "Disponível"
@@ -3492,7 +3492,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 6,
     "imagem": "assets/cards/hr-343-antonio-nusa.jpg",
     "status": "Disponível"
@@ -3506,7 +3506,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 6,
     "imagem": "assets/cards/hr-344-oscar-bobb.jpg",
     "status": "Disponível"
@@ -3520,7 +3520,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 8,
     "imagem": "assets/cards/hr-345-alexander-sorloth.jpg",
     "status": "Disponível"
@@ -3534,7 +3534,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 1,
     "imagem": "assets/cards/hr-349-orlando-mosquera.jpg",
     "status": "Disponível"
@@ -3548,7 +3548,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 5,
     "imagem": "assets/cards/hr-350-andres-andrade.jpg",
     "status": "Disponível"
@@ -3562,7 +3562,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 5,
     "imagem": "assets/cards/hr-351-fidel-escobar.jpg",
     "status": "Disponível"
@@ -3576,7 +3576,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 5,
     "imagem": "assets/cards/hr-352-cristian-martinez.jpg",
     "status": "Disponível"
@@ -3590,7 +3590,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 3,
     "imagem": "assets/cards/hr-353-adalberto-carrasquilla.jpg",
     "status": "Disponível"
@@ -3604,7 +3604,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 8,
     "imagem": "assets/cards/hr-354-edgar-barcenas.jpg",
     "status": "Disponível"
@@ -3618,7 +3618,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 4,
     "imagem": "assets/cards/hr-355-jose-fajardo.jpg",
     "status": "Disponível"
@@ -3632,7 +3632,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 9,
     "imagem": "assets/cards/hr-356-ismael-diaz.jpg",
     "status": "Disponível"
@@ -3646,7 +3646,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 5,
     "imagem": "assets/cards/hr-357-jose-luis-rodriguez.jpg",
     "status": "Disponível"
@@ -3660,7 +3660,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 8,
     "imagem": "assets/cards/hr-361-roberto-fernandez.jpg",
     "status": "Disponível"
@@ -3674,7 +3674,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 8,
     "imagem": "assets/cards/hr-362-juan-jose-caceres.jpg",
     "status": "Disponível"
@@ -3688,7 +3688,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 1,
     "imagem": "assets/cards/hr-363-omar-alderete.jpg",
     "status": "Disponível"
@@ -3702,7 +3702,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 9,
     "imagem": "assets/cards/hr-364-junior-alonso.jpg",
     "status": "Disponível"
@@ -3716,7 +3716,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 11,
     "imagem": "assets/cards/hr-365-andres-cubas.jpg",
     "status": "Disponível"
@@ -3730,7 +3730,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 9,
     "imagem": "assets/cards/hr-366-mathias-villasanti.jpg",
     "status": "Disponível"
@@ -3744,7 +3744,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 7,
     "imagem": "assets/cards/hr-367-julio-enciso.jpg",
     "status": "Disponível"
@@ -3758,7 +3758,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 0,
     "imagem": "assets/cards/hr-368-ramon-sosa.jpg",
     "status": "Disponível"
@@ -3772,7 +3772,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 3,
     "imagem": "assets/cards/hr-369-antonio-sanabria.jpg",
     "status": "Disponível"
@@ -3786,7 +3786,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 8,
     "imagem": "assets/cards/hr-373-diogo-costa.jpg",
     "status": "Disponível"
@@ -3800,7 +3800,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 6,
     "imagem": "assets/cards/hr-374-ruben-dias.jpg",
     "status": "Disponível"
@@ -3814,7 +3814,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 5,
     "imagem": "assets/cards/hr-375-nuno-mendes.jpg",
     "status": "Disponível"
@@ -3828,7 +3828,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 4,
     "imagem": "assets/cards/hr-376-bernardo-silva.jpg",
     "status": "Disponível"
@@ -3842,7 +3842,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 2,
     "imagem": "assets/cards/hr-377-bruno-fernandes.jpg",
     "status": "Disponível"
@@ -3856,7 +3856,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 9,
     "imagem": "assets/cards/hr-378-ruben-neves.jpg",
     "status": "Disponível"
@@ -3870,7 +3870,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 1,
     "imagem": "assets/cards/hr-379-francisco-conceição.jpg",
     "status": "Disponível"
@@ -3884,7 +3884,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 1,
     "imagem": "assets/cards/hr-380-pedro-neto.jpg",
     "status": "Disponível"
@@ -3898,7 +3898,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 3,
     "imagem": "assets/cards/hr-381-rafael-leão.jpg",
     "status": "Disponível"
@@ -3912,7 +3912,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 5,
     "imagem": "assets/cards/hr-385-meshaal-barsham.jpg",
     "status": "Disponível"
@@ -3926,7 +3926,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 1,
     "imagem": "assets/cards/hr-386-boualem-khoukhi.jpg",
     "status": "Disponível"
@@ -3940,7 +3940,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 6,
     "imagem": "assets/cards/hr-387-lucas-mendes.jpg",
     "status": "Disponível"
@@ -3954,7 +3954,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 4,
     "imagem": "assets/cards/hr-388-pedro-miguel.jpg",
     "status": "Disponível"
@@ -3968,7 +3968,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 5,
     "imagem": "assets/cards/hr-389-homam-al-amin.jpg",
     "status": "Disponível"
@@ -3982,7 +3982,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 4,
     "imagem": "assets/cards/hr-390-ahmed-fathi.jpg",
     "status": "Disponível"
@@ -3996,7 +3996,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 8,
     "imagem": "assets/cards/hr-391-edmilson-junior.jpg",
     "status": "Disponível"
@@ -4010,7 +4010,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 1,
     "imagem": "assets/cards/hr-392-ahmed-al-ganehi.jpg",
     "status": "Disponível"
@@ -4024,7 +4024,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 0,
     "imagem": "assets/cards/hr-393-akram-hassan-afif.jpg",
     "status": "Disponível"
@@ -4038,7 +4038,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 11,
     "imagem": "assets/cards/hr-397-nawaf-alaqidi.jpg",
     "status": "Disponível"
@@ -4052,7 +4052,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 1,
     "imagem": "assets/cards/hr-398-hassan-altambakti.jpg",
     "status": "Disponível"
@@ -4066,7 +4066,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 0,
     "imagem": "assets/cards/hr-399-jehad-thikri.jpg",
     "status": "Disponível"
@@ -4080,7 +4080,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 6,
     "imagem": "assets/cards/hr-400-saud-abdulhamid.jpg",
     "status": "Disponível"
@@ -4094,7 +4094,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 2,
     "imagem": "assets/cards/hr-401-nasser-aldawsari.jpg",
     "status": "Disponível"
@@ -4108,7 +4108,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 7,
     "imagem": "assets/cards/hr-402-abdullah-alkhaibari.jpg",
     "status": "Disponível"
@@ -4122,7 +4122,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 4,
     "imagem": "assets/cards/hr-403-musab-aljuwayr.jpg",
     "status": "Disponível"
@@ -4136,7 +4136,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 5,
     "imagem": "assets/cards/hr-404-saleh-abu-alshamat.jpg",
     "status": "Disponível"
@@ -4150,7 +4150,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 3,
     "imagem": "assets/cards/hr-405-saleh-alshehri.jpg",
     "status": "Disponível"
@@ -4164,7 +4164,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 8,
     "imagem": "assets/cards/hr-409-angus-gunn.jpg",
     "status": "Disponível"
@@ -4178,7 +4178,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 0,
     "imagem": "assets/cards/hr-410-kieran-tierney.jpg",
     "status": "Disponível"
@@ -4192,7 +4192,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 8,
     "imagem": "assets/cards/hr-411-grant-hanley.jpg",
     "status": "Disponível"
@@ -4206,7 +4206,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 7,
     "imagem": "assets/cards/hr-412-billy-gilmour.jpg",
     "status": "Disponível"
@@ -4220,7 +4220,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 9,
     "imagem": "assets/cards/hr-413-lewis-ferguson.jpg",
     "status": "Disponível"
@@ -4234,7 +4234,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 8,
     "imagem": "assets/cards/hr-414-ryan-christie.jpg",
     "status": "Disponível"
@@ -4248,7 +4248,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 5,
     "imagem": "assets/cards/hr-415-john-mcginn.jpg",
     "status": "Disponível"
@@ -4262,7 +4262,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 13,
     "imagem": "assets/cards/hr-416-ben-gannon-doak.jpg",
     "status": "Disponível"
@@ -4276,7 +4276,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 8,
     "imagem": "assets/cards/hr-417-che-adams.jpg",
     "status": "Disponível"
@@ -4290,7 +4290,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 0,
     "imagem": "assets/cards/hr-421-edouard-mendy.jpg",
     "status": "Disponível"
@@ -4304,7 +4304,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 7,
     "imagem": "assets/cards/hr-422-moussa-niakhate.jpg",
     "status": "Disponível"
@@ -4318,7 +4318,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 5,
     "imagem": "assets/cards/hr-423-el-hadji-malick-diouf.jpg",
     "status": "Disponível"
@@ -4332,7 +4332,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 0,
     "imagem": "assets/cards/hr-424-idrissa-gana-gueye.jpg",
     "status": "Disponível"
@@ -4346,7 +4346,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 0,
     "imagem": "assets/cards/hr-425-pape-matar-sarr.jpg",
     "status": "Disponível"
@@ -4360,7 +4360,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 4,
     "imagem": "assets/cards/hr-426-iliman-ndiaye.jpg",
     "status": "Disponível"
@@ -4374,7 +4374,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 6,
     "imagem": "assets/cards/hr-427-krepin-diatta.jpg",
     "status": "Disponível"
@@ -4388,7 +4388,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 6,
     "imagem": "assets/cards/hr-428-ismaila-sarr.jpg",
     "status": "Disponível"
@@ -4402,7 +4402,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 9,
     "imagem": "assets/cards/hr-429-nicolas-jackson.jpg",
     "status": "Disponível"
@@ -4416,7 +4416,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 9,
     "imagem": "assets/cards/hr-433-siyabonga-ngezana.jpg",
     "status": "Disponível"
@@ -4430,7 +4430,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 6,
     "imagem": "assets/cards/hr-434-aubrey-modiba.jpg",
     "status": "Disponível"
@@ -4444,7 +4444,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 7,
     "imagem": "assets/cards/hr-435-mbekezeli-mbokazi.jpg",
     "status": "Disponível"
@@ -4458,7 +4458,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 5,
     "imagem": "assets/cards/hr-436-khuliso-mudau.jpg",
     "status": "Disponível"
@@ -4472,7 +4472,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 6,
     "imagem": "assets/cards/hr-437-teboho-mokoena.jpg",
     "status": "Disponível"
@@ -4486,7 +4486,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 12,
     "imagem": "assets/cards/hr-438-yaya-sithole.jpg",
     "status": "Disponível"
@@ -4500,7 +4500,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 6,
     "imagem": "assets/cards/hr-439-themba-zwane.jpg",
     "status": "Disponível"
@@ -4514,7 +4514,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 5,
     "imagem": "assets/cards/hr-440-oswin-appollis.jpg",
     "status": "Disponível"
@@ -4528,7 +4528,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 16,
     "imagem": "assets/cards/hr-441-iqraam-rayners.jpg",
     "status": "Disponível"
@@ -4542,7 +4542,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.75,
+    "preco": 2.00,
     "estoque": 1,
     "imagem": "assets/cards/hr-445-unai-simon.jpg",
     "status": "Disponível"
@@ -4556,7 +4556,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.75,
+    "preco": 2.00,
     "estoque": 4,
     "imagem": "assets/cards/hr-446-robin-le-normand.jpg",
     "status": "Disponível"
@@ -4570,7 +4570,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.75,
+    "preco": 2.00,
     "estoque": 2,
     "imagem": "assets/cards/hr-447-dean-huijsen.jpg",
     "status": "Disponível"
@@ -4584,7 +4584,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.75,
+    "preco": 2.00,
     "estoque": 1,
     "imagem": "assets/cards/hr-448-marc-cucurella.jpg",
     "status": "Disponível"
@@ -4598,7 +4598,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.75,
+    "preco": 2.00,
     "estoque": 3,
     "imagem": "assets/cards/hr-449-martin-zubimendi.jpg",
     "status": "Disponível"
@@ -4612,7 +4612,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.75,
+    "preco": 2.00,
     "estoque": 7,
     "imagem": "assets/cards/hr-450-pedri.jpg",
     "status": "Disponível"
@@ -4626,7 +4626,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.75,
+    "preco": 2.00,
     "estoque": 2,
     "imagem": "assets/cards/hr-451-fabian-ruiz.jpg",
     "status": "Disponível"
@@ -4640,7 +4640,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.75,
+    "preco": 2.00,
     "estoque": 5,
     "imagem": "assets/cards/hr-452-nico-williams.jpg",
     "status": "Disponível"
@@ -4654,7 +4654,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.75,
+    "preco": 2.00,
     "estoque": 3,
     "imagem": "assets/cards/hr-453-mikel-oyarzabal.jpg",
     "status": "Disponível"
@@ -4668,7 +4668,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 1,
     "imagem": "assets/cards/hr-457-gregor-kobel.jpg",
     "status": "Disponível"
@@ -4682,7 +4682,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 2,
     "imagem": "assets/cards/hr-458-nico-elvedi.jpg",
     "status": "Disponível"
@@ -4696,7 +4696,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 1,
     "imagem": "assets/cards/hr-459-ricardo-rodriguez.jpg",
     "status": "Disponível"
@@ -4710,7 +4710,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 8,
     "imagem": "assets/cards/hr-460-silvan-widmer.jpg",
     "status": "Disponível"
@@ -4724,7 +4724,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 3,
     "imagem": "assets/cards/hr-461-denis-zakaria.jpg",
     "status": "Disponível"
@@ -4738,7 +4738,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 3,
     "imagem": "assets/cards/hr-462-remo-freuler.jpg",
     "status": "Disponível"
@@ -4752,7 +4752,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 1,
     "imagem": "assets/cards/hr-463-breel-embolo.jpg",
     "status": "Disponível"
@@ -4766,7 +4766,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 5,
     "imagem": "assets/cards/hr-464-ruben-vargas.jpg",
     "status": "Disponível"
@@ -4780,7 +4780,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 5,
     "imagem": "assets/cards/hr-465-dan-ndoye.jpg",
     "status": "Disponível"
@@ -4794,7 +4794,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 9,
     "imagem": "assets/cards/hr-469-aymen-dahmen.jpg",
     "status": "Disponível"
@@ -4808,7 +4808,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 7,
     "imagem": "assets/cards/hr-470-montassar-talbi.jpg",
     "status": "Disponível"
@@ -4822,7 +4822,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 5,
     "imagem": "assets/cards/hr-471-yassine-meriah.jpg",
     "status": "Disponível"
@@ -4836,7 +4836,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 2,
     "imagem": "assets/cards/hr-472-ali-abdi.jpg",
     "status": "Disponível"
@@ -4850,7 +4850,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 4,
     "imagem": "assets/cards/hr-473-aissa-laidouni.jpg",
     "status": "Disponível"
@@ -4864,7 +4864,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 1,
     "imagem": "assets/cards/hr-474-hannibal-mejbri.jpg",
     "status": "Disponível"
@@ -4878,7 +4878,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 2,
     "imagem": "assets/cards/hr-475-naim-sliti.jpg",
     "status": "Disponível"
@@ -4892,7 +4892,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 4,
     "imagem": "assets/cards/hr-476-elias-achouri.jpg",
     "status": "Disponível"
@@ -4906,7 +4906,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 3,
     "imagem": "assets/cards/hr-477-hazem-mastouri.jpg",
     "status": "Disponível"
@@ -4920,7 +4920,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 8,
     "imagem": "assets/cards/hr-481-matt-freese.jpg",
     "status": "Disponível"
@@ -4934,7 +4934,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 1,
     "imagem": "assets/cards/hr-482-chris-richards.jpg",
     "status": "Disponível"
@@ -4948,7 +4948,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 5,
     "imagem": "assets/cards/hr-483-tim-ream.jpg",
     "status": "Disponível"
@@ -4962,7 +4962,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 4,
     "imagem": "assets/cards/hr-484-antonee-robinson.jpg",
     "status": "Disponível"
@@ -4976,7 +4976,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 14,
     "imagem": "assets/cards/hr-485-tanner-tessmann.jpg",
     "status": "Disponível"
@@ -4990,7 +4990,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 5,
     "imagem": "assets/cards/hr-486-tyler-adams.jpg",
     "status": "Disponível"
@@ -5004,7 +5004,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 6,
     "imagem": "assets/cards/hr-487-timothy-weah.jpg",
     "status": "Disponível"
@@ -5018,7 +5018,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 9,
     "imagem": "assets/cards/hr-488-malik-tillman.jpg",
     "status": "Disponível"
@@ -5032,7 +5032,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 9,
     "imagem": "assets/cards/hr-489-folarin-balogun.jpg",
     "status": "Disponível"
@@ -5046,7 +5046,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 8,
     "imagem": "assets/cards/hr-493-sergio-rochet.jpg",
     "status": "Disponível"
@@ -5060,7 +5060,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 10,
     "imagem": "assets/cards/hr-494-ronald-araujo.jpg",
     "status": "Disponível"
@@ -5074,7 +5074,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 11,
     "imagem": "assets/cards/hr-495-sebastian-caceres.jpg",
     "status": "Disponível"
@@ -5088,7 +5088,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 2,
     "imagem": "assets/cards/hr-496-mathias-oliveira.jpg",
     "status": "Disponível"
@@ -5102,7 +5102,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 6,
     "imagem": "assets/cards/hr-497-nahitan-nandez.jpg",
     "status": "Disponível"
@@ -5116,7 +5116,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 4,
     "imagem": "assets/cards/hr-498-rodrigo-bentancur.jpg",
     "status": "Disponível"
@@ -5130,7 +5130,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 4,
     "imagem": "assets/cards/hr-499-manuel-ugarte.jpg",
     "status": "Disponível"
@@ -5144,7 +5144,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 0,
     "imagem": "assets/cards/hr-500-facundo-pellistri.jpg",
     "status": "Disponível"
@@ -5158,7 +5158,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 8,
     "imagem": "assets/cards/hr-501-darwin-nunez.jpg",
     "status": "Disponível"
@@ -5172,7 +5172,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 0,
     "imagem": "assets/cards/hr-505-utkir-yusupov.jpg",
     "status": "Disponível"
@@ -5186,7 +5186,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 6,
     "imagem": "assets/cards/hr-506-farrukh-sayfiev.jpg",
     "status": "Disponível"
@@ -5200,7 +5200,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 7,
     "imagem": "assets/cards/hr-507-sherzod-nasrullaev.jpg",
     "status": "Disponível"
@@ -5214,7 +5214,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 5,
     "imagem": "assets/cards/hr-508-husniddin-aliqulov.jpg",
     "status": "Disponível"
@@ -5228,7 +5228,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 4,
     "imagem": "assets/cards/hr-509-rustam-ashurmatov.jpg",
     "status": "Disponível"
@@ -5242,7 +5242,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 5,
     "imagem": "assets/cards/hr-510-khojiakbar-alijonov.jpg",
     "status": "Disponível"
@@ -5256,7 +5256,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 4,
     "imagem": "assets/cards/hr-511-odiljon-hamrobekov.jpg",
     "status": "Disponível"
@@ -5270,7 +5270,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 1,
     "imagem": "assets/cards/hr-512-otabek-shukurov.jpg",
     "status": "Disponível"
@@ -5284,7 +5284,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 5,
     "imagem": "assets/cards/hr-513-abbosbek-fayzullaev.jpg",
     "status": "Disponível"
@@ -5298,7 +5298,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Repescagem",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 8,
     "imagem": "assets/cards/ctd-514.jpg",
     "status": "Disponível"
@@ -5312,7 +5312,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Repescagem",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 0,
     "imagem": "assets/cards/ctd-515.jpg",
     "status": "Disponível"
@@ -5326,7 +5326,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Repescagem",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 0,
     "imagem": "assets/cards/ctd-516.jpg",
     "status": "Disponível"
@@ -5340,7 +5340,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Repescagem",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 7,
     "imagem": "assets/cards/ctd-517.jpg",
     "status": "Disponível"
@@ -5354,7 +5354,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Repescagem",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 6,
     "imagem": "assets/cards/ctd-518.jpg",
     "status": "Disponível"
@@ -5368,7 +5368,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Repescagem",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 5,
     "imagem": "assets/cards/ctd-519.jpg",
     "status": "Disponível"
@@ -5382,7 +5382,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 10,
     "imagem": "assets/cards/ctd-520-morten-hjulmand.jpg",
     "status": "Disponível"
@@ -5396,7 +5396,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 10,
     "imagem": "assets/cards/ctd-521-pierre-emile-hojbjerg.jpg",
     "status": "Disponível"
@@ -5410,7 +5410,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 6,
     "imagem": "assets/cards/ctd-522-christian-eriksen.jpg",
     "status": "Disponível"
@@ -5424,7 +5424,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 5,
     "imagem": "assets/cards/ctd-523-mikkel-damsgaard.jpg",
     "status": "Disponível"
@@ -5438,7 +5438,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 10,
     "imagem": "assets/cards/ctd-524-rasmus-hojlund.jpg",
     "status": "Disponível"
@@ -5452,7 +5452,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 6,
     "imagem": "assets/cards/ctd-525-gianluigi-donnarumma.jpg",
     "status": "Disponível"
@@ -5466,7 +5466,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 4,
     "imagem": "assets/cards/ctd-526-alessandro-bastoni.jpg",
     "status": "Disponível"
@@ -5480,7 +5480,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 3,
     "imagem": "assets/cards/ctd-527-sandro-tonali.jpg",
     "status": "Disponível"
@@ -5494,7 +5494,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 1,
     "imagem": "assets/cards/ctd-528-nicolo-barella.jpg",
     "status": "Disponível"
@@ -5508,7 +5508,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 4,
     "imagem": "assets/cards/ctd-529-moise-kean.jpg",
     "status": "Disponível"
@@ -5522,7 +5522,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 6,
     "imagem": "assets/cards/ctd-530-andre-blake.jpg",
     "status": "Disponível"
@@ -5536,7 +5536,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 6,
     "imagem": "assets/cards/ctd-531-ethan-pinnock.jpg",
     "status": "Disponível"
@@ -5550,7 +5550,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 5,
     "imagem": "assets/cards/ctd-532-demarai-gray.jpg",
     "status": "Disponível"
@@ -5564,7 +5564,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 3,
     "imagem": "assets/cards/ctd-533-leon-bailey.jpg",
     "status": "Disponível"
@@ -5578,7 +5578,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 12,
     "imagem": "assets/cards/ctd-534-shamar-nicholson.jpg",
     "status": "Disponível"
@@ -5592,7 +5592,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 7,
     "imagem": "assets/cards/ctd-535-matty-cash.jpg",
     "status": "Disponível"
@@ -5606,7 +5606,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 7,
     "imagem": "assets/cards/ctd-536-jakub-kiwior.jpg",
     "status": "Disponível"
@@ -5620,7 +5620,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 3,
     "imagem": "assets/cards/ctd-537-piotr-zielinski.jpg",
     "status": "Disponível"
@@ -5634,7 +5634,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 8,
     "imagem": "assets/cards/ctd-538-sebastian-szymanski.jpg",
     "status": "Disponível"
@@ -5648,7 +5648,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 8,
     "imagem": "assets/cards/ctd-539-robert-lewandowski.jpg",
     "status": "Disponível"
@@ -5662,7 +5662,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 7,
     "imagem": "assets/cards/ctd-540-isak-hien.jpg",
     "status": "Disponível"
@@ -5676,7 +5676,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 8,
     "imagem": "assets/cards/ctd-541-dejan-kulusevski.jpg",
     "status": "Disponível"
@@ -5690,7 +5690,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 6,
     "imagem": "assets/cards/ctd-542-antony-elanga.jpg",
     "status": "Disponível"
@@ -5704,7 +5704,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 6,
     "imagem": "assets/cards/ctd-543-viktor-gyokeres.jpg",
     "status": "Disponível"
@@ -5718,7 +5718,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 1,
     "imagem": "assets/cards/ctd-544-alexander-isak.jpg",
     "status": "Disponível"
@@ -5732,7 +5732,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 3,
     "imagem": "assets/cards/ctd-545-çaglar-soyuncu.jpg",
     "status": "Disponível"
@@ -5746,7 +5746,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 4,
     "imagem": "assets/cards/ctd-546-hakan-çalhanoglu.jpg",
     "status": "Disponível"
@@ -5760,7 +5760,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 0,
     "imagem": "assets/cards/ctd-547-arda-guler.jpg",
     "status": "Disponível"
@@ -5774,7 +5774,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 6,
     "imagem": "assets/cards/ctd-548-kenan-yildiz.jpg",
     "status": "Disponível"
@@ -5788,7 +5788,7 @@
     "categoria": "ADR XL Base",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.25,
+    "preco": 1.50,
     "estoque": 6,
     "imagem": "assets/cards/ctd-549-kerem-akturkoglu.jpg",
     "status": "Disponível"
@@ -5802,7 +5802,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.75,
+    "preco": 2.00,
     "estoque": 0,
     "imagem": "assets/cards/mt-010-rayan-ait-nouri.jpg",
     "status": "Disponível"
@@ -5816,7 +5816,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 2.00,
+    "preco": 2.25,
     "estoque": 0,
     "imagem": "assets/cards/mt-011-logo.jpg",
     "status": "Disponível"
@@ -5830,7 +5830,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.75,
+    "preco": 2.00,
     "estoque": 0,
     "imagem": "assets/cards/mt-012-riyad-mahrez.jpg",
     "status": "Disponível"
@@ -5844,7 +5844,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.75,
+    "preco": 2.00,
     "estoque": 0,
     "imagem": "assets/cards/mt-022-julian-alvarez.jpg",
     "status": "Disponível"
@@ -5858,7 +5858,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 2.00,
+    "preco": 2.25,
     "estoque": 0,
     "imagem": "assets/cards/mt-023-logo.jpg",
     "status": "Disponível"
@@ -5872,7 +5872,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 2.25,
+    "preco": 2.50,
     "estoque": 0,
     "imagem": "assets/cards/mt-024-lionel-messi.jpg",
     "status": "Disponível"
@@ -5886,7 +5886,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.75,
+    "preco": 2.00,
     "estoque": 0,
     "imagem": "assets/cards/mt-034-harry-souttar.jpg",
     "status": "Disponível"
@@ -5900,7 +5900,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 2.00,
+    "preco": 2.25,
     "estoque": 0,
     "imagem": "assets/cards/mt-035-logo.jpg",
     "status": "Disponível"
@@ -5914,7 +5914,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.75,
+    "preco": 2.00,
     "estoque": 0,
     "imagem": "assets/cards/mt-036-mathew-ryan.jpg",
     "status": "Disponível"
@@ -5928,7 +5928,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.75,
+    "preco": 2.00,
     "estoque": 0,
     "imagem": "assets/cards/mt-046-marko-arnautovic.jpg",
     "status": "Disponível"
@@ -5942,7 +5942,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 2.00,
+    "preco": 2.25,
     "estoque": 0,
     "imagem": "assets/cards/mt-047-logo.jpg",
     "status": "Disponível"
@@ -5956,7 +5956,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.75,
+    "preco": 2.00,
     "estoque": 0,
     "imagem": "assets/cards/mt-048-david-alaba.jpg",
     "status": "Disponível"
@@ -5970,7 +5970,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.75,
+    "preco": 2.00,
     "estoque": 0,
     "imagem": "assets/cards/mt-058-youri-tielemans.jpg",
     "status": "Disponível"
@@ -5984,7 +5984,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 2.00,
+    "preco": 2.25,
     "estoque": 0,
     "imagem": "assets/cards/mt-059-logo.jpg",
     "status": "Disponível"
@@ -5998,7 +5998,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 2.25,
+    "preco": 2.50,
     "estoque": 0,
     "imagem": "assets/cards/mt-060-kevin-de-bruyne.jpg",
     "status": "Disponível"
@@ -6012,7 +6012,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.75,
+    "preco": 2.00,
     "estoque": 0,
     "imagem": "assets/cards/mt-070-marquinhos.jpg",
     "status": "Disponível"
@@ -6026,7 +6026,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 2.00,
+    "preco": 2.25,
     "estoque": 0,
     "imagem": "assets/cards/mt-071-logo.jpg",
     "status": "Disponível"
@@ -6040,7 +6040,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 2.25,
+    "preco": 2.50,
     "estoque": 0,
     "imagem": "assets/cards/mt-072-vinicius-junior.jpg",
     "status": "Disponível"
@@ -6054,7 +6054,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.75,
+    "preco": 2.00,
     "estoque": 0,
     "imagem": "assets/cards/mt-082-jonathan-david.jpg",
     "status": "Disponível"
@@ -6068,7 +6068,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 2.00,
+    "preco": 2.25,
     "estoque": 0,
     "imagem": "assets/cards/mt-083-logo.jpg",
     "status": "Disponível"
@@ -6082,7 +6082,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.75,
+    "preco": 2.00,
     "estoque": 0,
     "imagem": "assets/cards/mt-084-alphonso-davies.jpg",
     "status": "Disponível"
@@ -6096,7 +6096,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 2.25,
+    "preco": 2.50,
     "estoque": 0,
     "imagem": "assets/cards/mt-094-vozinha.jpg",
     "status": "Disponível"
@@ -6110,7 +6110,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 2.00,
+    "preco": 2.25,
     "estoque": 0,
     "imagem": "assets/cards/mt-095-logo.jpg",
     "status": "Disponível"
@@ -6124,7 +6124,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.75,
+    "preco": 2.00,
     "estoque": 0,
     "imagem": "assets/cards/mt-096-ryan-mendes.jpg",
     "status": "Disponível"
@@ -6138,7 +6138,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.75,
+    "preco": 2.00,
     "estoque": 0,
     "imagem": "assets/cards/mt-106-luis-diaz.jpg",
     "status": "Disponível"
@@ -6152,7 +6152,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 2.00,
+    "preco": 2.25,
     "estoque": 0,
     "imagem": "assets/cards/mt-107-logo.jpg",
     "status": "Disponível"
@@ -6166,7 +6166,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.75,
+    "preco": 2.00,
     "estoque": 0,
     "imagem": "assets/cards/mt-108-james-rodriguez.jpg",
     "status": "Disponível"
@@ -6180,7 +6180,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.75,
+    "preco": 2.00,
     "estoque": 0,
     "imagem": "assets/cards/mt-118-ivan-perisic.jpg",
     "status": "Disponível"
@@ -6194,7 +6194,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 2.00,
+    "preco": 2.25,
     "estoque": 0,
     "imagem": "assets/cards/mt-119-logo.jpg",
     "status": "Disponível"
@@ -6208,7 +6208,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 2.25,
+    "preco": 2.50,
     "estoque": 0,
     "imagem": "assets/cards/mt-120-luka-modric.jpg",
     "status": "Disponível"
@@ -6222,7 +6222,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.75,
+    "preco": 2.00,
     "estoque": 0,
     "imagem": "assets/cards/mt-130-jurien-gaari.jpg",
     "status": "Disponível"
@@ -6236,7 +6236,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 2.00,
+    "preco": 2.25,
     "estoque": 0,
     "imagem": "assets/cards/mt-131-logo.jpg",
     "status": "Disponível"
@@ -6250,7 +6250,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.75,
+    "preco": 2.00,
     "estoque": 0,
     "imagem": "assets/cards/mt-132-leandro-bacuna.jpg",
     "status": "Disponível"
@@ -6264,7 +6264,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.75,
+    "preco": 2.00,
     "estoque": 0,
     "imagem": "assets/cards/mt-142-moises-caicedo.jpg",
     "status": "Disponível"
@@ -6278,7 +6278,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 2.00,
+    "preco": 2.25,
     "estoque": 0,
     "imagem": "assets/cards/mt-143-logo.jpg",
     "status": "Disponível"
@@ -6292,7 +6292,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.75,
+    "preco": 2.00,
     "estoque": 0,
     "imagem": "assets/cards/mt-144-enner-valencia.jpg",
     "status": "Disponível"
@@ -6306,7 +6306,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.75,
+    "preco": 2.00,
     "estoque": 0,
     "imagem": "assets/cards/mt-154-omar-marmoush.jpg",
     "status": "Disponível"
@@ -6320,7 +6320,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 2.00,
+    "preco": 2.25,
     "estoque": 0,
     "imagem": "assets/cards/mt-155-logo.jpg",
     "status": "Disponível"
@@ -6334,7 +6334,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 2.25,
+    "preco": 2.50,
     "estoque": 0,
     "imagem": "assets/cards/mt-156-mohamed-salah.jpg",
     "status": "Disponível"
@@ -6348,7 +6348,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 2.25,
+    "preco": 2.50,
     "estoque": 0,
     "imagem": "assets/cards/mt-166-jude-bellingham.jpg",
     "status": "Disponível"
@@ -6362,7 +6362,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 2.00,
+    "preco": 2.25,
     "estoque": 0,
     "imagem": "assets/cards/mt-167-logo.jpg",
     "status": "Disponível"
@@ -6376,7 +6376,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 2.25,
+    "preco": 2.50,
     "estoque": 0,
     "imagem": "assets/cards/mt-168-harry-kane.jpg",
     "status": "Disponível"
@@ -6390,7 +6390,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 2.25,
+    "preco": 2.50,
     "estoque": 0,
     "imagem": "assets/cards/mt-178-ousmane-dembele.jpg",
     "status": "Disponível"
@@ -6404,7 +6404,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 2.00,
+    "preco": 2.25,
     "estoque": 0,
     "imagem": "assets/cards/mt-179-logo.jpg",
     "status": "Disponível"
@@ -6418,7 +6418,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 2.25,
+    "preco": 2.50,
     "estoque": 0,
     "imagem": "assets/cards/mt-180-kylian-mbappe.jpg",
     "status": "Disponível"
@@ -6432,7 +6432,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.75,
+    "preco": 2.00,
     "estoque": 0,
     "imagem": "assets/cards/mt-190-jamal-musiala.jpg",
     "status": "Disponível"
@@ -6446,7 +6446,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 2.00,
+    "preco": 2.25,
     "estoque": 0,
     "imagem": "assets/cards/mt-191-logo.jpg",
     "status": "Disponível"
@@ -6460,7 +6460,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.75,
+    "preco": 2.00,
     "estoque": 0,
     "imagem": "assets/cards/mt-192-joshua-kimmich.jpg",
     "status": "Disponível"
@@ -6474,7 +6474,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.75,
+    "preco": 2.00,
     "estoque": 0,
     "imagem": "assets/cards/mt-202-thomas-partey.jpg",
     "status": "Disponível"
@@ -6488,7 +6488,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 2.00,
+    "preco": 2.25,
     "estoque": 0,
     "imagem": "assets/cards/mt-203-logo.jpg",
     "status": "Disponível"
@@ -6502,7 +6502,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.75,
+    "preco": 2.00,
     "estoque": 0,
     "imagem": "assets/cards/mt-204-mohammed-kudus.jpg",
     "status": "Disponível"
@@ -6516,7 +6516,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.75,
+    "preco": 2.00,
     "estoque": 0,
     "imagem": "assets/cards/mt-214-frantzdy-pierrot.jpg",
     "status": "Disponível"
@@ -6530,7 +6530,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 2.00,
+    "preco": 2.25,
     "estoque": 0,
     "imagem": "assets/cards/mt-215-logo.jpg",
     "status": "Disponível"
@@ -6544,7 +6544,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.75,
+    "preco": 2.00,
     "estoque": 0,
     "imagem": "assets/cards/mt-216-duckens-nazon.jpg",
     "status": "Disponível"
@@ -6558,7 +6558,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.75,
+    "preco": 2.00,
     "estoque": 0,
     "imagem": "assets/cards/mt-226-mehdi-taremi.jpg",
     "status": "Disponível"
@@ -6572,7 +6572,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 2.00,
+    "preco": 2.25,
     "estoque": 0,
     "imagem": "assets/cards/mt-227-logo.jpg",
     "status": "Disponível"
@@ -6586,7 +6586,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.75,
+    "preco": 2.00,
     "estoque": 0,
     "imagem": "assets/cards/mt-228-sardar-azmoun.jpg",
     "status": "Disponível"
@@ -6600,7 +6600,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.75,
+    "preco": 2.00,
     "estoque": 0,
     "imagem": "assets/cards/mt-238-Franck-kessie.jpg",
     "status": "Disponível"
@@ -6614,7 +6614,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 2.00,
+    "preco": 2.25,
     "estoque": 0,
     "imagem": "assets/cards/mt-239-logo.jpg",
     "status": "Disponível"
@@ -6628,7 +6628,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.75,
+    "preco": 2.00,
     "estoque": 0,
     "imagem": "assets/cards/mt-240-sebastien-haller.jpg",
     "status": "Disponível"
@@ -6642,7 +6642,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.75,
+    "preco": 2.00,
     "estoque": 0,
     "imagem": "assets/cards/mt-250-takumi-minamino.jpg",
     "status": "Disponível"
@@ -6656,7 +6656,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 2.00,
+    "preco": 2.25,
     "estoque": 0,
     "imagem": "assets/cards/mt-251-logo.jpg",
     "status": "Disponível"
@@ -6670,7 +6670,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.75,
+    "preco": 2.00,
     "estoque": 0,
     "imagem": "assets/cards/mt-252-takefusa-kubo.jpg",
     "status": "Disponível"
@@ -6684,7 +6684,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.75,
+    "preco": 2.00,
     "estoque": 0,
     "imagem": "assets/cards/mt-262-yazan-al-naimat.jpg",
     "status": "Disponível"
@@ -6698,7 +6698,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 2.00,
+    "preco": 2.25,
     "estoque": 0,
     "imagem": "assets/cards/mt-263-logo.jpg",
     "status": "Disponível"
@@ -6712,7 +6712,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.75,
+    "preco": 2.00,
     "estoque": 0,
     "imagem": "assets/cards/mt-264-musa-al-taamari.jpg",
     "status": "Disponível"
@@ -6726,7 +6726,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.75,
+    "preco": 2.00,
     "estoque": 0,
     "imagem": "assets/cards/mt-274-minjae-kim.jpg",
     "status": "Disponível"
@@ -6740,7 +6740,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 2.00,
+    "preco": 2.25,
     "estoque": 0,
     "imagem": "assets/cards/mt-275-logo.jpg",
     "status": "Disponível"
@@ -6754,7 +6754,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.75,
+    "preco": 2.00,
     "estoque": 0,
     "imagem": "assets/cards/mt-276-heungmin-son.jpg",
     "status": "Disponível"
@@ -6768,7 +6768,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.75,
+    "preco": 2.00,
     "estoque": 0,
     "imagem": "assets/cards/mt-286-edson-alvarez.jpg",
     "status": "Disponível"
@@ -6782,7 +6782,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 2.00,
+    "preco": 2.25,
     "estoque": 0,
     "imagem": "assets/cards/mt-287-logo.jpg",
     "status": "Disponível"
@@ -6796,7 +6796,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.75,
+    "preco": 2.00,
     "estoque": 0,
     "imagem": "assets/cards/mt-288-raul-jimenez.jpg",
     "status": "Disponível"
@@ -6810,7 +6810,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.75,
+    "preco": 2.00,
     "estoque": 0,
     "imagem": "assets/cards/mt-298-youssef-en-nesyri.jpg",
     "status": "Disponível"
@@ -6824,7 +6824,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 2.00,
+    "preco": 2.25,
     "estoque": 0,
     "imagem": "assets/cards/mt-299-logo.jpg",
     "status": "Disponível"
@@ -6838,7 +6838,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 2.25,
+    "preco": 2.50,
     "estoque": 0,
     "imagem": "assets/cards/mt-300-achraf-hakimi.jpg",
     "status": "Disponível"
@@ -6852,7 +6852,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 2.25,
+    "preco": 2.50,
     "estoque": 0,
     "imagem": "assets/cards/mt-310-memphis-depay.jpg",
     "status": "Disponível"
@@ -6866,7 +6866,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 2.00,
+    "preco": 2.25,
     "estoque": 0,
     "imagem": "assets/cards/mt-311-logo.jpg",
     "status": "Disponível"
@@ -6880,7 +6880,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.75,
+    "preco": 2.00,
     "estoque": 0,
     "imagem": "assets/cards/mt-312-virgil-van-dijk.jpg",
     "status": "Disponível"
@@ -6894,7 +6894,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.75,
+    "preco": 2.00,
     "estoque": 0,
     "imagem": "assets/cards/mt-322-marko-stamenic.jpg",
     "status": "Disponível"
@@ -6908,7 +6908,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 2.00,
+    "preco": 2.25,
     "estoque": 0,
     "imagem": "assets/cards/mt-323-logo.jpg",
     "status": "Disponível"
@@ -6922,7 +6922,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.75,
+    "preco": 2.00,
     "estoque": 0,
     "imagem": "assets/cards/mt-324-chris-wood.jpg",
     "status": "Disponível"
@@ -6936,7 +6936,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.75,
+    "preco": 2.00,
     "estoque": 0,
     "imagem": "assets/cards/mt-334-martin-odegaard.jpg",
     "status": "Disponível"
@@ -6950,7 +6950,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 2.00,
+    "preco": 2.25,
     "estoque": 0,
     "imagem": "assets/cards/mt-335-logo.jpg",
     "status": "Disponível"
@@ -6964,7 +6964,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 2.25,
+    "preco": 2.50,
     "estoque": 0,
     "imagem": "assets/cards/mt-336-erling-haaland.jpg",
     "status": "Disponível"
@@ -6978,7 +6978,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.75,
+    "preco": 2.00,
     "estoque": 0,
     "imagem": "assets/cards/mt-346-michael-amir-murillo.jpg",
     "status": "Disponível"
@@ -6992,7 +6992,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 2.00,
+    "preco": 2.25,
     "estoque": 0,
     "imagem": "assets/cards/mt-347-logo.jpg",
     "status": "Disponível"
@@ -7006,7 +7006,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.75,
+    "preco": 2.00,
     "estoque": 0,
     "imagem": "assets/cards/mt-348-anibal-godoy.jpg",
     "status": "Disponível"
@@ -7020,7 +7020,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 2.25,
+    "preco": 2.50,
     "estoque": 0,
     "imagem": "assets/cards/mt-358-gustavo-gomez.jpg",
     "status": "Disponível"
@@ -7034,7 +7034,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 2.00,
+    "preco": 2.25,
     "estoque": 0,
     "imagem": "assets/cards/mt-359-logo.jpg",
     "status": "Disponível"
@@ -7048,7 +7048,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.75,
+    "preco": 2.00,
     "estoque": 0,
     "imagem": "assets/cards/mt-360-miguel-almiron.jpg",
     "status": "Disponível"
@@ -7062,7 +7062,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.75,
+    "preco": 2.00,
     "estoque": 0,
     "imagem": "assets/cards/mt-370-vitinha.jpg",
     "status": "Disponível"
@@ -7076,7 +7076,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 2.00,
+    "preco": 2.25,
     "estoque": 0,
     "imagem": "assets/cards/mt-371-logo.jpg",
     "status": "Disponível"
@@ -7090,7 +7090,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 2.25,
+    "preco": 2.50,
     "estoque": 0,
     "imagem": "assets/cards/mt-372-cristiano-ronaldo.jpg",
     "status": "Disponível"
@@ -7104,7 +7104,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.75,
+    "preco": 2.00,
     "estoque": 0,
     "imagem": "assets/cards/mt-382-almoez-ali.jpg",
     "status": "Disponível"
@@ -7118,7 +7118,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 2.00,
+    "preco": 2.25,
     "estoque": 0,
     "imagem": "assets/cards/mt-383-logo.jpg",
     "status": "Disponível"
@@ -7132,7 +7132,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.75,
+    "preco": 2.00,
     "estoque": 0,
     "imagem": "assets/cards/mt-384-hasan-al-haydos.jpg",
     "status": "Disponível"
@@ -7146,7 +7146,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.75,
+    "preco": 2.00,
     "estoque": 0,
     "imagem": "assets/cards/mt-394-feras-albrikan.jpg",
     "status": "Disponível"
@@ -7160,7 +7160,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 2.00,
+    "preco": 2.25,
     "estoque": 0,
     "imagem": "assets/cards/mt-395-logo.jpg",
     "status": "Disponível"
@@ -7174,7 +7174,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.75,
+    "preco": 2.00,
     "estoque": 0,
     "imagem": "assets/cards/mt-396-salem-aldawsari.jpg",
     "status": "Disponível"
@@ -7188,7 +7188,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.75,
+    "preco": 2.00,
     "estoque": 0,
     "imagem": "assets/cards/mt-406-scott-mctominay.jpg",
     "status": "Disponível"
@@ -7202,7 +7202,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 2.00,
+    "preco": 2.25,
     "estoque": 0,
     "imagem": "assets/cards/mt-407-logo.jpg",
     "status": "Disponível"
@@ -7216,7 +7216,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.75,
+    "preco": 2.00,
     "estoque": 0,
     "imagem": "assets/cards/mt-408-andrew-robertson.jpg",
     "status": "Disponível"
@@ -7230,7 +7230,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.75,
+    "preco": 2.00,
     "estoque": 0,
     "imagem": "assets/cards/mt-418-kalidou-koulibaly.jpg",
     "status": "Disponível"
@@ -7244,7 +7244,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 2.00,
+    "preco": 2.25,
     "estoque": 0,
     "imagem": "assets/cards/mt-419-logo.jpg",
     "status": "Disponível"
@@ -7258,7 +7258,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.75,
+    "preco": 2.00,
     "estoque": 0,
     "imagem": "assets/cards/mt-420-sadio-mane.jpg",
     "status": "Disponível"
@@ -7272,7 +7272,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.75,
+    "preco": 2.00,
     "estoque": 0,
     "imagem": "assets/cards/mt-430-lyle-foster.jpg",
     "status": "Disponível"
@@ -7286,7 +7286,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 2.00,
+    "preco": 2.25,
     "estoque": 0,
     "imagem": "assets/cards/mt-431-logo.jpg",
     "status": "Disponível"
@@ -7300,7 +7300,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.75,
+    "preco": 2.00,
     "estoque": 0,
     "imagem": "assets/cards/mt-432-ronwen-williams.jpg",
     "status": "Disponível"
@@ -7314,7 +7314,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 2.25,
+    "preco": 2.50,
     "estoque": 0,
     "imagem": "assets/cards/mt-442-lamine-yamal.jpg",
     "status": "Disponível"
@@ -7328,7 +7328,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 2.00,
+    "preco": 2.25,
     "estoque": 0,
     "imagem": "assets/cards/mt-443-logo.jpg",
     "status": "Disponível"
@@ -7342,7 +7342,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 2.25,
+    "preco": 2.50,
     "estoque": 0,
     "imagem": "assets/cards/mt-444-rodri.jpg",
     "status": "Disponível"
@@ -7356,7 +7356,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.75,
+    "preco": 2.00,
     "estoque": 0,
     "imagem": "assets/cards/mt-454-manuel-akanji.jpg",
     "status": "Disponível"
@@ -7370,7 +7370,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 2.00,
+    "preco": 2.25,
     "estoque": 0,
     "imagem": "assets/cards/mt-455-logo.jpg",
     "status": "Disponível"
@@ -7384,7 +7384,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.75,
+    "preco": 2.00,
     "estoque": 0,
     "imagem": "assets/cards/mt-456-granit-xhaka.jpg",
     "status": "Disponível"
@@ -7398,7 +7398,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.75,
+    "preco": 2.00,
     "estoque": 0,
     "imagem": "assets/cards/mt-466-ferjani-sassi.jpg",
     "status": "Disponível"
@@ -7412,7 +7412,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 2.00,
+    "preco": 2.25,
     "estoque": 0,
     "imagem": "assets/cards/mt-467-logo.jpg",
     "status": "Disponível"
@@ -7426,7 +7426,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.75,
+    "preco": 2.00,
     "estoque": 0,
     "imagem": "assets/cards/mt-468-ellyes-skhiri.jpg",
     "status": "Disponível"
@@ -7440,7 +7440,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.75,
+    "preco": 2.00,
     "estoque": 0,
     "imagem": "assets/cards/mt-478-weston-mckennie.jpg",
     "status": "Disponível"
@@ -7454,7 +7454,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 2.00,
+    "preco": 2.25,
     "estoque": 0,
     "imagem": "assets/cards/mt-479-logo.jpg",
     "status": "Disponível"
@@ -7468,7 +7468,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 2.25,
+    "preco": 2.50,
     "estoque": 0,
     "imagem": "assets/cards/mt-480-christian-pulisic.jpg",
     "status": "Disponível"
@@ -7482,7 +7482,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.75,
+    "preco": 2.00,
     "estoque": 0,
     "imagem": "assets/cards/mt-490-josé-maria-gimenez.jpg",
     "status": "Disponível"
@@ -7496,7 +7496,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 2.00,
+    "preco": 2.25,
     "estoque": 0,
     "imagem": "assets/cards/mt-491-logo.jpg",
     "status": "Disponível"
@@ -7510,7 +7510,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.75,
+    "preco": 2.00,
     "estoque": 0,
     "imagem": "assets/cards/mt-492-federico-valverde.jpg",
     "status": "Disponível"
@@ -7524,7 +7524,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.75,
+    "preco": 2.00,
     "estoque": 0,
     "imagem": "assets/cards/mt-502-abdukodir-khusanov.jpg",
     "status": "Disponível"
@@ -7538,7 +7538,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 2.00,
+    "preco": 2.25,
     "estoque": 0,
     "imagem": "assets/cards/mt-503-logo.jpg",
     "status": "Disponível"
@@ -7552,7 +7552,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.75,
+    "preco": 2.00,
     "estoque": 0,
     "imagem": "assets/cards/mt-504-eldor-shomurodov.jpg",
     "status": "Disponível"
@@ -7566,7 +7566,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 2.25,
+    "preco": 2.50,
     "estoque": 0,
     "imagem": "assets/cards/mt-550-emiliano-martinez.jpg",
     "status": "Disponível"
@@ -7580,7 +7580,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 2.25,
+    "preco": 2.50,
     "estoque": 0,
     "imagem": "assets/cards/mt-551-Thibaut-courtois.jpg",
     "status": "Disponível"
@@ -7594,7 +7594,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.75,
+    "preco": 2.00,
     "estoque": 0,
     "imagem": "assets/cards/mt-552-alisson.jpg",
     "status": "Disponível"
@@ -7608,7 +7608,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.75,
+    "preco": 2.00,
     "estoque": 0,
     "imagem": "assets/cards/mt-553-mike-maignan.jpg",
     "status": "Disponível"
@@ -7622,7 +7622,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.75,
+    "preco": 2.00,
     "estoque": 0,
     "imagem": "assets/cards/mt-554-zion-suzuki.jpg",
     "status": "Disponível"
@@ -7636,7 +7636,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.75,
+    "preco": 2.00,
     "estoque": 0,
     "imagem": "assets/cards/mt-555-yassine-bounou.jpg",
     "status": "Disponível"
@@ -7650,7 +7650,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.75,
+    "preco": 2.00,
     "estoque": 0,
     "imagem": "assets/cards/mt-556-diogo-costa.jpg",
     "status": "Disponível"
@@ -7664,7 +7664,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 2.25,
+    "preco": 2.50,
     "estoque": 0,
     "imagem": "assets/cards/mt-557-unai-simon.jpg",
     "status": "Disponível"
@@ -7678,7 +7678,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.75,
+    "preco": 2.00,
     "estoque": 0,
     "imagem": "assets/cards/mt-558-gregor-kobel.jpg",
     "status": "Disponível"
@@ -7692,7 +7692,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.75,
+    "preco": 2.00,
     "estoque": 0,
     "imagem": "assets/cards/mt-559-eder-militao.jpg",
     "status": "Disponível"
@@ -7706,7 +7706,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.75,
+    "preco": 2.00,
     "estoque": 0,
     "imagem": "assets/cards/mt-560-alphonso-davies.jpg",
     "status": "Disponível"
@@ -7720,7 +7720,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.75,
+    "preco": 2.00,
     "estoque": 0,
     "imagem": "assets/cards/mt-561-william-saliba.jpg",
     "status": "Disponível"
@@ -7734,7 +7734,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.75,
+    "preco": 2.00,
     "estoque": 0,
     "imagem": "assets/cards/mt-562-antonio-rudiger.jpg",
     "status": "Disponível"
@@ -7748,7 +7748,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.75,
+    "preco": 2.00,
     "estoque": 0,
     "imagem": "assets/cards/mt-563-minjae-kim.jpg",
     "status": "Disponível"
@@ -7762,7 +7762,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 2.25,
+    "preco": 2.50,
     "estoque": 0,
     "imagem": "assets/cards/mt-564-achraf-hakimi.jpg",
     "status": "Disponível"
@@ -7776,7 +7776,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.75,
+    "preco": 2.00,
     "estoque": 0,
     "imagem": "assets/cards/mt-565-virgil-van-dijk.jpg",
     "status": "Disponível"
@@ -7790,7 +7790,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.75,
+    "preco": 2.00,
     "estoque": 0,
     "imagem": "assets/cards/mt-566-nuno-mendes.jpg",
     "status": "Disponível"
@@ -7804,7 +7804,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 2.25,
+    "preco": 2.50,
     "estoque": 0,
     "imagem": "assets/cards/mt-567-dean-huijsen.jpg",
     "status": "Disponível"
@@ -7818,7 +7818,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 2.25,
+    "preco": 2.50,
     "estoque": 0,
     "imagem": "assets/cards/mt-568-enzo-fernandez.jpg",
     "status": "Disponível"
@@ -7832,7 +7832,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 2.25,
+    "preco": 2.50,
     "estoque": 0,
     "imagem": "assets/cards/mt-569-kevin-de-bruyne.jpg",
     "status": "Disponível"
@@ -7846,7 +7846,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.75,
+    "preco": 2.00,
     "estoque": 0,
     "imagem": "assets/cards/mt-570-casemiro.jpg",
     "status": "Disponível"
@@ -7860,7 +7860,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 2.25,
+    "preco": 2.50,
     "estoque": 0,
     "imagem": "assets/cards/mt-571-luka-modric.jpg",
     "status": "Disponível"
@@ -7874,7 +7874,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.75,
+    "preco": 2.00,
     "estoque": 0,
     "imagem": "assets/cards/mt-572-moises-caicedo.jpg",
     "status": "Disponível"
@@ -7888,7 +7888,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 2.25,
+    "preco": 2.50,
     "estoque": 0,
     "imagem": "assets/cards/mt-573-jude-bellingham.jpg",
     "status": "Disponível"
@@ -7902,7 +7902,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.75,
+    "preco": 2.00,
     "estoque": 0,
     "imagem": "assets/cards/mt-574-aurelien-tchouameni.jpg",
     "status": "Disponível"
@@ -7916,7 +7916,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.75,
+    "preco": 2.00,
     "estoque": 0,
     "imagem": "assets/cards/mt-575-florian-wirtz.jpg",
     "status": "Disponível"
@@ -7930,7 +7930,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.75,
+    "preco": 2.00,
     "estoque": 0,
     "imagem": "assets/cards/mt-576-sofyan-amrabat.jpg",
     "status": "Disponível"
@@ -7944,7 +7944,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.75,
+    "preco": 2.00,
     "estoque": 0,
     "imagem": "assets/cards/mt-577-tijjani-reijnders.jpg",
     "status": "Disponível"
@@ -7958,7 +7958,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.75,
+    "preco": 2.00,
     "estoque": 0,
     "imagem": "assets/cards/mt-578-martin-odegaard.jpg",
     "status": "Disponível"
@@ -7972,7 +7972,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.75,
+    "preco": 2.00,
     "estoque": 0,
     "imagem": "assets/cards/mt-579-vitinha.jpg",
     "status": "Disponível"
@@ -7986,7 +7986,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.75,
+    "preco": 2.00,
     "estoque": 0,
     "imagem": "assets/cards/mt-580-scott-mctominay.jpg",
     "status": "Disponível"
@@ -8000,7 +8000,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 2.25,
+    "preco": 2.50,
     "estoque": 0,
     "imagem": "assets/cards/mt-581-rodri.jpg",
     "status": "Disponível"
@@ -8014,7 +8014,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 2.25,
+    "preco": 2.50,
     "estoque": 0,
     "imagem": "assets/cards/mt-582-pedri.jpg",
     "status": "Disponível"
@@ -8028,7 +8028,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.75,
+    "preco": 2.00,
     "estoque": 0,
     "imagem": "assets/cards/mt-583-grant-xhaka.jpg",
     "status": "Disponível"
@@ -8042,7 +8042,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.75,
+    "preco": 2.00,
     "estoque": 0,
     "imagem": "assets/cards/mt-584-tyler-adams.jpg",
     "status": "Disponível"
@@ -8056,7 +8056,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.75,
+    "preco": 2.00,
     "estoque": 0,
     "imagem": "assets/cards/mt-585-federico-valverde.jpg",
     "status": "Disponível"
@@ -8070,7 +8070,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 2.25,
+    "preco": 2.50,
     "estoque": 0,
     "imagem": "assets/cards/mt-586-julian-alvarez.jpg",
     "status": "Disponível"
@@ -8084,7 +8084,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 2.25,
+    "preco": 2.50,
     "estoque": 0,
     "imagem": "assets/cards/mt-587-romelu-lukaku.jpg",
     "status": "Disponível"
@@ -8098,7 +8098,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 2.25,
+    "preco": 2.50,
     "estoque": 0,
     "imagem": "assets/cards/mt-588-raphinha.jpg",
     "status": "Disponível"
@@ -8112,7 +8112,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.75,
+    "preco": 2.00,
     "estoque": 0,
     "imagem": "assets/cards/mt-589-jonathan-david.jpg",
     "status": "Disponível"
@@ -8126,7 +8126,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.75,
+    "preco": 2.00,
     "estoque": 0,
     "imagem": "assets/cards/mt-590-luis-diaz.jpg",
     "status": "Disponível"
@@ -8140,7 +8140,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.75,
+    "preco": 2.00,
     "estoque": 0,
     "imagem": "assets/cards/mt-591-andrej-kramaric.jpg",
     "status": "Disponível"
@@ -8154,7 +8154,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.75,
+    "preco": 2.00,
     "estoque": 0,
     "imagem": "assets/cards/mt-592-enner-valencia.jpg",
     "status": "Disponível"
@@ -8168,7 +8168,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.75,
+    "preco": 2.00,
     "estoque": 0,
     "imagem": "assets/cards/mt-593-omar-marmoush.jpg",
     "status": "Disponível"
@@ -8182,7 +8182,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.75,
+    "preco": 2.00,
     "estoque": 0,
     "imagem": "assets/cards/mt-594-marcus-rashford.jpg",
     "status": "Disponível"
@@ -8196,7 +8196,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.75,
+    "preco": 2.00,
     "estoque": 1,
     "imagem": "assets/cards/mt-595-randal-kolo-muani.jpg",
     "status": "Disponível"
@@ -8210,7 +8210,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.75,
+    "preco": 2.00,
     "estoque": 0,
     "imagem": "assets/cards/mt-596-kai-havertz.jpg",
     "status": "Disponível"
@@ -8224,7 +8224,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.75,
+    "preco": 2.00,
     "estoque": 0,
     "imagem": "assets/cards/mt-597-sebastien-haller.jpg",
     "status": "Disponível"
@@ -8238,7 +8238,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.75,
+    "preco": 2.00,
     "estoque": 0,
     "imagem": "assets/cards/mt-598-raul-jimenez.jpg",
     "status": "Disponível"
@@ -8252,7 +8252,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.75,
+    "preco": 2.00,
     "estoque": 0,
     "imagem": "assets/cards/mt-599-youssef-en-nesyri.jpg",
     "status": "Disponível"
@@ -8266,7 +8266,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.75,
+    "preco": 2.00,
     "estoque": 0,
     "imagem": "assets/cards/mt-600-cody-gakpo.jpg",
     "status": "Disponível"
@@ -8280,7 +8280,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.75,
+    "preco": 2.00,
     "estoque": 0,
     "imagem": "assets/cards/mt-601-chris-wood.jpg",
     "status": "Disponível"
@@ -8294,7 +8294,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.75,
+    "preco": 2.00,
     "estoque": 0,
     "imagem": "assets/cards/mt-602-alexander-sorloth.jpg",
     "status": "Disponível"
@@ -8308,7 +8308,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.75,
+    "preco": 2.00,
     "estoque": 1,
     "imagem": "assets/cards/mt-603-nicolas-jackson.jpg",
     "status": "Disponível"
@@ -8322,7 +8322,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 2.25,
+    "preco": 2.50,
     "estoque": 0,
     "imagem": "assets/cards/mt-604-mikel-oyarzabal.jpg",
     "status": "Disponível"
@@ -8336,7 +8336,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.75,
+    "preco": 2.00,
     "estoque": 0,
     "imagem": "assets/cards/mt-605-breel-embolo.jpg",
     "status": "Disponível"
@@ -8350,7 +8350,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 2.25,
+    "preco": 2.50,
     "estoque": 0,
     "imagem": "assets/cards/mt-606-christian-pulisic.jpg",
     "status": "Disponível"
@@ -8364,7 +8364,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.75,
+    "preco": 2.00,
     "estoque": 0,
     "imagem": "assets/cards/mt-607-darwin nunez.jpg",
     "status": "Disponível"
@@ -8378,7 +8378,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 2.25,
+    "preco": 2.50,
     "estoque": 0,
     "imagem": "assets/cards/mt-608-nico-paz.jpg",
     "status": "Disponível"
@@ -8392,7 +8392,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 2.25,
+    "preco": 2.50,
     "estoque": 0,
     "imagem": "assets/cards/mt-609-franco-mastantuono.jpg",
     "status": "Disponível"
@@ -8406,7 +8406,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.75,
+    "preco": 2.00,
     "estoque": 1,
     "imagem": "assets/cards/mt-610-zeno-debast.jpg",
     "status": "Disponível"
@@ -8420,7 +8420,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 2.25,
+    "preco": 2.50,
     "estoque": 0,
     "imagem": "assets/cards/mt-611-wesley.jpg",
     "status": "Disponível"
@@ -8434,7 +8434,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 2.25,
+    "preco": 2.50,
     "estoque": 1,
     "imagem": "assets/cards/mt-612-estevão.jpg",
     "status": "Disponível"
@@ -8448,7 +8448,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.75,
+    "preco": 2.00,
     "estoque": 0,
     "imagem": "assets/cards/mt-613-petar-sucic.jpg",
     "status": "Disponível"
@@ -8462,7 +8462,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.75,
+    "preco": 2.00,
     "estoque": 0,
     "imagem": "assets/cards/mt-614-kendry-paez.jpg",
     "status": "Disponível"
@@ -8476,7 +8476,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.75,
+    "preco": 2.00,
     "estoque": 0,
     "imagem": "assets/cards/mt-615-morgan-rogers.jpg",
     "status": "Disponível"
@@ -8490,7 +8490,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 2.25,
+    "preco": 2.50,
     "estoque": 0,
     "imagem": "assets/cards/mt-616-desire-doue.jpg",
     "status": "Disponível"
@@ -8504,7 +8504,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 2.25,
+    "preco": 2.50,
     "estoque": 0,
     "imagem": "assets/cards/mt-617-bradley-barcola.jpg",
     "status": "Disponível"
@@ -8518,7 +8518,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.75,
+    "preco": 2.00,
     "estoque": 0,
     "imagem": "assets/cards/mt-618-nick-woltemade.jpg",
     "status": "Disponível"
@@ -8532,7 +8532,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.75,
+    "preco": 2.00,
     "estoque": 0,
     "imagem": "assets/cards/mt-619-xavi-simons.jpg",
     "status": "Disponível"
@@ -8546,7 +8546,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.75,
+    "preco": 2.00,
     "estoque": 0,
     "imagem": "assets/cards/mt-620-andreas-schjelderup.jpg",
     "status": "Disponível"
@@ -8560,7 +8560,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.75,
+    "preco": 2.00,
     "estoque": 0,
     "imagem": "assets/cards/mt-621-diego-gomez.jpg",
     "status": "Disponível"
@@ -8574,7 +8574,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 1.75,
+    "preco": 2.00,
     "estoque": 0,
     "imagem": "assets/cards/mt-622-joão-neves.jpg",
     "status": "Disponível"
@@ -8588,7 +8588,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 2.25,
+    "preco": 2.50,
     "estoque": 6,
     "imagem": "assets/cards/mt-623-pau-cubarsi.jpg",
     "status": "Disponível"
@@ -8616,7 +8616,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 2.50,
+    "preco": 3.00,
     "estoque": 1,
     "imagem": "assets/cards/mt-625-maple.jpg",
     "status": "Disponível"
@@ -8630,7 +8630,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 2.50,
+    "preco": 3.00,
     "estoque": 3,
     "imagem": "assets/cards/mt-626-clutch.jpg",
     "status": "Disponível"
@@ -8644,7 +8644,7 @@
     "categoria": "ADR XL Brilhantes",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 2.50,
+    "preco": 3.00,
     "estoque": 0,
     "imagem": "assets/cards/mt-627-zayu.jpg",
     "status": "Disponível"
@@ -8784,7 +8784,7 @@
     "categoria": "ADR XL Golden Ballers",
     "raridade": "Especial",
     "tipo": "Jogador",
-    "preco": 40.00,
+    "preco": 45.00,
     "estoque": 12,
     "imagem": "assets/cards/gb-004-harry-kane.jpg",
     "status": "Disponível"

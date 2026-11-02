@@ -18501,8 +18501,36 @@
     "raridade": "",
     "tipo": "Acessório",
     "preco": 35.00,
-    "estoque": 1,
+    "estoque": 2,
     "imagem": "assets/cards/wc26-pasta.png",
+    "status": "Disponível"
+  },
+  {
+    "id": 1894,
+    "colecao": "Colecionáveis",
+    "numero": "KT-24",
+    "nome": "Libertadores™ 2025 Megacracks.",
+    "pais": "Box 100 cards (50 Base e 50 Especiais).",
+    "categoria": "Colecionáveis",
+    "raridade": "4 Edições Limitadas",
+    "tipo": "Acessório",
+    "preco": 145.00,
+    "estoque": 0,
+    "imagem": "assets/cards/megacracks-libertadores25.png",
+    "status": "Disponível"
+  },
+  {
+    "id": 1895,
+    "colecao": "Colecionáveis",
+    "numero": "KT-25",
+    "nome": "Pôster Campeão Libertadores™ 2025",
+    "pais": "30 cromos (24 jogadores + 1 escudo + 1 mascote + 4 comemorações).",
+    "categoria": "Colecionáveis",
+    "raridade": "Coleção completa",
+    "tipo": "Acessório",
+    "preco": 45.00,
+    "estoque": 0,
+    "imagem": "assets/cards/poster-libertadores-flamengo25.png",
     "status": "Disponível"
   },
   {

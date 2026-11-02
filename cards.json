@@ -18492,20 +18492,6 @@
     "status": "Disponível"
   },
   {
-    "id": 1322,
-    "colecao": "Colecionáveis",
-    "numero": "KT-23",
-    "nome": "Pasta Adrenalyn XL World Cup 26",
-    "pais": "Pasta Porta Cards, Guia e Tabuleiro.",
-    "categoria": "Colecionáveis",
-    "raridade": "",
-    "tipo": "Acessório",
-    "preco": 35.00,
-    "estoque": 2,
-    "imagem": "assets/cards/wc26-pasta.png",
-    "status": "Disponível"
-  },
-  {
     "id": 1894,
     "colecao": "Colecionáveis",
     "numero": "KT-24",
@@ -18839,6 +18825,20 @@
     "preco": 25.00,
     "estoque": 2,
     "imagem": "assets/cards/bra26-kit-feminino.png",
+    "status": "Disponível"
+  },
+  {
+    "id": 1322,
+    "colecao": "Colecionáveis",
+    "numero": "KT-23",
+    "nome": "Pasta Adrenalyn XL World Cup 26",
+    "pais": "Pasta Porta Cards, Guia e Tabuleiro.",
+    "categoria": "Colecionáveis",
+    "raridade": "",
+    "tipo": "Acessório",
+    "preco": 35.00,
+    "estoque": 2,
+    "imagem": "assets/cards/wc26-pasta.png",
     "status": "Disponível"
   },
   {

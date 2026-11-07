@@ -2555,7 +2555,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 1.50,
-    "estoque": 10,
+    "estoque": 11,
     "imagem": "assets/cards/hr-255-kaishu-sano.jpg",
     "status": "Disponível"
   },
@@ -6615,7 +6615,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 2.25,
-    "estoque": 0,
+    "estoque": 1,
     "imagem": "assets/cards/mt-239-logo.jpg",
     "status": "Disponível"
   },

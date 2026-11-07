@@ -679,7 +679,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 1.50,
-    "estoque": 3,
+    "estoque": 2,
     "imagem": "assets/cards/hr-076-gabriel-magalhaes.jpg",
     "status": "Disponível"
   },
@@ -6069,7 +6069,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 2.25,
-    "estoque": 2,
+    "estoque": 1,
     "imagem": "assets/cards/mt-083-logo.jpg",
     "status": "Disponível"
   },
@@ -6251,7 +6251,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 2.00,
-    "estoque": 2,
+    "estoque": 1,
     "imagem": "assets/cards/mt-132-leandro-bacuna.jpg",
     "status": "Disponível"
   },
@@ -6279,7 +6279,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 2.25,
-    "estoque": 4,
+    "estoque": 3,
     "imagem": "assets/cards/mt-143-logo.jpg",
     "status": "Disponível"
   },
@@ -6293,7 +6293,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 2.00,
-    "estoque": 2,
+    "estoque": 1,
     "imagem": "assets/cards/mt-144-enner-valencia.jpg",
     "status": "Disponível"
   },
@@ -6321,7 +6321,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 2.25,
-    "estoque": 5,
+    "estoque": 4,
     "imagem": "assets/cards/mt-155-logo.jpg",
     "status": "Disponível"
   },
@@ -6587,7 +6587,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 2.00,
-    "estoque": 1,
+    "estoque": 0,
     "imagem": "assets/cards/mt-228-sardar-azmoun.jpg",
     "status": "Disponível"
   },
@@ -6629,7 +6629,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 2.00,
-    "estoque": 1,
+    "estoque": 0,
     "imagem": "assets/cards/mt-240-sebastien-haller.jpg",
     "status": "Disponível"
   },
@@ -6657,7 +6657,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 2.25,
-    "estoque": 3,
+    "estoque": 2,
     "imagem": "assets/cards/mt-251-logo.jpg",
     "status": "Disponível"
   },
@@ -6699,7 +6699,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 2.25,
-    "estoque": 5,
+    "estoque": 4,
     "imagem": "assets/cards/mt-263-logo.jpg",
     "status": "Disponível"
   },
@@ -6741,7 +6741,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 2.25,
-    "estoque": 4,
+    "estoque": 3,
     "imagem": "assets/cards/mt-275-logo.jpg",
     "status": "Disponível"
   },
@@ -6783,7 +6783,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 2.25,
-    "estoque": 1,
+    "estoque": 0,
     "imagem": "assets/cards/mt-287-logo.jpg",
     "status": "Disponível"
   },
@@ -6895,7 +6895,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 2.00,
-    "estoque": 1,
+    "estoque": 0,
     "imagem": "assets/cards/mt-322-marko-stamenic.jpg",
     "status": "Disponível"
   },
@@ -6993,7 +6993,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 2.25,
-    "estoque": 3,
+    "estoque": 2,
     "imagem": "assets/cards/mt-347-logo.jpg",
     "status": "Disponível"
   },
@@ -7035,7 +7035,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 2.25,
-    "estoque": 5,
+    "estoque": 4,
     "imagem": "assets/cards/mt-359-logo.jpg",
     "status": "Disponível"
   },
@@ -7105,7 +7105,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 2.00,
-    "estoque": 2,
+    "estoque": 1,
     "imagem": "assets/cards/mt-382-almoez-ali.jpg",
     "status": "Disponível"
   },
@@ -7147,7 +7147,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 2.00,
-    "estoque": 1,
+    "estoque": 0,
     "imagem": "assets/cards/mt-394-feras-albrikan.jpg",
     "status": "Disponível"
   },
@@ -7175,7 +7175,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 2.00,
-    "estoque": 3,
+    "estoque": 2,
     "imagem": "assets/cards/mt-396-salem-aldawsari.jpg",
     "status": "Disponível"
   },
@@ -7217,7 +7217,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 2.00,
-    "estoque": 1,
+    "estoque": 0,
     "imagem": "assets/cards/mt-408-andrew-robertson.jpg",
     "status": "Disponível"
   },
@@ -7301,7 +7301,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 2.00,
-    "estoque": 2,
+    "estoque": 1,
     "imagem": "assets/cards/mt-432-ronwen-williams.jpg",
     "status": "Disponível"
   },
@@ -7371,7 +7371,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 2.25,
-    "estoque": 1,
+    "estoque": 0,
     "imagem": "assets/cards/mt-455-logo.jpg",
     "status": "Disponível"
   },
@@ -7455,7 +7455,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 2.25,
-    "estoque": 5,
+    "estoque": 4,
     "imagem": "assets/cards/mt-479-logo.jpg",
     "status": "Disponível"
   },
@@ -7525,7 +7525,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 2.00,
-    "estoque": 1,
+    "estoque": 0,
     "imagem": "assets/cards/mt-502-abdukodir-khusanov.jpg",
     "status": "Disponível"
   },
@@ -7539,7 +7539,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 2.25,
-    "estoque": 2,
+    "estoque": 1,
     "imagem": "assets/cards/mt-503-logo.jpg",
     "status": "Disponível"
   },
@@ -7553,7 +7553,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 2.00,
-    "estoque": 1,
+    "estoque": 0,
     "imagem": "assets/cards/mt-504-eldor-shomurodov.jpg",
     "status": "Disponível"
   },
@@ -8001,7 +8001,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 2.50,
-    "estoque": 2,
+    "estoque": 1,
     "imagem": "assets/cards/mt-581-rodri.jpg",
     "status": "Disponível"
   },
@@ -8057,7 +8057,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 2.00,
-    "estoque": 5,
+    "estoque": 4,
     "imagem": "assets/cards/mt-585-federico-valverde.jpg",
     "status": "Disponível"
   },

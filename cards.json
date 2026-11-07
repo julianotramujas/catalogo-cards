@@ -5817,7 +5817,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 2.25,
-    "estoque": 2,
+    "estoque": 1,
     "imagem": "assets/cards/mt-011-logo.jpg",
     "status": "Disponível"
   },
@@ -5859,7 +5859,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 2.25,
-    "estoque": 1,
+    "estoque": 0,
     "imagem": "assets/cards/mt-023-logo.jpg",
     "status": "Disponível"
   },
@@ -5901,7 +5901,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 2.25,
-    "estoque": 2,
+    "estoque": 1,
     "imagem": "assets/cards/mt-035-logo.jpg",
     "status": "Disponível"
   },
@@ -6013,7 +6013,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 2.00,
-    "estoque": 2,
+    "estoque": 1,
     "imagem": "assets/cards/mt-070-marquinhos.jpg",
     "status": "Disponível"
   },
@@ -6041,7 +6041,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 2.50,
-    "estoque": 3,
+    "estoque": 2,
     "imagem": "assets/cards/mt-072-vinicius-junior.jpg",
     "status": "Disponível"
   },
@@ -6069,7 +6069,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 2.25,
-    "estoque": 1,
+    "estoque": 0,
     "imagem": "assets/cards/mt-083-logo.jpg",
     "status": "Disponível"
   },
@@ -6097,7 +6097,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 2.50,
-    "estoque": 2,
+    "estoque": 1,
     "imagem": "assets/cards/mt-094-vozinha.jpg",
     "status": "Disponível"
   },
@@ -6153,7 +6153,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 2.25,
-    "estoque": 2,
+    "estoque": 1,
     "imagem": "assets/cards/mt-107-logo.jpg",
     "status": "Disponível"
   },
@@ -6195,7 +6195,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 2.25,
-    "estoque": 1,
+    "estoque": 0,
     "imagem": "assets/cards/mt-119-logo.jpg",
     "status": "Disponível"
   },
@@ -6237,7 +6237,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 2.25,
-    "estoque": 1,
+    "estoque": 0,
     "imagem": "assets/cards/mt-131-logo.jpg",
     "status": "Disponível"
   },
@@ -6279,7 +6279,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 2.25,
-    "estoque": 3,
+    "estoque": 2,
     "imagem": "assets/cards/mt-143-logo.jpg",
     "status": "Disponível"
   },
@@ -6363,7 +6363,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 2.25,
-    "estoque": 3,
+    "estoque": 2,
     "imagem": "assets/cards/mt-167-logo.jpg",
     "status": "Disponível"
   },
@@ -6377,7 +6377,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 2.50,
-    "estoque": 2,
+    "estoque": 1,
     "imagem": "assets/cards/mt-168-harry-kane.jpg",
     "status": "Disponível"
   },
@@ -6391,7 +6391,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 2.50,
-    "estoque": 1,
+    "estoque": 0,
     "imagem": "assets/cards/mt-178-ousmane-dembele.jpg",
     "status": "Disponível"
   },
@@ -6419,7 +6419,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 2.50,
-    "estoque": 2,
+    "estoque": 1,
     "imagem": "assets/cards/mt-180-kylian-mbappe.jpg",
     "status": "Disponível"
   },
@@ -6531,7 +6531,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 2.25,
-    "estoque": 2,
+    "estoque": 1,
     "imagem": "assets/cards/mt-215-logo.jpg",
     "status": "Disponível"
   },
@@ -6573,7 +6573,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 2.25,
-    "estoque": 1,
+    "estoque": 0,
     "imagem": "assets/cards/mt-227-logo.jpg",
     "status": "Disponível"
   },
@@ -6615,7 +6615,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 2.25,
-    "estoque": 1,
+    "estoque": 0,
     "imagem": "assets/cards/mt-239-logo.jpg",
     "status": "Disponível"
   },
@@ -6657,7 +6657,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 2.25,
-    "estoque": 2,
+    "estoque": 1,
     "imagem": "assets/cards/mt-251-logo.jpg",
     "status": "Disponível"
   },
@@ -6741,7 +6741,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 2.25,
-    "estoque": 3,
+    "estoque": 2,
     "imagem": "assets/cards/mt-275-logo.jpg",
     "status": "Disponível"
   },
@@ -6825,7 +6825,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 2.25,
-    "estoque": 1,
+    "estoque": 0,
     "imagem": "assets/cards/mt-299-logo.jpg",
     "status": "Disponível"
   },
@@ -6867,7 +6867,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 2.25,
-    "estoque": 2,
+    "estoque": 1,
     "imagem": "assets/cards/mt-311-logo.jpg",
     "status": "Disponível"
   },
@@ -6909,7 +6909,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 2.25,
-    "estoque": 1,
+    "estoque": 0,
     "imagem": "assets/cards/mt-323-logo.jpg",
     "status": "Disponível"
   },
@@ -6951,7 +6951,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 2.25,
-    "estoque": 1,
+    "estoque": 0,
     "imagem": "assets/cards/mt-335-logo.jpg",
     "status": "Disponível"
   },
@@ -7063,7 +7063,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 2.00,
-    "estoque": 1,
+    "estoque": 0,
     "imagem": "assets/cards/mt-370-vitinha.jpg",
     "status": "Disponível"
   },
@@ -7091,7 +7091,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 2.50,
-    "estoque": 5,
+    "estoque": 4,
     "imagem": "assets/cards/mt-372-cristiano-ronaldo.jpg",
     "status": "Disponível"
   },
@@ -7245,7 +7245,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 2.25,
-    "estoque": 2,
+    "estoque": 1,
     "imagem": "assets/cards/mt-419-logo.jpg",
     "status": "Disponível"
   },
@@ -7287,7 +7287,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 2.25,
-    "estoque": 2,
+    "estoque": 1,
     "imagem": "assets/cards/mt-431-logo.jpg",
     "status": "Disponível"
   },
@@ -7315,7 +7315,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 2.50,
-    "estoque": 1,
+    "estoque": 0,
     "imagem": "assets/cards/mt-442-lamine-yamal.jpg",
     "status": "Disponível"
   },
@@ -7343,7 +7343,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 2.50,
-    "estoque": 2,
+    "estoque": 1,
     "imagem": "assets/cards/mt-444-rodri.jpg",
     "status": "Disponível"
   },
@@ -7539,7 +7539,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 2.25,
-    "estoque": 1,
+    "estoque": 0,
     "imagem": "assets/cards/mt-503-logo.jpg",
     "status": "Disponível"
   },

@@ -18501,7 +18501,7 @@
     "raridade": "",
     "tipo": "Acessório",
     "preco": 145.00,
-    "estoque": 4,
+    "estoque": 3,
     "imagem": "assets/cards/megacracks-libertadores25.png",
     "status": "Disponível"
   },
@@ -18515,7 +18515,7 @@
     "raridade": "",
     "tipo": "Acessório",
     "preco": 45.00,
-    "estoque": 4,
+    "estoque": 3,
     "imagem": "assets/cards/poster-libertadores-flamengo25.png",
     "status": "Disponível"
   },

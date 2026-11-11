@@ -7637,7 +7637,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 2.00,
-    "estoque": 2,
+    "estoque": 1,
     "imagem": "assets/cards/mt-555-yassine-bounou.jpg",
     "status": "Disponível"
   },
@@ -8155,7 +8155,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 2.00,
-    "estoque": 2,
+    "estoque": 1,
     "imagem": "assets/cards/mt-592-enner-valencia.jpg",
     "status": "Disponível"
   },

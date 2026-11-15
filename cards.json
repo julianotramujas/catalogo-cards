@@ -6265,7 +6265,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 2.00,
-    "estoque": 1,
+    "estoque": 0,
     "imagem": "assets/cards/mt-142-moises-caicedo.jpg",
     "status": "Disponível"
   },
@@ -7511,7 +7511,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 2.00,
-    "estoque": 1,
+    "estoque": 0,
     "imagem": "assets/cards/mt-492-federico-valverde.jpg",
     "status": "Disponível"
   },
@@ -7595,7 +7595,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 2.00,
-    "estoque": 2,
+    "estoque": 1,
     "imagem": "assets/cards/mt-552-alisson.jpg",
     "status": "Disponível"
   },
@@ -7917,7 +7917,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 2.00,
-    "estoque": 2,
+    "estoque": 1,
     "imagem": "assets/cards/mt-575-florian-wirtz.jpg",
     "status": "Disponível"
   },
@@ -8183,7 +8183,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 2.00,
-    "estoque": 3,
+    "estoque": 2,
     "imagem": "assets/cards/mt-594-marcus-rashford.jpg",
     "status": "Disponível"
   },
@@ -8617,7 +8617,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 3.00,
-    "estoque": 2,
+    "estoque": 1,
     "imagem": "assets/cards/mt-625-maple.jpg",
     "status": "Disponível"
   },
@@ -8743,7 +8743,7 @@
     "raridade": "Especial",
     "tipo": "Jogador",
     "preco": 50.00,
-    "estoque": 9,
+    "estoque": 8,
     "imagem": "assets/cards/gb-001-lionel-messi.jpg",
     "status": "Disponível"
   },
@@ -8771,7 +8771,7 @@
     "raridade": "Especial",
     "tipo": "Jogador",
     "preco": 35.00,
-    "estoque": 9,
+    "estoque": 8,
     "imagem": "assets/cards/gb-003-mohamed-salah.jpg",
     "status": "Disponível"
   },
@@ -18850,7 +18850,7 @@
     "categoria": "Match Attax 26/27",
     "raridade": "Especial",
     "tipo": "Jogador",
-    "preco": 50.00,
+    "preco": 40.00,
     "estoque": 0,
     "imagem": "assets/cards/ma27-001-luka-modric.png",
     "status": "Disponível"
@@ -18864,7 +18864,7 @@
     "categoria": "Match Attax 26/27",
     "raridade": "Especial",
     "tipo": "Jogador",
-    "preco": 50.00,
+    "preco": 40.00,
     "estoque": 0,
     "imagem": "assets/cards/ma27-002-antoine-semenyo.png",
     "status": "Disponível"
@@ -18878,7 +18878,7 @@
     "categoria": "Match Attax 26/27",
     "raridade": "Especial",
     "tipo": "Jogador",
-    "preco": 50.00,
+    "preco": 40.00,
     "estoque": 0,
     "imagem": "assets/cards/ma27-003-ousmane-dembele.png",
     "status": "Disponível"
@@ -18892,7 +18892,7 @@
     "categoria": "Match Attax 26/27",
     "raridade": "Especial",
     "tipo": "Jogador",
-    "preco": 50.00,
+    "preco": 40.00,
     "estoque": 0,
     "imagem": "assets/cards/ma27-004-morgan-rogers.png",
     "status": "Disponível"
@@ -18906,7 +18906,7 @@
     "categoria": "Match Attax 26/27",
     "raridade": "Especial",
     "tipo": "Jogador",
-    "preco": 50.00,
+    "preco": 40.00,
     "estoque": 0,
     "imagem": "assets/cards/ma27-005-hugo-ekitike.png",
     "status": "Disponível"
@@ -18920,7 +18920,7 @@
     "categoria": "Match Attax 26/27",
     "raridade": "Especial",
     "tipo": "Jogador",
-    "preco": 50.00,
+    "preco": 40.00,
     "estoque": 0,
     "imagem": "assets/cards/ma27-006-felix-nmecha.png",
     "status": "Disponível"
@@ -18934,7 +18934,7 @@
     "categoria": "Match Attax 26/27",
     "raridade": "Especial",
     "tipo": "Jogador",
-    "preco": 50.00,
+    "preco": 40.00,
     "estoque": 0,
     "imagem": "assets/cards/ma27-007-declan-rice.png",
     "status": "Disponível"
@@ -18948,7 +18948,7 @@
     "categoria": "Match Attax 26/27",
     "raridade": "Especial",
     "tipo": "Jogador",
-    "preco": 50.00,
+    "preco": 40.00,
     "estoque": 0,
     "imagem": "assets/cards/ma27-008-michael-olise.png",
     "status": "Disponível"
@@ -18977,8 +18977,8 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 3.00,
-    "estoque": 0,
-    "imagem": "assets/cards/ma27-010-david-raya.png",
+    "estoque": 3,
+    "imagem": "assets/cards/ma27-010-david-raya.jpg",
     "status": "Disponível"
   },
   {
@@ -18992,7 +18992,7 @@
     "tipo": "Jogador",
     "preco": 3.00,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-011-william-saliba.png",
+    "imagem": "assets/cards/ma27-011-william-saliba.jpg",
     "status": "Disponível"
   },
   {
@@ -19020,7 +19020,7 @@
     "tipo": "Jogador",
     "preco": 3.00,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-arsenal.png",
+    "imagem": "assets/cards/ma27-013-riccardo-calafiori.jpg",
     "status": "Disponível"
   },
   {
@@ -19033,8 +19033,8 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 3.00,
-    "estoque": 0,
-    "imagem": "assets/cards/ma27-arsenal.png",
+    "estoque": 2,
+    "imagem": "assets/cards/ma27-014-myles-lewis-skelly.jpg",
     "status": "Disponível"
   },
   {
@@ -19048,7 +19048,7 @@
     "tipo": "Jogador",
     "preco": 3.00,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-arsenal.png",
+    "imagem": "assets/cards/ma27-015-martin-zubimendi.jpg",
     "status": "Disponível"
   },
   {
@@ -19062,7 +19062,7 @@
     "tipo": "Jogador",
     "preco": 3.00,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-arsenal.png",
+    "imagem": "assets/cards/ma27-016-martin-odegaard.jpg",
     "status": "Disponível"
   },
   {
@@ -19072,11 +19072,11 @@
     "nome": "Declan Rice",
     "pais": "Arsenal",
     "categoria": "Match Attax 26/27",
-    "raridade": "Líder",
+    "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 3.00,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-arsenal.png",
+    "imagem": "assets/cards/ma27-017-declan-rice.jpg",
     "status": "Disponível"
   },
   {
@@ -19090,7 +19090,7 @@
     "tipo": "Jogador",
     "preco": 3.00,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-arsenal.png",
+    "imagem": "assets/cards/ma27-018-eberechi-eze.jpg",
     "status": "Disponível"
   },
   {
@@ -19100,11 +19100,11 @@
     "nome": "Max Dowman",
     "pais": "Arsenal",
     "categoria": "Match Attax 26/27",
-    "raridade": "Estreante",
+    "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 3.00,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-arsenal.png",
+    "imagem": "assets/cards/ma27-019-max-dowman.jpg",
     "status": "Disponível"
   },
   {
@@ -19131,8 +19131,8 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 3.00,
-    "estoque": 0,
-    "imagem": "assets/cards/ma27-arsenal.png",
+    "estoque": 1,
+    "imagem": "assets/cards/ma27-021-viktor-gyokeres.jpg",
     "status": "Disponível"
   },
   {
@@ -19146,33 +19146,33 @@
     "tipo": "Jogador",
     "preco": 3.00,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-022-bukaio-saka.png",
+    "imagem": "assets/cards/ma27-022-bukayo-saka.jpg",
     "status": "Disponível"
   },
   {
     "id": 1345,
     "colecao": "Match Attax 26/27",
-    "numero": "BS-023",
+    "numero": "WC-023",
     "nome": "Jurrien Timber",
     "pais": "Arsenal",
     "categoria": "Match Attax 26/27",
-    "raridade": "Raro",
+    "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 5.00,
+    "preco": 3.50,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-arsenal.png",
+    "imagem": "assets/cards/ma27-023-jurrien-timber.jpg",
     "status": "Disponível"
   },
   {
     "id": 1346,
     "colecao": "Match Attax 26/27",
-    "numero": "BS-024",
+    "numero": "PP-024",
     "nome": "Noni Madueke",
     "pais": "Arsenal",
     "categoria": "Match Attax 26/27",
-    "raridade": "Raro",
+    "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 5.00,
+    "preco": 3.50,
     "estoque": 0,
     "imagem": "assets/cards/ma27-arsenal.png",
     "status": "Disponível"
@@ -19180,13 +19180,13 @@
   {
     "id": 1347,
     "colecao": "Match Attax 26/27",
-    "numero": "BS-025",
+    "numero": "GO-025",
     "nome": "Leandro Trossard",
     "pais": "Arsenal",
     "categoria": "Match Attax 26/27",
-    "raridade": "Raro",
+    "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 5.00,
+    "preco": 3.50,
     "estoque": 0,
     "imagem": "assets/cards/ma27-arsenal.png",
     "status": "Disponível"
@@ -19194,13 +19194,13 @@
   {
     "id": 1348,
     "colecao": "Match Attax 26/27",
-    "numero": "BS-026",
+    "numero": "FT-026",
     "nome": "Gabriel Magalhães",
     "pais": "Arsenal",
     "categoria": "Match Attax 26/27",
-    "raridade": "Raro",
+    "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 5.00,
+    "preco": 3.50,
     "estoque": 0,
     "imagem": "assets/cards/ma27-arsenal.png",
     "status": "Disponível"
@@ -19208,13 +19208,13 @@
   {
     "id": 1349,
     "colecao": "Match Attax 26/27",
-    "numero": "BS-027",
+    "numero": "LE-027",
     "nome": "Declan Rice",
     "pais": "Arsenal",
     "categoria": "Match Attax 26/27",
     "raridade": "Edição Limitada",
     "tipo": "Jogador",
-    "preco": 25.00,
+    "preco": 12.00,
     "estoque": 0,
     "imagem": "assets/cards/ma27-arsenal.png",
     "status": "Disponível"
@@ -19230,7 +19230,7 @@
     "tipo": "Jogador",
     "preco": 3.00,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-manchester.png",
+    "imagem": "assets/cards/ma27-028-gianluigi-donnarumma.jpg",
     "status": "Disponível"
   },
   {
@@ -19244,7 +19244,7 @@
     "tipo": "Jogador",
     "preco": 3.00,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-manchester.png",
+    "imagem": "assets/cards/ma27-029-ruben-dias.jpg",
     "status": "Disponível"
   },
   {
@@ -19258,7 +19258,7 @@
     "tipo": "Jogador",
     "preco": 3.00,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-manchester.png",
+    "imagem": "assets/cards/ma27-030-marc-guehi.jpg",
     "status": "Disponível"
   },
   {
@@ -19285,8 +19285,8 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 3.00,
-    "estoque": 0,
-    "imagem": "assets/cards/ma27-manchester.png",
+    "estoque": 1,
+    "imagem": "assets/cards/ma27-032-nico-oreilly.jpg",
     "status": "Disponível"
   },
   {
@@ -19298,9 +19298,9 @@
     "categoria": "Match Attax 26/27",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 3.00,
+    "preco": 4.00,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-manchester.png",
+    "imagem": "assets/cards/ma27-033-rodri.jpg",
     "status": "Disponível"
   },
   {
@@ -19327,8 +19327,8 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 3.00,
-    "estoque": 0,
-    "imagem": "assets/cards/ma27-manchester.png",
+    "estoque": 1,
+    "imagem": "assets/cards/ma27-035-phil-foden.jpg",
     "status": "Disponível"
   },
   {
@@ -19356,7 +19356,7 @@
     "tipo": "Jogador",
     "preco": 3.00,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-manchester.png",
+    "imagem": "assets/cards/ma27-037-antoine-semenyo.jpg",
     "status": "Disponível"
   },
   {
@@ -19370,7 +19370,7 @@
     "tipo": "Jogador",
     "preco": 3.00,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-manchester.png",
+    "imagem": "assets/cards/ma27-038-jeremy-doku.jpg",
     "status": "Disponível"
   },
   {
@@ -19384,7 +19384,7 @@
     "tipo": "Jogador",
     "preco": 3.00,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-manchester.png",
+    "imagem": "assets/cards/ma27-039-omar-marmoush.jpg",
     "status": "Disponível"
   },
   {
@@ -19397,34 +19397,34 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 3.00,
-    "estoque": 0,
-    "imagem": "assets/cards/ma27-040-erling-haaland.png",
+    "estoque": 3,
+    "imagem": "assets/cards/ma27-040-erling-haaland.jpg",
     "status": "Disponível"
   },
   {
     "id": 1363,
     "colecao": "Match Attax 26/27",
-    "numero": "BS-041",
+    "numero": "WC-041",
     "nome": "Savinho",
     "pais": "Manchester City",
     "categoria": "Match Attax 26/27",
-    "raridade": "Raro",
+    "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 5.00,
+    "preco": 3.50,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-manchester.png",
+    "imagem": "assets/cards/ma27-041-savinho.jpg",
     "status": "Disponível"
   },
   {
     "id": 1364,
     "colecao": "Match Attax 26/27",
-    "numero": "BS-042",
+    "numero": "PP-042",
     "nome": "Tijjani Reijnders",
     "pais": "Manchester City",
     "categoria": "Match Attax 26/27",
-    "raridade": "Raro",
+    "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 5.00,
+    "preco": 3.50,
     "estoque": 0,
     "imagem": "assets/cards/ma27-manchester.png",
     "status": "Disponível"
@@ -19432,15 +19432,15 @@
   {
     "id": 1365,
     "colecao": "Match Attax 26/27",
-    "numero": "BS-043",
+    "numero": "GO-043",
     "nome": "Phil Foden",
     "pais": "Manchester City",
     "categoria": "Match Attax 26/27",
-    "raridade": "Raro",
+    "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 5.00,
+    "preco": 3.50,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-manchester.png",
+    "imagem": "assets/cards/ma27-043-phil-foden.jpg",
     "status": "Disponível"
   },
   {
@@ -19452,21 +19452,21 @@
     "categoria": "Match Attax 26/27",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 5.00,
+    "preco": 3.50,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-manchester.png",
+    "imagem": "assets/cards/ma27-044-josko-gvardiol.jpg",
     "status": "Disponível"
   },
   {
     "id": 1367,
     "colecao": "Match Attax 26/27",
-    "numero": "BS-045",
+    "numero": "LE-045",
     "nome": "Antoine Semenyo",
     "pais": "Manchester City",
     "categoria": "Match Attax 26/27",
     "raridade": "Edição Limitada",
     "tipo": "Jogador",
-    "preco": 25.00,
+    "preco": 12.00,
     "estoque": 0,
     "imagem": "assets/cards/ma27-manchester.png",
     "status": "Disponível"
@@ -19482,7 +19482,7 @@
     "tipo": "Jogador",
     "preco": 3.00,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-manchester-united.png",
+    "imagem": "assets/cards/ma27-046-senne-lammens.jpg",
     "status": "Disponível"
   },
   {
@@ -19510,7 +19510,7 @@
     "tipo": "Jogador",
     "preco": 3.00,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-manchester-united.png",
+    "imagem": "assets/cards/ma27-048-leny-yoro.jpg",
     "status": "Disponível"
   },
   {
@@ -19523,8 +19523,8 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 3.00,
-    "estoque": 0,
-    "imagem": "assets/cards/ma27-manchester-united.png",
+    "estoque": 1,
+    "imagem": "assets/cards/ma27-049-harry-maguire.jpg",
     "status": "Disponível"
   },
   {
@@ -19562,11 +19562,11 @@
     "nome": "Bruno Fernandes",
     "pais": "Manchester United",
     "categoria": "Match Attax 26/27",
-    "raridade": "Líder",
+    "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 3.00,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-manchester-united.png",
+    "imagem": "assets/cards/ma27-052-bruno-fernandes.jpg",
     "status": "Disponível"
   },
   {
@@ -19593,8 +19593,8 @@
     "raridade": "Estreante",
     "tipo": "Jogador",
     "preco": 3.00,
-    "estoque": 0,
-    "imagem": "assets/cards/ma27-manchester-united.png",
+    "estoque": 1,
+    "imagem": "assets/cards/ma27-054-jj-gabriel.jpg",
     "status": "Disponível"
   },
   {
@@ -19621,8 +19621,8 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 3.00,
-    "estoque": 0,
-    "imagem": "assets/cards/ma27-manchester-united.png",
+    "estoque": 1,
+    "imagem": "assets/cards/ma27-056-amad.jpg",
     "status": "Disponível"
   },
   {
@@ -19636,7 +19636,7 @@
     "tipo": "Jogador",
     "preco": 3.00,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-manchester-united.png",
+    "imagem": "assets/cards/ma27-057-bryan-mbeumo.jpg",
     "status": "Disponível"
   },
   {
@@ -19656,27 +19656,27 @@
   {
     "id": 1381,
     "colecao": "Match Attax 26/27",
-    "numero": "BS-059",
+    "numero": "WC-059",
     "nome": "Diogo Dalot",
     "pais": "Manchester United",
     "categoria": "Match Attax 26/27",
-    "raridade": "Raro",
+    "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 5.00,
+    "preco": 3.50,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-manchester-united.png",
+    "imagem": "assets/cards/ma27-059-diogo-dalot.jpg",
     "status": "Disponível"
   },
   {
     "id": 1382,
     "colecao": "Match Attax 26/27",
-    "numero": "BS-060",
+    "numero": "PP-060",
     "nome": "Mason Mount",
     "pais": "Manchester United",
     "categoria": "Match Attax 26/27",
-    "raridade": "Raro",
+    "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 5.00,
+    "preco": 3.50,
     "estoque": 0,
     "imagem": "assets/cards/ma27-manchester-united.png",
     "status": "Disponível"
@@ -19684,13 +19684,13 @@
   {
     "id": 1383,
     "colecao": "Match Attax 26/27",
-    "numero": "BS-061",
+    "numero": "GO-061",
     "nome": "Benjamin Sesko",
     "pais": "Manchester United",
     "categoria": "Match Attax 26/27",
-    "raridade": "Raro",
+    "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 5.00,
+    "preco": 3.50,
     "estoque": 0,
     "imagem": "assets/cards/ma27-manchester-united.png",
     "status": "Disponível"
@@ -19698,13 +19698,13 @@
   {
     "id": 1384,
     "colecao": "Match Attax 26/27",
-    "numero": "BS-062",
+    "numero": "FT-062",
     "nome": "Lisandro Martínez",
     "pais": "Manchester United",
     "categoria": "Match Attax 26/27",
-    "raridade": "Raro",
+    "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 5.00,
+    "preco": 3.50,
     "estoque": 0,
     "imagem": "assets/cards/ma27-manchester-united.png",
     "status": "Disponível"
@@ -19712,13 +19712,13 @@
   {
     "id": 1385,
     "colecao": "Match Attax 26/27",
-    "numero": "BS-063",
+    "numero": "LE-063",
     "nome": "Matheus Cunha",
     "pais": "Manchester United",
     "categoria": "Match Attax 26/27",
     "raridade": "Edição Limitada",
     "tipo": "Jogador",
-    "preco": 25.00,
+    "preco": 12.00,
     "estoque": 0,
     "imagem": "assets/cards/ma27-063-matheus-cunha.png",
     "status": "Disponível"
@@ -19748,7 +19748,7 @@
     "tipo": "Jogador",
     "preco": 3.00,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-aston-villa.png",
+    "imagem": "assets/cards/ma27-065-pau-torres.jpg",
     "status": "Disponível"
   },
   {
@@ -19789,8 +19789,8 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 3.00,
-    "estoque": 0,
-    "imagem": "assets/cards/ma27-aston-villa.png",
+    "estoque": 2,
+    "imagem": "assets/cards/ma27-068-matty-gash.jpg",
     "status": "Disponível"
   },
   {
@@ -19818,7 +19818,7 @@
     "tipo": "Jogador",
     "preco": 3.00,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-aston-villa.png",
+    "imagem": "assets/cards/ma27-070-amadou-onana.jpg",
     "status": "Disponível"
   },
   {
@@ -19832,7 +19832,7 @@
     "tipo": "Jogador",
     "preco": 3.00,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-aston-villa.png",
+    "imagem": "assets/cards/ma27-071-youri-tielemans.jpg",
     "status": "Disponível"
   },
   {
@@ -19856,7 +19856,7 @@
     "nome": "John McGinn",
     "pais": "Aston Villa",
     "categoria": "Match Attax 26/27",
-    "raridade": "Líder",
+    "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 3.00,
     "estoque": 0,
@@ -19874,7 +19874,7 @@
     "tipo": "Jogador",
     "preco": 3.00,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-aston-villa.png",
+    "imagem": "assets/cards/ma27-074-tammy-abraham.jpg",
     "status": "Disponível"
   },
   {
@@ -19884,11 +19884,11 @@
     "nome": "Alysson",
     "pais": "Aston Villa",
     "categoria": "Match Attax 26/27",
-    "raridade": "Estreante",
+    "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 3.00,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-aston-villa.png",
+    "imagem": "assets/cards/ma27-075-alysson.jpg",
     "status": "Disponível"
   },
   {
@@ -19901,48 +19901,48 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 3.00,
-    "estoque": 0,
-    "imagem": "assets/cards/ma27-aston-villa.png",
+    "estoque": 1,
+    "imagem": "assets/cards/ma27-076-ollie-watkins.jpg",
     "status": "Disponível"
   },
   {
     "id": 1399,
     "colecao": "Match Attax 26/27",
-    "numero": "BS-077",
+    "numero": "WC-077",
     "nome": "Lucas Digne",
     "pais": "Aston Villa",
     "categoria": "Match Attax 26/27",
-    "raridade": "Raro",
+    "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 5.00,
+    "preco": 3.50,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-aston-villa.png",
+    "imagem": "assets/cards/ma27-077-lucas-digne.jpg",
     "status": "Disponível"
   },
   {
     "id": 1400,
     "colecao": "Match Attax 26/27",
-    "numero": "BS-078",
+    "numero": "PP-078",
     "nome": "Ollie Watkins",
     "pais": "Aston Villa",
     "categoria": "Match Attax 26/27",
-    "raridade": "Raro",
+    "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 5.00,
+    "preco": 3.50,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-aston-villa.png",
+    "imagem": "assets/cards/ma27-078-ollie-watkins.jpg",
     "status": "Disponível"
   },
   {
     "id": 1401,
     "colecao": "Match Attax 26/27",
-    "numero": "BS-079",
+    "numero": "GO-079",
     "nome": "Emiliano Buendía",
     "pais": "Aston Villa",
     "categoria": "Match Attax 26/27",
-    "raridade": "Raro",
+    "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 5.00,
+    "preco": 3.50,
     "estoque": 0,
     "imagem": "assets/cards/ma27-aston-villa.png",
     "status": "Disponível"
@@ -19950,29 +19950,29 @@
   {
     "id": 1402,
     "colecao": "Match Attax 26/27",
-    "numero": "BS-080",
+    "numero": "FT-080",
     "nome": "Tyrone Mings",
     "pais": "Aston Villa",
     "categoria": "Match Attax 26/27",
-    "raridade": "Raro",
+    "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 5.00,
+    "preco": 3.50,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-aston-villa.png",
+    "imagem": "assets/cards/ma27-080-tyrone-mings.jpg",
     "status": "Disponível"
   },
   {
     "id": 1403,
     "colecao": "Match Attax 26/27",
-    "numero": "BS-081",
+    "numero": "LE-081",
     "nome": "Morgan Rogers",
     "pais": "Aston Villa",
     "categoria": "Match Attax 26/27",
     "raridade": "Edição Limitada",
     "tipo": "Jogador",
-    "preco": 25.00,
+    "preco": 12.00,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-aston-villa.png",
+    "imagem": "assets/cards/ma27-081-morgan-rogers.jpg",
     "status": "Disponível"
   },
   {
@@ -19986,7 +19986,7 @@
     "tipo": "Jogador",
     "preco": 3.00,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-liverpool.png",
+    "imagem": "assets/cards/ma27-082-alisson-becker.jpg",
     "status": "Disponível"
   },
   {
@@ -19996,7 +19996,7 @@
     "nome": "Virgil Van Dijk",
     "pais": "Liverpool",
     "categoria": "Match Attax 26/27",
-    "raridade": "Líder",
+    "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 3.00,
     "estoque": 0,
@@ -20010,11 +20010,11 @@
     "nome": "Jérémi Jacquet",
     "pais": "Liverpool",
     "categoria": "Match Attax 26/27",
-    "raridade": "Estreante",
+    "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 3.00,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-liverpool.png",
+    "imagem": "assets/cards/ma27-084-jeremy-jacquet.jpg",
     "status": "Disponível"
   },
   {
@@ -20028,7 +20028,7 @@
     "tipo": "Jogador",
     "preco": 3.00,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-liverpool.png",
+    "imagem": "assets/cards/ma27-085-jeremie-frimpong.jpg",
     "status": "Disponível"
   },
   {
@@ -20042,7 +20042,7 @@
     "tipo": "Jogador",
     "preco": 3.00,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-liverpool.png",
+    "imagem": "assets/cards/ma27-086-dominik-szoboszlai.jpg",
     "status": "Disponível"
   },
   {
@@ -20055,8 +20055,8 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 3.00,
-    "estoque": 0,
-    "imagem": "assets/cards/ma27-liverpool.png",
+    "estoque": 2,
+    "imagem": "assets/cards/ma27-087-alexis-mac-allister.jpg",
     "status": "Disponível"
   },
   {
@@ -20070,7 +20070,7 @@
     "tipo": "Jogador",
     "preco": 3.00,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-liverpool.png",
+    "imagem": "assets/cards/ma27-088-ryan-gravenberch.jpg",
     "status": "Disponível"
   },
   {
@@ -20084,7 +20084,7 @@
     "tipo": "Jogador",
     "preco": 3.00,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-liverpool.png",
+    "imagem": "assets/cards/ma27-089-florian-wirtz.jpg",
     "status": "Disponível"
   },
   {
@@ -20098,7 +20098,7 @@
     "tipo": "Jogador",
     "preco": 3.00,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-liverpool.png",
+    "imagem": "assets/cards/ma27-090-victor-munoz.jpg",
     "status": "Disponível"
   },
   {
@@ -20112,7 +20112,7 @@
     "tipo": "Jogador",
     "preco": 3.00,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-liverpool.png",
+    "imagem": "assets/cards/ma27-091-rio-ngumoha.jpg",
     "status": "Disponível"
   },
   {
@@ -20160,41 +20160,41 @@
   {
     "id": 1417,
     "colecao": "Match Attax 26/27",
-    "numero": "BS-095",
+    "numero": "WC-095",
     "nome": "Milos Kerkez",
     "pais": "Liverpool",
     "categoria": "Match Attax 26/27",
-    "raridade": "Raro",
+    "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 5.00,
+    "preco": 3.50,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-liverpool.png",
+    "imagem": "assets/cards/ma27-095-milos-kerkez.jpg",
     "status": "Disponível"
   },
   {
     "id": 1418,
     "colecao": "Match Attax 26/27",
-    "numero": "BS-096",
+    "numero": "PP-096",
     "nome": "Alexander Isak",
     "pais": "Liverpool",
     "categoria": "Match Attax 26/27",
-    "raridade": "Raro",
+    "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 5.00,
+    "preco": 3.50,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-liverpool.png",
+    "imagem": "assets/cards/ma27-096-alexander-isak.jpg",
     "status": "Disponível"
   },
   {
     "id": 1419,
     "colecao": "Match Attax 26/27",
-    "numero": "BS-097",
+    "numero": "GO-097",
     "nome": "Hugo Ekitiké",
     "pais": "Liverpool",
     "categoria": "Match Attax 26/27",
-    "raridade": "Raro",
+    "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 5.00,
+    "preco": 3.50,
     "estoque": 0,
     "imagem": "assets/cards/ma27-liverpool.png",
     "status": "Disponível"
@@ -20202,27 +20202,27 @@
   {
     "id": 1420,
     "colecao": "Match Attax 26/27",
-    "numero": "BS-098",
+    "numero": "FT-098",
     "nome": "Virgil Van Dijk",
     "pais": "Liverpool",
     "categoria": "Match Attax 26/27",
-    "raridade": "Raro",
+    "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 5.00,
+    "preco": 3.50,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-liverpool.png",
+    "imagem": "assets/cards/ma27-098-virgil-van-dijk.jpg",
     "status": "Disponível"
   },
   {
     "id": 1421,
     "colecao": "Match Attax 26/27",
-    "numero": "BS-099",
+    "numero": "LE-099",
     "nome": "Dominik Szoboszlai",
     "pais": "Liverpool",
     "categoria": "Match Attax 26/27",
     "raridade": "Edição Limitada",
     "tipo": "Jogador",
-    "preco": 25.00,
+    "preco": 12.00,
     "estoque": 0,
     "imagem": "assets/cards/ma27-liverpool.png",
     "status": "Disponível"
@@ -20238,7 +20238,7 @@
     "tipo": "Jogador",
     "preco": 3.00,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-bournemounth.png",
+    "imagem": "assets/cards/ma27-100-borde-petrovic.jpg",
     "status": "Disponível"
   },
   {
@@ -20251,8 +20251,8 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 3.00,
-    "estoque": 0,
-    "imagem": "assets/cards/ma27-bournemounth.png",
+    "estoque": 1,
+    "imagem": "assets/cards/ma27-101-julio-soler.jpg",
     "status": "Disponível"
   },
   {
@@ -20266,7 +20266,7 @@
     "tipo": "Jogador",
     "preco": 3.00,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-bournemounth.png",
+    "imagem": "assets/cards/ma27-102-bafode-diakite.jpg",
     "status": "Disponível"
   },
   {
@@ -20294,7 +20294,7 @@
     "tipo": "Jogador",
     "preco": 3.00,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-bournemounth.png",
+    "imagem": "assets/cards/ma27-104-tyler-adams.jpg",
     "status": "Disponível"
   },
   {
@@ -20322,7 +20322,7 @@
     "tipo": "Jogador",
     "preco": 3.00,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-bournemounth.png",
+    "imagem": "assets/cards/ma27-106-alex-toth.jpg",
     "status": "Disponível"
   },
   {
@@ -20378,7 +20378,7 @@
     "tipo": "Jogador",
     "preco": 3.00,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-bournemounth.png",
+    "imagem": "assets/cards/ma27-110-rayan.jpg",
     "status": "Disponível"
   },
   {
@@ -20391,8 +20391,8 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 3.00,
-    "estoque": 0,
-    "imagem": "assets/cards/ma27-bournemounth.png",
+    "estoque": 2,
+    "imagem": "assets/cards/ma27-111-junior-kroupi.jpg",
     "status": "Disponível"
   },
   {
@@ -20406,47 +20406,47 @@
     "tipo": "Jogador",
     "preco": 3.00,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-bournemounth.png",
+    "imagem": "assets/cards/ma27-112-evanilson.jpg",
     "status": "Disponível"
   },
   {
     "id": 1435,
     "colecao": "Match Attax 26/27",
-    "numero": "BS-113",
+    "numero": "WC-113",
     "nome": "Rayan",
     "pais": "AFC Bournemouth",
     "categoria": "Match Attax 26/27",
-    "raridade": "Raro",
+    "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 5.00,
+    "preco": 3.50,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-bournemounth.png",
+    "imagem": "assets/cards/ma27-113-rayan.jpg",
     "status": "Disponível"
   },
   {
     "id": 1436,
     "colecao": "Match Attax 26/27",
-    "numero": "BS-114",
+    "numero": "PP-114",
     "nome": "Tyler Adams",
     "pais": "AFC Bournemouth",
     "categoria": "Match Attax 26/27",
-    "raridade": "Raro",
+    "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 5.00,
+    "preco": 3.50,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-bournemounth.png",
+    "imagem": "assets/cards/ma27-114-tyler-adams.jpg",
     "status": "Disponível"
   },
   {
     "id": 1437,
     "colecao": "Match Attax 26/27",
-    "numero": "BS-115",
+    "numero": "GO-115",
     "nome": "Junior Kroupi",
     "pais": "AFC Bournemouth",
     "categoria": "Match Attax 26/27",
-    "raridade": "Raro",
+    "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 5.00,
+    "preco": 3.50,
     "estoque": 0,
     "imagem": "assets/cards/ma27-bournemounth.png",
     "status": "Disponível"
@@ -20454,13 +20454,13 @@
   {
     "id": 1438,
     "colecao": "Match Attax 26/27",
-    "numero": "BS-116",
+    "numero": "FT-116",
     "nome": "James Hill",
     "pais": "AFC Bournemouth",
     "categoria": "Match Attax 26/27",
-    "raridade": "Raro",
+    "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 5.00,
+    "preco": 3.50,
     "estoque": 0,
     "imagem": "assets/cards/ma27-bournemounth.png",
     "status": "Disponível"
@@ -20468,15 +20468,15 @@
   {
     "id": 1439,
     "colecao": "Match Attax 26/27",
-    "numero": "BS-117",
+    "numero": "LE-117",
     "nome": "Evanilson",
     "pais": "AFC Bournemouth",
     "categoria": "Match Attax 26/27",
     "raridade": "Edição Limitada",
     "tipo": "Jogador",
-    "preco": 25.00,
+    "preco": 12.00,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-bournemounth.png",
+    "imagem": "assets/cards/ma27-117-evanilson.jpg",
     "status": "Disponível"
   },
   {
@@ -20503,8 +20503,8 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 3.00,
-    "estoque": 0,
-    "imagem": "assets/cards/ma27-barcelona.png",
+    "estoque": 1,
+    "imagem": "assets/cards/ma27-119-ronald-araujo.jpg",
     "status": "Disponível"
   },
   {
@@ -20518,7 +20518,7 @@
     "tipo": "Jogador",
     "preco": 3.00,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-barcelona.png",
+    "imagem": "assets/cards/ma27-120-marc-casado.jpg",
     "status": "Disponível"
   },
   {
@@ -20532,7 +20532,7 @@
     "tipo": "Jogador",
     "preco": 3.00,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-barcelona.png",
+    "imagem": "assets/cards/ma27-121-pau-cubarsi.jpg",
     "status": "Disponível"
   },
   {
@@ -20560,7 +20560,7 @@
     "tipo": "Jogador",
     "preco": 3.00,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-barcelona.png",
+    "imagem": "assets/cards/ma27-123-frenkie-dejong.jpg",
     "status": "Disponível"
   },
   {
@@ -20574,7 +20574,7 @@
     "tipo": "Jogador",
     "preco": 3.00,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-barcelona.png",
+    "imagem": "assets/cards/ma27-124-fermin-lopez.jpg",
     "status": "Disponível"
   },
   {
@@ -20602,7 +20602,7 @@
     "tipo": "Jogador",
     "preco": 3.00,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-barcelona.png",
+    "imagem": "assets/cards/ma27-126-gavi.jpg",
     "status": "Disponível"
   },
   {
@@ -20643,8 +20643,8 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 3.00,
-    "estoque": 0,
-    "imagem": "assets/cards/ma27-barcelona.png",
+    "estoque": 1,
+    "imagem": "assets/cards/ma27-129-anthony-gordon.jpg",
     "status": "Disponível"
   },
   {
@@ -20664,27 +20664,27 @@
   {
     "id": 1453,
     "colecao": "Match Attax 26/27",
-    "numero": "BS-131",
+    "numero": "WC-131",
     "nome": "Marc Bernal",
     "pais": "Barcelona",
     "categoria": "Match Attax 26/27",
-    "raridade": "Raro",
+    "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 5.00,
+    "preco": 3.50,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-barcelona.png",
+    "imagem": "assets/cards/ma27-131-marc-bernal.jpg",
     "status": "Disponível"
   },
   {
     "id": 1454,
     "colecao": "Match Attax 26/27",
-    "numero": "BS-132",
+    "numero": "PP-132",
     "nome": "Alejandro Balde",
     "pais": "Barcelona",
     "categoria": "Match Attax 26/27",
-    "raridade": "Raro",
+    "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 5.00,
+    "preco": 3.50,
     "estoque": 0,
     "imagem": "assets/cards/ma27-barcelona.png",
     "status": "Disponível"
@@ -20692,13 +20692,13 @@
   {
     "id": 1455,
     "colecao": "Match Attax 26/27",
-    "numero": "BS-133",
+    "numero": "GO-133",
     "nome": "Raphinha",
     "pais": "Barcelona",
     "categoria": "Match Attax 26/27",
-    "raridade": "Raro",
+    "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 5.00,
+    "preco": 3.50,
     "estoque": 0,
     "imagem": "assets/cards/ma27-barcelona.png",
     "status": "Disponível"
@@ -20706,27 +20706,27 @@
   {
     "id": 1456,
     "colecao": "Match Attax 26/27",
-    "numero": "BS-134",
+    "numero": "FT-134",
     "nome": "Jules Koundé",
     "pais": "Barcelona",
     "categoria": "Match Attax 26/27",
-    "raridade": "Raro",
+    "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 5.00,
+    "preco": 3.50,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-barcelona.png",
+    "imagem": "assets/cards/ma27-134-jules-kounde.jpg",
     "status": "Disponível"
   },
   {
     "id": 1457,
     "colecao": "Match Attax 26/27",
-    "numero": "BS-135",
+    "numero": "LE-135",
     "nome": "Ferran Torres",
     "pais": "Barcelona",
     "categoria": "Match Attax 26/27",
     "raridade": "Edição Limitada",
     "tipo": "Jogador",
-    "preco": 25.00,
+    "preco": 12.00,
     "estoque": 0,
     "imagem": "assets/cards/ma27-barcelona.png",
     "status": "Disponível"

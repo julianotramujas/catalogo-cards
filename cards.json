@@ -22254,7 +22254,7 @@
     "tipo": "Jogador",
     "preco": 3.00,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-RB-Leipzig.png",
+    "imagem": "assets/cards/ma27-244-peter-gulacsi.jpg",
     "status": "Disponível"
   },
   {
@@ -22268,7 +22268,7 @@
     "tipo": "Jogador",
     "preco": 3.00,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-RB-Leipzig.png",
+    "imagem": "assets/cards/ma27-245-castello-lukeba.jpg",
     "status": "Disponível"
   },
   {
@@ -22292,11 +22292,11 @@
     "nome": "David Raum",
     "pais": "RB Leipzig",
     "categoria": "Match Attax 26/27",
-    "raridade": "Líder",
+    "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 3.00,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-RB-Leipzig.png",
+    "imagem": "assets/cards/ma27-247-david-raum.jpg",
     "status": "Disponível"
   },
   {
@@ -22310,7 +22310,7 @@
     "tipo": "Jogador",
     "preco": 3.00,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-RB-Leipzig.png",
+    "imagem": "assets/cards/ma27-248-el-chadaille-bitshiabu.jpg",
     "status": "Disponível"
   },
   {
@@ -22324,7 +22324,7 @@
     "tipo": "Jogador",
     "preco": 3.00,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-RB-Leipzig.png",
+    "imagem": "assets/cards/ma27-249-assan-ovedraogo.jpg",
     "status": "Disponível"
   },
   {
@@ -22352,7 +22352,7 @@
     "tipo": "Jogador",
     "preco": 3.00,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-RB-Leipzig.png",
+    "imagem": "assets/cards/ma27-251-christoph-baumgartner.jpg",
     "status": "Disponível"
   },
   {
@@ -22365,8 +22365,8 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 3.00,
-    "estoque": 0,
-    "imagem": "assets/cards/ma27-RB-Leipzig.png",
+    "estoque": 1,
+    "imagem": "assets/cards/ma27-252-antonio-nusa.jpg",
     "status": "Disponível"
   },
    {
@@ -22379,8 +22379,8 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 3.00,
-    "estoque": 0,
-    "imagem": "assets/cards/ma27-RB-Leipzig.png",
+    "estoque": 1,
+    "imagem": "assets/cards/ma27-253-yan-diomande.jpg",
     "status": "Disponível"
   },
    {
@@ -22428,13 +22428,13 @@
   {
     "id": 1578,
     "colecao": "Match Attax 26/27",
-    "numero": "BS-257",
+    "numero": "WC-257",
     "nome": "Ridle Baku",
     "pais": "RB Leipzig",
     "categoria": "Match Attax 26/27",
-    "raridade": "Raro",
+    "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 3.00,
+    "preco": 3.50,
     "estoque": 0,
     "imagem": "assets/cards/ma27-RB-Leipzig.png",
     "status": "Disponível"
@@ -22442,41 +22442,41 @@
   {
     "id": 1579,
     "colecao": "Match Attax 26/27",
-    "numero": "BS-258",
+    "numero": "PP-258",
     "nome": "Antonio Nusa",
     "pais": "RB Leipzig",
     "categoria": "Match Attax 26/27",
-    "raridade": "Raro",
+    "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 5.00,
+    "preco": 3.50,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-RB-Leipzig.png",
+    "imagem": "assets/cards/ma27-258-antonio-nusa.jpg",
     "status": "Disponível"
   },
   {
     "id": 1580,
     "colecao": "Match Attax 26/27",
-    "numero": "BS-259",
+    "numero": "GO-259",
     "nome": "Rômulo",
     "pais": "RB Leipzig",
     "categoria": "Match Attax 26/27",
-    "raridade": "Raro",
+    "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 5.00,
+    "preco": 3.50,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-RB-Leipzig.png",
+    "imagem": "assets/cards/ma27-259-romulo.jpg",
     "status": "Disponível"
   },
   {
     "id": 1581,
     "colecao": "Match Attax 26/27",
-    "numero": "BS-260",
+    "numero": "FT-260",
     "nome": "Castello Lukeba",
     "pais": "RB Leipzig",
     "categoria": "Match Attax 26/27",
-    "raridade": "Raro",
+    "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 5.00,
+    "preco": 3.50,
     "estoque": 0,
     "imagem": "assets/cards/ma27-RB-Leipzig.png",
     "status": "Disponível"
@@ -22484,13 +22484,13 @@
    {
     "id": 1582,
     "colecao": "Match Attax 26/27",
-    "numero": "BS-261",
+    "numero": "LE-261",
     "nome": "Yan Diomande",
     "pais": "RB Leipzig",
     "categoria": "Match Attax 26/27",
     "raridade": "Edição Limitada",
     "tipo": "Jogador",
-    "preco": 25.00,
+    "preco": 12.00,
     "estoque": 0,
     "imagem": "assets/cards/ma27-RB-Leipzig.png",
     "status": "Disponível"

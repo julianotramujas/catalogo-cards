@@ -23023,8 +23023,8 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 3.00,
-    "estoque": 0,
-    "imagem": "assets/cards/ma27-porto.png",
+    "estoque": 2,
+    "imagem": "assets/cards/ma27-299-bednarek.jpg",
     "status": "Disponível"
   },
   {
@@ -23038,7 +23038,7 @@
     "tipo": "Jogador",
     "preco": 3.00,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-porto.png",
+    "imagem": "assets/cards/ma27-300-jakub-kiwior.jpg",
     "status": "Disponível"
   },
   {
@@ -23051,8 +23051,8 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 3.00,
-    "estoque": 0,
-    "imagem": "assets/cards/ma27-porto.png",
+    "estoque": 1,
+    "imagem": "assets/cards/ma27-301-zaidu-sanusi.jpg",
     "status": "Disponível"
   },
   {
@@ -23094,7 +23094,7 @@
     "tipo": "Jogador",
     "preco": 3.00,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-porto.png",
+    "imagem": "assets/cards/ma27-304-alan-varela.jpg",
     "status": "Disponível"
   },
   {
@@ -23108,7 +23108,7 @@
     "tipo": "Jogador",
     "preco": 3.00,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-porto.png",
+    "imagem": "assets/cards/ma27-305-victor-froholdt.jpg",
     "status": "Disponível"
   },
   {
@@ -23121,8 +23121,8 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 3.00,
-    "estoque": 0,
-    "imagem": "assets/cards/ma27-porto.png",
+    "estoque": 1,
+    "imagem": "assets/cards/ma27-306-gabri-veiga.jpg",
     "status": "Disponível"
   },
   {
@@ -23136,7 +23136,7 @@
     "tipo": "Jogador",
     "preco": 3.00,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-porto.png",
+    "imagem": "assets/cards/ma27-307-rodrigo-mora.jpg",
     "status": "Disponível"
   },
   {
@@ -23184,71 +23184,71 @@
   {
     "id": 1632,
     "colecao": "Match Attax 26/27",
-    "numero": "BS-311",
+    "numero": "WC-311",
     "nome": "William Gomes",
     "pais": "FC Porto",
     "categoria": "Match Attax 26/27",
-    "raridade": "Raro",
+    "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 5.00,
+    "preco": 3.50,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-porto.png",
+    "imagem": "assets/cards/ma27-311-william-gomes.jpg",
     "status": "Disponível"
   },
   {
     "id": 1633,
     "colecao": "Match Attax 26/27",
-    "numero": "BS-312",
+    "numero": "PP-312",
     "nome": "Samu Aghehowa",
     "pais": "FC Porto",
     "categoria": "Match Attax 26/27",
-    "raridade": "Raro",
+    "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 5.00,
+    "preco": 3.50,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-porto.png",
+    "imagem": "assets/cards/ma27-312-samu-aghehowa.jpg",
     "status": "Disponível"
   },
   {
     "id": 1634,
     "colecao": "Match Attax 26/27",
-    "numero": "BS-313",
+    "numero": "GO-313",
     "nome": "Rodrigo Mora",
     "pais": "FC Porto",
     "categoria": "Match Attax 26/27",
-    "raridade": "Raro",
+    "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 5.00,
+    "preco": 3.50,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-porto.png",
+    "imagem": "assets/cards/ma27-313-rodrigo-mora.jpg",
     "status": "Disponível"
   },
   {
     "id": 1635,
     "colecao": "Match Attax 26/27",
-    "numero": "BS-314",
+    "numero": "FT-314",
     "nome": "Alan Varela",
     "pais": "FC Porto",
     "categoria": "Match Attax 26/27",
-    "raridade": "Raro",
+    "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 5.00,
+    "preco": 3.50,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-porto.png",
+    "imagem": "assets/cards/ma27-314-alan-varela.jpg",
     "status": "Disponível"
   },
   {
     "id": 1636,
     "colecao": "Match Attax 26/27",
-    "numero": "BS-315",
+    "numero": "LE-315",
     "nome": "Gabri Veiga",
     "pais": "FC Porto",
     "categoria": "Match Attax 26/27",
     "raridade": "Edição Limitada",
     "tipo": "Jogador",
-    "preco": 25.00,
+    "preco": 12.00,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-porto.png",
+    "imagem": "assets/cards/ma27-315-gabri-veiga.jpg",
     "status": "Disponível"
   },
   {

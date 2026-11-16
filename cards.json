@@ -21998,7 +21998,7 @@
     "nome": "Gregor Kobel",
     "pais": "Borussia Dortmund",
     "categoria": "Match Attax 26/27",
-    "raridade": "Líder",
+    "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 3.00,
     "estoque": 0,
@@ -22016,7 +22016,7 @@
     "tipo": "Jogador",
     "preco": 3.00,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-borussia.png",
+    "imagem": "assets/cards/ma27-227-nico-schlotterbeck.jpg",
     "status": "Disponível"
   },
   {
@@ -22030,7 +22030,7 @@
     "tipo": "Jogador",
     "preco": 3.00,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-borussia.png",
+    "imagem": "assets/cards/ma27-228-waldemar-anton.jpg",
     "status": "Disponível"
   },
   {
@@ -22043,8 +22043,8 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 3.00,
-    "estoque": 0,
-    "imagem": "assets/cards/ma27-borussia.png",
+    "estoque": 2,
+    "imagem": "assets/cards/ma27-229-daniel-svensson.jpg",
     "status": "Disponível"
   },
   {
@@ -22072,7 +22072,7 @@
     "tipo": "Jogador",
     "preco": 3.00,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-borussia.png",
+    "imagem": "assets/cards/ma27-231-marcel-sabitzer.jpg",
     "status": "Disponível"
   },
   {
@@ -22099,8 +22099,8 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 3.00,
-    "estoque": 0,
-    "imagem": "assets/cards/ma27-borussia.png",
+    "estoque": 1,
+    "imagem": "assets/cards/ma27-233-carney-chukwvemeka.jpg",
     "status": "Disponível"
   },
   {
@@ -22128,7 +22128,7 @@
     "tipo": "Jogador",
     "preco": 3.00,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-borussia.png",
+    "imagem": "assets/cards/ma27-235-fabio-silva.jpg",
     "status": "Disponível"
   },
   {
@@ -22142,7 +22142,7 @@
     "tipo": "Jogador",
     "preco": 3.00,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-borussia.png",
+    "imagem": "assets/cards/ma27-236-karim-adeyemi.jpg",
     "status": "Disponível"
   },
   {
@@ -22156,7 +22156,7 @@
     "tipo": "Jogador",
     "preco": 3.00,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-borussia.png",
+    "imagem": "assets/cards/ma27-237-maximilian-beier.jpg",
     "status": "Disponível"
   },
   {
@@ -22176,13 +22176,13 @@
   {
     "id": 1560,
     "colecao": "Match Attax 26/27",
-    "numero": "BS-239",
+    "numero": "WC-239",
     "nome": "Yan Couto",
     "pais": "Borussia Dortmund",
     "categoria": "Match Attax 26/27",
-    "raridade": "Raro",
+    "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 5.00,
+    "preco": 3.50,
     "estoque": 0,
     "imagem": "assets/cards/ma27-borussia.png",
     "status": "Disponível"
@@ -22190,57 +22190,57 @@
   {
     "id": 1561,
     "colecao": "Match Attax 26/27",
-    "numero": "BS-240",
+    "numero": "PP-240",
     "nome": "Nico Schlotterbeck",
     "pais": "Borussia Dortmund",
     "categoria": "Match Attax 26/27",
-    "raridade": "Raro",
+    "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 5.00,
+    "preco": 3.50,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-borussia.png",
+    "imagem": "assets/cards/ma27-240-nico-schlotterbeck.jpg",
     "status": "Disponível"
   },
   {
     "id": 1562,
     "colecao": "Match Attax 26/27",
-    "numero": "BS-241",
+    "numero": "GO-241",
     "nome": "Maximilian Beier",
     "pais": "Borussia Dortmund",
     "categoria": "Match Attax 26/27",
-    "raridade": "Raro",
+    "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 5.00,
+    "preco": 3.50,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-borussia.png",
+    "imagem": "assets/cards/ma27-241-maximilian-beier.jpg",
     "status": "Disponível"
   },
   {
     "id": 1563,
     "colecao": "Match Attax 26/27",
-    "numero": "BS-242",
+    "numero": "FT-242",
     "nome": "Julian Ryerson",
     "pais": "Borussia Dortmund",
     "categoria": "Match Attax 26/27",
-    "raridade": "Raro",
+    "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 5.00,
+    "preco": 3.50,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-borussia.png",
+    "imagem": "assets/cards/ma27-242-julian-ryerson.jpg",
     "status": "Disponível"
   },
   {
     "id": 1564,
     "colecao": "Match Attax 26/27",
-    "numero": "BS-243",
+    "numero": "LE-243",
     "nome": "Felix Nmecha",
     "pais": "Borussia Dortmund",
     "categoria": "Match Attax 26/27",
     "raridade": "Edição Limitada",
     "tipo": "Jogador",
-    "preco": 25.00,
+    "preco": 12.00,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-borussia.png",
+    "imagem": "assets/cards/ma27-243-felix-nmecha.jpg",
     "status": "Disponível"
   },
   {

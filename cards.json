@@ -20558,7 +20558,7 @@
     "categoria": "Match Attax 26/27",
     "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 3.00,
+    "preco": 4.00,
     "estoque": 0,
     "imagem": "assets/cards/ma27-123-frenkie-dejong.jpg",
     "status": "Disponível"
@@ -20784,7 +20784,7 @@
     "tipo": "Jogador",
     "preco": 3.00,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-real-madrid.png",
+    "imagem": "assets/cards/ma27-139-cucurella.jpg",
     "status": "Disponível"
   },
   {
@@ -20798,7 +20798,7 @@
     "tipo": "Jogador",
     "preco": 3.00,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-real-madrid.png",
+    "imagem": "assets/cards/ma27-140-militao.jpg",
     "status": "Disponível"
   },
   {
@@ -20812,7 +20812,7 @@
     "tipo": "Jogador",
     "preco": 3.00,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-real-madrid.png",
+    "imagem": "assets/cards/ma27-141-aurelien-tchouameni.jpg",
     "status": "Disponível"
   },
   {
@@ -20840,7 +20840,7 @@
     "tipo": "Jogador",
     "preco": 3.00,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-real-madrid.png",
+    "imagem": "assets/cards/ma27-143-federico-valverde.jpg",
     "status": "Disponível"
   },
   {
@@ -20868,7 +20868,7 @@
     "tipo": "Jogador",
     "preco": 3.00,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-real-madrid.png",
+    "imagem": "assets/cards/ma27-145-bernardo-silva.jpg",
     "status": "Disponível"
   },
   {
@@ -20881,8 +20881,8 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 3.00,
-    "estoque": 0,
-    "imagem": "assets/cards/ma27-real-madrid.png",
+    "estoque": 1,
+    "imagem": "assets/cards/ma27-146-kylian-mbappe.jpg",
     "status": "Disponível"
   },
   {
@@ -20895,7 +20895,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 3.00,
-    "estoque": 0,
+    "estoque": 1,
     "imagem": "assets/cards/ma27-real-madrid.png",
     "status": "Disponível"
   },
@@ -20910,47 +20910,47 @@
     "tipo": "Jogador",
     "preco": 3.00,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-real-madrid.png",
+    "imagem": "assets/cards/ma27-148-vini-jr.jpg",
     "status": "Disponível"
   },
   {
     "id": 1471,
     "colecao": "Match Attax 26/27",
-    "numero": "BS-149",
+    "numero": "WC-149",
     "nome": "Álvaro Carreras",
     "pais": "Real Madrid",
     "categoria": "Match Attax 26/27",
-    "raridade": "Raro",
+    "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 5.00,
+    "preco": 3.50,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-real-madrid.png",
+    "imagem": "assets/cards/ma27-149-alvaro-carreras.jpg",
     "status": "Disponível"
   },
   {
     "id": 1472,
     "colecao": "Match Attax 26/27",
-    "numero": "BS-150",
+    "numero": "PP-150",
     "nome": "Rodrygo",
     "pais": "Real Madrid",
     "categoria": "Match Attax 26/27",
-    "raridade": "Raro",
+    "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 5.00,
+    "preco": 3.50,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-real-madrid.png",
+    "imagem": "assets/cards/ma27-150-rodrygo.jpg",
     "status": "Disponível"
   },
   {
     "id": 1473,
     "colecao": "Match Attax 26/27",
-    "numero": "BS-151",
+    "numero": "GO-151",
     "nome": "Gonzalo García",
     "pais": "Real Madrid",
     "categoria": "Match Attax 26/27",
-    "raridade": "Raro",
+    "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 5.00,
+    "preco": 3.50,
     "estoque": 0,
     "imagem": "assets/cards/ma27-real-madrid.png",
     "status": "Disponível"
@@ -20958,13 +20958,13 @@
   {
     "id": 1474,
     "colecao": "Match Attax 26/27",
-    "numero": "BS-152",
+    "numero": "FT-152",
     "nome": "Federico Valverde",
     "pais": "Real Madrid",
     "categoria": "Match Attax 26/27",
-    "raridade": "Raro",
+    "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 5.00,
+    "preco": 3.50,
     "estoque": 0,
     "imagem": "assets/cards/ma27-real-madrid.png",
     "status": "Disponível"
@@ -20972,15 +20972,15 @@
   {
     "id": 1475,
     "colecao": "Match Attax 26/27",
-    "numero": "BS-153",
+    "numero": "LE-153",
     "nome": "Arda Guler",
     "pais": "Real Madrid",
     "categoria": "Match Attax 26/27",
     "raridade": "Edição Limitada",
     "tipo": "Jogador",
-    "preco": 25.00,
+    "preco": 12.00,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-real-madrid.png",
+    "imagem": "assets/cards/ma27-153-arda-guler.jpg",
     "status": "Disponível"
   },
    {
@@ -20994,7 +20994,7 @@
     "tipo": "Jogador",
     "preco": 3.00,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-villarreal.png",
+    "imagem": "assets/cards/ma27-154-santiago-mourino.jpg",
     "status": "Disponível"
   },
   {
@@ -21008,7 +21008,7 @@
     "tipo": "Jogador",
     "preco": 3.00,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-villarreal.png",
+    "imagem": "assets/cards/ma27-155-pau-navarro.jpg",
     "status": "Disponível"
   },
   {
@@ -21022,7 +21022,7 @@
     "tipo": "Jogador",
     "preco": 3.00,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-villarreal.png",
+    "imagem": "assets/cards/ma27-156-sergi-cardona.jpg",
     "status": "Disponível"
   },
   {
@@ -21035,8 +21035,8 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 3.00,
-    "estoque": 0,
-    "imagem": "assets/cards/ma27-villarreal.png",
+    "estoque": 1,
+    "imagem": "assets/cards/ma27-157-renato-veiga.jpg",
     "status": "Disponível"
   },
   {
@@ -21049,8 +21049,8 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 3.00,
-    "estoque": 0,
-    "imagem": "assets/cards/ma27-villarreal.png",
+    "estoque": 1,
+    "imagem": "assets/cards/ma27-158-pape-gueye.jpg",
     "status": "Disponível"
   },
   {
@@ -21064,7 +21064,7 @@
     "tipo": "Jogador",
     "preco": 3.00,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-villarreal.png",
+    "imagem": "assets/cards/ma27-159-santi-comesana.jpg",
     "status": "Disponível"
   },
   {
@@ -21088,11 +21088,11 @@
     "nome": "Alberto Moleiro",
     "pais": "Villarreal",
     "categoria": "Match Attax 26/27",
-    "raridade": "Estreante",
+    "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 3.00,
-    "estoque": 0,
-    "imagem": "assets/cards/ma27-villarreal.png",
+    "estoque": 1,
+    "imagem": "assets/cards/ma27-161-alberto-moleiro.jpg",
     "status": "Disponível"
   },
   {
@@ -21105,8 +21105,8 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 3.00,
-    "estoque": 0,
-    "imagem": "assets/cards/ma27-villarreal.png",
+    "estoque": 1,
+    "imagem": "assets/cards/ma27-162-nicolas-pepe.jpg",
     "status": "Disponível"
   },
   {
@@ -21119,8 +21119,8 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 3.00,
-    "estoque": 0,
-    "imagem": "assets/cards/ma27-villarreal.png",
+    "estoque": 1,
+    "imagem": "assets/cards/ma27-163-ayoze-perez.jpg",
     "status": "Disponível"
   },
   {
@@ -21158,7 +21158,7 @@
     "nome": "Gerard Moreno",
     "pais": "Villarreal",
     "categoria": "Match Attax 26/27",
-    "raridade": "Líder",
+    "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 3.00,
     "estoque": 0,
@@ -21168,41 +21168,41 @@
   {
     "id": 1489,
     "colecao": "Match Attax 26/27",
-    "numero": "BS-167",
+    "numero": "WC-167",
     "nome": "Nicolas Pépé",
     "pais": "Villarreal",
     "categoria": "Match Attax 26/27",
-    "raridade": "Raro",
+    "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 5.00,
+    "preco": 3.50,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-villarreal.png",
+    "imagem": "assets/cards/ma27-167-nicolas-pepe.jpg",
     "status": "Disponível"
   },
   {
     "id": 1490,
     "colecao": "Match Attax 26/27",
-    "numero": "BS-168",
+    "numero": "PP-168",
     "nome": "Tajon Buchanan",
     "pais": "Villarreal",
     "categoria": "Match Attax 26/27",
     "raridade": "Raro",
     "tipo": "Jogador",
-    "preco": 5.00,
+    "preco": 3.50,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-villarreal.png",
+    "imagem": "assets/cards/ma27-168-tajon-buchanan.jpg",
     "status": "Disponível"
   },
   {
     "id": 1491,
     "colecao": "Match Attax 26/27",
-    "numero": "BS-169",
+    "numero": "GO-169",
     "nome": "Alberto Moleiro",
     "pais": "Villarreal",
     "categoria": "Match Attax 26/27",
-    "raridade": "Raro",
+    "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 5.00,
+    "preco": 3.50,
     "estoque": 0,
     "imagem": "assets/cards/ma27-villarreal.png",
     "status": "Disponível"
@@ -21210,13 +21210,13 @@
   {
     "id": 1492,
     "colecao": "Match Attax 26/27",
-    "numero": "BS-170",
+    "numero": "FT-170",
     "nome": "Juan Foyth",
     "pais": "Villarreal",
     "categoria": "Match Attax 26/27",
-    "raridade": "Raro",
+    "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 5.00,
+    "preco": 3.50,
     "estoque": 0,
     "imagem": "assets/cards/ma27-villarreal.png",
     "status": "Disponível"
@@ -21224,15 +21224,15 @@
   {
     "id": 1493,
     "colecao": "Match Attax 26/27",
-    "numero": "BS-171",
+    "numero": "LE-171",
     "nome": "Tajon Buchanan",
     "pais": "Villarreal",
     "categoria": "Match Attax 26/27",
     "raridade": "Edição Limitada",
     "tipo": "Jogador",
-    "preco": 25.00,
+    "preco": 12.00,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-villarreal.png",
+    "imagem": "assets/cards/ma27-171-renato-veiga.jpg",
     "status": "Disponível"
   },
   {

@@ -21498,7 +21498,7 @@
     "tipo": "Jogador",
     "preco": 3.00,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-real-betis.png",
+    "imagem": "assets/cards/ma27-190-natan.jpg",
     "status": "Disponível"
   },
   {
@@ -21512,7 +21512,7 @@
     "tipo": "Jogador",
     "preco": 3.00,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-real-betis.png",
+    "imagem": "assets/cards/ma27-191-valentin-gomez.jpg",
     "status": "Disponível"
   },
   {
@@ -21568,7 +21568,7 @@
     "tipo": "Jogador",
     "preco": 3.00,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-real-betis.png",
+    "imagem": "assets/cards/ma27-195-pablo-fornals.jpg",
     "status": "Disponível"
   },
   {
@@ -21581,8 +21581,8 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 3.00,
-    "estoque": 0,
-    "imagem": "assets/cards/ma27-real-betis.png",
+    "estoque": 1,
+    "imagem": "assets/cards/ma27-196-nelson-deossa.jpg",
     "status": "Disponível"
   },
   {
@@ -21596,7 +21596,7 @@
     "tipo": "Jogador",
     "preco": 3.00,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-real-betis.png",
+    "imagem": "assets/cards/ma27-197-giovani-lo-celso.jpg",
     "status": "Disponível"
   },
   {
@@ -21609,8 +21609,8 @@
     "raridade": "Líder",
     "tipo": "Jogador",
     "preco": 3.00,
-    "estoque": 0,
-    "imagem": "assets/cards/ma27-real-betis.png",
+    "estoque": 2,
+    "imagem": "assets/cards/ma27-198-isco.jpg",
     "status": "Disponível"
   },
   {
@@ -21648,11 +21648,11 @@
     "nome": "Cucho Hernández",
     "pais": "Real Bétis Balompié",
     "categoria": "Match Attax 26/27",
-    "raridade": "Estreante",
+    "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 3.00,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-real-betis.png",
+    "imagem": "assets/cards/ma27-201-cucho-hernandez.jpg",
     "status": "Disponível"
   },
   {
@@ -21666,19 +21666,19 @@
     "tipo": "Jogador",
     "preco": 3.00,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-real-betis.png",
+    "imagem": "assets/cards/ma27-202-antony.jpg",
     "status": "Disponível"
   },
   {
     "id": 1524,
     "colecao": "Match Attax 26/27",
-    "numero": "BS-203",
+    "numero": "WC-203",
     "nome": "Álvaro Fidalgo",
     "pais": "Real Bétis Balompié",
     "categoria": "Match Attax 26/27",
-    "raridade": "Raro",
+    "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 5.00,
+    "preco": 3.50,
     "estoque": 0,
     "imagem": "assets/cards/ma27-real-betis.png",
     "status": "Disponível"
@@ -21686,41 +21686,41 @@
   {
     "id": 1525,
     "colecao": "Match Attax 26/27",
-    "numero": "BS-204",
+    "numero": "PP-204",
     "nome": "Héctor Bellerín",
     "pais": "Real Bétis Balompié",
     "categoria": "Match Attax 26/27",
-    "raridade": "Raro",
+    "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 5.00,
+    "preco": 3.50,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-real-betis.png",
+    "imagem": "assets/cards/ma27-204-hector-bellerin.jpg",
     "status": "Disponível"
   },
   {
     "id": 1526,
     "colecao": "Match Attax 26/27",
-    "numero": "BS-205",
+    "numero": "GO-205",
     "nome": "Rodrigo Riquelme",
     "pais": "Real Bétis Balompié",
     "categoria": "Match Attax 26/27",
-    "raridade": "Raro",
+    "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 5.00,
+    "preco": 3.50,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-real-betis.png",
+    "imagem": "assets/cards/ma27-205-rodrigo-riquelme.jpg",
     "status": "Disponível"
   },
   {
     "id": 1527,
     "colecao": "Match Attax 26/27",
-    "numero": "BS-206",
+    "numero": "FT-206",
     "nome": "Diego Lorente",
     "pais": "Real Bétis Balompié",
     "categoria": "Match Attax 26/27",
-    "raridade": "Raro",
+    "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 5.00,
+    "preco": 3.50,
     "estoque": 0,
     "imagem": "assets/cards/ma27-real-betis.png",
     "status": "Disponível"
@@ -21728,15 +21728,15 @@
   {
     "id": 1528,
     "colecao": "Match Attax 26/27",
-    "numero": "BS-207",
+    "numero": "LE-207",
     "nome": "Antony",
     "pais": "Real Bétis Balompié",
     "categoria": "Match Attax 26/27",
     "raridade": "Edição Limitada",
     "tipo": "Jogador",
-    "preco": 25.00,
+    "preco": 12.00,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-real-betis.png",
+    "imagem": "assets/cards/ma27-207-antony.jpg",
     "status": "Disponível"
   },
   {

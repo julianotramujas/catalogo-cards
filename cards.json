@@ -22506,7 +22506,7 @@
     "tipo": "Jogador",
     "preco": 3.00,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-VFB Estugarda.png",
+    "imagem": "assets/cards/ma27-262-josha-vagnoman.jpg",
     "status": "Disponível"
   },
   {
@@ -22520,7 +22520,7 @@
     "tipo": "Jogador",
     "preco": 3.00,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-VFB Estugarda.png",
+    "imagem": "assets/cards/ma27-263-maximilian-mittelstadt.jpg",
     "status": "Disponível"
   },
   {
@@ -22547,8 +22547,8 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 3.00,
-    "estoque": 0,
-    "imagem": "assets/cards/ma27-VFB Estugarda.png",
+    "estoque": 1,
+    "imagem": "assets/cards/ma27-265-ramon-hendriks.jpg",
     "status": "Disponível"
   },
   {
@@ -22589,8 +22589,8 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 3.00,
-    "estoque": 0,
-    "imagem": "assets/cards/ma27-VFB Estugarda.png",
+    "estoque": 1,
+    "imagem": "assets/cards/ma27-268-angelo-stiller.jpg",
     "status": "Disponível"
   },
   {
@@ -22604,7 +22604,7 @@
     "tipo": "Jogador",
     "preco": 3.00,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-VFB Estugarda.png",
+    "imagem": "assets/cards/ma27-269-chris-fuhrich.jpg",
     "status": "Disponível"
   },
   {
@@ -22618,7 +22618,7 @@
     "tipo": "Jogador",
     "preco": 3.00,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-VFB Estugarda.png",
+    "imagem": "assets/cards/ma27-270-bilal-el-khannouss.jpg",
     "status": "Disponível"
   },
   {
@@ -22632,7 +22632,7 @@
     "tipo": "Jogador",
     "preco": 3.00,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-VFB Estugarda.png",
+    "imagem": "assets/cards/ma27-271-tiago-tomas.jpg",
     "status": "Disponível"
   },
   {
@@ -22659,8 +22659,8 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 3.00,
-    "estoque": 0,
-    "imagem": "assets/cards/ma27-VFB Estugarda.png",
+    "estoque": 3,
+    "imagem": "assets/cards/ma27-273-deniz-undav.jpg",
     "status": "Disponível"
   },
   {
@@ -22680,13 +22680,13 @@
   {
     "id": 1596,
     "colecao": "Match Attax 26/27",
-    "numero": "BS-275",
+    "numero": "WC-275",
     "nome": "Lorenz Assignon",
     "pais": "VFB Estugarda",
     "categoria": "Match Attax 26/27",
-    "raridade": "Raro",
+    "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 5.00,
+    "preco": 3.50,
     "estoque": 0,
     "imagem": "assets/cards/ma27-VFB Estugarda.png",
     "status": "Disponível"
@@ -22694,55 +22694,55 @@
   {
     "id": 1597,
     "colecao": "Match Attax 26/27",
-    "numero": "BS-276",
+    "numero": "PP-276",
     "nome": "Angelo Stiller",
     "pais": "VFB Estugarda",
     "categoria": "Match Attax 26/27",
-    "raridade": "Raro",
+    "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 5.00,
+    "preco": 3.50,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-VFB Estugarda.png",
+    "imagem": "assets/cards/ma27-276-angelo-stiller.jpg",
     "status": "Disponível"
   },
   {
     "id": 1598,
     "colecao": "Match Attax 26/27",
-    "numero": "BS-277",
+    "numero": "GO-277",
     "nome": "Jamie Leweling",
     "pais": "VFB Estugarda",
     "categoria": "Match Attax 26/27",
-    "raridade": "Raro",
+    "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 5.00,
+    "preco": 3.50,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-VFB Estugarda.png",
+    "imagem": "assets/cards/ma27-277-jamie-leweling.jpg",
     "status": "Disponível"
   },
   {
     "id": 1599,
     "colecao": "Match Attax 26/27",
-    "numero": "BS-278",
+    "numero": "FT-278",
     "nome": "Finn Jeltsch",
     "pais": "VFB Estugarda",
     "categoria": "Match Attax 26/27",
-    "raridade": "Raro",
+    "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 5.00,
+    "preco": 3.50,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-VFB Estugarda.png",
+    "imagem": "assets/cards/ma27-278-finn-jeltsch.jpg",
     "status": "Disponível"
   },
   {
     "id": 1600,
     "colecao": "Match Attax 26/27",
-    "numero": "BS-279",
+    "numero": "LE-279",
     "nome": "Deniz Undav",
     "pais": "VFB Estugarda",
     "categoria": "Match Attax 26/27",
     "raridade": "Edição Limitada",
     "tipo": "Jogador",
-    "preco": 25.00,
+    "preco": 12.00,
     "estoque": 0,
     "imagem": "assets/cards/ma27-VFB Estugarda.png",
     "status": "Disponível"

@@ -21746,7 +21746,7 @@
     "nome": "Manuel Neuer",
     "pais": "FC Bayern München",
     "categoria": "Match Attax 26/27",
-    "raridade": "Líder",
+    "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 3.00,
     "estoque": 0,
@@ -21791,8 +21791,8 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 3.00,
-    "estoque": 0,
-    "imagem": "assets/cards/ma27-bayern.png",
+    "estoque": 1,
+    "imagem": "assets/cards/ma27-211-jonathan-tah.jpg",
     "status": "Disponível"
   },
   {
@@ -21806,7 +21806,7 @@
     "tipo": "Jogador",
     "preco": 3.00,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-bayern.png",
+    "imagem": "assets/cards/ma27-212-josip-stanisic.jpg",
     "status": "Disponível"
   },
   {
@@ -21834,7 +21834,7 @@
     "tipo": "Jogador",
     "preco": 3.00,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-bayern.png",
+    "imagem": "assets/cards/ma27-214-ismael-saibari.jpg",
     "status": "Disponível"
   },
   {
@@ -21848,7 +21848,7 @@
     "tipo": "Jogador",
     "preco": 3.00,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-bayern.png",
+    "imagem": "assets/cards/ma27-215-aleksandar-pavlovic.jpg",
     "status": "Disponível"
   },
   {
@@ -21858,11 +21858,11 @@
     "nome": "Lennart Karl",
     "pais": "FC Bayern München",
     "categoria": "Match Attax 26/27",
-    "raridade": "Estreante",
+    "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 3.00,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-bayern.png",
+    "imagem": "assets/cards/ma27-216-lennart-karl.jpg",
     "status": "Disponível"
   },
   {
@@ -21876,7 +21876,7 @@
     "tipo": "Jogador",
     "preco": 3.00,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-bayern.png",
+    "imagem": "assets/cards/ma27-217-jamal-musiala.jpg",
     "status": "Disponível"
   },
   {
@@ -21890,7 +21890,7 @@
     "tipo": "Jogador",
     "preco": 3.00,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-bayern.png",
+    "imagem": "assets/cards/ma27-218-michael-olise.jpg",
     "status": "Disponível"
   },
   {
@@ -21918,19 +21918,19 @@
     "tipo": "Jogador",
     "preco": 3.00,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-bayern.png",
+    "imagem": "assets/cards/ma27-220-harry-kane.jpg",
     "status": "Disponível"
   },
   {
     "id": 1542,
     "colecao": "Match Attax 26/27",
-    "numero": "BS-221",
+    "numero": "WC-221",
     "nome": "Konrad Laimer",
     "pais": "FC Bayern München",
     "categoria": "Match Attax 26/27",
-    "raridade": "Raro",
+    "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 5.00,
+    "preco": 3.50,
     "estoque": 0,
     "imagem": "assets/cards/ma27-bayern.png",
     "status": "Disponível"
@@ -21938,57 +21938,57 @@
   {
     "id": 1543,
     "colecao": "Match Attax 26/27",
-    "numero": "BS-222",
+    "numero": "PP-222",
     "nome": "Michael Olise",
     "pais": "FC Bayern München",
     "categoria": "Match Attax 26/27",
-    "raridade": "Raro",
+    "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 5.00,
+    "preco": 3.50,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-bayern.png",
+    "imagem": "assets/cards/ma27-222-michael-olise.jpg",
     "status": "Disponível"
   },
   {
     "id": 1544,
     "colecao": "Match Attax 26/27",
-    "numero": "BS-223",
+    "numero": "GO-223",
     "nome": "Luis Diaz",
     "pais": "FC Bayern München",
     "categoria": "Match Attax 26/27",
-    "raridade": "Raro",
+    "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 5.00,
+    "preco": 3.50,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-bayern.png",
+    "imagem": "assets/cards/ma27-223-luis-diaz.jpg",
     "status": "Disponível"
   },
   {
     "id": 1545,
     "colecao": "Match Attax 26/27",
-    "numero": "BS-224",
+    "numero": "FT-224",
     "nome": "Minjae Kim",
     "pais": "FC Bayern München",
     "categoria": "Match Attax 26/27",
-    "raridade": "Raro",
+    "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 5.00,
+    "preco": 3.50,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-bayern.png",
+    "imagem": "assets/cards/ma27-224-minjae-kim.jpg",
     "status": "Disponível"
   },
   {
     "id": 1546,
     "colecao": "Match Attax 26/27",
-    "numero": "BS-225",
+    "numero": "LE-225",
     "nome": "Manuel Neuer",
     "pais": "FC Bayern München",
     "categoria": "Match Attax 26/27",
     "raridade": "Edição Limitada",
     "tipo": "Jogador",
-    "preco": 25.00,
+    "preco": 12.00,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-bayern.png",
+    "imagem": "assets/cards/ma27-225-manuel-neuer.jpg",
     "status": "Disponível"
   },
   {

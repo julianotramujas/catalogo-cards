@@ -18962,7 +18962,7 @@
     "categoria": "Match Attax 26/27",
     "raridade": "Especial",
     "tipo": "Jogador",
-    "preco": 50.00,
+    "preco": 40.00,
     "estoque": 0,
     "imagem": "assets/cards/ma27-009-bruno-fernandes.png",
     "status": "Disponível"
@@ -23262,7 +23262,7 @@
     "tipo": "Jogador",
     "preco": 3.00,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-benfica.png",
+    "imagem": "assets/cards/ma27-316-amar-dedic.jpg",
     "status": "Disponível"
   },
   {
@@ -23276,7 +23276,7 @@
     "tipo": "Jogador",
     "preco": 3.00,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-benfica.png",
+    "imagem": "assets/cards/ma27-317-antonio-silva.jpg",
     "status": "Disponível"
   },
   {
@@ -23290,7 +23290,7 @@
     "tipo": "Jogador",
     "preco": 3.00,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-benfica.png",
+    "imagem": "assets/cards/ma27-318-tomas-araujo.jpg",
     "status": "Disponível"
   },
   {
@@ -23317,8 +23317,8 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 3.00,
-    "estoque": 0,
-    "imagem": "assets/cards/ma27-benfica.png",
+    "estoque": 1,
+    "imagem": "assets/cards/ma27-320-richard-rios.jpg",
     "status": "Disponível"
   },
   {
@@ -23345,8 +23345,8 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 3.00,
-    "estoque": 0,
-    "imagem": "assets/cards/ma27-benfica.png",
+    "estoque": 1,
+    "imagem": "assets/cards/ma27-322-leandro-barreiro.jpg",
     "status": "Disponível"
   },
   {
@@ -23360,7 +23360,7 @@
     "tipo": "Jogador",
     "preco": 3.00,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-benfica.png",
+    "imagem": "assets/cards/ma27-323-joao-rego.jpg",
     "status": "Disponível"
   },
   {
@@ -23373,8 +23373,8 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 3.00,
-    "estoque": 0,
-    "imagem": "assets/cards/ma27-benfica.png",
+    "estoque": 1,
+    "imagem": "assets/cards/ma27-324-georgiy-sudakov.jpg",
     "status": "Disponível"
   },
   {
@@ -23402,7 +23402,7 @@
     "tipo": "Jogador",
     "preco": 3.00,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-benfica.png",
+    "imagem": "assets/cards/ma27-326-vangelis-pavlidis.jpg",
     "status": "Disponível"
   },
   {
@@ -23436,41 +23436,41 @@
   {
     "id": 1650,
     "colecao": "Match Attax 26/27",
-    "numero": "BS-329",
+    "numero": "WC-329",
     "nome": "Rafa Silva",
     "pais": "SL Benfica",
     "categoria": "Match Attax 26/27",
-    "raridade": "Raro",
+    "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 5.00,
+    "preco": 3.50,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-benfica.png",
+    "imagem": "assets/cards/ma27-329-rafa-silva.jpg",
     "status": "Disponível"
   },
   {
     "id": 1651,
     "colecao": "Match Attax 26/27",
-    "numero": "BS-330",
+    "numero": "PP-330",
     "nome": "Fredrik Aursnes",
     "pais": "SL Benfica",
     "categoria": "Match Attax 26/27",
-    "raridade": "Raro",
+    "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 5.00,
+    "preco": 3.50,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-benfica.png",
+    "imagem": "assets/cards/ma27-330-fredrik-aursnes.jpg",
     "status": "Disponível"
   },
   {
     "id": 1652,
     "colecao": "Match Attax 26/27",
-    "numero": "BS-331",
+    "numero": "GO-331",
     "nome": "Franjo Ivanovic",
     "pais": "SL Benfica",
     "categoria": "Match Attax 26/27",
-    "raridade": "Raro",
+    "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 5.00,
+    "preco": 3.50,
     "estoque": 0,
     "imagem": "assets/cards/ma27-benfica.png",
     "status": "Disponível"
@@ -23478,13 +23478,13 @@
   {
     "id": 1653,
     "colecao": "Match Attax 26/27",
-    "numero": "BS-332",
+    "numero": "FT-332",
     "nome": "Alexander Bah",
     "pais": "SL Benfica",
     "categoria": "Match Attax 26/27",
-    "raridade": "Raro",
+    "raridade": "Normal",
     "tipo": "Jogador",
-    "preco": 5.00,
+    "preco": 3.50,
     "estoque": 0,
     "imagem": "assets/cards/ma27-benfica.png",
     "status": "Disponível"
@@ -23492,13 +23492,13 @@
   {
     "id": 1654,
     "colecao": "Match Attax 26/27",
-    "numero": "BS-333",
+    "numero": "LE-333",
     "nome": "Vangelis Pavlidis",
     "pais": "SL Benfica",
     "categoria": "Match Attax 26/27",
     "raridade": "Edição Limitada",
     "tipo": "Jogador",
-    "preco": 25.00,
+    "preco": 12.00,
     "estoque": 0,
     "imagem": "assets/cards/ma27-benfica.png",
     "status": "Disponível"

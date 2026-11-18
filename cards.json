@@ -26075,7 +26075,7 @@
     "raridade": "Mega TIN #2",
     "tipo": "Jogador",
     "preco": 10.00,
-    "estoque": 0,
+    "estoque": 1,
     "imagem": "assets/cards/ma27-gh7-lennart-karl.jpg",
     "status": "Disponível"
   },
@@ -26089,7 +26089,7 @@
     "raridade": "Mega TIN #2",
     "tipo": "Jogador",
     "preco": 10.00,
-    "estoque": 0,
+    "estoque": 1,
     "imagem": "assets/cards/ma27-gh8-kenan-yildiz.jpg",
     "status": "Disponível"
   },

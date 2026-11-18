@@ -24816,7 +24816,7 @@
     "tipo": "Jogador",
     "preco": 3.00,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-milan.png",
+    "imagem": "assets/cards/ma27-427-matteo-gabbia.jpg",
     "status": "Disponível"
   },
   {
@@ -24829,8 +24829,8 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 3.00,
-    "estoque": 0,
-    "imagem": "assets/cards/ma27-milan.png",
+    "estoque": 1,
+    "imagem": "assets/cards/ma27-428-strahinja-pavlovic.jpg",
     "status": "Disponível"
   },
   {
@@ -24843,8 +24843,8 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 3.00,
-    "estoque": 0,
-    "imagem": "assets/cards/ma27-milan.png",
+    "estoque": 1,
+    "imagem": "assets/cards/ma27-429-youssouf-fofana.jpg",
     "status": "Disponível"
   },
   {
@@ -24872,21 +24872,21 @@
     "tipo": "Jogador",
     "preco": 3.00,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-milan.png",
+    "imagem": "assets/cards/ma27-431-samuele-ricci.jpg",
     "status": "Disponível"
   },
   {
     "id": 1756,
     "colecao": "Match Attax 26/27",
     "numero": "BS-432",
-    "nome": "Mike Maignan",
+    "nome": "Luka Modric",
     "pais": "AC Milan",
     "categoria": "Match Attax 26/27",
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 3.00,
-    "estoque": 0,
-    "imagem": "assets/cards/ma27-milan.png",
+    "estoque": 2,
+    "imagem": "assets/cards/ma27-432-luka-modric.jpg",
     "status": "Disponível"
   },
   {
@@ -24899,8 +24899,8 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 3.00,
-    "estoque": 0,
-    "imagem": "assets/cards/ma27-milan.png",
+    "estoque": 1,
+    "imagem": "assets/cards/ma27-433-alexis-saelemaekers.jpg",
     "status": "Disponível"
   },
   {
@@ -24913,8 +24913,8 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 3.00,
-    "estoque": 0,
-    "imagem": "assets/cards/ma27-milan.png",
+    "estoque": 2,
+    "imagem": "assets/cards/ma27-434-christian-pulisic.jpg",
     "status": "Disponível"
   },
   {
@@ -24928,7 +24928,7 @@
     "tipo": "Jogador",
     "preco": 3.00,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-milan.png",
+    "imagem": "assets/cards/ma27-435-rafael-leao.jpg",
     "status": "Disponível"
   },
   {
@@ -24956,7 +24956,7 @@
     "tipo": "Jogador",
     "preco": 3.50,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-milan.png",
+    "imagem": "assets/cards/ma27-437-davide-bartesaghi.jpg",
     "status": "Disponível"
   },
   {
@@ -24998,7 +24998,7 @@
     "tipo": "Jogador",
     "preco": 3.50,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-milan.png",
+    "imagem": "assets/cards/ma27-440-strahinja-pavlovic.jpg",
     "status": "Disponível"
   },
   {

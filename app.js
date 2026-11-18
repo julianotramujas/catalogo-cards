@@ -226,6 +226,7 @@ function filtrarCards() {
    PAGINAÇÃO
 ========================================================= */
 
+// Seleciona os cards da página atual
 function obterCardsDaPagina(cardsFiltrados) {
   const indiceInicial =
     (paginaAtual - 1) * cardsPorPagina;
@@ -239,6 +240,7 @@ function obterCardsDaPagina(cardsFiltrados) {
   );
 }
 
+// Cria os botões numerados
 function criarBotaoPagina(numeroPagina) {
   const ativo =
     numeroPagina === paginaAtual;
@@ -256,6 +258,7 @@ function criarBotaoPagina(numeroPagina) {
   `;
 }
 
+// Cria as reticências
 function criarReticencias() {
   return `
     <span
@@ -267,54 +270,71 @@ function criarReticencias() {
   `;
 }
 
+// Determina quais números aparecem
 function obterPaginasVisiveis(totalPaginas) {
-  if (totalPaginas <= 7) {
+  const quantidadeVisivel = 10;
+
+  // Mostra todas quando houver até 10 páginas
+  if (totalPaginas <= quantidadeVisivel) {
     return Array.from(
       { length: totalPaginas },
       (_, indice) => indice + 1
     );
   }
 
-  if (paginaAtual <= 4) {
-    return [
-      1,
-      2,
-      3,
-      4,
-      5,
-      "...",
-      totalPaginas
-    ];
-  }
-
-  if (paginaAtual >= totalPaginas - 3) {
-    return [
-      1,
-      "...",
-      totalPaginas - 4,
-      totalPaginas - 3,
-      totalPaginas - 2,
-      totalPaginas - 1,
-      totalPaginas
-    ];
-  }
-
-  return [
+  // Calcula o início da sequência
+  let inicio = Math.max(
     1,
-    "...",
-    paginaAtual - 1,
-    paginaAtual,
-    paginaAtual + 1,
-    "...",
-    totalPaginas
-  ];
+    paginaAtual - Math.floor(quantidadeVisivel / 2)
+  );
+
+  let fim = inicio + quantidadeVisivel - 1;
+
+  // Ajusta quando estiver perto do final
+  if (fim > totalPaginas) {
+    fim = totalPaginas;
+    inicio = fim - quantidadeVisivel + 1;
+  }
+
+  const paginas = [];
+
+  // Primeira página
+  if (inicio > 1) {
+    paginas.push(1);
+
+    if (inicio > 2) {
+      paginas.push("...");
+    }
+  }
+
+  // Dez números consecutivos
+  for (
+    let numero = inicio;
+    numero <= fim;
+    numero++
+  ) {
+    paginas.push(numero);
+  }
+
+  // Última página
+  if (fim < totalPaginas) {
+    if (fim < totalPaginas - 1) {
+      paginas.push("...");
+    }
+
+    paginas.push(totalPaginas);
+  }
+
+  return paginas;
 }
 
+// Atualiza a barra de paginação
 function atualizarPaginacao(totalCards) {
   const totalPaginas = Math.ceil(
     totalCards / cardsPorPagina
   );
 
+  // Esconde a paginação quando desnecessária
   if (totalPaginas <= 1) {
     paginacao.innerHTML = "";
     return;

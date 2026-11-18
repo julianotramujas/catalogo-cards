@@ -24522,7 +24522,7 @@
     "tipo": "Jogador",
     "preco": 3.00,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-atalanta.png",
+    "imagem": "assets/cards/ma27-406-marco-carnesecchi.jpg",
     "status": "Disponível"
   },
   {
@@ -24549,8 +24549,8 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 3.00,
-    "estoque": 0,
-    "imagem": "assets/cards/ma27-atalanta.png",
+    "estoque": 1,
+    "imagem": "assets/cards/ma27-408-isak-hien.jpg",
     "status": "Disponível"
   },
   {
@@ -24578,7 +24578,7 @@
     "tipo": "Jogador",
     "preco": 3.00,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-atalanta.png",
+    "imagem": "assets/cards/ma27-410-honest-ahanor.jpg",
     "status": "Disponível"
   },
   {
@@ -24591,8 +24591,8 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 3.00,
-    "estoque": 0,
-    "imagem": "assets/cards/ma27-atalanta.png",
+    "estoque": 1,
+    "imagem": "assets/cards/ma27-411-marten-de-roon.jpg",
     "status": "Disponível"
   },
   {
@@ -24620,7 +24620,7 @@
     "tipo": "Jogador",
     "preco": 3.00,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-atalanta.png",
+    "imagem": "assets/cards/ma27-413-charles-de-ketelaere.jpg",
     "status": "Disponível"
   },
   {
@@ -24648,7 +24648,7 @@
     "tipo": "Jogador",
     "preco": 3.00,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-atalanta.png",
+    "imagem": "assets/cards/ma27-415-nicola-zalewski.jpg",
     "status": "Disponível"
   },
   {
@@ -24661,8 +24661,8 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 3.00,
-    "estoque": 0,
-    "imagem": "assets/cards/ma27-atalanta.png",
+    "estoque": 2,
+    "imagem": "assets/cards/ma27-416-lazar-samardzic.jpg",
     "status": "Disponível"
   },
   {
@@ -24676,7 +24676,7 @@
     "tipo": "Jogador",
     "preco": 3.00,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-atalanta.png",
+    "imagem": "assets/cards/ma27-417-giacomo-raspadori.jpg",
     "status": "Disponível"
   },
   {
@@ -24704,7 +24704,7 @@
     "tipo": "Jogador",
     "preco": 3.50,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-atalanta.png",
+    "imagem": "assets/cards/ma27-419-lorenzo-bernasconi.jpg",
     "status": "Disponível"
   },
   {
@@ -24718,7 +24718,7 @@
     "tipo": "Jogador",
     "preco": 3.50,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-atalanta.png",
+    "imagem": "assets/cards/ma27-420-odilon-kossounou.jpg",
     "status": "Disponível"
   },
   {
@@ -24746,7 +24746,7 @@
     "tipo": "Jogador",
     "preco": 3.50,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-atalanta.png",
+    "imagem": "assets/cards/ma27-422-berat-djimsiti.jpg",
     "status": "Disponível"
   },
   {
@@ -24760,7 +24760,7 @@
     "tipo": "Jogador",
     "preco": 12.00,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-atalanta.png",
+    "imagem": "assets/cards/ma27-423-gianluca-scamacca.jpg",
     "status": "Disponível"
   },
   {

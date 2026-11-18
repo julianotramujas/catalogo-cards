@@ -26523,7 +26523,7 @@
     "raridade": "Starter Pack",
     "tipo": "Jogador",
     "preco": 15.00,
-    "estoque": 0,
+    "estoque": 1,
     "imagem": "assets/cards/ma27-tacticcard.png",
     "status": "Disponível"
   }

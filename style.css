@@ -962,3 +962,31 @@ footer {
     height: 48px;
   }
 }
+
+/* =========================================================
+   GRADE DE CARDS - TRAMUJAS CARDS
+========================================================= */
+
+/* Computadores: 4 cards por linha */
+.grade-cards {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 24px;
+  width: 100%;
+}
+
+/* Tablets: 3 cards por linha */
+@media (min-width: 561px) and (max-width: 1000px) {
+  .grade-cards {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 18px;
+  }
+}
+
+/* Celulares: 2 cards por linha */
+@media (max-width: 560px) {
+  .grade-cards {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 12px;
+  }
+}

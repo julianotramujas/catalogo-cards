@@ -24017,8 +24017,8 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 3.00,
-    "estoque": 0,
-    "imagem": "assets/cards/ma27-psv.png",
+    "estoque": 2,
+    "imagem": "assets/cards/ma27-370-sergino-dest.jpg",
     "status": "Disponível"
   },
   {
@@ -24031,8 +24031,8 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 3.00,
-    "estoque": 0,
-    "imagem": "assets/cards/ma27-psv.png",
+    "estoque": 1,
+    "imagem": "assets/cards/ma27-371-yarek-gasiorowski.jpg",
     "status": "Disponível"
   },
   {
@@ -24087,8 +24087,8 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 3.00,
-    "estoque": 0,
-    "imagem": "assets/cards/ma27-psv.png",
+    "estoque": 1,
+    "imagem": "assets/cards/ma27-375-joey-veerman.jpg",
     "status": "Disponível"
   },
   {
@@ -24116,7 +24116,7 @@
     "tipo": "Jogador",
     "preco": 3.00,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-psv.png",
+    "imagem": "assets/cards/ma27-377-guus-til.jpg",
     "status": "Disponível"
   },
   {
@@ -24130,7 +24130,7 @@
     "tipo": "Jogador",
     "preco": 3.00,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-psv.png",
+    "imagem": "assets/cards/ma27-378-ricardo-pepi.jpg",
     "status": "Disponível"
   },
   {
@@ -24144,7 +24144,7 @@
     "tipo": "Jogador",
     "preco": 3.00,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-psv.png",
+    "imagem": "assets/cards/ma27-379-esmir-bajraktarevic.jpg",
     "status": "Disponível"
   },
   {
@@ -24157,8 +24157,8 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 3.00,
-    "estoque": 0,
-    "imagem": "assets/cards/ma27-psv.png",
+    "estoque": 2,
+    "imagem": "assets/cards/ma27-380-dennis-man.jpg",
     "status": "Disponível"
   },
   {
@@ -24172,7 +24172,7 @@
     "tipo": "Jogador",
     "preco": 3.00,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-psv.png",
+    "imagem": "assets/cards/ma27-381-ruben-van-bommel.jpg",
     "status": "Disponível"
   },
   {
@@ -24200,7 +24200,7 @@
     "tipo": "Jogador",
     "preco": 3.50,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-psv.png",
+    "imagem": "assets/cards/ma27-383-ricardo-pepe.jpg",
     "status": "Disponível"
   },
   {
@@ -24214,7 +24214,7 @@
     "tipo": "Jogador",
     "preco": 3.50,
     "estoque": 0,
-    "imagem": "assets/cards/ma27-psv.png",
+    "imagem": "assets/cards/ma27-384-ivan-perisic.jpg",
     "status": "Disponível"
   },
   {

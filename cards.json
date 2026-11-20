@@ -19467,7 +19467,7 @@
     "raridade": "Edição Limitada",
     "tipo": "Jogador",
     "preco": 12.00,
-    "estoque": 0,
+    "estoque": 1,
     "imagem": "assets/cards/ma27-045-antoine-semenyo.jpg",
     "status": "Disponível"
   },
@@ -21231,7 +21231,7 @@
     "raridade": "Edição Limitada",
     "tipo": "Jogador",
     "preco": 12.00,
-    "estoque": 0,
+    "estoque": 1,
     "imagem": "assets/cards/ma27-171-renato-veiga.jpg",
     "status": "Disponível"
   },
@@ -25263,7 +25263,7 @@
     "raridade": "Edição Limitada",
     "tipo": "Jogador",
     "preco": 12.00,
-    "estoque": 0,
+    "estoque": 1,
     "imagem": "assets/cards/ma27-459-khephren-thuram.jpg",
     "status": "Disponível"
   },

@@ -5705,7 +5705,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 1.50,
-    "estoque": 8,
+    "estoque": 7,
     "imagem": "assets/cards/ctd-543-viktor-gyokeres.jpg",
     "status": "Disponível"
   },
@@ -19439,7 +19439,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 3.50,
-    "estoque": 1,
+    "estoque": 0,
     "imagem": "assets/cards/ma27-043-phil-foden.jpg",
     "status": "Disponível"
   },
@@ -20181,7 +20181,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 3.50,
-    "estoque": 1,
+    "estoque": 0,
     "imagem": "assets/cards/ma27-096-alexander-isak.jpg",
     "status": "Disponível"
   },
@@ -20937,7 +20937,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 3.50,
-    "estoque": 2,
+    "estoque": 1,
     "imagem": "assets/cards/ma27-150-rodrygo.jpg",
     "status": "Disponível"
   },
@@ -21945,7 +21945,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 3.50,
-    "estoque": 5,
+    "estoque": 4,
     "imagem": "assets/cards/ma27-222-michael-olise.jpg",
     "status": "Disponível"
   },
@@ -25277,7 +25277,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 4.00,
-    "estoque": 1,
+    "estoque": 0,
     "imagem": "assets/cards/ma27-460-viktor-gyokeres.jpg",
     "status": "Disponível"
   },
@@ -25291,7 +25291,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 4.00,
-    "estoque": 3,
+    "estoque": 2,
     "imagem": "assets/cards/ma27-461-erling-haaland.jpg",
     "status": "Disponível"
   },

@@ -6321,7 +6321,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 2.25,
-    "estoque": 3,
+    "estoque": 2,
     "imagem": "assets/cards/mt-155-logo.jpg",
     "status": "Disponível"
   },
@@ -7497,7 +7497,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 2.25,
-    "estoque": 2,
+    "estoque": 1,
     "imagem": "assets/cards/mt-491-logo.jpg",
     "status": "Disponível"
   },
@@ -19131,7 +19131,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 3.00,
-    "estoque": 1,
+    "estoque": 0,
     "imagem": "assets/cards/ma27-021-viktor-gyokeres.jpg",
     "status": "Disponível"
   },
@@ -19327,7 +19327,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 3.00,
-    "estoque": 1,
+    "estoque": 0,
     "imagem": "assets/cards/ma27-035-phil-foden.jpg",
     "status": "Disponível"
   },
@@ -19397,7 +19397,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 3.00,
-    "estoque": 3,
+    "estoque": 2,
     "imagem": "assets/cards/ma27-040-erling-haaland.jpg",
     "status": "Disponível"
   },
@@ -19453,7 +19453,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 3.50,
-    "estoque": 3,
+    "estoque": 2,
     "imagem": "assets/cards/ma27-044-josko-gvardiol.jpg",
     "status": "Disponível"
   },
@@ -20055,7 +20055,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 3.00,
-    "estoque": 2,
+    "estoque": 1,
     "imagem": "assets/cards/ma27-087-alexis-mac-allister.jpg",
     "status": "Disponível"
   },
@@ -20503,7 +20503,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 3.00,
-    "estoque": 1,
+    "estoque": 0,
     "imagem": "assets/cards/ma27-119-ronald-araujo.jpg",
     "status": "Disponível"
   },
@@ -20643,7 +20643,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 3.00,
-    "estoque": 1,
+    "estoque": 0,
     "imagem": "assets/cards/ma27-129-anthony-gordon.jpg",
     "status": "Disponível"
   },
@@ -20671,7 +20671,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 3.50,
-    "estoque": 1,
+    "estoque": 0,
     "imagem": "assets/cards/ma27-131-marc-bernal.jpg",
     "status": "Disponível"
   },
@@ -20811,7 +20811,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 4.00,
-    "estoque": 1,
+    "estoque": 0,
     "imagem": "assets/cards/ma27-141-aurelien-tchouameni.jpg",
     "status": "Disponível"
   },
@@ -20881,7 +20881,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 3.00,
-    "estoque": 1,
+    "estoque": 0,
     "imagem": "assets/cards/ma27-146-kylian-mbappe.jpg",
     "status": "Disponível"
   },
@@ -20937,7 +20937,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 3.50,
-    "estoque": 1,
+    "estoque": 0,
     "imagem": "assets/cards/ma27-150-rodrygo.jpg",
     "status": "Disponível"
   },
@@ -21273,7 +21273,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 3.00,
-    "estoque": 2,
+    "estoque": 1,
     "imagem": "assets/cards/ma27-174-robin-le-normand.jpg",
     "status": "Disponível"
   },
@@ -21945,7 +21945,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 3.50,
-    "estoque": 3,
+    "estoque": 2,
     "imagem": "assets/cards/ma27-222-michael-olise.jpg",
     "status": "Disponível"
   },
@@ -22365,7 +22365,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 3.00,
-    "estoque": 1,
+    "estoque": 0,
     "imagem": "assets/cards/ma27-252-antonio-nusa.jpg",
     "status": "Disponível"
   },
@@ -22379,7 +22379,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 3.00,
-    "estoque": 1,
+    "estoque": 0,
     "imagem": "assets/cards/ma27-253-yan-diomande.jpg",
     "status": "Disponível"
   },
@@ -23527,7 +23527,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 3.00,
-    "estoque": 1,
+    "estoque": 0,
     "imagem": "assets/cards/ma27-335-marquinhos.jpg",
     "status": "Disponível"
   },
@@ -23569,7 +23569,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 4.00,
-    "estoque": 3,
+    "estoque": 2,
     "imagem": "assets/cards/ma27-338-nuno-mendes.jpg",
     "status": "Disponível"
   },

@@ -9,7 +9,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 1.50,
-    "estoque": 3,
+    "estoque": 2,
     "imagem": "assets/cards/hr-013-alexis-guendouz.jpg",
     "status": "Disponível"
   },
@@ -163,7 +163,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 1.50,
-    "estoque": 7,
+    "estoque": 6,
     "imagem": "assets/cards/hr-027-cristian-romero.jpg",
     "status": "Disponível"
   },
@@ -191,7 +191,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 1.50,
-    "estoque": 8,
+    "estoque": 7,
     "imagem": "assets/cards/hr-029-enzo-fernandez.jpg",
     "status": "Disponível"
   },
@@ -413,7 +413,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 1.50,
-    "estoque": 2,
+    "estoque": 1,
     "imagem": "assets/cards/hr-051-philipp-lienhart.jpg",
     "status": "Disponível"
   },
@@ -483,7 +483,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 1.50,
-    "estoque": 11,
+    "estoque": 10,
     "imagem": "assets/cards/hr-056-christoph-baumgartner.jpg",
     "status": "Disponível"
   },
@@ -511,7 +511,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 1.50,
-    "estoque": 9,
+    "estoque": 8,
     "imagem": "assets/cards/hr-061-thibaut-courtois.jpg",
     "status": "Disponível"
   },
@@ -707,7 +707,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 1.50,
-    "estoque": 4,
+    "estoque": 3,
     "imagem": "assets/cards/hr-078-bruno-guimarães.jpg",
     "status": "Disponível"
   },
@@ -735,7 +735,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 1.50,
-    "estoque": 10,
+    "estoque": 9,
     "imagem": "assets/cards/hr-080-matheus-cunha.jpg",
     "status": "Disponível"
   },
@@ -749,7 +749,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 1.50,
-    "estoque": 4,
+    "estoque": 3,
     "imagem": "assets/cards/hr-081-raphinha.jpg",
     "status": "Disponível"
   },
@@ -847,7 +847,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 1.50,
-    "estoque": 7,
+    "estoque": 6,
     "imagem": "assets/cards/hr-091-jacob-shaffelburg.jpg",
     "status": "Disponível"
   },
@@ -875,7 +875,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 1.50,
-    "estoque": 6,
+    "estoque": 5,
     "imagem": "assets/cards/hr-093-cyle-larin.jpg",
     "status": "Disponível"
   },
@@ -903,7 +903,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 1.50,
-    "estoque": 7,
+    "estoque": 6,
     "imagem": "assets/cards/hr-098-pico.jpg",
     "status": "Disponível"
   },
@@ -917,7 +917,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 1.50,
-    "estoque": 5,
+    "estoque": 4,
     "imagem": "assets/cards/hr-099-steven-moreira.jpg",
     "status": "Disponível"
   },
@@ -1001,7 +1001,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 1.50,
-    "estoque": 4,
+    "estoque": 3,
     "imagem": "assets/cards/hr-105-dailon-livramento.jpg",
     "status": "Disponível"
   },
@@ -1197,7 +1197,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 1.50,
-    "estoque": 8,
+    "estoque": 7,
     "imagem": "assets/cards/hr-125-mateo-kovacic.jpg",
     "status": "Disponível"
   },
@@ -1337,7 +1337,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 1.50,
-    "estoque": 15,
+    "estoque": 14,
     "imagem": "assets/cards/hr-138-juninho-bacuna.jpg",
     "status": "Disponível"
   },
@@ -1393,7 +1393,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 1.50,
-    "estoque": 3,
+    "estoque": 2,
     "imagem": "assets/cards/hr-145-hernan-galindez.jpg",
     "status": "Disponível"
   },
@@ -1421,7 +1421,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 1.50,
-    "estoque": 3,
+    "estoque": 2,
     "imagem": "assets/cards/hr-147-pervis-estupinan.jpg",
     "status": "Disponível"
   },
@@ -1533,7 +1533,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 1.50,
-    "estoque": 9,
+    "estoque": 8,
     "imagem": "assets/cards/hr-158-mohamed-hany.jpg",
     "status": "Disponível"
   },
@@ -1603,7 +1603,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 1.50,
-    "estoque": 10,
+    "estoque": 9,
     "imagem": "assets/cards/hr-163-hamdy-fathy.jpg",
     "status": "Disponível"
   },
@@ -1771,7 +1771,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 1.50,
-    "estoque": 7,
+    "estoque": 6,
     "imagem": "assets/cards/hr-181-mike-maignan.jpg",
     "status": "Disponível"
   },
@@ -1799,7 +1799,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 1.50,
-    "estoque": 8,
+    "estoque": 7,
     "imagem": "assets/cards/hr-183-jules-kounde.jpg",
     "status": "Disponível"
   },
@@ -1813,7 +1813,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 1.50,
-    "estoque": 8,
+    "estoque": 7,
     "imagem": "assets/cards/hr-184-theo-hernandez.jpg",
     "status": "Disponível"
   },
@@ -2121,7 +2121,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 1.50,
-    "estoque": 13,
+    "estoque": 12,
     "imagem": "assets/cards/hr-212-jordan-ayew.jpg",
     "status": "Disponível"
   },
@@ -2191,7 +2191,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 1.50,
-    "estoque": 10,
+    "estoque": 9,
     "imagem": "assets/cards/hr-220-hannes-delcroix.jpg",
     "status": "Disponível"
   },
@@ -2205,7 +2205,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 1.50,
-    "estoque": 9,
+    "estoque": 8,
     "imagem": "assets/cards/hr-221-leverton-pierre.jpg",
     "status": "Disponível"
   },
@@ -2233,7 +2233,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 1.50,
-    "estoque": 9,
+    "estoque": 8,
     "imagem": "assets/cards/hr-223-jean-ricner-bellegarde.jpg",
     "status": "Disponível"
   },
@@ -2261,7 +2261,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 1.50,
-    "estoque": 9,
+    "estoque": 8,
     "imagem": "assets/cards/hr-225-don-deedson-louicius.jpg",
     "status": "Disponível"
   },
@@ -5943,7 +5943,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 2.25,
-    "estoque": 3,
+    "estoque": 2,
     "imagem": "assets/cards/mt-047-logo.jpg",
     "status": "Disponível"
   },
@@ -5999,7 +5999,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 2.50,
-    "estoque": 1,
+    "estoque": 0,
     "imagem": "assets/cards/mt-060-kevin-de-bruyne.jpg",
     "status": "Disponível"
   },
@@ -6167,7 +6167,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 2.00,
-    "estoque": 1,
+    "estoque": 0,
     "imagem": "assets/cards/mt-108-james-rodriguez.jpg",
     "status": "Disponível"
   },
@@ -7483,7 +7483,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 2.00,
-    "estoque": 1,
+    "estoque": 0,
     "imagem": "assets/cards/mt-490-josé-maria-gimenez.jpg",
     "status": "Disponível"
   },
@@ -8085,7 +8085,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 2.50,
-    "estoque": 1,
+    "estoque": 0,
     "imagem": "assets/cards/mt-587-romelu-lukaku.jpg",
     "status": "Disponível"
   },
@@ -8295,7 +8295,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 2.00,
-    "estoque": 4,
+    "estoque": 3,
     "imagem": "assets/cards/mt-602-alexander-sorloth.jpg",
     "status": "Disponível"
   },

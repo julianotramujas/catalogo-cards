@@ -20209,7 +20209,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 3.50,
-    "estoque": 2,
+    "estoque": 1,
     "imagem": "assets/cards/ma27-098-virgil-van-dijk.jpg",
     "status": "Disponível"
   },
@@ -21245,7 +21245,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 3.00,
-    "estoque": 1,
+    "estoque": 0,
     "imagem": "assets/cards/ma27-172-jan-oblak.jpg",
     "status": "Disponível"
   },
@@ -21651,7 +21651,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 3.00,
-    "estoque": 1,
+    "estoque": 0,
     "imagem": "assets/cards/ma27-201-cucho-hernandez.jpg",
     "status": "Disponível"
   },
@@ -22225,7 +22225,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 3.50,
-    "estoque": 1,
+    "estoque": 0,
     "imagem": "assets/cards/ma27-242-julian-ryerson.jpg",
     "status": "Disponível"
   },
@@ -22883,7 +22883,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 3.00,
-    "estoque": 2,
+    "estoque": 1,
     "imagem": "assets/cards/ma27-289-kerim-alajbegovic.jpg",
     "status": "Disponível"
   },
@@ -23023,7 +23023,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 3.00,
-    "estoque": 4,
+    "estoque": 3,
     "imagem": "assets/cards/ma27-299-bednarek.jpg",
     "status": "Disponível"
   },
@@ -23107,7 +23107,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 3.00,
-    "estoque": 1,
+    "estoque": 0,
     "imagem": "assets/cards/ma27-305-victor-froholdt.jpg",
     "status": "Disponível"
   },
@@ -23429,7 +23429,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 3.00,
-    "estoque": 3,
+    "estoque": 2,
     "imagem": "assets/cards/ma27-benfica.png",
     "status": "Disponível"
   },
@@ -23625,7 +23625,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 3.00,
-    "estoque": 1,
+    "estoque": 0,
     "imagem": "assets/cards/ma27-342-senny-mayulu.jpg",
     "status": "Disponível"
   },
@@ -24157,7 +24157,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 3.00,
-    "estoque": 4,
+    "estoque": 3,
     "imagem": "assets/cards/ma27-380-dennis-man.jpg",
     "status": "Disponível"
   },
@@ -24829,7 +24829,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 3.00,
-    "estoque": 1,
+    "estoque": 0,
     "imagem": "assets/cards/ma27-428-strahinja-pavlovic.jpg",
     "status": "Disponível"
   },
@@ -25151,7 +25151,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 3.00,
-    "estoque": 1,
+    "estoque": 0,
     "imagem": "assets/cards/ma27-451-fabio-miretti.jpg",
     "status": "Disponível"
   },
@@ -25683,7 +25683,7 @@
     "raridade": "Raro",
     "tipo": "Jogador",
     "preco": 10.00,
-    "estoque": 1,
+    "estoque": 0,
     "imagem": "assets/cards/ma27-489-harry-kane.jpg",
     "status": "Disponível"
   },

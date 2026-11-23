@@ -1141,3 +1141,140 @@ finalizarPedido.addEventListener(
 ========================================================= */
 
 carregarCards();
+
+
+/* ==========================================
+   VITRINE DE AFILIADOS - TRAMUJAS CARDS
+   ========================================== */
+
+async function carregarAfiliados() {
+  const secao = document.querySelector(".secao-afiliados");
+  const lista = document.querySelector("#afiliados-lista");
+  const anterior = document.querySelector("#afiliados-anterior");
+  const proximo = document.querySelector("#afiliados-proximo");
+
+  // Não interfere no catálogo se a seção não existir.
+  if (!secao || !lista || !anterior || !proximo) {
+    return;
+  }
+
+  try {
+    const resposta = await fetch("./afiliados.json", {
+      cache: "no-cache"
+    });
+
+    if (!resposta.ok) {
+      throw new Error("Não foi possível carregar afiliados.json");
+    }
+
+    const dados = await resposta.json();
+
+    if (!Array.isArray(dados)) {
+      throw new Error("Formato inválido do afiliados.json");
+    }
+
+    const produtos = dados.filter((produto) => {
+      if (!produto || produto.ativo !== true) return false;
+
+      return (
+        typeof produto.nome === "string" &&
+        typeof produto.imagem === "string" &&
+        typeof produto.link === "string" &&
+        produto.nome.trim() !== "" &&
+        produto.imagem.trim() !== "" &&
+        produto.link.startsWith("https://")
+      );
+    });
+
+    lista.replaceChildren();
+
+    produtos.forEach((produto) => {
+      const card = document.createElement("article");
+      card.className = "afiliado-card";
+
+      const imagem = document.createElement("img");
+      imagem.className = "afiliado-imagem";
+      imagem.src = produto.imagem;
+      imagem.alt = produto.nome;
+      imagem.loading = "lazy";
+
+      const conteudo = document.createElement("div");
+      conteudo.className = "afiliado-conteudo";
+
+      const nome = document.createElement("h3");
+      nome.className = "afiliado-nome";
+      nome.textContent = produto.nome;
+
+      const link = document.createElement("a");
+      link.className = "afiliado-link";
+      link.href = produto.link;
+      link.target = "_blank";
+      link.rel = "sponsored noopener noreferrer";
+      link.textContent = "Ver no Mercado Livre";
+
+      conteudo.append(nome, link);
+      card.append(imagem, conteudo);
+      lista.append(card);
+    });
+
+    // Exibe a vitrine somente quando há produtos ativos.
+    if (produtos.length === 0) {
+      secao.hidden = true;
+      return;
+    }
+
+    secao.hidden = false;
+
+    function atualizarSetas() {
+      const limite = lista.scrollWidth - lista.clientWidth;
+
+      anterior.disabled = lista.scrollLeft <= 2;
+      proximo.disabled = lista.scrollLeft >= limite - 2;
+    }
+
+    function larguraDoCard() {
+      const card = lista.querySelector(".afiliado-card");
+
+      if (!card) return lista.clientWidth;
+
+      const gap = parseFloat(
+        getComputedStyle(lista).columnGap
+      ) || 0;
+
+      return card.getBoundingClientRect().width + gap;
+    }
+
+    anterior.addEventListener("click", () => {
+      lista.scrollBy({
+        left: -larguraDoCard(),
+        behavior: "smooth"
+      });
+    });
+
+    proximo.addEventListener("click", () => {
+      lista.scrollBy({
+        left: larguraDoCard(),
+        behavior: "smooth"
+      });
+    });
+
+    lista.addEventListener("scroll", atualizarSetas, {
+      passive: true
+    });
+
+    window.addEventListener("resize", atualizarSetas);
+
+    requestAnimationFrame(atualizarSetas);
+
+  } catch (erro) {
+    secao.hidden = true;
+    console.error("Erro na vitrine de afiliados:", erro);
+  }
+}
+
+// Inicia a vitrine sem alterar a inicialização do catálogo.
+if (document.readyState === "loading") {
+  document.addEventListener("DOMContentLoaded", carregarAfiliados);
+} else {
+  carregarAfiliados();
+}

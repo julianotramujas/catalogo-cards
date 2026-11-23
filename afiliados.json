@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "nome": "Álbum para Cards",
+    "categoria": "Organização",
+    "imagem": "imagens/afiliados/album.jpg",
+    "link": "COLE_AQUI_SEU_LINK_DE_AFILIADO"
+  },
+  {
+    "id": 2,
+    "nome": "Sleeves Protetores de Cards",
+    "categoria": "Proteção",
+    "imagem": "imagens/afiliados/sleeves.jpg",
+    "link": "COLE_AQUI_SEU_LINK_DE_AFILIADO"
+  },
+  {
+    "id": 3,
+    "nome": "Caixa Organizadora de Cards",
+    "categoria": "Armazenamento",
+    "imagem": "imagens/afiliados/caixa.jpg",
+    "link": "COLE_AQUI_SEU_LINK_DE_AFILIADO"
+  },
+  {
+    "id": 4,
+    "nome": "Toploaders para Cards",
+    "categoria": "Proteção",
+    "imagem": "imagens/afiliados/toploaders.jpg",
+    "link": "COLE_AQUI_SEU_LINK_DE_AFILIADO"
+  }
+]

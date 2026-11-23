@@ -57,16 +57,30 @@
   },
   {
   "id": 9,
-  "nome": "Caixa para Card Games - Vertical + 10 Separadores",
-  "imagem": "assets/imagens-afiliados/af-caixa-cards.png",
-  "link": "https://meli.la/14CodJC",
+  "nome": "Sleeves Transparentes BRA - 200 Unidades - 63 x 88 mm",
+  "imagem": "assets/imagens-afiliados/af-200-sleevebra.png",
+  "link": "https://meli.la/2UeAGAk",
   "ativo": true
   },
   {
   "id": 10,
-  "nome": "Sleeves Transparentes BRA - 200 Unidades - 63 x 88 mm",
-  "imagem": "assets/imagens-afiliados/af-200-sleevebra.png",
-  "link": "https://meli.la/2UeAGAk",
+  "nome": "Bra Toploader 50 Un Rígido",
+  "imagem": "assets/imagens-afiliados/af-toploaderbra.png",
+  "link": "https://meli.la/1ktWY1N",
+  "ativo": true
+  },
+  {
+  "id": 11,
+  "nome": "10 Case Magnético Bra",
+  "imagem": "assets/imagens-afiliados/af-casemagbra.png",
+  "link": "https://meli.la/2Eq4WA5",
+  "ativo": true
+  },
+  {
+  "id": 12,
+  "nome": "Caixa para Card Games - Vertical + 10 Separadores",
+  "imagem": "assets/imagens-afiliados/af-caixa-cards.png",
+  "link": "https://meli.la/14CodJC",
   "ativo": true
   }
 ]

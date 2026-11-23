@@ -1207,3 +1207,22 @@ footer {
   display: none;               /* Chrome, Edge e Safari */
 }
 
+/* ==========================================
+   ALINHAMENTO DOS BOTÕES DO CATÁLOGO
+   ========================================== */
+
+.card-produto {
+  display: flex;
+  flex-direction: column;
+}
+
+.card-conteudo {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+}
+
+.card-rodape {
+  margin-top: auto;
+  padding-top: 22px;
+}

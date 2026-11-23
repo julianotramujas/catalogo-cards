@@ -22,34 +22,41 @@
   },
   {
     "id": 4,
+    "nome": "Eco Pack - Ucc Match Attax 26/27 - 26 Cards",
+    "imagem": "assets/imagens-afiliados/af-ma27-ecopack.png",
+    "link": "https://meli.la/1uGpnrz",
+    "ativo": true
+  },
+  {
+    "id": 5,
     "nome": "Mega Lata Chart Toppers - Ucc Match Attax 26/27 - 48 Cards",
     "imagem": "assets/imagens-afiliados/af-ma27-megatin1-chart-toppers.png",
     "link": "https://meli.la/24zfckt",
     "ativo": true
   },
   {
-    "id": 5,
+    "id": 6,
     "nome": "Mega Lata New Entries - Ucc Match Attax 26/27 - 48 Cards",
     "imagem": "assets/imagens-afiliados/af-ma27-megatin2-new-entries.png",
     "link": "https://meli.la/2SBN4PJ",
     "ativo": true
   },
   {
-    "id": 6,
+    "id": 7,
     "nome": "Mega Lata Record Breakers Ucc Match Attax 26/27 48 Cards",
     "imagem": "assets/imagens-afiliados/af-ma27-megatin3-record-breakers.png",
     "link": "https://meli.la/2L6Z3ST",
     "ativo": true
   },
   {
-  "id": 7,
+  "id": 8,
   "nome": "Caixa para Card Games - Vertical + 10 Separadores",
   "imagem": "assets/imagens-afiliados/af-caixa-cards.png",
   "link": "https://meli.la/14CodJC",
   "ativo": true
   },
   {
-  "id": 8,
+  "id": 9,
   "nome": "Sleeves Transparentes BRA - 200 Unidades - 63 x 88 mm",
   "imagem": "assets/imagens-afiliados/af-200-sleevebra.png",
   "link": "https://meli.la/2UeAGAk",

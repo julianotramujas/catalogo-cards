@@ -1193,3 +1193,17 @@ footer {
 .afiliado-link {
   margin-top: auto;
 }
+
+/* ==========================================
+   OCULTAR BARRA DE ROLAGEM DOS AFILIADOS
+   ========================================== */
+
+.afiliados-lista {
+  scrollbar-width: none;       /* Firefox */
+  -ms-overflow-style: none;    /* Edge antigo */
+}
+
+.afiliados-lista::-webkit-scrollbar {
+  display: none;               /* Chrome, Edge e Safari */
+}
+

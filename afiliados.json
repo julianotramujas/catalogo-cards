@@ -50,13 +50,20 @@
   },
   {
   "id": 8,
+  "nome": "Fifa World Cup 2026 Adrenalyn Xl - Starter Pack",
+  "imagem": "assets/imagens-afiliados/af-adrxl26-starterpack.png",
+  "link": "https://meli.la/1w14PPZ",
+  "ativo": true
+  },
+  {
+  "id": 9,
   "nome": "Caixa para Card Games - Vertical + 10 Separadores",
   "imagem": "assets/imagens-afiliados/af-caixa-cards.png",
   "link": "https://meli.la/14CodJC",
   "ativo": true
   },
   {
-  "id": 9,
+  "id": 10,
   "nome": "Sleeves Transparentes BRA - 200 Unidades - 63 x 88 mm",
   "imagem": "assets/imagens-afiliados/af-200-sleevebra.png",
   "link": "https://meli.la/2UeAGAk",

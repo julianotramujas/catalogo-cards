@@ -1174,3 +1174,22 @@ footer {
     padding: 10px 6px;
   }
 }
+
+/* ==========================================
+   ALINHAMENTO DOS BOTÕES DE AFILIADOS
+   ========================================== */
+
+.afiliado-card {
+  display: flex;
+  flex-direction: column;
+}
+
+.afiliado-conteudo {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+}
+
+.afiliado-link {
+  margin-top: auto;
+}

@@ -990,3 +990,187 @@ footer {
     gap: 12px;
   }
 }
+
+/* ==========================================
+   VITRINE DE AFILIADOS - TRAMUJAS CARDS
+   ========================================== */
+
+.secao-afiliados[hidden] {
+  display: none;
+}
+
+.secao-afiliados {
+  width: min(1180px, calc(100% - 32px));
+  margin: 0 auto 70px;
+}
+
+.afiliados-container {
+  padding: 28px;
+  border: 1px solid var(--cor-borda);
+  border-radius: 22px;
+  background: var(--cor-superficie);
+}
+
+.afiliados-cabecalho {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+  margin-bottom: 24px;
+}
+
+.afiliados-cabecalho h2 {
+  margin: 0 0 8px;
+  color: var(--cor-dourada);
+  font-size: 28px;
+}
+
+.afiliados-cabecalho p {
+  margin: 0;
+  color: var(--cor-texto-secundario);
+}
+
+.afiliados-controles {
+  display: flex;
+  gap: 10px;
+}
+
+.afiliados-controles button {
+  width: 42px;
+  height: 42px;
+  border: 1px solid var(--cor-dourada);
+  border-radius: 10px;
+  color: var(--cor-dourada);
+  background: transparent;
+}
+
+.afiliados-controles button:hover:not(:disabled) {
+  color: #171100;
+  background: var(--cor-dourada);
+}
+
+.afiliados-controles button:disabled {
+  opacity: 0.35;
+}
+
+.afiliados-lista {
+  display: grid;
+  grid-auto-flow: column;
+  grid-auto-columns: calc((100% - 48px) / 4);
+  gap: 16px;
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
+  scroll-behavior: smooth;
+  padding-bottom: 10px;
+}
+
+.afiliado-card {
+  min-width: 0;
+  overflow: hidden;
+  border: 1px solid var(--cor-borda);
+  border-radius: 16px;
+  background: var(--cor-superficie-clara);
+  scroll-snap-align: start;
+}
+
+.afiliado-imagem {
+  display: block;
+  width: 100%;
+  height: 190px;
+  object-fit: contain;
+  padding: 12px;
+  background: #ffffff;
+}
+
+.afiliado-conteudo {
+  padding: 16px;
+}
+
+.afiliado-nome {
+  margin: 0 0 16px;
+  font-size: 16px;
+  line-height: 1.4;
+  min-height: 45px;
+}
+
+.afiliado-link {
+  display: block;
+  padding: 12px 10px;
+  border-radius: 10px;
+  color: #171100;
+  background: var(--cor-dourada);
+  text-align: center;
+  text-decoration: none;
+  font-size: 14px;
+  font-weight: 700;
+}
+
+.afiliado-link:hover {
+  background: #ffdc7d;
+}
+
+.afiliados-aviso {
+  margin: 18px 0 0;
+  color: var(--cor-texto-secundario);
+  font-size: 12px;
+  line-height: 1.5;
+}
+
+/* Tablets: 3 produtos visíveis */
+
+@media (min-width: 561px) and (max-width: 1000px) {
+  .afiliados-lista {
+    grid-auto-columns: calc((100% - 32px) / 3);
+  }
+}
+
+/* Celulares: 2 produtos visíveis */
+
+@media (max-width: 560px) {
+  .afiliados-container {
+    padding: 16px;
+  }
+
+  .afiliados-cabecalho {
+    align-items: flex-start;
+  }
+
+  .afiliados-cabecalho h2 {
+    font-size: 21px;
+  }
+
+  .afiliados-cabecalho p {
+    font-size: 13px;
+  }
+
+  .afiliados-controles {
+    gap: 6px;
+  }
+
+  .afiliados-controles button {
+    width: 34px;
+    height: 34px;
+  }
+
+  .afiliados-lista {
+    grid-auto-columns: calc((100% - 12px) / 2);
+    gap: 12px;
+  }
+
+  .afiliado-imagem {
+    height: 140px;
+  }
+
+  .afiliado-conteudo {
+    padding: 10px;
+  }
+
+  .afiliado-nome {
+    font-size: 13px;
+  }
+
+  .afiliado-link {
+    font-size: 12px;
+    padding: 10px 6px;
+  }
+}

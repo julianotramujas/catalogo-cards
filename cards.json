@@ -17577,7 +17577,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 2.50,
-    "estoque": 5,
+    "estoque": 4,
     "imagem": "assets/cards/bra26-es19-jean-lucas.jpg",
     "status": "Disponível"
   },
@@ -17913,7 +17913,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 2.50,
-    "estoque": 3,
+    "estoque": 2,
     "imagem": "assets/cards/bra26-es43-willian-jose.jpg",
     "status": "Disponível"
   },
@@ -18011,7 +18011,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 4.00,
-    "estoque": 4,
+    "estoque": 3,
     "imagem": "assets/cards/bra26-id06-everton-ribeiro.jpg",
     "status": "Disponível"
   },
@@ -18095,7 +18095,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 4.00,
-    "estoque": 1,
+    "estoque": 0,
     "imagem": "assets/cards/bra26-id12-luciano-juba.jpg",
     "status": "Disponível"
   },
@@ -18599,7 +18599,7 @@
     "raridade": "",
     "tipo": "Acessório",
     "preco": 25.00,
-    "estoque": 2,
+    "estoque": 1,
     "imagem": "assets/cards/bra26-kit-botafogo.png",
     "status": "Disponível"
   },
@@ -18921,7 +18921,7 @@
     "raridade": "Especial",
     "tipo": "Jogador",
     "preco": 40.00,
-    "estoque": 1,
+    "estoque": 0,
     "imagem": "assets/cards/ma27-004-morgan-rogers.png",
     "status": "Disponível"
   },
@@ -19103,7 +19103,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 3.00,
-    "estoque": 4,
+    "estoque": 3,
     "imagem": "assets/cards/ma27-017-declan-rice.jpg",
     "status": "Disponível"
   },
@@ -21077,7 +21077,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 3.00,
-    "estoque": 1,
+    "estoque": 0,
     "imagem": "assets/cards/ma27-158-pape-gueye.jpg",
     "status": "Disponível"
   },
@@ -23457,7 +23457,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 3.00,
-    "estoque": 1,
+    "estoque": 0,
     "imagem": "assets/cards/ma27-328-bruma.jpg",
     "status": "Disponível"
   },

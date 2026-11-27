@@ -6321,7 +6321,7 @@
     "raridade": "Normal",
     "tipo": "Jogador",
     "preco": 2.25,
-    "estoque": 2,
+    "estoque": 0,
     "imagem": "assets/cards/mt-155-logo.jpg",
     "status": "Disponível"
   },

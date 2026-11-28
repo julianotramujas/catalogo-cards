@@ -25627,7 +25627,7 @@
     "raridade": "Raro",
     "tipo": "Jogador",
     "preco": 55.00,
-    "estoque": 1,
+    "estoque": 0,
     "imagem": "assets/cards/ma27-483-lionel-messi.jpg",
     "status": "Disponível"
   },
@@ -25655,7 +25655,7 @@
     "raridade": "Raro",
     "tipo": "Jogador",
     "preco": 45.00,
-    "estoque": 1,
+    "estoque": 0,
     "imagem": "assets/cards/ma27-485-thierry-henry.jpg",
     "status": "Disponível"
   },
@@ -25711,7 +25711,7 @@
     "raridade": "Raro",
     "tipo": "Jogador",
     "preco": 10.00,
-    "estoque": 1,
+    "estoque": 0,
     "imagem": "assets/cards/ma27-489-harry-kane.jpg",
     "status": "Disponível"
   },
